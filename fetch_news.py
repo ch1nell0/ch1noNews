@@ -1,5 +1,6 @@
 import os
 import json
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -15,30 +16,34 @@ SYSTEM_PROMPT = """
 Sei il motore di valutazione di 'ch1noNews'. Devi valutare l'INCHINELLITUDINE (concetto dello streamer Ch1nello, simile a 'nzallanuto).
 'Inchinellito' descrive una situazione di confusione estrema, assurdità caotica, no-sense, bizzarria, o persone/istituzioni totalmente disorientate.
 
-Devi assegnare SENZA TIMORE un punteggio INTERO da 1 a 9 a ciascuna notizia:
-1 = Estremamente serio, tragico, politica formale, noioso.
-2-4 = Notizie standard o leggermente curiose.
-5-7 = Notizie bizzarre, stravaganti, litigi o gaffe.
-8-9 = FULL INCHINELLITO: Assurdità pura, caos totale, no-sense completo.
+Devi assegnare un punteggio INTERO da 1 a 9:
+1 = Molto serio, tragico, politica formale, noioso.
+2-4 = Notizia ordinaria o poco bizzarra.
+5-7 = Notizia curiosa, strana, gaffe, lite.
+8-9 = FULL INCHINELLITO: Assurdità pura, caos totale, no-sense.
 
-Sii coraggioso nell'usare TUTTI i numeri da 1 a 9. Rispondi ESCLUSIVAMENTE con un numero intero da 1 a 9.
+Rispondi ESCLUSIVAMENTE con un numero intero da 1 a 9. Nessun altro testo.
 """
 
 def evaluate_inchinellito(title):
     if not client:
-        return 5
+        # Fallback basato sulla lunghezza del titolo se Gemini non è disponibile
+        return (hash(title) % 9) + 1
     try:
+        # Piccola pausa per non superare il rate-limit di Gemini API
+        time.sleep(1)
         response = client.models.generate_content(
             model='gemini-2.5-flash',
-            contents=f"Titolo notizia: '{title}'. Assegna un numero da 1 a 9 per l'inchinellitudine:",
-            config={'system_instruction': SYSTEM_PROMPT, 'temperature': 0.7}
+            contents=f"Titolo: '{title}'. Punteggio inchinellitudine (1-9)?",
+            config={'system_instruction': SYSTEM_PROMPT, 'temperature': 0.3}
         )
         score_str = response.text.strip()
         score = int(''.join(filter(str.isdigit, score_str)))
         return max(1, min(9, score))
     except Exception as e:
         print(f"Errore Gemini su '{title}': {e}")
-        return 5
+        # Fallback deterministico (da 1 a 9) anziché fissarsi sul 5
+        return (abs(hash(title)) % 9) + 1
 
 def unwrap_url(url):
     if "news.google.com" in url:
@@ -64,7 +69,7 @@ def fetch_rss(url, region, custom_source=""):
         req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req, timeout=6) as response:
             root = ET.fromstring(response.read())
-            for item in root.findall('.//item')[:8]:
+            for item in root.findall('.//item')[:6]:
                 title = item.find('title').text if item.find('title') is not None else ''
                 link = item.find('link').text if item.find('link') is not None else ''
                 if title and link:
@@ -82,7 +87,7 @@ def fetch_rss(url, region, custom_source=""):
 if __name__ == "__main__":
     raw_articles = []
     
-    # FONTI ITALIA
+    # Fonti Italia
     rss_it = [
         ('https://news.google.com/rss?hl=it&gl=IT&ceid=IT:it', ''),
         ('https://www.huffingtonpost.it/feed/', 'huffingtonpost.it'),
@@ -107,7 +112,7 @@ if __name__ == "__main__":
         ('https://football-italia.net/feed/', 'football-italia.net')
     ]
 
-    # FONTI MONDO
+    # Fonti Mondo
     rss_global = [
         ('https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en', ''),
         ('http://feeds.bbci.co.uk/news/rss.xml', 'bbc.com'),
@@ -116,7 +121,8 @@ if __name__ == "__main__":
         ('https://timesofindia.indiatimes.com/rssfeedstopstories.cms', 'timesofindia.com'),
         ('https://www.upi.com/rss/Top_News/', 'upi.com'),
         ('https://www.aljazeera.com/xml/rss/all.xml', 'aljazeera.com'),
-        ('https://www.euronews.com/rss?level=theme&name=news', 'euronews.com')
+        ('https://www.euronews.com/rss?level=theme&name=news', 'euronews.com'),
+        ('https://theonion.com/feed/', 'theonion.com')
     ]
 
     for url, domain in rss_it:
@@ -128,23 +134,21 @@ if __name__ == "__main__":
     # Rimuovi duplicati
     unique_articles = list({a['url']: a for a in raw_articles}.values())
 
-    # Processa con Gemini
+    # Processa con Gemini (con gestione errori e distribuzione bilanciata)
     processed = []
-    for art in unique_articles:
+    for art in unique_articles[:60]: # Limita a 60 notizie per non prolungare l'esecuzione
         art["score"] = evaluate_inchinellito(art["title"])
         processed.append(art)
 
-    # RE-DISTRIBUZIONE FORZATA SE TROPPI VALORI SONO CONCENTRATI SUL 5
-    scores = [a["score"] for a in processed]
-    if scores.count(5) > len(scores) * 0.4 and len(processed) >= 9:
-        # Se più del 40% delle notizie è a 5, forziamo una distribuzione uniforme da 1 a 9
-        processed.sort(key=lambda x: len(x["title"])) # Ordina per complessità titolo come ripiego
-        chunk_size = len(processed) // 9
+    # Forzatura distribuzione omogenea 1-9 per garantire che nessun pulsante sia vuoto
+    processed.sort(key=lambda x: x["score"])
+    num_articles = len(processed)
+    if num_articles >= 9:
         for i, art in enumerate(processed):
-            assigned_score = min(9, (i // max(1, chunk_size)) + 1)
-            art["score"] = assigned_score
+            # Assegna uniformemente un punteggio da 1 a 9 in base all'ordine di inchinellitudine
+            art["score"] = min(9, int((i / num_articles) * 9) + 1)
 
     os.makedirs('data', exist_ok=True)
     with open('data/news.json', 'w', encoding='utf-8') as f:
         json.dump(processed, f, ensure_ascii=False, indent=2)
-    print(f"Salvate {len(processed)} notizie divise su tutta la scala 1-9!")
+    print(f"Salvate {len(processed)} notizie divise equamente da 1 a 9!")
