@@ -231,21 +231,24 @@
         function renderNews() {
             const listEl = document.getElementById('news-list');
             listEl.innerHTML = "";
-
+        
             const filtered = rawNewsData.filter(item => {
-                return item.score === selectedScore && item.region === selectedRegion;
+                const matchesScore = item.score === selectedScore;
+                // Se la regione selezionata è GLOBAL mostra sia GLOBAL che IT o solo GLOBAL
+                const matchesRegion = (selectedRegion === 'IT') ? (item.region === 'IT') : (item.region === 'GLOBAL');
+                return matchesScore && matchesRegion;
             });
-
+        
             if (filtered.length === 0) {
-                listEl.innerHTML = `<p class='placeholder-text'>Nessuna notizia trovata per il livello ${selectedScore} nella regione selezionata.</p>`;
+                listEl.innerHTML = `<p class='placeholder-text'>Nessuna notizia trovata per il livello ${selectedScore} nella sezione selezionata.</p>`;
                 return;
             }
-
+        
             filtered.forEach(article => {
                 const div = document.createElement('div');
                 div.className = 'news-item';
                 const faviconUrl = `https://www.google.com/s2/favicons?domain=${article.domain}&sz=32`;
-
+        
                 div.innerHTML = `
                     <h3>${article.title}</h3>
                     <div class="source-container">
@@ -253,7 +256,7 @@
                         <span>${article.domain}</span>
                     </div>
                 `;
-
+        
                 div.onclick = () => {
                     document.querySelectorAll('.news-item').forEach(el => el.classList.remove('selected'));
                     div.classList.add('selected');
