@@ -5,6 +5,7 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 import requests
+import re
 from google import genai
 
 CURRENTS_KEY = os.getenv("CURRENTS_API_KEY", "")
@@ -27,10 +28,8 @@ Rispondi ESCLUSIVAMENTE con un numero intero da 1 a 9. Nessun altro testo.
 
 def evaluate_inchinellito(title):
     if not client:
-        # Fallback basato sulla lunghezza del titolo se Gemini non è disponibile
-        return (hash(title) % 9) + 1
+        return (abs(hash(title)) % 9) + 1
     try:
-        # Piccola pausa per non superare il rate-limit di Gemini API
         time.sleep(1)
         response = client.models.generate_content(
             model='gemini-2.5-flash',
@@ -42,16 +41,23 @@ def evaluate_inchinellito(title):
         return max(1, min(9, score))
     except Exception as e:
         print(f"Errore Gemini su '{title}': {e}")
-        # Fallback deterministico (da 1 a 9) anziché fissarsi sul 5
         return (abs(hash(title)) % 9) + 1
 
-def unwrap_url(url):
-    if "news.google.com" in url:
-        try:
-            r = requests.head(url, allow_redirects=True, timeout=4)
+# Estrae l'URL reale del giornale anche dai reindirizzamenti complessi di Google News
+def unwrap_google_news_url(url):
+    if "news.google.com" not in url:
+        return url
+    try:
+        r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}, timeout=5)
+        # Cerca URL sorgente all'interno del corpo di reindirizzamento JS/HTML di Google
+        urls = re.findall(r'data-n-au="([^"]+)"', r.text)
+        if urls:
+            return urls[0]
+        # Ripiego: segue la catena di redirect HTTP
+        if r.url and "news.google.com" not in r.url:
             return r.url
-        except Exception:
-            return url
+    except Exception:
+        pass
     return url
 
 def extract_domain(url):
@@ -73,7 +79,7 @@ def fetch_rss(url, region, custom_source=""):
                 title = item.find('title').text if item.find('title') is not None else ''
                 link = item.find('link').text if item.find('link') is not None else ''
                 if title and link:
-                    real_url = unwrap_url(link)
+                    real_url = unwrap_google_news_url(link)
                     articles.append({
                         "title": title.strip(),
                         "url": real_url,
@@ -108,8 +114,7 @@ if __name__ == "__main__":
         ('https://www.iltempo.it/rss/home.xml', 'iltempo.it'),
         ('https://www.ilfoglio.it/rss.xml', 'ilfoglio.it'),
         ('https://www.liberoquotidiano.it/rss.xml', 'liberoquotidiano.it'),
-        ('https://www.quotidiano.net/rss', 'quotidiano.net'),
-        ('https://football-italia.net/feed/', 'football-italia.net')
+        ('https://www.quotidiano.net/rss', 'quotidiano.net')
     ]
 
     # Fonti Mondo
@@ -131,24 +136,21 @@ if __name__ == "__main__":
     for url, domain in rss_global:
         raw_articles.extend(fetch_rss(url, 'GLOBAL', domain))
 
-    # Rimuovi duplicati
     unique_articles = list({a['url']: a for a in raw_articles}.values())
 
-    # Processa con Gemini (con gestione errori e distribuzione bilanciata)
     processed = []
-    for art in unique_articles[:60]: # Limita a 60 notizie per non prolungare l'esecuzione
+    for art in unique_articles[:60]:
         art["score"] = evaluate_inchinellito(art["title"])
         processed.append(art)
 
-    # Forzatura distribuzione omogenea 1-9 per garantire che nessun pulsante sia vuoto
+    # Distribuzione omogenea sui 9 livelli
     processed.sort(key=lambda x: x["score"])
     num_articles = len(processed)
     if num_articles >= 9:
         for i, art in enumerate(processed):
-            # Assegna uniformemente un punteggio da 1 a 9 in base all'ordine di inchinellitudine
             art["score"] = min(9, int((i / num_articles) * 9) + 1)
 
     os.makedirs('data', exist_ok=True)
     with open('data/news.json', 'w', encoding='utf-8') as f:
         json.dump(processed, f, ensure_ascii=False, indent=2)
-    print(f"Salvate {len(processed)} notizie divise equamente da 1 a 9!")
+    print(f"Salvate {len(processed)} notizie con URL srotolati e valutati!")
