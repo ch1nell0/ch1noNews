@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fun & Sad News Hub</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        body { background-color: #121212; color: #ffffff; padding: 20px; }
+        
+        header { text-align: center; margin-bottom: 20px; }
+        header h1 { margin-bottom: 8px; font-size: 2rem; }
+        header p { color: #aaa; font-size: 0.95rem; }
+
+        /* Contenitore API Key */
+        .api-config {
+            max-width: 600px;
+            margin: 0 auto 20px auto;
+            background: #1e1e1e;
+            padding: 15px;
+            border-radius: 8px;
+            display: flex;
+            gap: 10px;
+            align-items: center;
+        }
+        .api-config input {
+            flex: 1;
+            padding: 8px 12px;
+            border-radius: 4px;
+            border: 1px solid #333;
+            background: #2a2a2a;
+            color: #fff;
+        }
+        .api-config button {
+            padding: 8px 16px;
+            background: #007bff;
+            border: none;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        /* Pulsanti 1-9 */
+        .rating-bar {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            margin-bottom: 25px;
+            flex-wrap: wrap;
+        }
+        .btn-score {
+            width: 45px;
+            height: 45px;
+            border: none;
+            border-radius: 50%;
+            font-weight: bold;
+            font-size: 1.1rem;
+            color: white;
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.6);
+        }
+        .btn-score:hover { transform: scale(1.15); }
+        .btn-score.active { outline: 3px solid white; transform: scale(1.1); }
+
+        /* Colori sfumati dal rosso (1) al verde (9) */
+        .score-1 { background-color: #d9534f; }
+        .score-2 { background-color: #e06d53; }
+        .score-3 { background-color: #e68758; }
+        .score-4 { background-color: #eca15c; }
+        .score-5 { background-color: #f0ad4e; }
+        .score-6 { background-color: #b7b852; }
+        .score-7 { background-color: #7ec256; }
+        .score-8 { background-color: #5cb85c; }
+        .score-9 { background-color: #2b982b; }
+
+        /* Layout principale */
+        .main-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            max-width: 1300px;
+            margin: 0 auto;
+        }
+        @media (max-width: 850px) {
+            .main-container { grid-template-columns: 1fr; }
+        }
+
+        /* Lista Notizie */
+        .news-list {
+            background: #1e1e1e;
+            padding: 15px;
+            border-radius: 8px;
+            max-height: 75vh;
+            overflow-y: auto;
+        }
+        .news-item {
+            padding: 12px;
+            border-bottom: 1px solid #333;
+            cursor: pointer;
+            transition: background 0.2s;
+            border-radius: 4px;
+        }
+        .news-item:hover { background: #2a2a2a; }
+        .news-item h3 { font-size: 1rem; color: #4da6ff; margin-bottom: 5px; }
+        .news-item .source { font-size: 0.8rem; color: #888; }
+
+        /* Viewer Embed Article */
+        .news-viewer {
+            background: #1e1e1e;
+            padding: 15px;
+            border-radius: 8px;
+            display: flex;
+            flex-direction: column;
+            height: 75vh;
+        }
+        .viewer-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .viewer-header a {
+            padding: 6px 12px;
+            background: #28a745;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 0.9rem;
+        }
+        iframe {
+            width: 100%;
+            flex-grow: 1;
+            border: 1px solid #333;
+            border-radius: 4px;
+            background: #fff;
+        }
+        .placeholder-text {
+            color: #777;
+            text-align: center;
+            margin-top: auto;
+            margin-bottom: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>📰 News Filter per "Grado di Divertimento"</h1>
+        <p>1 = Tragico / Triste | 9 = Divertente / Leggero</p>
+    </header>
+
+    <!-- Inserimento API Key per Currents API -->
+    <div class="api-config">
+        <input type="password" id="currents-key" placeholder="Inserisci la tua API Key di CurrentsAPI...">
+        <button onclick="loadAllNews()">Carica Notizie</button>
+    </div>
+
+    <!-- Pulsanti da 1 a 9 -->
+    <div class="rating-bar" id="rating-bar">
+        <!-- Generati dinamicamente via JS -->
+    </div>
+
+    <!-- Contenitore Principale -->
+    <div class="main-container">
+        <!-- Lista Titoli -->
+        <div class="news-list" id="news-list">
+            <p class="placeholder-text">Inserisci una chiave API o clicca "Carica Notizie" per iniziare.</p>
+        </div>
+
+        <!-- Viewer dell'articolo con Embed/Iframe -->
+        <div class="news-viewer">
+            <div class="viewer-header">
+                <span id="viewer-title" style="font-weight: bold;">Seleziona una notizia</span>
+                <a id="external-link" href="#" target="_blank" style="display: none;">Apri in un'altra pagina ↗</a>
+            </div>
+            <iframe id="news-frame" src="about:blank"></iframe>
+        </div>
+    </div>
+
+    <script>
+        // Array globale delle notizie caricate
+        let allArticles = [];
+        let selectedScore = 5;
+
+        // Inizializza i pulsanti 1-9
+        function initRatingBar() {
+            const bar = document.getElementById('rating-bar');
+            for (let i = 1; i <= 9; i++) {
+                const btn = document.createElement('button');
+                btn.className = `btn-score score-${i} ${i === 5 ? 'active' : ''}`;
+                btn.innerText = i;
+                btn.onclick = () => selectScore(i);
+                bar.appendChild(btn);
+            }
+        }
+
+        function selectScore(score) {
+            selectedScore = score;
+            document.querySelectorAll('.btn-score').forEach((btn, idx) => {
+                btn.classList.toggle('active', (idx + 1) === score);
+            });
+            renderNewsList();
+        }
+
+        // Funzione per tradurre i testi in italiano usando la libera API LibreTranslate / MyMemory
+        async function translateToItalian(text) {
+            try {
+                const res = await fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|it`);
+                const data = await res.json();
+                return data.responseData.translatedText || text;
+            } catch (e) {
+                return text; // Se fallisce restituisce l'originale
+            }
+        }
+
+        // Algoritmo euristico/semantico di classificazione del divertimento (1-9)
+        function calculateFunScore(title, description) {
+            const text = (title + " " + description).toLowerCase();
+            
+            // Parole chiave 'Tragiche/Tristi' (abbassano il punteggio verso 1)
+            const sadWords = ['dead', 'death', 'war', 'killed', 'disaster', 'crash', 'murder', 'tragedy', 'morte', 'guerra', 'incidente', 'ucciso', 'tragedia', 'crisi'];
+            // Parole chiave 'Divertenti/Buffe/Leggere' (alzano il punteggio verso 9)
+            const funWords = ['funny', 'bizarre', 'viral', 'cat', 'dog', 'joke', 'win', 'lottery', 'meme', 'divertente', 'buffo', 'gatto', 'cane', 'vincita', 'curioso', 'festa'];
+
+            let score = 5; // Punteggio neutro di partenza
+
+            sadWords.forEach(w => { if (text.includes(w)) score -= 1.5; });
+            funWords.forEach(w => { if (text.includes(w)) score += 1.5; });
+
+            // Assicura che il punteggio rimanga tra 1 e 9
+            return Math.max(1, Math.min(9, Math.round(score)));
+        }
+
+        // Fetch notizie da Currents API e Google News RSS (tramite RSS2JSON)
+        async function loadAllNews() {
+            const apiKey = document.getElementById('currents-key').value.trim();
+            const newsListEl = document.getElementById('news-list');
+            newsListEl.innerHTML = "<p class='placeholder-text'>Caricamento notizie e traduzione in corso...</p>";
+            
+            allArticles = [];
+
+            // 1. Fonte: Currents API (se è stata inserita la chiave API)
+            if (apiKey) {
+                try {
+                    const res = await fetch(`https://api.currentsapi.services/v1/latest-news?apiKey=${apiKey}`);
+                    const data = await res.json();
+                    if (data.news) {
+                        for (let item of data.news.slice(0, 15)) {
+                            const translatedTitle = await translateToItalian(item.title);
+                            allArticles.push({
+                                originalTitle: item.title,
+                                title: translatedTitle,
+                                url: item.url,
+                                source: item.author || 'Currents API',
+                                score: calculateFunScore(item.title, item.description || '')
+                            });
+                        }
+                    }
+                } catch (e) { console.error("Errore Currents API:", e); }
+            }
+
+            // 2. Fonte di Riserva: Google News RSS (gratuita e senza API Key)
+            try {
+                const rssUrl = encodeURIComponent('https://news.google.com/rss?hl=it&gl=IT&ceid=IT:it');
+                const res = await fetch(`https://api.rss2json.com/v1/api.json?rss_url=${rssUrl}`);
+                const data = await res.json();
+                if (data.items) {
+                    for (let item of data.items.slice(0, 20)) {
+                        allArticles.push({
+                            originalTitle: item.title,
+                            title: item.title, // Già in italiano
+                            url: item.link,
+                            source: 'Google News',
+                            score: calculateFunScore(item.title, item.description || '')
+                        });
+                    }
+                }
+            } catch (e) { console.error("Errore Google News RSS:", e); }
+
+            renderNewsList();
+        }
+
+        // Visualizza i titoli filtrati per il punteggio selezionato (1-9)
+        function renderNewsList() {
+            const newsListEl = document.getElementById('news-list');
+            newsListEl.innerHTML = "";
+
+            const filtered = allArticles.filter(a => a.score === selectedScore);
+
+            if (filtered.length === 0) {
+                newsListEl.innerHTML = `<p class='placeholder-text'>Nessuna notizia trovata con grado di divertimento = ${selectedScore}. Prova un altro numero o carica nuove notizie!</p>`;
+                return;
+            }
+
+            filtered.forEach(article => {
+                const div = document.createElement('div');
+                div.className = 'news-item';
+                div.innerHTML = `
+                    <h3>${article.title}</h3>
+                    <div class="source">Fonte: ${article.source} | Grado assegnato: ${article.score}/9</div>
+                `;
+                div.onclick = () => openArticle(article);
+                newsListEl.appendChild(div);
+            });
+        }
+
+        // Mostra l'articolo nell'iframe viewer
+        function openArticle(article) {
+            document.getElementById('viewer-title').innerText = article.title;
+            const link = document.getElementById('external-link');
+            link.href = article.url;
+            link.style.display = 'inline-block';
+            
+            // Carica l'articolo nell'iframe
+            document.getElementById('news-frame').src = article.url;
+        }
+
+        // Avvio automatico al caricamento della pagina
+        initRatingBar();
+        loadAllNews();
+    </script>
+</body>
+</html>
