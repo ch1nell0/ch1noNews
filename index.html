@@ -240,17 +240,17 @@
                 div.onclick = () => {
                     document.getElementById('viewer-title').innerText = article.title;
                     
-                    // Link originale pulito per il pulsante verde (apri in un'altra scheda)
+                    // Pulsante verde: apre l'articolo originale pulito in una nuova scheda
                     const link = document.getElementById('external-link');
                     link.href = article.url;
                     link.style.display = 'inline-block';
                 
-                    // FIX EMBED: Concatenazione diretta senza doppi encodeURIComponent
-                    // Inserisce il link pulito esattamente come richiesto
-                    const targetPaywall = `https://www.removepaywall.com/search?url=${article.url}`;
-                    const finalEmbed = `https://periscope.corsfix.com/?${targetPaywall}`;
-                    
-                    document.getElementById('news-frame').src = finalEmbed;
+                    // Costruzione corretta dell'URL per il proxy di bypass
+                    // Passa l'articolo diretto a removepaywall attraverso il proxy corsfix
+                    const removePaywallUrl = "https://www.removepaywall.com/search?url=" + article.url;
+                    const finalEmbedUrl = "https://periscope.corsfix.com/?" + removePaywallUrl;
+                
+                    document.getElementById('news-frame').src = finalEmbedUrl;
                 };
                 listEl.appendChild(div);
             });
