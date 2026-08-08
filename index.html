@@ -236,21 +236,17 @@
                         <span>${article.domain}</span>
                     </div>
                 `;
-
+                
                 div.onclick = () => {
                     document.getElementById('viewer-title').innerText = article.title;
                     
-                    // Pulsante verde: apre l'articolo originale pulito in una nuova scheda
+                    // Link per apertura diretta in una nuova scheda
                     const link = document.getElementById('external-link');
                     link.href = article.url;
                     link.style.display = 'inline-block';
                 
-                    // Costruzione corretta dell'URL per il proxy di bypass
-                    // Passa l'articolo diretto a removepaywall attraverso il proxy corsfix
-                    const removePaywallUrl = "https://www.removepaywall.com/search?url=" + article.url;
-                    const finalEmbedUrl = "https://periscope.corsfix.com/?" + removePaywallUrl;
-                
-                    document.getElementById('news-frame').src = finalEmbedUrl;
+                    // EMBED DIRETTO: Concatenazione pulita periscope + URL reale dell'articolo
+                    document.getElementById('news-frame').src = `https://periscope.corsfix.com/?${article.url}`;
                 };
                 listEl.appendChild(div);
             });
