@@ -1,0 +1,31 @@
+name: Update News Data
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # Gira ogni 2 ore
+  workflow_dispatch: # Permette di avviarlo anche manualmente da GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Fetch and process news
+        env:
+          CURRENTS_API_KEY: ${{ secrets.CURRENTS_API_KEY }}
+        run: python fetch_news.py
+
+      - name: Commit and push news.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git commit -m "Automated news update" || exit 0
+          git push
