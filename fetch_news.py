@@ -37,21 +37,21 @@ def process_with_gemini(title, region):
         return translated_title, score
         
     try:
-        time.sleep(0.5) # Pausa breve per evitare rate limits
+        time.sleep(0.4)
         
-        # Traduzione per notizie GLOBAL
+        # Traduzione obbligatoria per notizie esterne
         if region == "GLOBAL":
             try:
                 trans_resp = client.models.generate_content(
                     model='gemini-2.5-flash',
-                    contents=f"Traduci questo titolo in italiano corretto. Rispondi SOLO con la traduzione: '{title}'"
+                    contents=f"Traduci questo titolo in italiano corretto e naturale. Rispondi SOLO ed ESCLUSIVAMENTE con la traduzione, senza spiegazioni o virgolette: '{title}'"
                 )
                 if trans_resp and trans_resp.text:
-                    translated_title = trans_resp.text.strip()
+                    translated_title = trans_resp.text.strip().strip('"')
             except Exception as e:
                 print(f"Errore traduzione su '{title}': {e}")
 
-        # Valutazione
+        # Valutazione Inchinellitudine
         try:
             eval_resp = client.models.generate_content(
                 model='gemini-2.5-flash',
@@ -85,7 +85,7 @@ def fetch_rss(url, region, custom_source=""):
         req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req, timeout=6) as response:
             root = ET.fromstring(response.read())
-            for item in root.findall('.//item')[:8]:
+            for item in root.findall('.//item')[:6]:
                 title = item.find('title').text if item.find('title') is not None else ''
                 link = item.find('link').text if item.find('link') is not None else ''
                 
@@ -101,7 +101,8 @@ def fetch_rss(url, region, custom_source=""):
     return articles
 
 if __name__ == "__main__":
-    raw_articles = []
+    articles_it = []
+    articles_global = []
     
     # Fonti Italia
     rss_it = [
@@ -140,23 +141,24 @@ if __name__ == "__main__":
     ]
 
     for url, domain in rss_it:
-        raw_articles.extend(fetch_rss(url, 'IT', domain))
+        articles_it.extend(fetch_rss(url, 'IT', domain))
 
     for url, domain in rss_global:
-        raw_articles.extend(fetch_rss(url, 'GLOBAL', domain))
+        articles_global.extend(fetch_rss(url, 'GLOBAL', domain))
 
-    # Elimina duplicati sugli URL
-    unique_articles = list({a['url']: a for a in raw_articles}.values())
-    print(f"Recuperati {len(unique_articles)} articoli unici.")
+    # Prendi 40 notizie Italia e 40 notizie Mondo separate per bilanciare i dati
+    unique_it = list({a['url']: a for a in articles_it}.values())[:40]
+    unique_global = list({a['url']: a for a in articles_global}.values())[:40]
 
     processed = []
-    for art in unique_articles[:80]:
+
+    for art in unique_it + unique_global:
         translated_title, score = process_with_gemini(art["original_title"], art["region"])
         art["title"] = translated_title
         art["score"] = score
         processed.append(art)
 
-    # Distribuzione forzata omogenea da 1 a 9 sia per IT che per GLOBAL
+    # Distruibuisci forzatamente da 1 a 9 sia per l'Italia che per il Mondo
     for reg in ['IT', 'GLOBAL']:
         sub_list = [a for a in processed if a['region'] == reg]
         sub_list.sort(key=lambda x: x["score"])
@@ -169,4 +171,4 @@ if __name__ == "__main__":
     with open('data/news.json', 'w', encoding='utf-8') as f:
         json.dump(processed, f, ensure_ascii=False, indent=2)
         
-    print(f"Salvate correttamente {len(processed)} notizie in data/news.json!")
+    print(f"Salvate correttamente {len(processed)} notizie divise equamente in data/news.json!")
