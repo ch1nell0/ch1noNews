@@ -15,8 +15,8 @@
             max-width: 1300px;
             margin: 0 auto 20px auto;
         }
-        .header-title h1 { font-size: 2rem; color: #ff4757; letter-spacing: 0.5px; }
-        .header-title p { color: #aaa; font-size: 0.95rem; font-style: italic; }
+        .header-title h1 { font-size: 2rem; color: #ff4757; }
+        .header-title p { color: #aaa; font-size: 0.9rem; font-style: italic; }
 
         .region-selector {
             display: flex;
@@ -93,7 +93,6 @@
         .news-item:hover { background: #2a2a2a; }
         .news-item h3 { font-size: 0.95rem; color: #4da6ff; margin-bottom: 6px; }
         
-        /* Favicon + Nome giornale */
         .source-container {
             display: flex;
             align-items: center;
@@ -144,11 +143,11 @@
     <div class="top-bar">
         <div class="header-title">
             <h1>ch1noNews: notizie inchinellite</h1>
-            <p>Seleziona il grado di inchinellitudine (1 = serio/tragico, 9 = full inchinellito)</p>
+            <p>1 = serio/tragico | 9 = full inchinellito</p>
         </div>
         <div class="region-selector">
-            <span class="region-btn active" id="btn-global" onclick="setRegion('GLOBAL')" title="Notizie Mondiali">🌐</span>
-            <span class="region-btn" id="btn-it" onclick="setRegion('IT')" title="Solo Italia">🇮🇹</span>
+            <span class="region-btn active" id="btn-global" onclick="setRegion('GLOBAL')" title="Mondo">🌐</span>
+            <span class="region-btn" id="btn-it" onclick="setRegion('IT')" title="Italia">🇮🇹</span>
         </div>
     </div>
 
@@ -221,15 +220,13 @@
             });
 
             if (filtered.length === 0) {
-                listEl.innerHTML = `<p class='placeholder-text'>Nessuna notizia trovata con grado ${selectedScore} per la regione selezionata. Prova un altro numero!</p>`;
+                listEl.innerHTML = `<p class='placeholder-text'>Nessuna notizia trovata per il livello ${selectedScore}. Prova un altro numero o seleziona l'icona Mondo 🌐.</p>`;
                 return;
             }
 
             filtered.forEach(article => {
                 const div = document.createElement('div');
                 div.className = 'news-item';
-                
-                // Genera la favicon usando Google Favicons Service
                 const faviconUrl = `https://www.google.com/s2/favicons?domain=${article.domain}&sz=32`;
 
                 div.innerHTML = `
@@ -243,14 +240,16 @@
                 div.onclick = () => {
                     document.getElementById('viewer-title').innerText = article.title;
                     
-                    // Link Pulito per l'apertura in nuova scheda
+                    // Link originale pulito per la nuova scheda
                     const link = document.getElementById('external-link');
                     link.href = article.url;
                     link.style.display = 'inline-block';
 
-                    // Link Embed con Proxy CorsFix + RemovePaywall
-                    const embeddedUrl = `https://periscope.corsfix.com/?https://www.removepaywall.com/search?url=${encodeURIComponent(article.url)}`;
-                    document.getElementById('news-frame').src = embeddedUrl;
+                    // Corretta concatenazione e codifica degli URL per l'embed via Proxy/Paywall
+                    const targetPaywallUrl = "https://www.removepaywall.com/search?url=" + encodeURIComponent(article.url);
+                    const finalEmbedUrl = "https://periscope.corsfix.com/?" + encodeURIComponent(targetPaywallUrl);
+                    
+                    document.getElementById('news-frame').src = finalEmbedUrl;
                 };
                 listEl.appendChild(div);
             });
