@@ -4,13 +4,17 @@ import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-import requests
 from google import genai
 
 CURRENTS_KEY = os.getenv("CURRENTS_API_KEY", "")
 GEMINI_KEY = os.getenv("GEMINI_API_KEY", "")
 
-client = genai.Client(api_key=GEMINI_KEY) if GEMINI_KEY else None
+client = None
+if GEMINI_KEY:
+    try:
+        client = genai.Client(api_key=GEMINI_KEY)
+    except Exception as e:
+        print(f"Errore inizializzazione client Gemini: {e}")
 
 SYSTEM_EVAL_PROMPT = """
 Sei il motore di valutazione di 'ch1noNews'. Devi valutare l'INCHINELLITUDINE (concetto dello streamer Ch1nello, simile a 'nzallanuto).
@@ -22,42 +26,47 @@ Devi assegnare un punteggio INTERO da 1 a 9:
 5-7 = Notizia curiosa, strana, gaffe, lite.
 8-9 = FULL INCHINELLITO: Assurdità pura, caos totale, no-sense.
 
-Rispondi ESCLUSIVAMENTE con un numero intero da 1 a 9. Nessun altro testo.
+Rispondi ESCLUSIVAMENTE con un numero intero da 1 a 9.
 """
 
 def process_with_gemini(title, region):
-    score = (abs(hash(title)) % 9) + 1
     translated_title = title
+    score = (abs(hash(title)) % 9) + 1
     
     if not client:
         return translated_title, score
         
     try:
-        time.sleep(0.8) # Pausa per rate limit
+        time.sleep(0.5) # Pausa breve per evitare rate limits
         
-        # Traduzione se la notizia è GLOBAL
+        # Traduzione per notizie GLOBAL
         if region == "GLOBAL":
-            trans_prompt = f"Traduci questo titolo di giornale in italiano corretto e naturale. Rispondi SOLO con la traduzione: '{title}'"
-            trans_resp = client.models.generate_content(
-                model='gemini-2.5-flash',
-                contents=trans_prompt
-            )
-            if trans_resp.text:
-                translated_title = trans_resp.text.strip()
+            try:
+                trans_resp = client.models.generate_content(
+                    model='gemini-2.5-flash',
+                    contents=f"Traduci questo titolo in italiano corretto. Rispondi SOLO con la traduzione: '{title}'"
+                )
+                if trans_resp and trans_resp.text:
+                    translated_title = trans_resp.text.strip()
+            except Exception as e:
+                print(f"Errore traduzione su '{title}': {e}")
 
-        # Valutazione Inchinellitudine
-        eval_resp = client.models.generate_content(
-            model='gemini-2.5-flash',
-            contents=f"Titolo: '{translated_title}'. Punteggio inchinellitudine (1-9)?",
-            config={'system_instruction': SYSTEM_EVAL_PROMPT, 'temperature': 0.3}
-        )
-        score_str = eval_resp.text.strip()
-        score_digits = ''.join(filter(str.isdigit, score_str))
-        if score_digits:
-            score = max(1, min(9, int(score_digits)))
-            
+        # Valutazione
+        try:
+            eval_resp = client.models.generate_content(
+                model='gemini-2.5-flash',
+                contents=f"Titolo: '{translated_title}'. Punteggio inchinellitudine (1-9)?",
+                config={'system_instruction': SYSTEM_EVAL_PROMPT, 'temperature': 0.3}
+            )
+            if eval_resp and eval_resp.text:
+                digits = ''.join(filter(str.isdigit, eval_resp.text.strip()))
+                if digits:
+                    score = max(1, min(9, int(digits)))
+        except Exception as e:
+            print(f"Errore valutazione su '{title}': {e}")
+
     except Exception as e:
-        print(f"Errore Gemini su '{title}': {e}")
+        print(f"Errore generale Gemini: {e}")
         
     return translated_title, score
 
@@ -76,11 +85,10 @@ def fetch_rss(url, region, custom_source=""):
         req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req, timeout=6) as response:
             root = ET.fromstring(response.read())
-            for item in root.findall('.//item')[:5]:
+            for item in root.findall('.//item')[:8]:
                 title = item.find('title').text if item.find('title') is not None else ''
                 link = item.find('link').text if item.find('link') is not None else ''
                 
-                # Ignora qualsiasi eventuale link di Google News residuo
                 if title and link and "news.google.com" not in link:
                     articles.append({
                         "original_title": title.strip(),
@@ -89,13 +97,13 @@ def fetch_rss(url, region, custom_source=""):
                         "region": region
                     })
     except Exception as e:
-        print(f"Errore recupero {url}: {e}")
+        print(f"Errore recupero RSS {url}: {e}")
     return articles
 
 if __name__ == "__main__":
     raw_articles = []
     
-    # FONTI ITALIA (Senza Google News)
+    # Fonti Italia
     rss_it = [
         ('https://www.huffingtonpost.it/feed/', 'huffingtonpost.it'),
         ('https://www.repubblica.it/rss/homepage/rss2.0.xml', 'repubblica.it'),
@@ -119,7 +127,7 @@ if __name__ == "__main__":
         ('https://football-italia.net/feed/', 'football-italia.net')
     ]
 
-    # FONTI MONDO (Senza Google News)
+    # Fonti Mondo
     rss_global = [
         ('http://feeds.bbci.co.uk/news/rss.xml', 'bbc.com'),
         ('https://nypost.com/feed/', 'nypost.com'),
@@ -137,16 +145,18 @@ if __name__ == "__main__":
     for url, domain in rss_global:
         raw_articles.extend(fetch_rss(url, 'GLOBAL', domain))
 
+    # Elimina duplicati sugli URL
     unique_articles = list({a['url']: a for a in raw_articles}.values())
+    print(f"Recuperati {len(unique_articles)} articoli unici.")
 
     processed = []
-    for art in unique_articles[:70]:
+    for art in unique_articles[:80]:
         translated_title, score = process_with_gemini(art["original_title"], art["region"])
         art["title"] = translated_title
         art["score"] = score
         processed.append(art)
 
-    # Distruibuisci equamente tra 1 e 9 sia per IT che per GLOBAL
+    # Distribuzione forzata omogenea da 1 a 9 sia per IT che per GLOBAL
     for reg in ['IT', 'GLOBAL']:
         sub_list = [a for a in processed if a['region'] == reg]
         sub_list.sort(key=lambda x: x["score"])
@@ -158,4 +168,5 @@ if __name__ == "__main__":
     os.makedirs('data', exist_ok=True)
     with open('data/news.json', 'w', encoding='utf-8') as f:
         json.dump(processed, f, ensure_ascii=False, indent=2)
-    print(f"Elaborate e salvate {len(processed)} notizie!")
+        
+    print(f"Salvate correttamente {len(processed)} notizie in data/news.json!")
