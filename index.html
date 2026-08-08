@@ -6,30 +6,31 @@
     <title>ch1noNews: notizie inchinellite</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
-        body { background-color: #121212; color: #ffffff; padding: 20px; }
+        body { background-color: #121212; color: #ffffff; padding: 15px; width: 100vw; overflow-x: hidden; }
         
         .top-bar {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            max-width: 1300px;
-            margin: 0 auto 20px auto;
+            width: 100%;
+            margin-bottom: 15px;
+            padding: 0 10px;
         }
-        .header-title h1 { font-size: 2rem; color: #ff4757; }
-        .header-title p { color: #aaa; font-size: 0.9rem; font-style: italic; }
+        .header-title h1 { font-size: 1.8rem; color: #ff4757; }
+        .header-title p { color: #aaa; font-size: 0.85rem; font-style: italic; }
 
         .region-selector {
             display: flex;
             gap: 12px;
             background: #1e1e1e;
-            padding: 6px 14px;
+            padding: 6px 16px;
             border-radius: 30px;
             border: 1px solid #333;
         }
         .region-btn {
-            font-size: 1.5rem;
+            font-size: 1.6rem;
             cursor: pointer;
-            opacity: 0.4;
+            opacity: 0.35;
             transition: opacity 0.2s, transform 0.2s;
             user-select: none;
         }
@@ -40,12 +41,13 @@
             display: flex;
             justify-content: center;
             gap: 8px;
-            margin-bottom: 25px;
+            margin-bottom: 15px;
+            width: 100%;
             flex-wrap: wrap;
         }
         .btn-score {
-            width: 42px;
-            height: 42px;
+            width: 40px;
+            height: 40px;
             border: none;
             border-radius: 50%;
             font-weight: bold;
@@ -68,30 +70,35 @@
         .score-8 { background-color: #5cb85c; }
         .score-9 { background-color: #2b982b; }
 
+        /* Full Width Layout */
         .main-container {
             display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 20px;
-            max-width: 1300px;
-            margin: 0 auto;
+            grid-template-columns: 35% 65%;
+            gap: 15px;
+            width: 100%;
+            height: calc(100vh - 150px);
         }
-        @media (max-width: 850px) { .main-container { grid-template-columns: 1fr; } }
+        @media (max-width: 900px) {
+            .main-container { grid-template-columns: 1fr; height: auto; }
+        }
 
         .news-list {
             background: #1e1e1e;
-            padding: 15px;
+            padding: 10px;
             border-radius: 8px;
-            max-height: 75vh;
             overflow-y: auto;
+            height: 100%;
+            border: 1px solid #2a2a2a;
         }
         .news-item {
             padding: 12px;
-            border-bottom: 1px solid #333;
+            border-bottom: 1px solid #2c2c2c;
             cursor: pointer;
             border-radius: 4px;
         }
-        .news-item:hover { background: #2a2a2a; }
-        .news-item h3 { font-size: 0.95rem; color: #4da6ff; margin-bottom: 6px; }
+        .news-item:hover { background: #282828; }
+        .news-item.selected { background: #333333; border-left: 4px solid #ff4757; }
+        .news-item h3 { font-size: 0.95rem; color: #4da6ff; margin-bottom: 6px; line-height: 1.3; }
         
         .source-container {
             display: flex;
@@ -100,38 +107,44 @@
             font-size: 0.8rem;
             color: #888;
         }
-        .favicon-img {
-            width: 16px;
-            height: 16px;
-            border-radius: 2px;
-        }
+        .favicon-img { width: 16px; height: 16px; border-radius: 2px; }
 
         .news-viewer {
             background: #1e1e1e;
-            padding: 15px;
+            padding: 10px;
             border-radius: 8px;
             display: flex;
             flex-direction: column;
-            height: 75vh;
+            height: 100%;
+            border: 1px solid #2a2a2a;
         }
         .viewer-header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 10px;
+            margin-bottom: 8px;
+            gap: 10px;
         }
-        .viewer-header a {
-            padding: 6px 12px;
-            background: #28a745;
-            color: white;
-            text-decoration: none;
+        .viewer-controls {
+            display: flex;
+            gap: 8px;
+        }
+        .btn-view {
+            padding: 5px 10px;
+            background: #333;
+            color: #ccc;
+            border: 1px solid #444;
             border-radius: 4px;
-            font-size: 0.85rem;
+            cursor: pointer;
+            font-size: 0.8rem;
+            text-decoration: none;
         }
+        .btn-view.active { background: #007bff; color: white; border-color: #0056b3; }
+        
         iframe {
             width: 100%;
-            flex-grow: 1;
-            border: 1px solid #333;
+            height: 100%;
+            border: none;
             border-radius: 4px;
             background: #fff;
         }
@@ -146,7 +159,7 @@
             <p>1 = serio/tragico | 9 = full inchinellito</p>
         </div>
         <div class="region-selector">
-            <span class="region-btn active" id="btn-global" onclick="setRegion('GLOBAL')" title="Mondo">🌐</span>
+            <span class="region-btn active" id="btn-global" onclick="setRegion('GLOBAL')" title="Mondo (Tradotto in IT)">🌐</span>
             <span class="region-btn" id="btn-it" onclick="setRegion('IT')" title="Italia">🇮🇹</span>
         </div>
     </div>
@@ -160,8 +173,12 @@
 
         <div class="news-viewer">
             <div class="viewer-header">
-                <span id="viewer-title" style="font-weight: bold; font-size:0.9rem;">Seleziona una notizia</span>
-                <a id="external-link" href="#" target="_blank" style="display: none;">Apri in un'altra scheda ↗</a>
+                <span id="viewer-title" style="font-weight: bold; font-size:0.9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Seleziona una notizia</span>
+                <div class="viewer-controls" id="controls" style="display:none;">
+                    <button id="btn-proxy" class="btn-view active" onclick="switchMode('proxy')">Proxy (Periscope)</button>
+                    <button id="btn-direct" class="btn-view" onclick="switchMode('direct')">Sito Diretto</button>
+                    <a id="external-link" class="btn-view" href="#" target="_blank">Apri Scheda ↗</a>
+                </div>
             </div>
             <iframe id="news-frame" src="about:blank"></iframe>
         </div>
@@ -171,6 +188,8 @@
         let rawNewsData = [];
         let selectedScore = 5;
         let selectedRegion = 'GLOBAL';
+        let currentArticle = null;
+        let currentMode = 'proxy';
 
         function initRatingBar() {
             const bar = document.getElementById('rating-bar');
@@ -205,7 +224,7 @@
                 renderNews();
             } catch (error) {
                 document.getElementById('news-list').innerHTML = 
-                    "<p class='placeholder-text'>Nessun dato ancora disponibile. Esegui la Action su GitHub!</p>";
+                    "<p class='placeholder-text'>Nessun dato disponibile. Esegui la Action su GitHub!</p>";
             }
         }
 
@@ -214,13 +233,11 @@
             listEl.innerHTML = "";
 
             const filtered = rawNewsData.filter(item => {
-                const matchesScore = item.score === selectedScore;
-                const matchesRegion = (selectedRegion === 'GLOBAL') ? true : (item.region === 'IT');
-                return matchesScore && matchesRegion;
+                return item.score === selectedScore && item.region === selectedRegion;
             });
 
             if (filtered.length === 0) {
-                listEl.innerHTML = `<p class='placeholder-text'>Nessuna notizia trovata per il livello ${selectedScore}. Prova un altro numero o seleziona l'icona Mondo 🌐.</p>`;
+                listEl.innerHTML = `<p class='placeholder-text'>Nessuna notizia trovata per il livello ${selectedScore} nella regione selezionata.</p>`;
                 return;
             }
 
@@ -236,20 +253,37 @@
                         <span>${article.domain}</span>
                     </div>
                 `;
-                
+
                 div.onclick = () => {
-                    document.getElementById('viewer-title').innerText = article.title;
+                    document.querySelectorAll('.news-item').forEach(el => el.classList.remove('selected'));
+                    div.classList.add('selected');
                     
-                    // Link per apertura diretta in una nuova scheda
-                    const link = document.getElementById('external-link');
-                    link.href = article.url;
-                    link.style.display = 'inline-block';
-                
-                    // EMBED DIRETTO: Concatenazione pulita periscope + URL reale dell'articolo
-                    document.getElementById('news-frame').src = `https://periscope.corsfix.com/?${article.url}`;
+                    currentArticle = article;
+                    document.getElementById('viewer-title').innerText = article.title;
+                    document.getElementById('controls').style.display = 'flex';
+                    document.getElementById('external-link').href = article.url;
+                    
+                    loadArticleInFrame();
                 };
                 listEl.appendChild(div);
             });
+        }
+
+        function switchMode(mode) {
+            currentMode = mode;
+            document.getElementById('btn-proxy').classList.toggle('active', mode === 'proxy');
+            document.getElementById('btn-direct').classList.toggle('active', mode === 'direct');
+            loadArticleInFrame();
+        }
+
+        function loadArticleInFrame() {
+            if (!currentArticle) return;
+            const iframe = document.getElementById('news-frame');
+            if (currentMode === 'proxy') {
+                iframe.src = `https://periscope.corsfix.com/?${currentArticle.url}`;
+            } else {
+                iframe.src = currentArticle.url;
+            }
         }
 
         initRatingBar();
