@@ -5,7 +5,7 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 import requests
-import re
+from googlenewsdecoder import new_decod_v1
 from google import genai
 
 CURRENTS_KEY = os.getenv("CURRENTS_API_KEY", "")
@@ -43,21 +43,15 @@ def evaluate_inchinellito(title):
         print(f"Errore Gemini su '{title}': {e}")
         return (abs(hash(title)) % 9) + 1
 
-# Estrae l'URL reale del giornale anche dai reindirizzamenti complessi di Google News
-def unwrap_google_news_url(url):
-    if "news.google.com" not in url:
-        return url
-    try:
-        r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}, timeout=5)
-        # Cerca URL sorgente all'interno del corpo di reindirizzamento JS/HTML di Google
-        urls = re.findall(r'data-n-au="([^"]+)"', r.text)
-        if urls:
-            return urls[0]
-        # Ripiego: segue la catena di redirect HTTP
-        if r.url and "news.google.com" not in r.url:
-            return r.url
-    except Exception:
-        pass
+# Decodifica reale degli URL protetti di Google News
+def get_original_url(url):
+    if "news.google.com" in url:
+        try:
+            decoded = new_decod_v1(url)
+            if decoded.get("status") and decoded.get("decoded_url"):
+                return decoded["decoded_url"]
+        except Exception as e:
+            print(f"Errore decodifica Google URL: {e}")
     return url
 
 def extract_domain(url):
@@ -79,7 +73,7 @@ def fetch_rss(url, region, custom_source=""):
                 title = item.find('title').text if item.find('title') is not None else ''
                 link = item.find('link').text if item.find('link') is not None else ''
                 if title and link:
-                    real_url = unwrap_google_news_url(link)
+                    real_url = get_original_url(link)
                     articles.append({
                         "title": title.strip(),
                         "url": real_url,
