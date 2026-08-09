@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ch1noNews: notizie inchinellite</title>
+    <title>ch1noNews</title>
+    <!-- Libreria per il parsing del Markdown -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
         body { background-color: #121212; color: #ffffff; padding: 15px; width: 100vw; overflow-x: hidden; }
@@ -21,6 +23,7 @@
 
         .region-selector {
             display: flex;
+            align-items: center;
             gap: 12px;
             background: #1e1e1e;
             padding: 6px 16px;
@@ -37,6 +40,17 @@
         .region-btn:hover { transform: scale(1.2); }
         .region-btn.active { opacity: 1; transform: scale(1.1); }
 
+        .help-btn {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #aaa;
+            cursor: pointer;
+            transition: color 0.2s, transform 0.2s;
+            user-select: none;
+            padding: 0 4px;
+        }
+        .help-btn:hover { color: #fff; transform: scale(1.2); }
+
         .rating-bar {
             display: flex;
             justify-content: center;
@@ -45,6 +59,36 @@
             width: 100%;
             flex-wrap: wrap;
         }
+        .score-wrapper {
+            position: relative;
+            display: inline-block;
+        }
+        /* Tooltip per i tasti 1 e 9 */
+        .score-wrapper .tooltip {
+            visibility: hidden;
+            width: max-content;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 4px 8px;
+            position: absolute;
+            z-index: 10;
+            bottom: 125%;
+            left: 50%;
+            transform: translateX(-50%);
+            opacity: 0;
+            transition: opacity 0.2s;
+            font-size: 0.75rem;
+            pointer-events: none;
+            border: 1px solid #444;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+        }
+        .score-wrapper:hover .tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
+
         .btn-score {
             width: 40px;
             height: 40px;
@@ -149,18 +193,88 @@
             background: #fff;
         }
         .placeholder-text { color: #777; text-align: center; margin: auto; }
+
+        /* Modal Info Styles */
+        .modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0; left: 0;
+            width: 100vw; height: 100vh;
+            background: rgba(0, 0, 0, 0.75);
+            z-index: 100;
+            justify-content: center;
+            align-items: center;
+        }
+        .modal-content {
+            background: #1e1e1e;
+            border: 1px solid #333;
+            border-radius: 8px;
+            width: 90%;
+            max-width: 600px;
+            max-height: 80vh;
+            padding: 20px;
+            position: relative;
+            overflow-y: auto;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+            line-height: 1.6;
+        }
+        .modal-close {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            font-size: 1.5rem;
+            color: #aaa;
+            cursor: pointer;
+            background: none;
+            border: none;
+        }
+        .modal-close:hover { color: #fff; }
+
+        /* Markdown Styles Inside Modal */
+        .markdown-body * {
+            font-family: 'Comic Sans MS', 'Comic Sans', 'Chalkboard SE', cursive;
+        }
+        
+        /* Colori trasversali e differenti per ogni livello di titolo (#, ##, ###, ecc.) */
+        .markdown-body h1 { 
+            color: #ff4757; /* Rosso brillante per H1 (#) */
+            margin-bottom: 12px; 
+            border-bottom: 2px solid #ff4757;
+            padding-bottom: 6px;
+        }
+        .markdown-body h2 { 
+            color: #ffa502; /* Arancione per H2 (##) */
+            margin-top: 16px;
+            margin-bottom: 12px; 
+            border-bottom: 1px solid #333; 
+            padding-bottom: 6px; 
+        }
+        .markdown-body h3 { 
+            color: #2ed573; /* Verde smeraldo per H3 (###) */
+            margin-top: 14px; 
+            margin-bottom: 6px; 
+        }
+        .markdown-body h4 { 
+            color: #1e90ff; /* Blu per H4 (####) */
+            margin-top: 12px; 
+            margin-bottom: 6px; 
+        }
+        
+        .markdown-body p { margin-bottom: 10px; color: #ddd; font-size: 0.95rem; }
+        .markdown-body ul { margin-left: 20px; margin-bottom: 10px; color: #ddd; }
+        .markdown-body code { background: #2a2a2a; padding: 2px 5px; border-radius: 4px; font-size: 0.85rem; }
     </style>
 </head>
 <body>
 
     <div class="top-bar">
         <div class="header-title">
-            <h1>ch1noNews: notizie inchinellite</h1>
-            <p>1 = serio/tragico | 9 = full inchinellito</p>
+            <h1>ch1noNews</h1>
         </div>
         <div class="region-selector">
             <span class="region-btn active" id="btn-global" onclick="setRegion('GLOBAL')" title="Mondo (Tradotto in IT)">🌐</span>
             <span class="region-btn" id="btn-it" onclick="setRegion('IT')" title="Italia">🇮🇹</span>
+            <span class="help-btn" onclick="openModal()" title="Info e Istruzioni">?</span>
         </div>
     </div>
 
@@ -184,6 +298,14 @@
         </div>
     </div>
 
+    <!-- Modal Info -->
+    <div class="modal-overlay" id="info-modal" onclick="closeModalOnOverlay(event)">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">&times;</button>
+            <div class="markdown-body" id="modal-markdown-content"></div>
+        </div>
+    </div>
+
     <script>
         let rawNewsData = [];
         let selectedScore = 5;
@@ -191,21 +313,74 @@
         let currentArticle = null;
         let currentMode = 'proxy';
 
+        // Testo delle istruzioni formattato in Markdown
+        const infoMarkdown = `
+# 📰 Benvenuto su ch1noNews!
+
+---
+
+## Cos'è?
+Ch1noNews, o Notiziello, è un aggregatore di notizie inchinellite
+
+---
+
+## Come funziona?
+🗞️ Una serie di notizie vengono prese tramite più API <br>
+🤖 viene poi chiesto a Gemini per ogni notizia un grado di inchinellitudine <br>
+📖 utilizzando la <a href="https://slengo.it/define/inchinellito" target="_blank" style="font-family: 'Comic Sans MS', 'Comic Sans', cursive; color: #48e704;">definizione ufficiale</a> del termine 
+
+---
+
+## Funziona?
+❌ No, a volte puoi trovare delle notizie inchinellite anche nei gradi più bassi,
+ma è ottimo per farsi una risata in compagnia 
+<img src="https://i.imgur.com/M7lYDss.png" alt="anche di ronny" width="450" style="border-radius: 12px; border: 2px solid #ff4757;">
+
+---
+
+## Feature interessanti?
+
+### Filtro notizie
+Puoi filtrare le notizie per 
+- <img src="https://flagcdn.com/w20/it.png" alt="Italia" width="20"> Internazionali 
+- 🌐 Globali  
+
+### Proxy
+Puoi leggere le notizie
+- 🔌 Embeddate tramite un proxy che elimina i pop-up fastidiosi
+- ➘ Embeddate senza il proxy (necessario per alcuni giornali come open.online)
+- ↗ Aprendo l'articolo originale in una nuova scheda 
+        `;
+
         function initRatingBar() {
             const bar = document.getElementById('rating-bar');
             for (let i = 1; i <= 9; i++) {
+                const wrapper = document.createElement('div');
+                wrapper.className = 'score-wrapper';
+
                 const btn = document.createElement('button');
                 btn.className = `btn-score score-${i} ${i === 5 ? 'active' : ''}`;
                 btn.innerText = i;
                 btn.onclick = () => selectScore(i);
-                bar.appendChild(btn);
+
+                wrapper.appendChild(btn);
+
+                // Tooltip personalizzati per 1 e 9
+                if (i === 1 || i === 9) {
+                    const tooltip = document.createElement('span');
+                    tooltip.className = 'tooltip';
+                    tooltip.innerText = i === 1 ? 'Nanni polemica - cicciona e noiosa' : 'Full inchinellito - magra e divertente';
+                    wrapper.appendChild(tooltip);
+                }
+
+                bar.appendChild(wrapper);
             }
         }
 
         function selectScore(score) {
             selectedScore = score;
-            document.querySelectorAll('.btn-score').forEach((btn, idx) => {
-                btn.classList.toggle('active', (idx + 1) === score);
+            document.querySelectorAll('.btn-score').forEach((btn) => {
+                btn.classList.toggle('active', parseInt(btn.innerText) === score);
             });
             renderNews();
         }
@@ -234,7 +409,6 @@
         
             const filtered = rawNewsData.filter(item => {
                 const matchesScore = item.score === selectedScore;
-                // Se la regione selezionata è GLOBAL mostra sia GLOBAL che IT o solo GLOBAL
                 const matchesRegion = (selectedRegion === 'IT') ? (item.region === 'IT') : (item.region === 'GLOBAL');
                 return matchesScore && matchesRegion;
             });
@@ -288,6 +462,24 @@
                 iframe.src = currentArticle.url;
             }
         }
+
+        // Funzioni Modale Info
+        function openModal() {
+            document.getElementById('info-modal').style.display = 'flex';
+        }
+
+        function closeModal() {
+            document.getElementById('info-modal').style.display = 'none';
+        }
+
+        function closeModalOnOverlay(event) {
+            if (event.target.id === 'info-modal') {
+                closeModal();
+            }
+        }
+
+        // Renderizzo il markdown del modale all'avvio
+        document.getElementById('modal-markdown-content').innerHTML = marked.parse(infoMarkdown);
 
         initRatingBar();
         loadNewsData();
