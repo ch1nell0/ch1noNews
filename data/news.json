@@ -1,11 +1,19 @@
 [
   {
+    "original_title": "Furto degli Antonello da Messina, i ladri entrati da un porta laterale. Caccia ai complici",
+    "url": "https://palermo.repubblica.it/cronaca/2026/08/16/news/furto_antonello_da_messina_mume_dinamica_indagini-425531529/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Furto degli Antonello da Messina, i ladri entrati da un porta laterale. Caccia ai complici",
+    "score": 5
+  },
+  {
     "original_title": "“Chiediamo asilo, viva Sánchez”: la manifestazione dei giovani migranti in spiaggia a Ceuta",
     "url": "https://www.repubblica.it/esteri/2026/08/16/news/chiediamo_asilo_viva_sanchez_manifestazione_spiaggia_ceuta_giovani_migranti_marocco-425531496/",
     "domain": "repubblica.it",
     "region": "IT",
     "title": "“Chiediamo asilo, viva Sánchez”: la manifestazione dei giovani migranti in spiaggia a Ceuta",
-    "score": 8
+    "score": 4
   },
   {
     "original_title": "Studio: dai 60 data center in costruzione negli Usa emissioni pari a quelle di 27 centrali a carbone",
@@ -13,7 +21,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Studio: dai 60 data center in costruzione negli Usa emissioni pari a quelle di 27 centrali a carbone",
-    "score": 1
+    "score": 2
   },
   {
     "original_title": "Sofia Raffaeli argento al cerchio ai mondiali di ginnastica ritmica",
@@ -21,7 +29,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Sofia Raffaeli argento al cerchio ai mondiali di ginnastica ritmica",
-    "score": 7
+    "score": 8
   },
   {
     "original_title": "Italiani aggrediti a Barcellona, un 21enne in coma farmacologico",
@@ -40,12 +48,44 @@
     "score": 1
   },
   {
-    "original_title": "Lavitola, legale: “Ranucci potrebbe aver capito chi fosse il mandante”. Chiesto nuovo interrogatorio",
-    "url": "https://roma.repubblica.it/cronaca/2026/08/16/news/valter_lavitola_ranucci_mandante_nuovo_interrogatorio-425531358/",
-    "domain": "repubblica.it",
+    "original_title": "Soccorso ingiustificato in mare o in montagna, adesso si paga: fino a 4mila euro all’ora per un elicottero",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/16/soccorso-ingiustificato-in-mare-o-in-montagna-adesso-si-paga-fino-a-4mila-euro-allora-per-un-elicottero/8463194/",
+    "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Lavitola, legale: “Ranucci potrebbe aver capito chi fosse il mandante”. Chiesto nuovo interrogatorio",
+    "title": "Soccorso ingiustificato in mare o in montagna, adesso si paga: fino a 4mila euro all’ora per un elicottero",
+    "score": 9
+  },
+  {
+    "original_title": "Il cambiamento climatico ferma lo sci estivo su tutte le Alpi: stop anche sullo Stelvio",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/16/sci-estivo-alpi-stelvio-caldo-notizie/8480223/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Il cambiamento climatico ferma lo sci estivo su tutte le Alpi: stop anche sullo Stelvio",
     "score": 1
+  },
+  {
+    "original_title": "Ferragosto ad alta tensione nelle carceri: agenti aggrediti e disordini in tutta Italia. I sindacati: “Nordio si svegli dal torpore”",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/16/carceri-sovraffollamento-agenti-aggrediti-ferragosto-notizie/8480172/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Ferragosto ad alta tensione nelle carceri: agenti aggrediti e disordini in tutta Italia. I sindacati: “Nordio si svegli dal torpore”",
+    "score": 1
+  },
+  {
+    "original_title": "L’Iran mette una taglia sugli americani: “30mila dollari a chiunque uccida o catturi un soldato Usa”",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/16/iran-taglia-soldati-americani-notizie/8480206/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "L’Iran mette una taglia sugli americani: “30mila dollari a chiunque uccida o catturi un soldato Usa”",
+    "score": 3
+  },
+  {
+    "original_title": "A Messina un furto da film durante la processione: le opere di Antonello rubate con i custodi dentro al museo. Dallo yacht alla macchina: tutte le ipotesi di fuga",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/16/furto-museo-messina-antonello-notizie/8480196/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "A Messina un furto da film durante la processione: le opere di Antonello rubate con i custodi dentro al museo. Dallo yacht alla macchina: tutte le ipotesi di fuga",
+    "score": 8
   },
   {
     "original_title": "Trovano un tesoro da nove milioni mentre scavano per una fognatura: “All’inizio pensavamo fossero monete da un euro, poi abbiamo visto anche un lingotto”",
@@ -53,46 +93,6 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Trovano un tesoro da nove milioni mentre scavano per una fognatura: “All’inizio pensavamo fossero monete da un euro, poi abbiamo visto anche un lingotto”",
-    "score": 3
-  },
-  {
-    "original_title": "Un bimbo aggredito da un animale selvatico a Noicattaro (Bari), è il terzo: il sindaco chiude i parchi",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/16/un-bimbo-aggredito-aggredito-da-un-animale-selvatico-a-noicattaro-bari-e-il-terzo-il-sindaco-chiude-i-parchi/8480195/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Un bimbo aggredito da un animale selvatico a Noicattaro (Bari), è il terzo: il sindaco chiude i parchi",
-    "score": 5
-  },
-  {
-    "original_title": "Mosca, colonna di fumo si alza sui magazzini Wildberries: “Droni ucraini mettono fuori uso 7 centri logistici su 10”",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/16/attacco-droni-ucraini-wildberries-mosca-notizie/8480169/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Mosca, colonna di fumo si alza sui magazzini Wildberries: “Droni ucraini mettono fuori uso 7 centri logistici su 10”",
-    "score": 7
-  },
-  {
-    "original_title": "Spidercam precipita da 20 metri durante la partita di calcio e sfiora un operatore",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/16/durante-una-partita-tra-nazionali-una-telecamera-cade-da-20-metri-e-sfiora-un-operatore/8480176/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Spidercam precipita da 20 metri durante la partita di calcio e sfiora un operatore",
-    "score": 6
-  },
-  {
-    "original_title": "Malta, media: “15enne italiano detenuto ha rapporti con la rete 764, che spinge gli adolescenti ad autolesionismo e violenza”",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/16/rete-764-quindicenne-italiano-malta-notizie/8480156/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Malta, media: “15enne italiano detenuto ha rapporti con la rete 764, che spinge gli adolescenti ad autolesionismo e violenza”",
-    "score": 2
-  },
-  {
-    "original_title": "“Avevo 40mila euro di debiti e due figli piccoli da crescere. Mi sembrava di lavorare gratis, dello stipendio non rimaneva niente. Oggi sono milionaria”: la storia di Lisa Johnson",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/16/avevo-40mila-euro-di-debiti-e-due-figli-piccoli-da-crescere-mi-sembrava-di-lavorare-gratis-dello-stipendio-non-rimaneva-niente-oggi-sono-milionaria-la-storia-di-lisa-johnson/8480151/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "“Avevo 40mila euro di debiti e due figli piccoli da crescere. Mi sembrava di lavorare gratis, dello stipendio non rimaneva niente. Oggi sono milionaria”: la storia di Lisa Johnson",
     "score": 6
   },
   {
@@ -101,7 +101,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "È online lo speciale di ANSA.it sui Giochi del Mediterraneo Taranto 2026",
-    "score": 5
+    "score": 7
   },
   {
     "original_title": "Utenti iPhone possibili vittime di attacchi cyber, Apple manda avvisi in 110 Paesi",
@@ -109,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Utenti iPhone possibili vittime di attacchi cyber, Apple manda avvisi in 110 Paesi",
-    "score": 3
+    "score": 2
   },
   {
     "original_title": "Assoturismo, a Ferragosto l'afa premia la montagna, 1,6 milioni presenze nel weekend",
@@ -117,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Assoturismo, a Ferragosto l'afa premia la montagna, 1,6 milioni presenze nel weekend",
-    "score": 5
+    "score": 3
   },
   {
     "original_title": "Selena Gomez citata per frode da alcuni investitori nella sua startup Wondermind",
@@ -125,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Selena Gomez citata per frode da alcuni investitori nella sua startup Wondermind",
-    "score": 2
+    "score": 5
   },
   {
     "original_title": "Da Spotify ad Anthropic, i big lavorano a etichettare l'IA",
@@ -133,7 +133,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Da Spotify ad Anthropic, i big lavorano a etichettare l'IA",
-    "score": 5
+    "score": 3
   },
   {
     "original_title": "Italiani aggrediti a Barcellona, un 21enne è in coma farmacologico",
@@ -141,7 +141,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Italiani aggrediti a Barcellona, un 21enne è in coma farmacologico",
-    "score": 3
+    "score": 1
   },
   {
     "original_title": "Nicola Maggiotto, chi è il 21enne italiano in coma farmacologico a Barcellona: colpito alla testa, l'aggressione all'esterno di un locale",
@@ -149,7 +149,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Nicola Maggiotto, chi è il 21enne italiano in coma farmacologico a Barcellona: colpito alla testa, l'aggressione all'esterno di un locale",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "«In autunno possibile un evento storico». ?El Niño accelera e il Pacifico si scalda: cosa può succedere in Europa e in Italia",
@@ -157,7 +157,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "«In autunno possibile un evento storico». ?El Niño accelera e il Pacifico si scalda: cosa può succedere in Europa e in Italia",
-    "score": 8
+    "score": 3
   },
   {
     "original_title": "Ornella Forastefano, chi è la 46enne uccisa nel Cosentino: il bar in gestione con i figli e il padre freddato davanti la sua pescheria",
@@ -165,7 +165,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Ornella Forastefano, chi è la 46enne uccisa nel Cosentino: il bar in gestione con i figli e il padre freddato davanti la sua pescheria",
-    "score": 3
+    "score": 6
   },
   {
     "original_title": "Furto al museo, rubate opere di Antonello da Messina. La \"Madonna e il Cristo in pietà\" ?asportata dalla teca blindata",
@@ -173,7 +173,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Furto al museo, rubate opere di Antonello da Messina. La \"Madonna e il Cristo in pietà\" ?asportata dalla teca blindata",
-    "score": 4
+    "score": 9
   },
   {
     "original_title": "Milano, 19enne violentata in discoteca: l'uomo conosciuto durante la notte di Ferragosto",
@@ -181,7 +181,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Milano, 19enne violentata in discoteca: l'uomo conosciuto durante la notte di Ferragosto",
-    "score": 3
+    "score": 8
   },
   {
     "original_title": "Sbanda e si schianta contro un palo della luce, in auto c'era anche il suo border collie: conducente ferito e cane affidato a un rifugio",
@@ -189,7 +189,23 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Sbanda e si schianta contro un palo della luce, in auto c'era anche il suo border collie: conducente ferito e cane affidato a un rifugio",
+    "score": 2
+  },
+  {
+    "original_title": "Continua la maledizione del Palio di Siena, ennesimo rinvio per la pioggia",
+    "url": "https://www.open.online/2026/08/16/palio-di-siena-rinvio-pioggia-17-agosto/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Continua la maledizione del Palio di Siena, ennesimo rinvio per la pioggia",
     "score": 5
+  },
+  {
+    "original_title": "L’auto in affitto a 100 euro al mese, cos’è il noleggio sociale dell’Aci ma con un modello solo: quando si può fare domanda e i requisiti",
+    "url": "https://www.open.online/2026/08/16/moleggio-sociale-come-funziona-quando-parte/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "L’auto in affitto a 100 euro al mese, cos’è il noleggio sociale dell’Aci ma con un modello solo: quando si può fare domanda e i requisiti",
+    "score": 3
   },
   {
     "original_title": "Conosce un uomo in discoteca e lui la violenta. La denuncia di una 19enne a Milano: «Ha abusato di me nel retro del locale»",
@@ -197,7 +213,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Conosce un uomo in discoteca e lui la violenta. La denuncia di una 19enne a Milano: «Ha abusato di me nel retro del locale»",
-    "score": 9
+    "score": 4
   },
   {
     "original_title": "Axios: «Trump ha negoziato in segreto con i pasdaran». L’Iran mette una taglia sui soldati americani: «30mila dollari a chi li uccide»",
@@ -213,7 +229,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Giovani italiani aggrediti fuori da un bar a Barcellona: un 21enne finisce in coma farmacologico",
-    "score": 1
+    "score": 4
   },
   {
     "original_title": "L’avvocato di Lavitola: «Dopo la bomba, Ranucci aveva capito chi era il mandante». Il faccendiere chiede un nuovo interrogatorio",
@@ -221,31 +237,15 @@
     "domain": "open.online",
     "region": "IT",
     "title": "L’avvocato di Lavitola: «Dopo la bomba, Ranucci aveva capito chi era il mandante». Il faccendiere chiede un nuovo interrogatorio",
-    "score": 9
+    "score": 5
   },
   {
-    "original_title": "Ornella Forastefano uccisa nel Cosentino, il compagno trovato al porto di Bari. Lei abbandonata davanti all’ospedale: «Picchiata selvaggiamente»",
-    "url": "https://www.open.online/2026/08/16/ornella-forastefano-morte-indagini-comoagno-ricercato/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Ornella Forastefano uccisa nel Cosentino, il compagno trovato al porto di Bari. Lei abbandonata davanti all’ospedale: «Picchiata selvaggiamente»",
-    "score": 8
-  },
-  {
-    "original_title": "«Furto? Quello di Antonello da Messina è una mutilazione», parla il critico Carli: i sospetti dietro al colpo «su commissione»",
-    "url": "https://www.open.online/2026/08/16/furto-antonello-messina-critico-arte-indagini-reazioni/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "«Furto? Quello di Antonello da Messina è una mutilazione», parla il critico Carli: i sospetti dietro al colpo «su commissione»",
-    "score": 4
-  },
-  {
-    "original_title": "Aggredito dal branco fuori da un locale in Spagna: 21enne trevigiano in coma a Barcellona. Picchiato anche l'amico che l'ha difeso",
-    "url": "https://www.ilgazzettino.it/nordest/treviso/aggredito_barcellona_spagna_asolo_coma-9709798.html",
+    "original_title": "Aggredito in Spagna, 21enne trevigiano in coma a Barcellona. Sul caso l'ombra di Ceuta, il padre: «Ce l'avevano con gli italiani per la questione dei migranti»",
+    "url": "https://www.ilgazzettino.it/nordest/treviso/aggredito_barcellona_spagna_asolo_coma_ceuta_migranti-9709798.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Aggredito dal branco fuori da un locale in Spagna: 21enne trevigiano in coma a Barcellona. Picchiato anche l'amico che l'ha difeso",
-    "score": 4
+    "title": "Aggredito in Spagna, 21enne trevigiano in coma a Barcellona. Sul caso l'ombra di Ceuta, il padre: «Ce l'avevano con gli italiani per la questione dei migranti»",
+    "score": 2
   },
   {
     "original_title": "Incendi in Carnia, le fiamme dilagano. Abitazioni evacuate e riunione d'emergenza. Disposizioni in 17 paesi: «All'esterno usate la mascherina»",
@@ -253,7 +253,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Incendi in Carnia, le fiamme dilagano. Abitazioni evacuate e riunione d'emergenza. Disposizioni in 17 paesi: «All'esterno usate la mascherina»",
-    "score": 2
+    "score": 5
   },
   {
     "original_title": "Temporali e rovesci in arrivo, allerta gialla in Veneto e Trentino Alto Adige per maltempo",
@@ -261,7 +261,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Temporali e rovesci in arrivo, allerta gialla in Veneto e Trentino Alto Adige per maltempo",
-    "score": 2
+    "score": 1
   },
   {
     "original_title": "Disperso sugli Spalti di Toro, fine delle speranze. Trovato morto l'anziano che non era rientrato da un'escursione",
@@ -272,20 +272,20 @@
     "score": 4
   },
   {
-    "original_title": "Ultras del Calcio Padova aggrediscono i tifosi dell'Udinese prima del match di Coppa Italia: 10 daspo e denunce",
-    "url": "https://www.ilgazzettino.it/nordest/padova/ultras_calcio_padova_daspo_udinese_scontri-9709776.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Ultras del Calcio Padova aggrediscono i tifosi dell'Udinese prima del match di Coppa Italia: 10 daspo e denunce",
-    "score": 7
-  },
-  {
     "original_title": "Malore al volante, sbanda e si schianta sulla pensilina del bus: salvato da due automobilisti in videochiamata con il Suem",
     "url": "https://www.ilgazzettino.it/nordest/treviso/malore_auto_schianto_pensilina_bus_salvato_videochiamata_suem_istrana-9709664.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Malore al volante, sbanda e si schianta sulla pensilina del bus: salvato da due automobilisti in videochiamata con il Suem",
     "score": 7
+  },
+  {
+    "original_title": "Gianfranco Candiani, morto a 96 anni l'ex procuratore che indagò su Brigate Rosse, Unabomber, secessionisti e Gentilini per le frasi sugli immigrati",
+    "url": "https://www.ilgazzettino.it/nordest/treviso/gianfranco_candiani_morto_procuratore_gentilini_brigate_rosse_unabomber_secessionisti-9709884.html",
+    "domain": "ilgazzettino.it",
+    "region": "IT",
+    "title": "Gianfranco Candiani, morto a 96 anni l'ex procuratore che indagò su Brigate Rosse, Unabomber, secessionisti e Gentilini per le frasi sugli immigrati",
+    "score": 9
   },
   {
     "original_title": "Nicola Maggiotto, chi è il 21enne italiano in coma farmacologico a Barcellona: colpito alla testa, l'aggressione all'esterno di un locale",
@@ -296,12 +296,12 @@
     "score": 7
   },
   {
-    "original_title": "Ornella Forastefano, donna di 46 anni uccisa nel Cosentino: il corpo lasciato vicino un ospedale. Il compagno rintracciato a Bari",
-    "url": "https://www.ilmattino.it/primopiano/cronaca/ornella_forastefano_donna_di_46_anni_uccisa_nel_cosentino_il_corpo_trovato_vicino_un_ospedale._ricercato_il_compagno-9709716.html",
+    "original_title": "Ornella Forastefano, chi è la 46enne uccisa nel Cosentino: il bar in gestione con i figli e il padre freddato davanti la sua pescheria",
+    "url": "https://www.ilmattino.it/primopiano/cronaca/ornella_forastefano_uccisa_cosenza_chi_e_ultime_notizie-9709872.html",
     "domain": "ilmattino.it",
     "region": "IT",
-    "title": "Ornella Forastefano, donna di 46 anni uccisa nel Cosentino: il corpo lasciato vicino un ospedale. Il compagno rintracciato a Bari",
-    "score": 1
+    "title": "Ornella Forastefano, chi è la 46enne uccisa nel Cosentino: il bar in gestione con i figli e il padre freddato davanti la sua pescheria",
+    "score": 6
   },
   {
     "original_title": "Uccide la moglie in provincia di Benevento poi tenta suicidio: l'uomo è piantonato in ospedale",
@@ -317,7 +317,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Terremoto Pozzuoli: oltre 3.300 sfollati e proteste degli autotrasportatori per il porto",
-    "score": 9
+    "score": 7
   },
   {
     "original_title": "Watch: BBC visits smouldering market in Ukraine after strikes",
@@ -325,7 +325,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
-    "score": 1
+    "score": 4
   },
   {
     "original_title": "People who fled Stourbridge fires start to return home",
@@ -333,14 +333,6 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "People who fled Stourbridge fires start to return home",
-    "score": 7
-  },
-  {
-    "original_title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
-    "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
     "score": 1
   },
   {
@@ -349,7 +341,15 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Murder inquiry after man bitten by dog dies",
-    "score": 3
+    "score": 1
+  },
+  {
+    "original_title": "Calls for public inquiry into Jason Arday 'witchhunt'",
+    "url": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Calls for public inquiry into Jason Arday 'witchhunt'",
+    "score": 8
   },
   {
     "original_title": "Ariana Grande leaves problems at home as her tour hits the UK",
@@ -357,87 +357,87 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Ariana Grande leaves problems at home as her tour hits the UK",
-    "score": 2
-  },
-  {
-    "original_title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-    "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-    "score": 5
-  },
-  {
-    "original_title": "bet365 bonus code: Bet $10, get $150 in bonus bets for Mets vs. Nationals",
-    "url": "https://nypost.com/2026/08/16/betting/bet365-bonus-code-bet-10-get-150-in-bonus-bets-for-mets-vs-nationals/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "bet365 bonus code: Bet $10, get $150 in bonus bets for Mets vs. Nationals",
-    "score": 3
-  },
-  {
-    "original_title": "Ukraine kills at least 6 people in Russia after launching one of the largest aerial assaults of war",
-    "url": "https://nypost.com/2026/08/16/world-news/ukraine-kills-at-least-6-people-in-russia-after-launching-one-of-the-largest-aerial-assaults-of-war/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Ukraine kills at least 6 people in Russia after launching one of the largest aerial assaults of war",
-    "score": 6
-  },
-  {
-    "original_title": "Diamondbacks vs. Braves prediction: MLB picks, best bets for Sunday",
-    "url": "https://nypost.com/2026/08/16/betting/diamondbacks-vs-braves-prediction-mlb-picks-best-bets-for-sunday/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Diamondbacks vs. Braves prediction: MLB picks, best bets for Sunday",
-    "score": 1
-  },
-  {
-    "original_title": "Fanatics Sportsbook promo code NYPOST26: Get up to $1K matched in FanCash for Yankees vs. Blue Jays",
-    "url": "https://nypost.com/2026/08/16/betting/fanatics-sportsbook-promo-code-nypost26-get-up-to-1k-matched-in-fancash-for-yankees-vs-blue-jays/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Fanatics Sportsbook promo code NYPOST26: Get up to $1K matched in FanCash for Yankees vs. Blue Jays",
-    "score": 5
-  },
-  {
-    "original_title": "Mark Walter’s Lakers sale memorialized by mass layoffs, price hikes, losing LeBron",
-    "url": "https://nypost.com/2026/08/16/sports/lakers-sale-end-disappointing-mark-walter-era/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Mark Walter’s Lakers sale memorialized by mass layoffs, price hikes, losing LeBron",
-    "score": 6
-  },
-  {
-    "original_title": "Cartel-aiding Nevada man faces 70 years in prison for buying ‘military-style’ firearms: DOJ",
-    "url": "https://nypost.com/2026/08/16/us-news/nevada-man-pleads-guilty-for-buying-firearms-for-cartel-sale/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Cartel-aiding Nevada man faces 70 years in prison for buying ‘military-style’ firearms: DOJ",
     "score": 7
   },
   {
-    "original_title": "Operation Sindoor exposed limits of Pakistan's nuclear deterrence: Report",
-    "url": "https://timesofindia.indiatimes.com/defence/international/operation-sindoor-exposed-limits-of-pakistans-nuclear-deterrence-report/articleshow/133269197.cms",
-    "domain": "timesofindia.com",
+    "original_title": "What's driving men to get penis fillers, despite the risks?",
+    "url": "https://www.bbc.co.uk/news/articles/c626d3xqd83o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Operation Sindoor exposed limits of Pakistan's nuclear deterrence: Report",
-    "score": 3
-  },
-  {
-    "original_title": "Bankim descendant seeks Sonia apology over ‘Vande Mataram’ row",
-    "url": "https://timesofindia.indiatimes.com/india/bankim-descendant-seeks-sonia-apology-over-vande-mataram-row-/articleshow/133275818.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Bankim descendant seeks Sonia apology over ‘Vande Mataram’ row",
+    "title": "What's driving men to get penis fillers, despite the risks?",
     "score": 4
   },
   {
-    "original_title": "Nasa’s Moon base: Too early to tell where India fits in",
+    "original_title": "Travis Kelce flashes wedding band ahead of Chiefs’ preseason opener after Taylor Swift wedding",
+    "url": "https://nypost.com/2026/08/16/sports/travis-kelce-flashes-wedding-band-ahead-of-chiefs-preseason-opener/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Travis Kelce flashes wedding band ahead of Chiefs’ preseason opener after Taylor Swift wedding",
+    "score": 6
+  },
+  {
+    "original_title": "Global corgis gather for cutest costume contest and annual high-speed race",
+    "url": "https://nypost.com/2026/08/16/lifestyle/annual-corgi-competition-draws-150-dogs-to-lithuania/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Global corgis gather for cutest costume contest and annual high-speed race",
+    "score": 6
+  },
+  {
+    "original_title": "Ex-Sen. Kyrsten Sinema details repeated sex with bodyguard in ‘homewrecker’ case where ex-wife wants $75K",
+    "url": "https://nypost.com/2026/08/16/us-news/ex-sen-kyrsten-sinema-details-repeated-sex-with-bodyguard/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Ex-Sen. Kyrsten Sinema details repeated sex with bodyguard in ‘homewrecker’ case where ex-wife wants $75K",
+    "score": 7
+  },
+  {
+    "original_title": "Mets vs. Nationals prediction: MLB Sunday picks, odds, bets",
+    "url": "https://nypost.com/2026/08/16/betting/mets-vs-nationals-prediction-mlb-sunday-picks-odds-bets/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Mets vs. Nationals prediction: MLB Sunday picks, odds, bets",
+    "score": 8
+  },
+  {
+    "original_title": "Are There Any NFL Football Games On Today? NFL Preseason 2026 Schedule",
+    "url": "https://decider.com/2026/08/16/nfl-football-games-today-nfl-preseason-2026-schedule/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Are There Any NFL Football Games On Today? NFL Preseason 2026 Schedule",
+    "score": 9
+  },
+  {
+    "original_title": "High school soccer player kicks, punches opponent in head in horrifying scene: ‘Ban that kid’",
+    "url": "https://nypost.com/2026/08/16/sports/south-dakota-hs-soccer-player-kicks-punches-opponent-in-head/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "High school soccer player kicks, punches opponent in head in horrifying scene: ‘Ban that kid’",
+    "score": 9
+  },
+  {
+    "original_title": "India gets seat at Nasa's Moon base table - what happens next?",
     "url": "https://timesofindia.indiatimes.com/india/nasas-moon-base-too-early-to-tell-where-india-fits-in/articleshow/133275195.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Nasa’s Moon base: Too early to tell where India fits in",
-    "score": 1
+    "title": "India gets seat at Nasa's Moon base table - what happens next?",
+    "score": 2
+  },
+  {
+    "original_title": "Vande Mataram row: Shah takes 'sin' jibe at Sonia; Cong says 'diverting attention'",
+    "url": "https://timesofindia.indiatimes.com/india/vande-mataram-row-amit-shah-takes-sin-jibe-at-sonia-congress-says-minister-diverting-attention/articleshow/133276357.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Vande Mataram row: Shah takes 'sin' jibe at Sonia; Cong says 'diverting attention'",
+    "score": 2
+  },
+  {
+    "original_title": "‘He said it was unloaded’: 2 screeners recall Varanasi airport ‘accidental’ firing incident",
+    "url": "https://timesofindia.indiatimes.com/city/varanasi/he-said-it-was-unloaded-2-screeners-recall-varanasi-airport-accidental-firing-incident/articleshow/133275911.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "‘He said it was unloaded’: 2 screeners recall Varanasi airport ‘accidental’ firing incident",
+    "score": 8
   },
   {
     "original_title": "IND vs SL: The ninety minutes! Moving day comes early in gloomy Galle",
@@ -445,7 +445,7 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "IND vs SL: The ninety minutes! Moving day comes early in gloomy Galle",
-    "score": 4
+    "score": 5
   },
   {
     "original_title": "Parliament at a standstill, protests on streets: The Monsoon session story",
@@ -453,7 +453,7 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "Parliament at a standstill, protests on streets: The Monsoon session story",
-    "score": 8
+    "score": 1
   },
   {
     "original_title": "US immigration authority: These forms will be rejected from September 15",
@@ -461,6 +461,14 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "US immigration authority: These forms will be rejected from September 15",
+    "score": 8
+  },
+  {
+    "original_title": "NATO jets shoot down drone in Romanian airspace",
+    "url": "https://www.upi.com/Top_News/World-News/2026/08/16/romania-nato-drone/1061786888154/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "NATO jets shoot down drone in Romanian airspace",
     "score": 4
   },
   {
@@ -469,7 +477,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "On This Day Aug. 16: West Caribbean Airways crash kills 160 in Venezuela",
-    "score": 8
+    "score": 3
   },
   {
     "original_title": "Famous birthdays for Aug. 16: Dan Smyers, Angela Bassett",
@@ -477,7 +485,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Famous birthdays for Aug. 16: Dan Smyers, Angela Bassett",
-    "score": 6
+    "score": 3
   },
   {
     "original_title": "Hungary sinks barges into Danube River to stave off energy crisis",
@@ -485,7 +493,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Hungary sinks barges into Danube River to stave off energy crisis",
-    "score": 8
+    "score": 6
   },
   {
     "original_title": "NYC man charged with hate crime in synagogue attack",
@@ -493,7 +501,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "NYC man charged with hate crime in synagogue attack",
-    "score": 5
+    "score": 2
   },
   {
     "original_title": "Bobby Moynihan felt 'Hollywood romantic' about new 'Minions' movie",
@@ -501,15 +509,39 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Bobby Moynihan felt 'Hollywood romantic' about new 'Minions' movie",
+    "score": 4
+  },
+  {
+    "original_title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/who-is-dei-critic-and-jason-arday-accuser-nathan-cofnas?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Who is DEI critic and Jason Arday accuser, Nathan Cofnas?",
+    "score": 7
+  },
+  {
+    "original_title": "Patients treated in tents after earthquake damages Indonesia hospital",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/patients-treated-in-tents-after-earthquake-damages-indonesia-hospital?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Patients treated in tents after earthquake damages Indonesia hospital",
+    "score": 7
+  },
+  {
+    "original_title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
+    "url": "https://www.aljazeera.com/news/2026/8/16/houthis-launch-new-attacks-on-al-makha-and-marib-as-yemen-conflict-escalates?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Houthis launch new attacks on al-Makha and Marib as Yemen conflict escalates",
     "score": 3
   },
   {
-    "original_title": "Moroccan authorities block 111 migrants from entering Ceuta",
-    "url": "https://www.upi.com/Top_News/World-News/2026/08/15/morocco-migrants-detained-ceuta/6131786827562/",
-    "domain": "upi.com",
+    "original_title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+    "url": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Moroccan authorities block 111 migrants from entering Ceuta",
-    "score": 9
+    "title": "Timeline: The one-week siege of Qusra by Israeli settlers in the West Bank",
+    "score": 2
   },
   {
     "original_title": "Belgium’s largest wildfire on record spreads towards German border",
@@ -517,7 +549,7 @@
     "domain": "aljazeera.com",
     "region": "GLOBAL",
     "title": "Belgium’s largest wildfire on record spreads towards German border",
-    "score": 1
+    "score": 9
   },
   {
     "original_title": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
@@ -525,87 +557,7 @@
     "domain": "aljazeera.com",
     "region": "GLOBAL",
     "title": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
-    "score": 7
-  },
-  {
-    "original_title": "‘Limited options’ for many Iranians as war with US chokes economy",
-    "url": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "‘Limited options’ for many Iranians as war with US chokes economy",
     "score": 5
-  },
-  {
-    "original_title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-    "url": "https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
-    "score": 3
-  },
-  {
-    "original_title": "Arsenal vs Manchester City LIVE: FA Community Shield",
-    "url": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Arsenal vs Manchester City LIVE: FA Community Shield",
-    "score": 2
-  },
-  {
-    "original_title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-    "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
-    "score": 4
-  },
-  {
-    "original_title": "World’s Ugliest Dog contest crowns its 2026 winner",
-    "url": "http://www.euronews.com/video/2026/08/16/worlds-ugliest-dog-contest-crowns-its-2026-winner",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "World’s Ugliest Dog contest crowns its 2026 winner",
-    "score": 2
-  },
-  {
-    "original_title": "Corgis race, bark and dress up at quirky competition in Vilnius",
-    "url": "http://www.euronews.com/video/2026/08/16/corgis-race-bark-and-dress-up-at-quirky-competition-in-vilnius",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Corgis race, bark and dress up at quirky competition in Vilnius",
-    "score": 7
-  },
-  {
-    "original_title": "Taliban mark five-year anniversary of regaining power in Afghanistan",
-    "url": "http://www.euronews.com/2026/08/16/taliban-mark-five-year-anniversary-of-regaining-power-in-afghanistan",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Taliban mark five-year anniversary of regaining power in Afghanistan",
-    "score": 8
-  },
-  {
-    "original_title": "Latest news bulletin | August 16th, 2026 – Midday",
-    "url": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-midday",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Latest news bulletin | August 16th, 2026 – Midday",
-    "score": 5
-  },
-  {
-    "original_title": "At least 12 people killed in Polish tourist bus crash in Hungary",
-    "url": "http://www.euronews.com/2026/08/16/at-least-12-people-killed-in-a-polish-tourist-bus-crash-in-hungary",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "At least 12 people killed in Polish tourist bus crash in Hungary",
-    "score": 9
-  },
-  {
-    "original_title": "Latest news bulletin | August 16th, 2026 – Morning",
-    "url": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-morning",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Latest news bulletin | August 16th, 2026 – Morning",
-    "score": 2
   },
   {
     "original_title": "AOC Freezing Her Eggs",
@@ -613,7 +565,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "AOC Freezing Her Eggs",
-    "score": 6
+    "score": 3
   },
   {
     "original_title": "Announcers Watch Angels-Royals Game In Total Silence",
@@ -621,7 +573,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Announcers Watch Angels-Royals Game In Total Silence",
-    "score": 9
+    "score": 5
   },
   {
     "original_title": "Trump Downplays Significance Of Trump Tower Found On Epstein Island",
@@ -629,7 +581,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Trump Downplays Significance Of Trump Tower Found On Epstein Island",
-    "score": 9
+    "score": 5
   },
   {
     "original_title": "Cheryl Hines Walks In On RFK Jr. Vivisecting Self Again",
@@ -637,6 +589,22 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Cheryl Hines Walks In On RFK Jr. Vivisecting Self Again",
-    "score": 7
+    "score": 1
+  },
+  {
+    "original_title": "Ms. Taylor and the Mailman",
+    "url": "https://theonion.com/ms-taylor-and-the-mailman/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "Ms. Taylor and the Mailman",
+    "score": 9
+  },
+  {
+    "original_title": "Former Bangladeshi Leader To Return From Exile Despite Death Sentence",
+    "url": "https://theonion.com/former-bangladeshi-leader-to-return-from-exile-despite-death-sentence/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "Former Bangladeshi Leader To Return From Exile Despite Death Sentence",
+    "score": 6
   }
 ]
