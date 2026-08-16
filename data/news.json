@@ -1,19 +1,27 @@
 [
   {
+    "original_title": "Figuraccia Lazio, eliminata dalla Coppa Italia dal Mantova. Gattuso: “Un bel cazzotto in faccia”",
+    "url": "https://www.repubblica.it/sport/calcio/2026/08/17/news/lazio_figuraccia_coppa_italia_mantova-425532149/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Figuraccia Lazio, eliminata dalla Coppa Italia dal Mantova. Gattuso: “Un bel cazzotto in faccia”",
+    "score": 6
+  },
+  {
     "original_title": "Si tuffa nel Ticino ma non riemerge: morto un ragazzo di 18 anni. Ventenne annega nel lago di Como",
     "url": "https://milano.repubblica.it/cronaca/2026/08/16/news/ragazzo_morto_fiume_ticino_cuggiono-425531916/",
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Si tuffa nel Ticino ma non riemerge: morto un ragazzo di 18 anni. Ventenne annega nel lago di Como",
-    "score": 8
+    "score": 6
   },
   {
-    "original_title": "Iapichino prima nel lungo, attesa per le staffette: gli Europei di atletica in diretta",
+    "original_title": "Iapichino e 4x400, ori meravigliosi, Italia prima nel medagliere: gli Europei di atletica in diretta",
     "url": "https://www.repubblica.it/sport/vari/2026/08/16/diretta/europei_atletica_2026_medaglie_oggi_iapichino-425531746/",
     "domain": "repubblica.it",
     "region": "IT",
-    "title": "Iapichino prima nel lungo, attesa per le staffette: gli Europei di atletica in diretta",
-    "score": 8
+    "title": "Iapichino e 4x400, ori meravigliosi, Italia prima nel medagliere: gli Europei di atletica in diretta",
+    "score": 3
   },
   {
     "original_title": "Colpi di pistola al pronto soccorso di Prato, ex detenuto tenta la fuga e l’agente spara",
@@ -29,7 +37,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "La Russa: “Report va cambiato, non eliminato. Speriamo non arrivi uno peggio di Ranucci”",
-    "score": 6
+    "score": 8
   },
   {
     "original_title": "Trentino, una donna precipita nel lago di Speccheri e muore annegata",
@@ -37,22 +45,14 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Trentino, una donna precipita nel lago di Speccheri e muore annegata",
-    "score": 1
-  },
-  {
-    "original_title": "Manuel Bortuzzo, sedia a rotelle rotta dopo il volo: “Vergognoso, sono le mie gambe, la mia libertà”",
-    "url": "https://roma.repubblica.it/cronaca/2026/08/16/news/manuel_bortuzzo_sedia_a_rotelle_rotta_volo_fiumicino_ethiopian_airlines-425531645/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Manuel Bortuzzo, sedia a rotelle rotta dopo il volo: “Vergognoso, sono le mie gambe, la mia libertà”",
     "score": 7
   },
   {
-    "original_title": "Europei di atletica, Italia d’oro fino all’ultimo giorno: nel salto in lungo vince Larissa Iapichino",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/16/europei-atletica-iapichino-oro-notizie/8480433/",
+    "original_title": "Europei di atletica, Italia d’oro fino all’ultimo giorno: incredibile successo nella staffetta maschile 4×400, Larissa Iapichino trionfa nel salto in lungo",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/16/europei-atletica-italia-medagliere-notizie/8480433/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Europei di atletica, Italia d’oro fino all’ultimo giorno: nel salto in lungo vince Larissa Iapichino",
+    "title": "Europei di atletica, Italia d’oro fino all’ultimo giorno: incredibile successo nella staffetta maschile 4×400, Larissa Iapichino trionfa nel salto in lungo",
     "score": 6
   },
   {
@@ -61,7 +61,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Etna, l’Ingv: “Nuova intensa attività esplosiva dal cratere Voragine”",
-    "score": 7
+    "score": 1
   },
   {
     "original_title": "Come nasce la musica classica: viaggio nel Festival Verbier dove il backstage (e le lezioni delle star) si trasforma in spettacolo",
@@ -69,7 +69,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Come nasce la musica classica: viaggio nel Festival Verbier dove il backstage (e le lezioni delle star) si trasforma in spettacolo",
-    "score": 3
+    "score": 5
   },
   {
     "original_title": "Europei nuoto, terzo oro per Quadarella: argenti amari per Ceccon, Pilato e le staffette. Italia seconda nel medagliere",
@@ -77,7 +77,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Europei nuoto, terzo oro per Quadarella: argenti amari per Ceccon, Pilato e le staffette. Italia seconda nel medagliere",
-    "score": 6
+    "score": 8
   },
   {
     "original_title": "Finisce l’afa, arrivano i temporali: l’Italia tra grandine, vento e nuovi disagi. La mappa delle previsioni",
@@ -93,7 +93,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "La Russa attacca di nuovo Report: “Va cambiato, ma non vorrei che arrivi uno peggio di Ranucci”",
-    "score": 3
+    "score": 8
   },
   {
     "original_title": "È online lo speciale di ANSA.it sui Giochi del Mediterraneo Taranto 2026",
@@ -109,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Utenti iPhone possibili vittime di attacchi cyber, Apple manda avvisi in 110 Paesi",
-    "score": 7
+    "score": 3
   },
   {
     "original_title": "Assoturismo, a Ferragosto l'afa premia la montagna, 1,6 milioni presenze nel weekend",
@@ -117,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Assoturismo, a Ferragosto l'afa premia la montagna, 1,6 milioni presenze nel weekend",
-    "score": 3
+    "score": 8
   },
   {
     "original_title": "Selena Gomez citata per frode da alcuni investitori nella sua startup Wondermind",
@@ -125,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Selena Gomez citata per frode da alcuni investitori nella sua startup Wondermind",
-    "score": 9
+    "score": 4
   },
   {
     "original_title": "Da Spotify ad Anthropic, i big lavorano a etichettare l'IA",
@@ -136,20 +136,44 @@
     "score": 5
   },
   {
-    "original_title": "Europei atletica: Iapichino medaglia d'oro nel salto in lungo",
-    "url": "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/16/europei-atletica-iapichino-medaglia-doro-nel-salto-in-lungo_c9866f9d-ce58-4315-bcce-98ae9a01c293.html",
+    "original_title": "Oro nella 4x400 e nel lungo con Iapichino, capolavoro degli azzurri campioni d'Europa",
+    "url": "https://www.ansa.it/sito/notizie/sport/2026/08/16/oro-nella-4x400-e-nel-lungo-con-iapichino-capolavoro-degli-azzurri_c9866f9d-ce58-4315-bcce-98ae9a01c293.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Europei atletica: Iapichino medaglia d'oro nel salto in lungo",
-    "score": 7
+    "title": "Oro nella 4x400 e nel lungo con Iapichino, capolavoro degli azzurri campioni d'Europa",
+    "score": 1
   },
   {
-    "original_title": "Medagliere Europei di atletica 2026: da Tamberi a Andy Diaz, tutte le medaglie degli azzurri",
+    "original_title": "Simona Quadarella, come ha vinto? Quei 50 metri finali (in 29.28) che hanno beffato le tedesche: «Se non me lo aspettavo io, figurarsi loro»",
+    "url": "https://www.ilmessaggero.it/sport/altrisport/simona_quadarella_come_ha_vinto_rimonta_ultimi_50_metri-9710177.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Simona Quadarella, come ha vinto? Quei 50 metri finali (in 29.28) che hanno beffato le tedesche: «Se non me lo aspettavo io, figurarsi loro»",
+    "score": 1
+  },
+  {
+    "original_title": "Larissa Iapichino, come ha vinto? Il fattore vento e quel centimentro che è valso l'oro (superando anche mamma Fiona May)",
+    "url": "https://www.ilmessaggero.it/sport/altrisport/larissa_iapichino_come_ha_vinto_fattore_vento_mamma_fiona_may_superata-9710180.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Larissa Iapichino, come ha vinto? Il fattore vento e quel centimentro che è valso l'oro (superando anche mamma Fiona May)",
+    "score": 2
+  },
+  {
+    "original_title": "Andy Diaz, il cubano di Roma che gestisce una pescheria: «Ora voglio il record. ?I 14 centimetri che mancano non sono niente»",
+    "url": "https://www.ilmessaggero.it/sport/altrisport/andy_diaz_cubano_roma_pescheria_chi_e_record_quanto_manca-9710175.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Andy Diaz, il cubano di Roma che gestisce una pescheria: «Ora voglio il record. ?I 14 centimetri che mancano non sono niente»",
+    "score": 2
+  },
+  {
+    "original_title": "Medagliere Europei di atletica 2026: da Tamberi a Andy Diaz e Larissa Iapichino, tutte le medaglie degli azzurri",
     "url": "https://www.ilmessaggero.it/sport/schede/medagliere_europei_atletica_medaglie_azzurri-9710108.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Medagliere Europei di atletica 2026: da Tamberi a Andy Diaz, tutte le medaglie degli azzurri",
-    "score": 3
+    "title": "Medagliere Europei di atletica 2026: da Tamberi a Andy Diaz e Larissa Iapichino, tutte le medaglie degli azzurri",
+    "score": 4
   },
   {
     "original_title": "Medagliere Europei di nuoto 2026, l'Italia chiude seconda (ma con più podi): la classifica completa e tutte le medaglie vinte",
@@ -157,39 +181,15 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Medagliere Europei di nuoto 2026, l'Italia chiude seconda (ma con più podi): la classifica completa e tutte le medaglie vinte",
-    "score": 1
+    "score": 7
   },
   {
-    "original_title": "Viaggiano col figlio morto in auto sulla A21, se ne accorgono dopo 100 chilometri. «Credevamo dormisse»",
-    "url": "https://www.ilmessaggero.it/italia/figlio_morto_auto_se_ne_accorgono_dopo_100_chilometri-9709932.html",
+    "original_title": "Ranucci, quei documenti girati a Lavitola e le due ore di telefonata ?coperte?: si indaga sul dialogo notturno",
+    "url": "https://www.ilmessaggero.it/italia/ranucci_lavitola_telefonate_coperte_cosa_sappiamo-9710156.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Viaggiano col figlio morto in auto sulla A21, se ne accorgono dopo 100 chilometri. «Credevamo dormisse»",
-    "score": 4
-  },
-  {
-    "original_title": "Turista britannico scompare a Roma poche ore dopo essere atterrato, l'appello della compagna: «Mi sono voltata e non c'era più»",
-    "url": "https://www.ilmessaggero.it/roma/centro_storico/turista_britannico_scomparso_roma-9710048.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Turista britannico scompare a Roma poche ore dopo essere atterrato, l'appello della compagna: «Mi sono voltata e non c'era più»",
-    "score": 8
-  },
-  {
-    "original_title": "«In autunno possibile un evento storico». ?El Niño accelera e il Pacifico si scalda: cosa può succedere in Europa e in Italia",
-    "url": "https://www.ilmessaggero.it/mondo/el_nino_effetti_italia_europa_caldo_record-9709839.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "«In autunno possibile un evento storico». ?El Niño accelera e il Pacifico si scalda: cosa può succedere in Europa e in Italia",
-    "score": 5
-  },
-  {
-    "original_title": "Ceuta, due casi di tubercolosi e 20 sospetti. La ministra spagnola: «Il rischio è nelle strade, non negli ospedali»",
-    "url": "https://www.ilmessaggero.it/mondo/ceuta_tubercolosi_migranti_emergenza_sanitaria_cosa_succede-9710000.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Ceuta, due casi di tubercolosi e 20 sospetti. La ministra spagnola: «Il rischio è nelle strade, non negli ospedali»",
-    "score": 2
+    "title": "Ranucci, quei documenti girati a Lavitola e le due ore di telefonata ?coperte?: si indaga sul dialogo notturno",
+    "score": 7
   },
   {
     "original_title": "Europei di ginnastica: Manila Esposito, la mamma e il fratello seguono l’esibizione da oro sugli spalti – Il video",
@@ -197,7 +197,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Europei di ginnastica: Manila Esposito, la mamma e il fratello seguono l’esibizione da oro sugli spalti – Il video",
-    "score": 4
+    "score": 2
   },
   {
     "original_title": "Gli americani bocciano Trump sull’economia: oltre metà degli elettori dice di stare peggio di due anni fa",
@@ -205,7 +205,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Gli americani bocciano Trump sull’economia: oltre metà degli elettori dice di stare peggio di due anni fa",
-    "score": 1
+    "score": 2
   },
   {
     "original_title": "Report, La Russa: «La trasmissione va cambiata non eliminata»",
@@ -213,7 +213,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Report, La Russa: «La trasmissione va cambiata non eliminata»",
-    "score": 5
+    "score": 3
   },
   {
     "original_title": "Europei di nuoto: splendida Quadarella, oro anche nei 400 stile. Ceccon e Pilato conquistano l’argento per un centesimo",
@@ -221,7 +221,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Europei di nuoto: splendida Quadarella, oro anche nei 400 stile. Ceccon e Pilato conquistano l’argento per un centesimo",
-    "score": 2
+    "score": 9
   },
   {
     "original_title": "Etna in fermento: nuova attività esplosiva alla Voragine e tremore in forte risalita",
@@ -237,7 +237,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Le lunghe file per i bomboloni (o meglio krapfen) mangiati in cima sulle Dolomiti",
-    "score": 5
+    "score": 4
   },
   {
     "original_title": "Ha un malore alla guida e finisce con l'auto nel canale: muore a 66 anni Don Lino Bertollo, parroco di Pederobba e Onigo",
@@ -245,7 +245,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Ha un malore alla guida e finisce con l'auto nel canale: muore a 66 anni Don Lino Bertollo, parroco di Pederobba e Onigo",
-    "score": 2
+    "score": 3
   },
   {
     "original_title": "Marianna Bernardi scivola e cade nel lago di Specchieri: muore annegata. Il figlio si è tuffato in acqua per tentare di salvarla",
@@ -253,7 +253,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Marianna Bernardi scivola e cade nel lago di Specchieri: muore annegata. Il figlio si è tuffato in acqua per tentare di salvarla",
-    "score": 9
+    "score": 3
   },
   {
     "original_title": "Aggredito in Spagna, 21enne trevigiano in coma a Barcellona. Il padre: «Ce l'avevano con gli italiani per la questione migranti»",
@@ -261,7 +261,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Aggredito in Spagna, 21enne trevigiano in coma a Barcellona. Il padre: «Ce l'avevano con gli italiani per la questione migranti»",
-    "score": 2
+    "score": 6
   },
   {
     "original_title": "Disperso sugli Spalti di Toro, fine delle speranze. Trovato morto l'anziano che non era rientrato da un'escursione",
@@ -269,7 +269,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Disperso sugli Spalti di Toro, fine delle speranze. Trovato morto l'anziano che non era rientrato da un'escursione",
-    "score": 3
+    "score": 9
   },
   {
     "original_title": "Incendi in Carnia, le fiamme dilagano. Abitazioni evacuate e riunione d'emergenza. Disposizioni in 17 paesi: «All'esterno usate la mascherina»",
@@ -277,7 +277,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Incendi in Carnia, le fiamme dilagano. Abitazioni evacuate e riunione d'emergenza. Disposizioni in 17 paesi: «All'esterno usate la mascherina»",
-    "score": 9
+    "score": 5
   },
   {
     "original_title": "Fulmine colpisce due alpinisti sopra Cortina: feriti. I compagni di cordata bloccati in parete a causa del maltempo",
@@ -285,7 +285,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Fulmine colpisce due alpinisti sopra Cortina: feriti. I compagni di cordata bloccati in parete a causa del maltempo",
-    "score": 8
+    "score": 4
   },
   {
     "original_title": "Morto Vittorio dell'Uva, vita da inviato lesse il mondo in tumulto con l?empatia dei grandi",
@@ -293,7 +293,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Morto Vittorio dell'Uva, vita da inviato lesse il mondo in tumulto con l?empatia dei grandi",
-    "score": 4
+    "score": 5
   },
   {
     "original_title": "Morto Vittorio dell?Uva, Capuozzo: «Inventò la brigata Sas e a Zagabria ci lasciarono passare»",
@@ -301,7 +301,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Morto Vittorio dell?Uva, Capuozzo: «Inventò la brigata Sas e a Zagabria ci lasciarono passare»",
-    "score": 5
+    "score": 9
   },
   {
     "original_title": "Morto il giornalista Vittorio dell'Uva, intervista Domenico Quirico: «Una penna dalla guerra raccontava le persone»",
@@ -309,7 +309,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Morto il giornalista Vittorio dell'Uva, intervista Domenico Quirico: «Una penna dalla guerra raccontava le persone»",
-    "score": 4
+    "score": 5
   },
   {
     "original_title": "L?intervista Gilberto Pichetto Fratin: «Rinnovabili, slancio per il Mezzogiorno e in futuro meno costi»",
@@ -317,7 +317,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "L?intervista Gilberto Pichetto Fratin: «Rinnovabili, slancio per il Mezzogiorno e in futuro meno costi»",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
@@ -325,7 +325,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-    "score": 4
+    "score": 3
   },
   {
     "original_title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
@@ -333,7 +333,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
-    "score": 8
+    "score": 4
   },
   {
     "original_title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
@@ -344,12 +344,20 @@
     "score": 1
   },
   {
+    "original_title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+    "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+    "score": 1
+  },
+  {
     "original_title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
     "url": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
-    "score": 4
+    "score": 1
   },
   {
     "original_title": "Murder inquiry after man bitten by dog dies",
@@ -357,111 +365,95 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Murder inquiry after man bitten by dog dies",
-    "score": 4
+    "score": 1
   },
   {
-    "original_title": "Calls for public inquiry into Jason Arday 'witch hunt'",
-    "url": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
+    "original_title": "Fauci was told about questions over COVID-19 vaccine studies and miscarriages, new texts show",
+    "url": "https://nypost.com/2026/08/16/us-news/fauci-was-told-about-questions-over-covid-19-vaccine-studies-and-miscarriages-new-texts-show/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
+    "title": "Fauci was told about questions over COVID-19 vaccine studies and miscarriages, new texts show",
     "score": 6
   },
   {
-    "original_title": "Mets sweep Nationals as they try to salvage dignity in lost season",
-    "url": "https://nypost.com/2026/08/16/sports/mets-sweep-nationals-as-they-try-to-salvage-dignity-in-lost-season/",
+    "original_title": "LeBron James spends day with former Lakers teammate Austin Reaves",
+    "url": "https://nypost.com/2026/08/16/sports/lebron-james-austin-reaves-golf-together-days-after-stunning-lakers-sale/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Mets sweep Nationals as they try to salvage dignity in lost season",
+    "title": "LeBron James spends day with former Lakers teammate Austin Reaves",
+    "score": 7
+  },
+  {
+    "original_title": "If we don’t face WHY men are giving up on work, America’s future is grim",
+    "url": "https://nypost.com/2026/08/16/opinion/if-we-dont-face-why-men-are-giving-up-on-work-americas-future-is-grim/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "If we don’t face WHY men are giving up on work, America’s future is grim",
+    "score": 8
+  },
+  {
+    "original_title": "Johnny Depp in talks for huge Hollywood return in sixth ‘Pirates of the Caribbean’ film",
+    "url": "https://pagesix.com/2026/08/16/celebrity-news/johnny-depp-in-talks-for-pirates-of-the-caribbean-6/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Johnny Depp in talks for huge Hollywood return in sixth ‘Pirates of the Caribbean’ film",
+    "score": 1
+  },
+  {
+    "original_title": "Moment ‘Dawn of the Dead’ actor’s home burns down as firefighters battle blaze: ‘Devastated’",
+    "url": "https://nypost.com/2026/08/16/us-news/moment-dawn-of-the-dead-actors-home-burns-down/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Moment ‘Dawn of the Dead’ actor’s home burns down as firefighters battle blaze: ‘Devastated’",
+    "score": 8
+  },
+  {
+    "original_title": "White House 'discussing using nuclear weapons on Iran,' claims former Congresswoman",
+    "url": "https://www.express.co.uk/news/world/2239689/white-house-discussing-nuclear-weapons",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "White House 'discussing using nuclear weapons on Iran,' claims former Congresswoman",
+    "score": 2
+  },
+  {
+    "original_title": "Germany fires LIVE: Monschau evacuated after huge Belgium wildfire crosses High Fens",
+    "url": "https://www.express.co.uk/news/world/2239688/germany-fires-live-monschau-evacuated",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Germany fires LIVE: Monschau evacuated after huge Belgium wildfire crosses High Fens",
     "score": 4
   },
   {
-    "original_title": "Iran betting it can outlast Trump if Dems take Congress, Gingrich says: ‘Trying to win in America politically’ like North Vietnam",
-    "url": "https://nypost.com/2026/08/16/us-news/iran-betting-it-can-outlast-trump-if-dems-take-congress-gingrich-says/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Iran betting it can outlast Trump if Dems take Congress, Gingrich says: ‘Trying to win in America politically’ like North Vietnam",
-    "score": 5
-  },
-  {
-    "original_title": "Sophie Cunningham name banned from WNBA subreddit amid ‘trans’ scandal",
-    "url": "https://nypost.com/2026/08/16/sports/sophie-cunningham-name-banned-wnba-subreddit-amid-trans-scandal/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Sophie Cunningham name banned from WNBA subreddit amid ‘trans’ scandal",
-    "score": 1
-  },
-  {
-    "original_title": "Dodgers lose All-Star Justin Wrobleski as pitching injury list piles up",
-    "url": "https://nypost.com/2026/08/16/sports/dodgers-all-star-justin-wrobleski-injured-list/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Dodgers lose All-Star Justin Wrobleski as pitching injury list piles up",
-    "score": 2
-  },
-  {
-    "original_title": "Virginia State University mass-shooting suspect found cowering in campus closet over 14 hours after mayhem",
-    "url": "https://nypost.com/2026/08/16/us-news/virginia-state-university-mass-shooting-suspect-found-cowering-in-campus-closet/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Virginia State University mass-shooting suspect found cowering in campus closet over 14 hours after mayhem",
-    "score": 1
-  },
-  {
-    "original_title": "Reactions pour in for legendary Dodgers figure Tommy John after death at 83",
-    "url": "https://nypost.com/2026/08/16/sports/reactions-legendary-dodgers-figure-tommy-john/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Reactions pour in for legendary Dodgers figure Tommy John after death at 83",
-    "score": 5
-  },
-  {
-    "original_title": "Torpoint Ferry LIVE: Serious fire breaks out at Devonport Park",
-    "url": "https://www.express.co.uk/news/uk/2239679/torpoint-ferry-live-serious-fire",
+    "original_title": "One dead and 12 injured after horse-drawn carriage crashes",
+    "url": "https://www.express.co.uk/news/world/2239687/one-dead-12-injured-horse-drawn-carriage-crashes",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Torpoint Ferry LIVE: Serious fire breaks out at Devonport Park",
-    "score": 7
+    "title": "One dead and 12 injured after horse-drawn carriage crashes",
+    "score": 8
   },
   {
-    "original_title": "British girl, 12, who went missing during holiday in Japan found safe",
-    "url": "https://www.express.co.uk/news/world/2239670/british-girl-12-missing-japan",
+    "original_title": "UK department store shuts for good after 112 years on high street",
+    "url": "https://www.express.co.uk/news/uk/2239685/uk-high-street-department-store-closure",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "British girl, 12, who went missing during holiday in Japan found safe",
+    "title": "UK department store shuts for good after 112 years on high street",
     "score": 9
   },
   {
-    "original_title": "M9 crash LATEST: Fifth person dies after horror smash in County Kildare",
-    "url": "https://www.express.co.uk/news/uk/2239669/m9-crash-latest-fifth-person",
+    "original_title": "Humiliation for Putin as Russia loses 43,000 soldiers in one of the war’s bloodiest months",
+    "url": "https://www.express.co.uk/news/world/2239684/putin-russia-loses-43000-soldiers",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "M9 crash LATEST: Fifth person dies after horror smash in County Kildare",
+    "title": "Humiliation for Putin as Russia loses 43,000 soldiers in one of the war’s bloodiest months",
+    "score": 5
+  },
+  {
+    "original_title": "Louise Haigh sent deafening wildfire alert as fury erupts over 'misuse'",
+    "url": "https://www.express.co.uk/news/politics/2239683/louise-haigh-sent-deafening-wildfire-alert",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Louise Haigh sent deafening wildfire alert as fury erupts over 'misuse'",
     "score": 2
-  },
-  {
-    "original_title": "Major update after man arrested over migrant hotel stabbing",
-    "url": "https://www.express.co.uk/news/uk/2239663/migrant-hotel-attempted-murder-stabbing-update",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Major update after man arrested over migrant hotel stabbing",
-    "score": 7
-  },
-  {
-    "original_title": "Essex aerodrome incident: Plane crash horror at air show as pilot rushed to hospital",
-    "url": "https://www.express.co.uk/news/uk/2239662/essex-aerodrome-incident-plane-crash",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Essex aerodrome incident: Plane crash horror at air show as pilot rushed to hospital",
-    "score": 2
-  },
-  {
-    "original_title": "Prince Harry's 'huge UK plan' is a recipe for disaster - King Charles must stand firm",
-    "url": "https://www.express.co.uk/news/royal/2239661/prince-harrys-huge-plan-recipe",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Prince Harry's 'huge UK plan' is a recipe for disaster - King Charles must stand firm",
-    "score": 9
   },
   {
     "original_title": "Parliament at a standstill, protests on streets: The Monsoon session story",
@@ -469,23 +461,23 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "Parliament at a standstill, protests on streets: The Monsoon session story",
+    "score": 7
+  },
+  {
+    "original_title": "ED: TMC paid little-known company Rs 160 crore to buy a jet &amp; helicopter",
+    "url": "https://timesofindia.indiatimes.com/india/ed-tmc-paid-little-known-company-rs-160-crore-to-buy-a-jet-helicopter/articleshow/133283898.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "ED: TMC paid little-known company Rs 160 crore to buy a jet &amp; helicopter",
     "score": 2
   },
   {
-    "original_title": "'He said pistol was unloaded': Injured staff on Varanasi airport firing incident",
-    "url": "https://timesofindia.indiatimes.com/city/varanasi/he-said-it-was-unloaded-2-screeners-recall-varanasi-airport-accidental-firing-incident/articleshow/133275911.cms",
+    "original_title": "Navy sailor, wife and 2 kids found dead in Mumbai home; police suspect murder-suicide",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/navy-sailor-wife-and-2-kids-found-dead-in-mumbai-home-police-suspect-murder-suicide/articleshow/133277605.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "'He said pistol was unloaded': Injured staff on Varanasi airport firing incident",
-    "score": 8
-  },
-  {
-    "original_title": "CM Vijay condemns killing of 3 Tamil farmers in Karnataka; Stalin seeks judicial probe",
-    "url": "https://timesofindia.indiatimes.com/city/chennai/tn-political-leaders-condemn-killing-of-three-tamil-farmers-by-karnataka-forest-officials/articleshow/133280246.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "CM Vijay condemns killing of 3 Tamil farmers in Karnataka; Stalin seeks judicial probe",
-    "score": 5
+    "title": "Navy sailor, wife and 2 kids found dead in Mumbai home; police suspect murder-suicide",
+    "score": 7
   },
   {
     "original_title": "Ronaldo drops bombshell retirement hint, reveals plans for life after football",
@@ -493,15 +485,15 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "Ronaldo drops bombshell retirement hint, reveals plans for life after football",
-    "score": 3
+    "score": 4
   },
   {
-    "original_title": "Lens on Cambridge after Black professor's death amid scrutiny of his credentials",
-    "url": "https://timesofindia.indiatimes.com/world/uk/lens-on-cambridge-after-black-professors-death-amid-scrutiny-of-his-credentials/articleshow/133281853.cms",
+    "original_title": "CM Vijay condemns killing of 3 Tamil farmers in Karnataka; Stalin seeks judicial probe",
+    "url": "https://timesofindia.indiatimes.com/city/chennai/tn-political-leaders-condemn-killing-of-three-tamil-farmers-by-karnataka-forest-officials/articleshow/133280246.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Lens on Cambridge after Black professor's death amid scrutiny of his credentials",
-    "score": 5
+    "title": "CM Vijay condemns killing of 3 Tamil farmers in Karnataka; Stalin seeks judicial probe",
+    "score": 2
   },
   {
     "original_title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
@@ -509,7 +501,23 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "MacKenzie Scott helped abolish $40B in medical debt; how mechanics work",
-    "score": 5
+    "score": 3
+  },
+  {
+    "original_title": "Russia: Overnight Ukrainian drone attack was biggest so far",
+    "url": "https://www.upi.com/Top_News/World-News/2026/08/16/overnight-Ukrainian-drone-attack-biggest-so-far/5481786914264/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Russia: Overnight Ukrainian drone attack was biggest so far",
+    "score": 6
+  },
+  {
+    "original_title": "'Spider-Man' tops North American box office for 3rd weekend",
+    "url": "https://www.upi.com/Entertainment_News/Movies/2026/08/16/spiderman-tops-north-american-box-office-third-weekend/7411786894371/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "'Spider-Man' tops North American box office for 3rd weekend",
+    "score": 6
   },
   {
     "original_title": "Former MLB pitcher Tommy John, known for namesake surgery, dies at 83",
@@ -517,7 +525,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Former MLB pitcher Tommy John, known for namesake surgery, dies at 83",
-    "score": 1
+    "score": 3
   },
   {
     "original_title": "Centcom head visits USS Abraham Lincoln amid concerns about conditions",
@@ -525,7 +533,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Centcom head visits USS Abraham Lincoln amid concerns about conditions",
-    "score": 9
+    "score": 6
   },
   {
     "original_title": "Police arrest 19-year-old hiding in closet in Virginia State University shooting",
@@ -533,7 +541,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Police arrest 19-year-old hiding in closet in Virginia State University shooting",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "Harrison Ford returning as Indiana Jones for Animal Kingdom ride",
@@ -541,102 +549,94 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Harrison Ford returning as Indiana Jones for Animal Kingdom ride",
-    "score": 7
-  },
-  {
-    "original_title": "Hurricane Lala brings flooding to Hawaii; one dead",
-    "url": "https://www.upi.com/Top_News/US/2026/08/16/hurricane-lala-hawaii/6111786891617/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Hurricane Lala brings flooding to Hawaii; one dead",
-    "score": 6
-  },
-  {
-    "original_title": "NATO jets shoot down drone in Romanian airspace",
-    "url": "https://www.upi.com/Top_News/World-News/2026/08/16/romania-nato-drone/1061786888154/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "NATO jets shoot down drone in Romanian airspace",
-    "score": 8
-  },
-  {
-    "original_title": "US-Iran MoU is set to expire: What to know",
-    "url": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "US-Iran MoU is set to expire: What to know",
     "score": 9
   },
   {
-    "original_title": "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss",
+    "original_title": "What could stop Israeli settler attacks on Palestinians?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive",
+    "title": "What could stop Israeli settler attacks on Palestinians?",
+    "score": 5
+  },
+  {
+    "original_title": "Hundreds of migrants arrested near Ceuta border in latest crackdown",
+    "url": "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Hundreds of migrants arrested near Ceuta border in latest crackdown",
+    "score": 5
+  },
+  {
+    "original_title": "Anwar Ibrahim: Malaysia between the superpowers",
+    "url": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Anwar Ibrahim: Malaysia between the superpowers",
+    "score": 3
+  },
+  {
+    "original_title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
+    "url": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
+    "score": 3
+  },
+  {
+    "original_title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
+    "score": 4
+  },
+  {
+    "original_title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+    "score": 7
+  },
+  {
+    "original_title": "Latest news bulletin | August 16th, 2026 – Evening",
+    "url": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-evening",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "Latest news bulletin | August 16th, 2026 – Evening",
+    "score": 5
+  },
+  {
+    "original_title": "World’s Ugliest Dog contest crowns its 2026 winner",
+    "url": "http://www.euronews.com/video/2026/08/16/worlds-ugliest-dog-contest-crowns-its-2026-winner",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "World’s Ugliest Dog contest crowns its 2026 winner",
     "score": 8
   },
   {
-    "original_title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "Corgis race, bark and dress up at quirky competition in Vilnius",
+    "url": "http://www.euronews.com/video/2026/08/16/corgis-race-bark-and-dress-up-at-quirky-competition-in-vilnius",
+    "domain": "euronews.com",
     "region": "GLOBAL",
-    "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
-    "score": 6
+    "title": "Corgis race, bark and dress up at quirky competition in Vilnius",
+    "score": 9
   },
   {
-    "original_title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "Taliban mark five-year anniversary of regaining power in Afghanistan",
+    "url": "http://www.euronews.com/2026/08/16/taliban-mark-five-year-anniversary-of-regaining-power-in-afghanistan",
+    "domain": "euronews.com",
     "region": "GLOBAL",
-    "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
-    "score": 7
+    "title": "Taliban mark five-year anniversary of regaining power in Afghanistan",
+    "score": 9
   },
   {
-    "original_title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-    "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "Latest news bulletin | August 16th, 2026 – Midday",
+    "url": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-midday",
+    "domain": "euronews.com",
     "region": "GLOBAL",
-    "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-    "score": 7
-  },
-  {
-    "original_title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
-    "score": 3
-  },
-  {
-    "original_title": "AOC Freezing Her Eggs",
-    "url": "https://theonion.com/aoc-freezing-her-eggs/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "AOC Freezing Her Eggs",
-    "score": 3
-  },
-  {
-    "original_title": "Announcers Watch Angels-Royals Game In Total Silence",
-    "url": "https://theonion.com/announcers-watch-angels-royals-game-in-total-silence/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Announcers Watch Angels-Royals Game In Total Silence",
-    "score": 3
-  },
-  {
-    "original_title": "Trump Downplays Significance Of Trump Tower Found On Epstein Island",
-    "url": "https://theonion.com/trump-downplays-significance-of-trump-tower-found-on-epstein-island/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Trump Downplays Significance Of Trump Tower Found On Epstein Island",
-    "score": 3
-  },
-  {
-    "original_title": "Cheryl Hines Walks In On RFK Jr. Vivisecting Self Again",
-    "url": "https://theonion.com/cheryl-hines-walks-in-on-rfk-jr-vivisecting-self-again/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Cheryl Hines Walks In On RFK Jr. Vivisecting Self Again",
-    "score": 1
+    "title": "Latest news bulletin | August 16th, 2026 – Midday",
+    "score": 5
   }
 ]
