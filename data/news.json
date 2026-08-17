@@ -5,7 +5,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Svolta nelle indagini sul furto di Messina, trovato il furgone usato per la fuga della banda",
-    "score": 3
+    "score": 6
   },
   {
     "original_title": "Gattuso, il Mantova dopo la Bosnia: la retorica della sconfitta e una storia che si ripete",
@@ -13,7 +13,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Gattuso, il Mantova dopo la Bosnia: la retorica della sconfitta e una storia che si ripete",
-    "score": 1
+    "score": 4
   },
   {
     "original_title": "Omicidio a Tor Sapienza, giovane di 24 anni ucciso in viale Morandi: inutile la corsa in ospedale",
@@ -21,7 +21,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Omicidio a Tor Sapienza, giovane di 24 anni ucciso in viale Morandi: inutile la corsa in ospedale",
-    "score": 3
+    "score": 9
   },
   {
     "original_title": "Benati: “Battere i britannici nel loro stadio era il sogno di una vita, per l’oro mi rado a zero”",
@@ -29,7 +29,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Benati: “Battere i britannici nel loro stadio era il sogno di una vita, per l’oro mi rado a zero”",
-    "score": 7
+    "score": 1
   },
   {
     "original_title": "Morto Alex Fiorio, il mondo del rally in lutto",
@@ -37,7 +37,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Morto Alex Fiorio, il mondo del rally in lutto",
-    "score": 4
+    "score": 9
   },
   {
     "original_title": "Manuel Bortuzzo: “La mia sedia a rotelle è rotta e la compagnia aerea resta in silenzio. Ora denuncio”",
@@ -45,15 +45,23 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Manuel Bortuzzo: “La mia sedia a rotelle è rotta e la compagnia aerea resta in silenzio. Ora denuncio”",
-    "score": 6
+    "score": 3
   },
   {
-    "original_title": "Furto opere Antonello da Messina: ritrovato il furgone usato dalla banda. I ladri lì hanno cambiato mezzo",
+    "original_title": "Curtis: “Paragone con Pellegrini? Pesante, spero di fare la mia strada”. Poi svela il messaggio di Sinner dopo l’oro – Video",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/17/sara-curtis-oro-europei-record-mondo-paragone-con-pellegrini-pesante-sinner-messaggio-video/8481288/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Curtis: “Paragone con Pellegrini? Pesante, spero di fare la mia strada”. Poi svela il messaggio di Sinner dopo l’oro – Video",
+    "score": 8
+  },
+  {
+    "original_title": "Furto opere Antonello da Messina: “Ritrovato il furgone usato dalla banda”. I ladri lì hanno cambiato mezzo",
     "url": "https://www.ilfattoquotidiano.it/2026/08/17/furto-opere-museo-antonello-messina-furgone-banda-indagini/8481225/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Furto opere Antonello da Messina: ritrovato il furgone usato dalla banda. I ladri lì hanno cambiato mezzo",
-    "score": 4
+    "title": "Furto opere Antonello da Messina: “Ritrovato il furgone usato dalla banda”. I ladri lì hanno cambiato mezzo",
+    "score": 8
   },
   {
     "original_title": "A Cincinnati è tornato il vero Cobolli: batte Blockx in rimonta in due ore e mezza. Poi l’urlo finale",
@@ -61,7 +69,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "A Cincinnati è tornato il vero Cobolli: batte Blockx in rimonta in due ore e mezza. Poi l’urlo finale",
-    "score": 2
+    "score": 1
   },
   {
     "original_title": "Rublev mette la testa nel frigo, Medvedev accusa: “È dura per tutti, al secondo set siamo senza fiato”. A Cincinnati torna l’emergenza caldo",
@@ -69,7 +77,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Rublev mette la testa nel frigo, Medvedev accusa: “È dura per tutti, al secondo set siamo senza fiato”. A Cincinnati torna l’emergenza caldo",
-    "score": 8
+    "score": 1
   },
   {
     "original_title": "“Troppa tattica? Maldini non si è mai davvero occupato del settore giovanile, la storia non torna. Il figlio Daniel fu tutelato”: la replica di Filippo Galli",
@@ -77,7 +85,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "“Troppa tattica? Maldini non si è mai davvero occupato del settore giovanile, la storia non torna. Il figlio Daniel fu tutelato”: la replica di Filippo Galli",
-    "score": 2
+    "score": 5
   },
   {
     "original_title": "Cnn: “L’Ucraina ha quasi esaurito i missili intercettori per i Patriot”. Senza le forniture Usa sarà impossibile fermare i raid russi",
@@ -85,15 +93,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Cnn: “L’Ucraina ha quasi esaurito i missili intercettori per i Patriot”. Senza le forniture Usa sarà impossibile fermare i raid russi",
-    "score": 5
-  },
-  {
-    "original_title": "Roma, 24enne ucciso a colpi di arma da fuoco: muore in ospedale",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/17/omicidio-tor-sapienza-roma-24enne-oggi/8481086/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Roma, 24enne ucciso a colpi di arma da fuoco: muore in ospedale",
-    "score": 4
+    "score": 8
   },
   {
     "original_title": "È online lo speciale di ANSA.it sui Giochi del Mediterraneo Taranto 2026",
@@ -101,7 +101,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "È online lo speciale di ANSA.it sui Giochi del Mediterraneo Taranto 2026",
-    "score": 5
+    "score": 7
   },
   {
     "original_title": "Europei di atletica, Benati paga pegno dopo l'oro nella staffetta: taglio di capelli",
@@ -109,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Europei di atletica, Benati paga pegno dopo l'oro nella staffetta: taglio di capelli",
-    "score": 6
+    "score": 3
   },
   {
     "original_title": "Il primo specchio bugiardo, riflette immagini diverse dall'originale",
@@ -117,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Il primo specchio bugiardo, riflette immagini diverse dall'originale",
-    "score": 3
+    "score": 7
   },
   {
     "original_title": "Chi sono i 'dublinanti', i numeri e le regole",
@@ -125,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Chi sono i 'dublinanti', i numeri e le regole",
-    "score": 1
+    "score": 7
   },
   {
     "original_title": "È morta la conduttrice di Isoradio Rossella Diaco",
@@ -133,31 +133,15 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "È morta la conduttrice di Isoradio Rossella Diaco",
-    "score": 7
+    "score": 1
   },
   {
-    "original_title": "Uccide la ex che lo aveva denunciato. La madre della donna: 'Siamo andate 7 volte dai carabinieri'",
-    "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/uccide-lex-compagna-va-a-casa-e-si-impicca_393168f9-93fa-4ec9-ab19-140b49ad6cc5.html",
+    "original_title": "Maxifurto delle opere di Antonello da Messina, verifiche su un furgone forse usato dai ladri",
+    "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/il-furto-delle-opere-di-antonello-da-messina-si-cerca-il-basista_40d037cf-aa2a-42f9-812d-dd4f168ca30a.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Uccide la ex che lo aveva denunciato. La madre della donna: 'Siamo andate 7 volte dai carabinieri'",
-    "score": 6
-  },
-  {
-    "original_title": "Furto dei quadri di Antonello da Messina, svolta nelle indagini: trovato furgone usato dai ladri",
-    "url": "https://www.ilmessaggero.it/italia/antonello_messina_furto_quadri-9711611.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Furto dei quadri di Antonello da Messina, svolta nelle indagini: trovato furgone usato dai ladri",
-    "score": 5
-  },
-  {
-    "original_title": "Russia, la minaccia alle porte della Nato: scoperte almeno 10 basi segrete di droni al confine con Ucraina e Bielorussia",
-    "url": "https://www.ilmessaggero.it/mondo/russia_scoperte_basi_segreti_droni_minaccia_nato-9711329.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Russia, la minaccia alle porte della Nato: scoperte almeno 10 basi segrete di droni al confine con Ucraina e Bielorussia",
-    "score": 2
+    "title": "Maxifurto delle opere di Antonello da Messina, verifiche su un furgone forse usato dai ladri",
+    "score": 4
   },
   {
     "original_title": "«Economia russa in difficoltà, ci sarà una crisi sociale quando nessuno se l'aspetta». Banchiere russo licenziato dopo il durissimo discorso",
@@ -168,12 +152,20 @@
     "score": 5
   },
   {
+    "original_title": "Russia, la minaccia alle porte della Nato: scoperte almeno 10 basi segrete di droni al confine con Ucraina e Bielorussia",
+    "url": "https://www.ilmessaggero.it/mondo/russia_scoperte_basi_segreti_droni_minaccia_nato-9711329.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Russia, la minaccia alle porte della Nato: scoperte almeno 10 basi segrete di droni al confine con Ucraina e Bielorussia",
+    "score": 9
+  },
+  {
     "original_title": "Quinta ondata di caldo, quando arriva in Italia: il calo delle temperature e il nuovo cambio di rotta, le previsioni",
     "url": "https://www.ilmessaggero.it/schede/quinta_ondata_caldo_quando_arriva_previsioni_meteo-9711048.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Quinta ondata di caldo, quando arriva in Italia: il calo delle temperature e il nuovo cambio di rotta, le previsioni",
-    "score": 7
+    "score": 6
   },
   {
     "original_title": "Bomba d'acqua a Roma e forti temporali nel Lazio: torna l'instabilità, poi nuovo caldo africano in arrivo. Le previsioni",
@@ -181,7 +173,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Bomba d'acqua a Roma e forti temporali nel Lazio: torna l'instabilità, poi nuovo caldo africano in arrivo. Le previsioni",
-    "score": 9
+    "score": 1
   },
   {
     "original_title": "La mappa delle zone meno calde (e come cambiano le vacanze). «Adriatico meno colpito, fino a 5° di differenza»",
@@ -189,7 +181,55 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "La mappa delle zone meno calde (e come cambiano le vacanze). «Adriatico meno colpito, fino a 5° di differenza»",
+    "score": 2
+  },
+  {
+    "original_title": "Tania Terrin uccisa dall'ex fidanzato, che torna a casa e si impicca. Lei aveva avvertito i vicini: «Se viene questa persona non apritegli»",
+    "url": "https://www.ilmessaggero.it/italia/tania_terrin_omicidio_oggi_fidanzato_dino_keber_ultime_notizie-9711476.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Tania Terrin uccisa dall'ex fidanzato, che torna a casa e si impicca. Lei aveva avvertito i vicini: «Se viene questa persona non apritegli»",
     "score": 5
+  },
+  {
+    "original_title": "Congelamento degli ovuli, arriva una proposta di legge: 3mila euro di aiuti pubblici per le donne under 40. Come funziona",
+    "url": "https://www.open.online/2026/08/17/congelamento-ovuli-costo-proposta-legge-pd-come-funziona/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Congelamento degli ovuli, arriva una proposta di legge: 3mila euro di aiuti pubblici per le donne under 40. Come funziona",
+    "score": 3
+  },
+  {
+    "original_title": "Sfiorato incidente aereo a Monaco, Boeing finisce fuori pista e decolla dal prato: la frenata di colpo e le ruote distrutte – Il video",
+    "url": "https://www.open.online/2026/08/17/incidente-aereo-monaco-boeing-vietnam-airlines-video/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Sfiorato incidente aereo a Monaco, Boeing finisce fuori pista e decolla dal prato: la frenata di colpo e le ruote distrutte – Il video",
+    "score": 7
+  },
+  {
+    "original_title": "La Fifa licenzia il direttore operativo Kevin Lamour: criticò il piano di Infantino sui Mondiali ai privati",
+    "url": "https://www.open.online/2026/08/17/kevin-lamour-licenziato-fifa-infantino-mondiali-privati/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "La Fifa licenzia il direttore operativo Kevin Lamour: criticò il piano di Infantino sui Mondiali ai privati",
+    "score": 2
+  },
+  {
+    "original_title": "Le chat shock dei seguaci di Vannacci tra nostalgia di Hitler e insulti antisemiti. La replica del partito",
+    "url": "https://www.open.online/2026/08/17/roberto-vannacci-chat-lombardia-antisemitismo-razzismo/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Le chat shock dei seguaci di Vannacci tra nostalgia di Hitler e insulti antisemiti. La replica del partito",
+    "score": 5
+  },
+  {
+    "original_title": "La patente non è più un rito dei 18 anni: sempre meno giovani la prendono subito. Boom di bocciature e il flop dei privatisti",
+    "url": "https://www.open.online/2026/08/17/esame-patente-boom-bocciature-privatisti-giovani/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "La patente non è più un rito dei 18 anni: sempre meno giovani la prendono subito. Boom di bocciature e il flop dei privatisti",
+    "score": 7
   },
   {
     "original_title": "Femminicidio Tania Terrin a Venezia, lo sfogo della madre: «Siamo state 8 volte dai carabinieri». Le denunce e l’sms della vittima ai vicini",
@@ -197,47 +237,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Femminicidio Tania Terrin a Venezia, lo sfogo della madre: «Siamo state 8 volte dai carabinieri». Le denunce e l’sms della vittima ai vicini",
-    "score": 1
-  },
-  {
-    "original_title": "Vasco Rossi, la lite con un fan: «Perché hai fatto l’infame?». La replica del cantante: «Storia falsa, ti denuncio». Cos’è successo",
-    "url": "https://www.open.online/2026/08/17/vasco-rossi-lite-social-fan-infame-arresto-1984/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Vasco Rossi, la lite con un fan: «Perché hai fatto l’infame?». La replica del cantante: «Storia falsa, ti denuncio». Cos’è successo",
-    "score": 7
-  },
-  {
-    "original_title": "Schiacciato dal suo trattore mentre vendemmia, muore il 33enne Francesco Mazzocchi: aveva da poco rilevato l’azienda",
-    "url": "https://www.open.online/2026/08/17/francesco-mazzocchi-morto-san-colombano-lambro-trattore/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Schiacciato dal suo trattore mentre vendemmia, muore il 33enne Francesco Mazzocchi: aveva da poco rilevato l’azienda",
-    "score": 1
-  },
-  {
-    "original_title": "Body shaming social su Manila Esposito, la replica della ginnasta: «Il mio fisico? Mi fa vincere. Ma certi commenti possono ferire»",
-    "url": "https://www.open.online/2026/08/17/manila-esposito-body-shaming-social-replica/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Body shaming social su Manila Esposito, la replica della ginnasta: «Il mio fisico? Mi fa vincere. Ma certi commenti possono ferire»",
-    "score": 8
-  },
-  {
-    "original_title": "Diego Moreira va al Milan, il colpo da 50 milioni di euro: chi è il 22enne belga",
-    "url": "https://www.open.online/2026/08/17/diego-moreira-milan-50-milioni-euro/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Diego Moreira va al Milan, il colpo da 50 milioni di euro: chi è il 22enne belga",
-    "score": 8
-  },
-  {
-    "original_title": "Napoli, il caso dell’embrione scambiato al San Paolo si allarga: sono quattro le coppie che chiedono informazioni sui loro percorsi di Pma",
-    "url": "https://www.open.online/2026/08/17/napoli-san-paolo-embrione-scambiato-quattro-coppie-chiedono-informazioni-pma/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Napoli, il caso dell’embrione scambiato al San Paolo si allarga: sono quattro le coppie che chiedono informazioni sui loro percorsi di Pma",
-    "score": 8
+    "score": 9
   },
   {
     "original_title": "Tania Terrin uccisa dall'ex fidanzato, l'uomo torna a casa e si toglie la vita. Lei aveva avvertito i vicini: «Se viene questa persona non apritegli». La mamma della 39enne: abbiamo chiesto aiuto 7 volte",
@@ -245,7 +245,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Tania Terrin uccisa dall'ex fidanzato, l'uomo torna a casa e si toglie la vita. Lei aveva avvertito i vicini: «Se viene questa persona non apritegli». La mamma della 39enne: abbiamo chiesto aiuto 7 volte",
-    "score": 9
+    "score": 3
   },
   {
     "original_title": "Pioggia di saette sulla Marca: i fulmini colpiscono una centralina dei lampioni e incendiano alberi a Trevignano e Gorgo",
@@ -256,12 +256,12 @@
     "score": 2
   },
   {
-    "original_title": "Vittorino esce per raccogliere funghi ma non rientra a casa, alla moglie dice di essersi perso: il 68enne di Pianiga trovato morto in un canale",
+    "original_title": "Vittorino Gallo esce per raccogliere funghi ma non rientra a casa, alla moglie dice di essersi perso: il 68enne di Pianiga trovato morto in un canale",
     "url": "https://www.ilgazzettino.it/nordest/belluno/raccoglie_funghi_morto_scivolato_ghiaione_chi_era_rocca_pietrone-9711538.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Vittorino esce per raccogliere funghi ma non rientra a casa, alla moglie dice di essersi perso: il 68enne di Pianiga trovato morto in un canale",
-    "score": 7
+    "title": "Vittorino Gallo esce per raccogliere funghi ma non rientra a casa, alla moglie dice di essersi perso: il 68enne di Pianiga trovato morto in un canale",
+    "score": 4
   },
   {
     "original_title": "Furto in caffetteria, mamme con bambini svuotano gli scaffali. Lo choc dell'esercente: «Erano una decina. Hanno rubato tutto sotto i miei occhi»",
@@ -269,7 +269,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Furto in caffetteria, mamme con bambini svuotano gli scaffali. Lo choc dell'esercente: «Erano una decina. Hanno rubato tutto sotto i miei occhi»",
-    "score": 6
+    "score": 8
   },
   {
     "original_title": "Escursionista trovato morto sul sentiero a oltre 2mila metri di altezza: potrebbe essere stato colpito da un fulmine",
@@ -277,7 +277,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Escursionista trovato morto sul sentiero a oltre 2mila metri di altezza: potrebbe essere stato colpito da un fulmine",
-    "score": 3
+    "score": 6
   },
   {
     "original_title": "Gioco erotico sfocia in lite, intervengono i carabinieri: presi a calci e pugni dal 68enne",
@@ -285,7 +285,15 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Gioco erotico sfocia in lite, intervengono i carabinieri: presi a calci e pugni dal 68enne",
-    "score": 9
+    "score": 5
+  },
+  {
+    "original_title": "Furto delle opere di Antonello da Messina, svolta nelle indagini: trovato furgone usato dai ladri",
+    "url": "https://www.ilmattino.it/primopiano/cronaca/antonello_messina_furto_opere_furgone_ritrovato-9711623.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Furto delle opere di Antonello da Messina, svolta nelle indagini: trovato furgone usato dai ladri",
+    "score": 3
   },
   {
     "original_title": "Maltempo in Campania, frana nell'Avellinese e alberi caduti: abitazioni isolate",
@@ -293,7 +301,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Maltempo in Campania, frana nell'Avellinese e alberi caduti: abitazioni isolate",
-    "score": 3
+    "score": 4
   },
   {
     "original_title": "Ranucci, l?avvocato di Lavitola: «Avvisò Ranucci un mese prima, ma non gli diede retta. Pentito per aver messo nei guai persone care»",
@@ -301,7 +309,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Ranucci, l?avvocato di Lavitola: «Avvisò Ranucci un mese prima, ma non gli diede retta. Pentito per aver messo nei guai persone care»",
-    "score": 9
+    "score": 2
   },
   {
     "original_title": "Manila Esposito dopo la medaglia d'oro: «Offese e body shaming? Vinco anche grazie al mio fisico»",
@@ -309,15 +317,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Manila Esposito dopo la medaglia d'oro: «Offese e body shaming? Vinco anche grazie al mio fisico»",
-    "score": 4
-  },
-  {
-    "original_title": "Al Vomero i funerali di Vittorio dell'Uva, addio all'inviato di guerra del Mattino",
-    "url": "https://www.ilmattino.it/napoli/citta/vittorio_dell_uva_giornalista_mattino_funerali-9711347.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Al Vomero i funerali di Vittorio dell'Uva, addio all'inviato di guerra del Mattino",
-    "score": 1
+    "score": 6
   },
   {
     "original_title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
@@ -325,15 +325,23 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-    "score": 1
+    "score": 7
   },
   {
-    "original_title": "Actors lead tributes to 'amazing' Hayden Panettiere after Heroes star dies aged 36",
+    "original_title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
     "url": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Actors lead tributes to 'amazing' Hayden Panettiere after Heroes star dies aged 36",
+    "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
     "score": 7
+  },
+  {
+    "original_title": "Fifa executive leaves job three weeks after speaking out against Infantino plan",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Fifa executive leaves job three weeks after speaking out against Infantino plan",
+    "score": 4
   },
   {
     "original_title": "Burnham exchanged messages with person posing as Trump's chief of staff",
@@ -341,7 +349,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
-    "score": 7
+    "score": 4
   },
   {
     "original_title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
@@ -349,7 +357,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
-    "score": 1
+    "score": 7
   },
   {
     "original_title": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
@@ -360,52 +368,76 @@
     "score": 5
   },
   {
-    "original_title": "Does Reform's plan to cut £50bn in welfare spending add up?",
-    "url": "https://www.bbc.co.uk/news/articles/crl76jkxel3o?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
+    "original_title": "NYC synagogue attack witness blasts New York Times as downplaying rampage",
+    "url": "https://nypost.com/2026/08/17/media/nyc-synagogue-attack-witness-blasts-new-york-times-as-downplaying-rampage/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Does Reform's plan to cut £50bn in welfare spending add up?",
+    "title": "NYC synagogue attack witness blasts New York Times as downplaying rampage",
+    "score": 6
+  },
+  {
+    "original_title": "San Diego tourism hotspot could be shutdown after teen kicking seal video sparked outrage",
+    "url": "https://nypost.com/2026/08/17/us-news/san-diegos-la-jolla-cove-could-be-closed-after-teen-kicks-sea-lion/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "San Diego tourism hotspot could be shutdown after teen kicking seal video sparked outrage",
     "score": 5
   },
   {
-    "original_title": "California cities most exposed to wildfire risks in new analysis — LA takes the top spot",
-    "url": "https://nypost.com/2026/08/17/real-estate/california-dominates-cities-most-exposed-to-wildfire-risks-ranking/",
+    "original_title": "Rory McIlroy feels ‘lost’ after dreadful FedEx Cup showing",
+    "url": "https://nypost.com/2026/08/17/sports/rory-mcilroy-feels-lost-after-dreadful-fedex-cup-showing/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "California cities most exposed to wildfire risks in new analysis — LA takes the top spot",
+    "title": "Rory McIlroy feels ‘lost’ after dreadful FedEx Cup showing",
+    "score": 5
+  },
+  {
+    "original_title": "Everything to know about Hayden Panettiere’s death: family ties, 911 audio, autopsy, tributes, more",
+    "url": "https://pagesix.com/video/everything-to-know-about-hayden-panettieres-death-family-ties-911-audio-autopsy-tributes-more/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Everything to know about Hayden Panettiere’s death: family ties, 911 audio, autopsy, tributes, more",
     "score": 7
   },
   {
-    "original_title": "UC Santa Cruz student identified in fatal cliff car wreck near famous surf break: ‘Smart, beautiful and loving’",
-    "url": "https://nypost.com/2026/08/17/us-news/uc-santa-cruz-student-idd-in-fatal-west-cliff-drive-car-crash/",
+    "original_title": "2 planes with the same flight number avoid possible disaster thanks to quick-thinking controller",
+    "url": "https://nypost.com/2026/08/17/us-news/two-jets-had-same-flight-code-controller-stops-disaster/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "UC Santa Cruz student identified in fatal cliff car wreck near famous surf break: ‘Smart, beautiful and loving’",
-    "score": 4
+    "title": "2 planes with the same flight number avoid possible disaster thanks to quick-thinking controller",
+    "score": 5
   },
   {
-    "original_title": "Hayden Panettiere’s musician pal reveals star’s final text before shocking death",
-    "url": "https://pagesix.com/2026/08/17/celebrity-news/hayden-panettieres-musician-pal-reveals-her-final-text-before-shocking-death/",
-    "domain": "nypost.com",
+    "original_title": "Andrew ‘rejects invite from King Charles to join Royal Family’s Balmoral summer holiday’",
+    "url": "https://www.express.co.uk/news/royal/2240017/andrew-rejects-invite-king-charles",
+    "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Hayden Panettiere’s musician pal reveals star’s final text before shocking death",
-    "score": 2
+    "title": "Andrew ‘rejects invite from King Charles to join Royal Family’s Balmoral summer holiday’",
+    "score": 5
   },
   {
-    "original_title": "Emmy Nominee Jason Segel Says ‘Shrinking’ Season 4 Feels Like A Return To His Rom-Com Roots",
-    "url": "https://decider.com/2026/08/17/jason-segel-shrinking-season-4-rom-com/",
-    "domain": "nypost.com",
+    "original_title": "Horror as 'Brit newlyweds' die in fireball helicopter crash in holiday hotspot",
+    "url": "https://www.express.co.uk/news/world/2240013/horror-brit-newlyweds-die-fireball",
+    "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Emmy Nominee Jason Segel Says ‘Shrinking’ Season 4 Feels Like A Return To His Rom-Com Roots",
-    "score": 8
+    "title": "Horror as 'Brit newlyweds' die in fireball helicopter crash in holiday hotspot",
+    "score": 3
   },
   {
-    "original_title": "Mets vs. Padres prediction: MLB picks, odds, best bets for Monday",
-    "url": "https://nypost.com/2026/08/17/betting/mets-vs-padres-prediction-mlb-picks-odds-best-bets-for-monday/",
-    "domain": "nypost.com",
+    "original_title": "Horror as girl, 14 'shoots teenage boy' at school as police swarm to scene",
+    "url": "https://www.express.co.uk/news/world/2240009/horror-girl-15-shoots-teenage",
+    "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Mets vs. Padres prediction: MLB picks, odds, best bets for Monday",
-    "score": 1
+    "title": "Horror as girl, 14 'shoots teenage boy' at school as police swarm to scene",
+    "score": 7
+  },
+  {
+    "original_title": "Donald Trump makes bombshell statement after phone call with Andy Burnham",
+    "url": "https://www.express.co.uk/news/uk/2240004/donald-trump-makes-bombshell-statement",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Donald Trump makes bombshell statement after phone call with Andy Burnham",
+    "score": 3
   },
   {
     "original_title": "'Quiet!' Trump explodes at female reporter as White House conference descends into chaos",
@@ -413,47 +445,15 @@
     "domain": "express.co.uk",
     "region": "GLOBAL",
     "title": "'Quiet!' Trump explodes at female reporter as White House conference descends into chaos",
-    "score": 4
-  },
-  {
-    "original_title": "Rarely seen royal set to join cast of hit TV dancing show",
-    "url": "https://www.express.co.uk/news/royal/2239995/royal-tv-dancing-show-revealed",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Rarely seen royal set to join cast of hit TV dancing show",
-    "score": 5
-  },
-  {
-    "original_title": "Horror as tourist dies after 'being struck by lightning' on Mediterranean island",
-    "url": "https://www.express.co.uk/news/world/2239993/horror-tourist-dies-being-struck",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Horror as tourist dies after 'being struck by lightning' on Mediterranean island",
     "score": 2
   },
   {
-    "original_title": "I'm a royal insider – here's how often Prince Harry will now be visiting the UK",
-    "url": "https://www.express.co.uk/news/royal/2239992/prince-harry-uk-return-trips",
+    "original_title": "Met Office issues 14 day heatwave forecast for September - temperatures to soar in days",
+    "url": "https://www.express.co.uk/news/weather/2239996/met-office-heatwave-forecast-september",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "I'm a royal insider – here's how often Prince Harry will now be visiting the UK",
-    "score": 7
-  },
-  {
-    "original_title": "Sainsbury's supermarket ditches new rule for shoppers - started in 2025",
-    "url": "https://www.express.co.uk/news/uk/2239990/sainsburys-supermarket-ditches-new-rule",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Sainsbury's supermarket ditches new rule for shoppers - started in 2025",
-    "score": 6
-  },
-  {
-    "original_title": "Beloved mum killed walking to work – daughter, 8, left to grow up without her",
-    "url": "https://www.express.co.uk/news/uk/2239987/mum-killed-drug-driver",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Beloved mum killed walking to work – daughter, 8, left to grow up without her",
-    "score": 2
+    "title": "Met Office issues 14 day heatwave forecast for September - temperatures to soar in days",
+    "score": 8
   },
   {
     "original_title": "Nitin's 'Nabin' team: BJP hits reset button with eye on UP and 'Mission 2029'",
@@ -461,39 +461,7 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "Nitin's 'Nabin' team: BJP hits reset button with eye on UP and 'Mission 2029'",
-    "score": 9
-  },
-  {
-    "original_title": "100 days of TVK govt: CM Vijay defines priorities, but his real test begins now",
-    "url": "https://timesofindia.indiatimes.com/india/100-days-of-tvk-government-cm-vijay-defines-priorities-but-his-real-test-begins-now/articleshow/133299642.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "100 days of TVK govt: CM Vijay defines priorities, but his real test begins now",
-    "score": 4
-  },
-  {
-    "original_title": "BWF Worlds: Ayush Shetty stuns World No. 1 Shi Yu Qi; India 5-0 on Day 1",
-    "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-ayush-shetty-stuns-world-no-1-shi-yu-qi-india-5-0-on-day-1/articleshow/133301177.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "BWF Worlds: Ayush Shetty stuns World No. 1 Shi Yu Qi; India 5-0 on Day 1",
     "score": 3
-  },
-  {
-    "original_title": "'Follow law of land': Centre to X after Musk's new rule on govt censorship requests",
-    "url": "https://timesofindia.indiatimes.com/india/follow-law-of-land-centre-to-x-after-musk-announces-greater-visibility-on-govt-censorship/articleshow/133302784.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "'Follow law of land': Centre to X after Musk's new rule on govt censorship requests",
-    "score": 4
-  },
-  {
-    "original_title": "Accenture CEO Julie Sweet makes a 'vacation request' to employees for this month",
-    "url": "https://timesofindia.indiatimes.com/technology/tech-news/accenture-ceo-julie-sweet-makes-a-vacation-request-to-employees-for-this-august/articleshow/133284654.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Accenture CEO Julie Sweet makes a 'vacation request' to employees for this month",
-    "score": 9
   },
   {
     "original_title": "Big win for students: J'khand govt scraps JSSC-CGL exam, all tests via TDPL since 2014",
@@ -501,7 +469,71 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "Big win for students: J'khand govt scraps JSSC-CGL exam, all tests via TDPL since 2014",
-    "score": 3
+    "score": 9
+  },
+  {
+    "original_title": "BWF Worlds: Ayush Shetty stuns World No. 1 Shi Yu Qi; India 5-0 on Day 1",
+    "url": "https://timesofindia.indiatimes.com/sports/badminton/bwf-world-championships-ayush-shetty-stuns-world-no-1-shi-yu-qi-india-5-0-on-day-1/articleshow/133301177.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "BWF Worlds: Ayush Shetty stuns World No. 1 Shi Yu Qi; India 5-0 on Day 1",
+    "score": 1
+  },
+  {
+    "original_title": "100 days of TVK govt: CM Vijay defines priorities, but his real test begins now",
+    "url": "https://timesofindia.indiatimes.com/india/100-days-of-tvk-government-cm-vijay-defines-priorities-but-his-real-test-begins-now/articleshow/133299642.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "100 days of TVK govt: CM Vijay defines priorities, but his real test begins now",
+    "score": 6
+  },
+  {
+    "original_title": "US student wins award for geometry breakthrough: How it can change modern medicine",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/a-high-school-student-won-americas-top-science-award-for-solving-a-centuries-old-geometry-problem-how-his-work-on-146-rare-shapes-can-change-the-future-of-medicine/articleshow/133299609.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "US student wins award for geometry breakthrough: How it can change modern medicine",
+    "score": 1
+  },
+  {
+    "original_title": "India signs Rs 1,943-cr deal with US firm to lease 2 MQ-9B Sea Guardian drones for Navy",
+    "url": "https://timesofindia.indiatimes.com/defence/news/india-signs-rs-1943-cr-deal-with-us-firm-to-lease-2-mq-9b-sea-guardian-drones-for-navy/articleshow/133306349.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "India signs Rs 1,943-cr deal with US firm to lease 2 MQ-9B Sea Guardian drones for Navy",
+    "score": 2
+  },
+  {
+    "original_title": "Poll: Significantly fewer U.S. adults say they gamble compared to 2016",
+    "url": "https://www.upi.com/Top_News/US/2026/08/17/poll-shows-drop-in-reported-gambling/9261786997078/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Poll: Significantly fewer U.S. adults say they gamble compared to 2016",
+    "score": 8
+  },
+  {
+    "original_title": "Watch: Netflix 'A Different World' introduces Whitley, Dwayne's daughter",
+    "url": "https://www.upi.com/Entertainment_News/TV/2026/08/17/Netflix-Different-World-Dwayne-Whitley-daughter-trailer/6341786988465/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Watch: Netflix 'A Different World' introduces Whitley, Dwayne's daughter",
+    "score": 1
+  },
+  {
+    "original_title": "Watch: 'The Drop' brings 'Snowfall' survivors into rap world",
+    "url": "https://www.upi.com/Entertainment_News/TV/2026/08/17/The-Drop-Snowfall-rap-trailer/8991786990824/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Watch: 'The Drop' brings 'Snowfall' survivors into rap world",
+    "score": 6
+  },
+  {
+    "original_title": "Prosecution rests in Lindsay Clancy murder trial",
+    "url": "https://www.upi.com/Top_News/US/2026/08/17/prosecution-rests-lindsay-clancy-murder-trial/9621786993225/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Prosecution rests in Lindsay Clancy murder trial",
+    "score": 9
   },
   {
     "original_title": "Trumps threatens to bomb Oman if it ‘gets in the way’ of any Iran deal",
@@ -509,7 +541,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Trumps threatens to bomb Oman if it ‘gets in the way’ of any Iran deal",
-    "score": 8
+    "score": 3
   },
   {
     "original_title": "'It: Welcome to Derry': HBO renews horror series for Season 2",
@@ -520,36 +552,36 @@
     "score": 9
   },
   {
-    "original_title": "Kushner, Netanyahu meet to discuss disarmament of Hamas, Gaza",
-    "url": "https://www.upi.com/Top_News/World-News/2026/08/17/israel-netanyahu-kushner-meet-gaza-hamas-disarmament/7181786989251/",
-    "domain": "upi.com",
+    "original_title": "Why did Trump scale back war games with South Korea?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Kushner, Netanyahu meet to discuss disarmament of Hamas, Gaza",
-    "score": 2
+    "title": "Why did Trump scale back war games with South Korea?",
+    "score": 9
   },
   {
-    "original_title": "Watch: 'The Traitors: New Blood' trailer teases 'sick and twisted' new game",
-    "url": "https://www.upi.com/Entertainment_News/TV/2026/08/17/traitors-new-blood-trailer/9901786987924/",
-    "domain": "upi.com",
+    "original_title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Watch: 'The Traitors: New Blood' trailer teases 'sick and twisted' new game",
-    "score": 5
+    "title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
+    "score": 8
   },
   {
-    "original_title": "Robert De Niro turns 83: Revisit 8 of his Oscar-nominated roles",
-    "url": "https://www.upi.com/Entertainment_News/Movies/2026/08/17/robert-de-niro-83rd-birthday-roles/6501786732780/",
-    "domain": "upi.com",
+    "original_title": "Photos: Search for Indonesia earthquake victims continues",
+    "url": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Robert De Niro turns 83: Revisit 8 of his Oscar-nominated roles",
-    "score": 3
-  },
-  {
-    "original_title": "78% of Argentine households earn below national average",
-    "url": "https://www.upi.com/Top_News/World-News/2026/08/17/latam-argentina-households-earn-below-national-average/3361786986123/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "78% of Argentine households earn below national average",
+    "title": "Photos: Search for Indonesia earthquake victims continues",
     "score": 1
+  },
+  {
+    "original_title": "At least 92 dead in Zimbabwe after Lake Kariba ferry disaster",
+    "url": "https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "At least 92 dead in Zimbabwe after Lake Kariba ferry disaster",
+    "score": 3
   },
   {
     "original_title": "Russian politician sentenced to 11 years for opposing war in Ukraine",
@@ -557,7 +589,7 @@
     "domain": "aljazeera.com",
     "region": "GLOBAL",
     "title": "Russian politician sentenced to 11 years for opposing war in Ukraine",
-    "score": 9
+    "score": 4
   },
   {
     "original_title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
@@ -565,39 +597,15 @@
     "domain": "aljazeera.com",
     "region": "GLOBAL",
     "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
-    "score": 5
+    "score": 4
   },
   {
-    "original_title": "CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations",
-    "url": "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "Rhine River remains low amid ongoing drought in Germany",
+    "url": "http://www.euronews.com/video/2026/08/17/rhine-river-remains-low-amid-ongoing-drought-in-germany",
+    "domain": "euronews.com",
     "region": "GLOBAL",
-    "title": "CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations",
-    "score": 3
-  },
-  {
-    "original_title": "Clashes between government and opposition fighters in Somalia’s Baidoa",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Clashes between government and opposition fighters in Somalia’s Baidoa",
-    "score": 8
-  },
-  {
-    "original_title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
-    "url": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
-    "score": 3
-  },
-  {
-    "original_title": "Explosion reported at school in Afghan capital Kabul",
-    "url": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Explosion reported at school in Afghan capital Kabul",
-    "score": 7
+    "title": "Rhine River remains low amid ongoing drought in Germany",
+    "score": 6
   },
   {
     "original_title": "US Supreme Court again rejects Trump's request to overturn sex assault judgement",
@@ -605,7 +613,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "US Supreme Court again rejects Trump's request to overturn sex assault judgement",
-    "score": 6
+    "score": 8
   },
   {
     "original_title": "Kushner's Gaza peace plan talks end without breakthrough",
@@ -613,7 +621,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Kushner's Gaza peace plan talks end without breakthrough",
-    "score": 8
+    "score": 1
   },
   {
     "original_title": "Russia upholds Yabloko party's election ban and jails its deputy chair",
@@ -621,7 +629,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Russia upholds Yabloko party's election ban and jails its deputy chair",
-    "score": 1
+    "score": 2
   },
   {
     "original_title": "Tokyo festival turns streets into a giant water fight",
@@ -629,14 +637,6 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Tokyo festival turns streets into a giant water fight",
-    "score": 6
-  },
-  {
-    "original_title": "Latest news bulletin | August 17th, 2026 – Evening",
-    "url": "http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-evening",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Latest news bulletin | August 17th, 2026 – Evening",
-    "score": 6
+    "score": 2
   }
 ]
