@@ -1,19 +1,35 @@
 [
   {
+    "original_title": "Manuel Bortuzzo: “La mia sedia a rotelle è rotta e la compagnia aerea resta in silenzio. Ora denuncio”",
+    "url": "https://roma.repubblica.it/cronaca/2026/08/17/news/manuel_bortuzzo_sedia_rotelle_aereo_intervista-425532964/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Manuel Bortuzzo: “La mia sedia a rotelle è rotta e la compagnia aerea resta in silenzio. Ora denuncio”",
+    "score": 3
+  },
+  {
+    "original_title": "Il regalo di Trump a Kim Jong-un: “Esercitazioni militari con Seul costose e ostili, vanno ridotte”",
+    "url": "https://www.repubblica.it/esteri/2026/08/17/news/regalo_trump_kim_jong-un_esercitazioni_militari_seul_costose_ostili_vanno_ridotte-425532932/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Il regalo di Trump a Kim Jong-un: “Esercitazioni militari con Seul costose e ostili, vanno ridotte”",
+    "score": 8
+  },
+  {
     "original_title": "Sardegna, morta la donna colpita a luglio dal compagno. L’uomo aveva ucciso anche il fratello di lei",
     "url": "https://www.repubblica.it/cronaca/2026/08/17/news/morta_la_donna_colpita_a_luglio_dal_compagno_fratello_sardegna_cagliari-425532925/",
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Sardegna, morta la donna colpita a luglio dal compagno. L’uomo aveva ucciso anche il fratello di lei",
-    "score": 3
+    "score": 7
   },
   {
-    "original_title": "Hayden Panettiere, depressioni, molestie e dipendenze: le ombre della vita di una ex baby star",
+    "original_title": "Hayden Panettiere, depressioni, molestie e dipendenze: le ombre sulla vita di una ex baby star",
     "url": "https://www.repubblica.it/spettacoli/cinema/2026/08/17/news/hayden_panettiere_depressioni_molestie_e_dipendenze_ex_baby_star-425532883/",
     "domain": "repubblica.it",
     "region": "IT",
-    "title": "Hayden Panettiere, depressioni, molestie e dipendenze: le ombre della vita di una ex baby star",
-    "score": 4
+    "title": "Hayden Panettiere, depressioni, molestie e dipendenze: le ombre sulla vita di una ex baby star",
+    "score": 2
   },
   {
     "original_title": "Trattore si ribalta durante la raccolta dell’uva: morto l’imprenditore vinicolo Francesco Mazzocchi",
@@ -21,7 +37,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Trattore si ribalta durante la raccolta dell’uva: morto l’imprenditore vinicolo Francesco Mazzocchi",
-    "score": 4
+    "score": 5
   },
   {
     "original_title": "Venezia: uccide l’ex compagna, poi va a casa e si impicca",
@@ -29,71 +45,55 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Venezia: uccide l’ex compagna, poi va a casa e si impicca",
-    "score": 8
-  },
-  {
-    "original_title": "Ceuta, nel cimitero dei migranti senza nome che sognavano l’Europa",
-    "url": "https://www.repubblica.it/esteri/2026/08/17/news/ceuta_cimitero_migranti_marocco_senza_nome_sognavano_europa-425532792/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Ceuta, nel cimitero dei migranti senza nome che sognavano l’Europa",
-    "score": 3
-  },
-  {
-    "original_title": "Aria condizionata, stangata record per le famiglie: fino a 450 euro per far fronte al caldo estremo",
-    "url": "https://www.repubblica.it/economia/2026/08/17/news/aria_condizionata_costo_energia_famiglia_consumi_caldo-425532763/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Aria condizionata, stangata record per le famiglie: fino a 450 euro per far fronte al caldo estremo",
     "score": 7
   },
   {
-    "original_title": "Il primo responsabile della tragedia del prof Arday è il sistema distorto di valutazione delle università",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/17/jason-arday-cambridge-plagio-notizie/8480653/",
+    "original_title": "Russia, condannato a 11 anni e un mese Lev Shlosberg: è il vicepresidente del partito di opposizione Yabloko",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/17/yabloko-shlosberg-condanna-russia-notizie/8480973/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Il primo responsabile della tragedia del prof Arday è il sistema distorto di valutazione delle università",
+    "title": "Russia, condannato a 11 anni e un mese Lev Shlosberg: è il vicepresidente del partito di opposizione Yabloko",
+    "score": 3
+  },
+  {
+    "original_title": "Kushner in Israele per incontrare Netanyahu. Trump: “Tel Aviv smetta di bombardare Gaza, Hamas ha accettato il disarmo”",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/17/kushner-netanyahu-trump-gaza-notizie/8480849/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Kushner in Israele per incontrare Netanyahu. Trump: “Tel Aviv smetta di bombardare Gaza, Hamas ha accettato il disarmo”",
     "score": 9
   },
   {
-    "original_title": "Addio a Rossella Diaco, la voce di Isoradio morta a 65 anni",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/17/rossella-diaco-isoradio-morte-notizie/8480850/",
+    "original_title": "“Sarei dovuta tornare più tardi, mi sarei dovuta prendere più settimane come mi avevano detto i medici”: Noemi torna sul palco in stampelle dopo la caduta",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/17/sarei-dovuta-tornare-piu-tardi-mi-sarei-dovuta-prendere-piu-settimane-come-mi-avevano-detto-i-medici-noemi-torna-sul-palco-in-stampelle-dopo-la-caduta/8480928/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Addio a Rossella Diaco, la voce di Isoradio morta a 65 anni",
-    "score": 1
-  },
-  {
-    "original_title": "L’allarme di Oxford Economics sull’energia: “Le scorte di gas sono ai minimi, l’Europa tema l’inverno”",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/17/scorte-gas-minimi-europa-inverno-notizie/8480804/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "L’allarme di Oxford Economics sull’energia: “Le scorte di gas sono ai minimi, l’Europa tema l’inverno”",
+    "title": "“Sarei dovuta tornare più tardi, mi sarei dovuta prendere più settimane come mi avevano detto i medici”: Noemi torna sul palco in stampelle dopo la caduta",
     "score": 9
   },
   {
-    "original_title": "Turista bloccato a 2.550 metri “senza caschetto e kit da scalatore”, un’alpinista “sospesa nel vuoto” su uno strapiombo e gli escursionisti aggrediti dai cani da guardia: la rabbia del Soccorso Alpino per gli interventi evitabil",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/17/un-turista-bloccato-a-a-2-550-metri-senza-caschetto-e-kit-da-scalatore-unalpinista-sospesa-nel-vuoto-su-uno-strapiombo-e-gli-escursionisti-aggrediti-dai-cani-da-guardia-la-rabbia-del-socco/8480895/",
+    "original_title": "Il pronostico di La Russa: “Alle elezioni il centrodestra a prescindere da Vannacci batterà la sinistra”",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/17/la-russa-centrodestra-vannacci-elezioni-notizie/8480780/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Turista bloccato a 2.550 metri “senza caschetto e kit da scalatore”, un’alpinista “sospesa nel vuoto” su uno strapiombo e gli escursionisti aggrediti dai cani da guardia: la rabbia del Soccorso Alpino per gli interventi evitabil",
-    "score": 6
+    "title": "Il pronostico di La Russa: “Alle elezioni il centrodestra a prescindere da Vannacci batterà la sinistra”",
+    "score": 5
   },
   {
-    "original_title": "Cosa accade se si è colpiti da un fulmine e come evitarlo: le indicazioni dell’Istituto Superiore di Sanità",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/17/fulmine-rischi-prevenzione-consigli-notizie/8480812/",
+    "original_title": "Benati si rasa a zero dopo l’impresa agli Europei di atletica: “Ho fatto una scommessa”. Il video sui social",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/17/europei-atletica-benati-scommessa-sibilio-capelli-rasati-zero-video/8480948/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Cosa accade se si è colpiti da un fulmine e come evitarlo: le indicazioni dell’Istituto Superiore di Sanità",
-    "score": 8
+    "title": "Benati si rasa a zero dopo l’impresa agli Europei di atletica: “Ho fatto una scommessa”. Il video sui social",
+    "score": 2
   },
   {
-    "original_title": "Insulti sui social per le previsioni meteo non azzeccate, Mario Giuliacci dice basta: “Ora denuncio gli hater per diffamazione, non autorizzo le accuse false”",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/17/insulti-sui-social-per-le-previsioni-meteo-non-azzeccate-mario-giuliacci-dice-basta-ora-denuncio-gli-hater-per-diffamazione-non-autorizzo-le-accuse-false/8480870/",
+    "original_title": "“Se ti raccontassi tutto quello che mi è successo mi prenderesti per pazzo”: Valensole 1965 – Cronaca di un incontro ravvicinato, il film sull’apparizione di un Ufo e di due alieni in Francia",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/17/se-ti-raccontassi-tutto-quello-che-mi-e-successo-mi-prenderesti-per-pazzo-valensole-1965-cronaca-di-un-incontro-ravvicinato-il-film-sullapparizione-di-un-ufo-e-di-due-alieni-in/8480952/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Insulti sui social per le previsioni meteo non azzeccate, Mario Giuliacci dice basta: “Ora denuncio gli hater per diffamazione, non autorizzo le accuse false”",
-    "score": 6
+    "title": "“Se ti raccontassi tutto quello che mi è successo mi prenderesti per pazzo”: Valensole 1965 – Cronaca di un incontro ravvicinato, il film sull’apparizione di un Ufo e di due alieni in Francia",
+    "score": 5
   },
   {
     "original_title": "È online lo speciale di ANSA.it sui Giochi del Mediterraneo Taranto 2026",
@@ -109,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Chi sono i 'dublinanti', i numeri e le regole",
-    "score": 3
+    "score": 5
   },
   {
     "original_title": "I 90 anni di Mogol, tra pensieri e parole ha rivoluzionato la canzone d'autore",
@@ -117,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "I 90 anni di Mogol, tra pensieri e parole ha rivoluzionato la canzone d'autore",
-    "score": 7
+    "score": 6
   },
   {
     "original_title": "Il ritratto più fedele di Io, la luna più interna di Giove",
@@ -125,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Il ritratto più fedele di Io, la luna più interna di Giove",
-    "score": 1
+    "score": 9
   },
   {
     "original_title": "I latiao, i popolari bastoncini piccanti cinesi, sono diventati snack trend",
@@ -133,7 +133,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "I latiao, i popolari bastoncini piccanti cinesi, sono diventati snack trend",
-    "score": 1
+    "score": 6
   },
   {
     "original_title": "Lavitola parla da Rebibbia: 'Pentito per aver inguaiato mio fratello Ranucci'",
@@ -141,15 +141,15 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Lavitola parla da Rebibbia: 'Pentito per aver inguaiato mio fratello Ranucci'",
-    "score": 4
+    "score": 1
   },
   {
     "original_title": "Ranucci, l?avvocato di Lavitola: «Avvisò Ranucci un mese prima, ma non gli diede retta. Pentito per aver messo nei guai persone care»",
-    "url": "https://www.ilmessaggero.it/italia/lavitola_pentito_per_aver_messo_guai_ranucci_attentato_scelta_mia-9711208.html",
+    "url": "https://www.ilmessaggero.it/italia/lavitola_pentito_messo_guai_ranucci_attentato_scelta_mia_ultima_ora-9711208.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Ranucci, l?avvocato di Lavitola: «Avvisò Ranucci un mese prima, ma non gli diede retta. Pentito per aver messo nei guai persone care»",
-    "score": 1
+    "score": 8
   },
   {
     "original_title": "Quinta ondata di caldo, quando arriva in Italia: il calo delle temperature e il nuovo cambio di rotta, le previsioni",
@@ -157,15 +157,15 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Quinta ondata di caldo, quando arriva in Italia: il calo delle temperature e il nuovo cambio di rotta, le previsioni",
-    "score": 5
+    "score": 4
   },
   {
-    "original_title": "Partite Iva, cambia tutto: sanatoria estesa anche al 2023 e arriva la carta per il cashback sanitario",
-    "url": "https://www.ilmessaggero.it/economia/schede/partite_iva_sanatoria_estesa_cashback_sanitario-9711100.html",
+    "original_title": "Bonus genitori separati fino a 500 euro al mese, in arrivo i decreti attuativi: a chi spetta e come funziona. La guida",
+    "url": "https://www.ilmessaggero.it/economia/news/bonus_genitori_separati_a_chi_spetta_come_funziona_ultime_notizie-9711319.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Partite Iva, cambia tutto: sanatoria estesa anche al 2023 e arriva la carta per il cashback sanitario",
-    "score": 6
+    "title": "Bonus genitori separati fino a 500 euro al mese, in arrivo i decreti attuativi: a chi spetta e come funziona. La guida",
+    "score": 1
   },
   {
     "original_title": "Stipendi, verso nuovo taglio Irpef (fino a 60mila euro): aumenti in busta paga fino a 1.000 euro, le simulazioni",
@@ -181,15 +181,39 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Ultraleggero scompare dai radar ?sul Tirreno Cosentino, a bordo il noto avvocato romano Carlo Arnulfo e la compagna Angela Buccico",
+    "score": 4
+  },
+  {
+    "original_title": "Maurizio Giammusso morto, malore mentre fa il bagno a Capalbio: il giornalista romano aveva 74 anni",
+    "url": "https://www.ilmessaggero.it/persone/maurizio_giammusso_morto_capalbio_chi_era-9711369.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Maurizio Giammusso morto, malore mentre fa il bagno a Capalbio: il giornalista romano aveva 74 anni",
     "score": 6
   },
   {
-    "original_title": "Trepy, il calciatore del Cagliari rischia di annegare in piscina di una villa in Costa Smeralda: è in coma farmacologico",
-    "url": "https://www.ilmessaggero.it/persone/trepy_cagliari_calciatore_annega_costa_smeralda_come_sta-9711093.html",
-    "domain": "ilmessaggero.it",
+    "original_title": "Massimo Boldi ricoverato, parla la figlia: «Si stava godendo le vacanze, poi ha battuto il viso a terra». Come sta l’attore",
+    "url": "https://www.open.online/2026/08/17/massimo-boldi-ricoverato-parla-figlia-come-sta/",
+    "domain": "open.online",
     "region": "IT",
-    "title": "Trepy, il calciatore del Cagliari rischia di annegare in piscina di una villa in Costa Smeralda: è in coma farmacologico",
-    "score": 5
+    "title": "Massimo Boldi ricoverato, parla la figlia: «Si stava godendo le vacanze, poi ha battuto il viso a terra». Come sta l’attore",
+    "score": 4
+  },
+  {
+    "original_title": "Manuel Bortuzzo, la carrozzina distrutta durante il viaggio in aereo: «Io posso permettermi di averne una di riserva, ma penso a chi non può»",
+    "url": "https://www.open.online/2026/08/17/manuel-bortuzzo-carrozzina-distrutta-viaggio-aereo-denuncia-compagnia/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Manuel Bortuzzo, la carrozzina distrutta durante il viaggio in aereo: «Io posso permettermi di averne una di riserva, ma penso a chi non può»",
+    "score": 4
+  },
+  {
+    "original_title": "OpenAI ha smantellato il suo team di sicurezza in vista del debutto in borsa: ecco cosa è successo",
+    "url": "https://www.open.online/2026/08/17/openai-smantellato-team-sicurezza-debutto-borsa/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "OpenAI ha smantellato il suo team di sicurezza in vista del debutto in borsa: ecco cosa è successo",
+    "score": 2
   },
   {
     "original_title": "Dopo le frasi di Ben Gvir, interviene Donald Trump: «Sarebbe meglio se gli israeliani non attaccassero Gaza»",
@@ -197,7 +221,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Dopo le frasi di Ben Gvir, interviene Donald Trump: «Sarebbe meglio se gli israeliani non attaccassero Gaza»",
-    "score": 7
+    "score": 6
   },
   {
     "original_title": "Mauro Ceruti: «Le conseguenze del riscaldamento globale di quest’estate sono paragonabili a quelle di una pandemia»",
@@ -205,7 +229,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Mauro Ceruti: «Le conseguenze del riscaldamento globale di quest’estate sono paragonabili a quelle di una pandemia»",
-    "score": 4
+    "score": 3
   },
   {
     "original_title": "Palio di Siena, continua la maledizione della pioggia: doppio rinvio per il maltempo",
@@ -213,39 +237,15 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Palio di Siena, continua la maledizione della pioggia: doppio rinvio per il maltempo",
-    "score": 2
+    "score": 1
   },
   {
-    "original_title": "Sgarbi sul furto a Messina: «Ladri ignoranti, quelle opere sono invendibili. Nessun committente, presto torneranno al museo»",
-    "url": "https://www.open.online/2026/08/17/sgarbi-furto-antonello-da-messina-mume-ladri-ignoranti/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Sgarbi sul furto a Messina: «Ladri ignoranti, quelle opere sono invendibili. Nessun committente, presto torneranno al museo»",
-    "score": 3
-  },
-  {
-    "original_title": "Venezia, uccide l’ex compagna poi va a casa e si impicca",
-    "url": "https://www.open.online/2026/08/17/venezia-uccide-ex-compagna-suicidio/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Venezia, uccide l’ex compagna poi va a casa e si impicca",
-    "score": 9
-  },
-  {
-    "original_title": "Al via le Ulchi Freedom Shield, le esercitazioni militari Usa-Corea del Sud, ma Trump le definisce «costose e ostili» verso la Corea del Nord",
-    "url": "https://www.open.online/2026/08/17/donald-trump-ulchi-freedom-shield-corea/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Al via le Ulchi Freedom Shield, le esercitazioni militari Usa-Corea del Sud, ma Trump le definisce «costose e ostili» verso la Corea del Nord",
-    "score": 7
-  },
-  {
-    "original_title": "Uccide l'ex compagna, poi torna a casa e si toglie la vita: la donna lo aveva denunciato dopo aver chiuso la relazione. Indagini in corso",
-    "url": "https://www.ilgazzettino.it/nordest/venezia/uccide_compagna_morto_tania_terrin_dino_keber_dolo_camponogara-9711266.html",
+    "original_title": "Tania Terrin uccisa dall'ex fidanzato, l'uomo torna a casa e si toglie la vita: aveva già provato a ucciderla 4 mesi fa. La denuncia dopo l'episodio",
+    "url": "https://www.ilgazzettino.it/nordest/venezia/tania_terrin_uccisa_dino_keber_morto_camponogara_dolo-9711266.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Uccide l'ex compagna, poi torna a casa e si toglie la vita: la donna lo aveva denunciato dopo aver chiuso la relazione. Indagini in corso",
-    "score": 8
+    "title": "Tania Terrin uccisa dall'ex fidanzato, l'uomo torna a casa e si toglie la vita: aveva già provato a ucciderla 4 mesi fa. La denuncia dopo l'episodio",
+    "score": 1
   },
   {
     "original_title": "Furto in caffetteria, mamme con bambini svuotano gli scaffali. Lo choc dell'esercente: «Erano una decina. Hanno rubato tutto sotto i miei occhi»",
@@ -253,7 +253,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Furto in caffetteria, mamme con bambini svuotano gli scaffali. Lo choc dell'esercente: «Erano una decina. Hanno rubato tutto sotto i miei occhi»",
-    "score": 5
+    "score": 1
   },
   {
     "original_title": "Borseggiatori e truffatori, viaggio di una notte a Piazzale Roma. Sotto assedio turisti e residenti: «Aiuto, ci stanno seguendo»",
@@ -261,7 +261,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Borseggiatori e truffatori, viaggio di una notte a Piazzale Roma. Sotto assedio turisti e residenti: «Aiuto, ci stanno seguendo»",
-    "score": 8
+    "score": 7
   },
   {
     "original_title": "Escursionista trovato morto sul sentiero a oltre 2mila metri di altezza: potrebbe essere stato colpito da un fulmine",
@@ -269,15 +269,15 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Escursionista trovato morto sul sentiero a oltre 2mila metri di altezza: potrebbe essere stato colpito da un fulmine",
-    "score": 5
+    "score": 3
   },
   {
-    "original_title": "Marianna Bernardi scivola e cade nel lago di Speccheri: muore annegata. Il figlio si è tuffato in acqua per tentare di salvarla",
-    "url": "https://www.ilgazzettino.it/nordest/vicenza_bassano/morta_annegata_lago_speccheri_marianna_bernardi_figlio_tuffo_vallarsa-9709988.html",
+    "original_title": "Marco Carraro muore a 64 anni, il malore dopo il pranzo di Ferragosto davanti a moglie e figlio: combatteva contro un tumore al cervello",
+    "url": "https://www.ilgazzettino.it/nordest/treviso/marco_carraro_morto_64_anni_malore_pranzo_ferragosto_tumore_cervello_casale-9711006.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Marianna Bernardi scivola e cade nel lago di Speccheri: muore annegata. Il figlio si è tuffato in acqua per tentare di salvarla",
-    "score": 2
+    "title": "Marco Carraro muore a 64 anni, il malore dopo il pranzo di Ferragosto davanti a moglie e figlio: combatteva contro un tumore al cervello",
+    "score": 7
   },
   {
     "original_title": "Don Lino Bertollo ha un malore alla guida, sbanda e finisce nel canale: muore a 66 anni. Il sindaco: «Il giorno del funerale sarà lutto cittadino»",
@@ -285,7 +285,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Don Lino Bertollo ha un malore alla guida, sbanda e finisce nel canale: muore a 66 anni. Il sindaco: «Il giorno del funerale sarà lutto cittadino»",
-    "score": 5
+    "score": 3
   },
   {
     "original_title": "Ranucci, l?avvocato di Lavitola: «Avvisò Ranucci un mese prima, ma non gli diede retta. Pentito per aver messo nei guai persone care»",
@@ -293,7 +293,15 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Ranucci, l?avvocato di Lavitola: «Avvisò Ranucci un mese prima, ma non gli diede retta. Pentito per aver messo nei guai persone care»",
-    "score": 1
+    "score": 8
+  },
+  {
+    "original_title": "Manila Esposito dopo la medaglia d'oro: «Offese e body shaming? Vinco anche grazie al mio fisico»",
+    "url": "https://www.ilmattino.it/sport/altrisport/body_shaming_manila_esposito_ginnastica_facci_europei-9711380.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Manila Esposito dopo la medaglia d'oro: «Offese e body shaming? Vinco anche grazie al mio fisico»",
+    "score": 7
   },
   {
     "original_title": "Al Vomero i funerali di Vittorio dell'Uva, addio all'inviato di guerra del Mattino",
@@ -301,7 +309,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Al Vomero i funerali di Vittorio dell'Uva, addio all'inviato di guerra del Mattino",
-    "score": 7
+    "score": 5
   },
   {
     "original_title": "Vesuvio, crolla \"l'occhio del diavolo\": la Valle dell'Inferno perde uno dei suoi segni più noti",
@@ -309,23 +317,15 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Vesuvio, crolla \"l'occhio del diavolo\": la Valle dell'Inferno perde uno dei suoi segni più noti",
-    "score": 2
+    "score": 8
   },
   {
-    "original_title": "Quando finisce la quinta ondata di caldo in Italia e come cambiano le temperature: tutte le previsioni",
-    "url": "https://www.ilmattino.it/schede/caldo_italia_quinta_ondata_tregua_previsioni-9711165.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Quando finisce la quinta ondata di caldo in Italia e come cambiano le temperature: tutte le previsioni",
-    "score": 3
-  },
-  {
-    "original_title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
-    "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+    "original_title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+    "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
-    "score": 3
+    "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+    "score": 1
   },
   {
     "original_title": "Burnham exchanged messages with person posing as Trump's chief of staff",
@@ -333,7 +333,23 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
-    "score": 2
+    "score": 6
+  },
+  {
+    "original_title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+    "url": "https://www.bbc.co.uk/news/articles/c4g3re5ew8do?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
+    "score": 7
+  },
+  {
+    "original_title": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
+    "url": "https://www.bbc.co.uk/news/articles/c171j051gejo?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Emotional farewell to 'global, iconic superstar' Bonnie Tyler",
+    "score": 3
   },
   {
     "original_title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
@@ -341,127 +357,111 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Rain on way for UK with temperatures to drop to overnight lows of 3C in some places",
-    "score": 7
+    "score": 8
   },
   {
-    "original_title": "Watch: Sprint sensation Amy Hunt takes gold number four at the European championships",
-    "url": "https://www.bbc.co.uk/sport/athletics/videos/cdj00030me7o?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Watch: Sprint sensation Amy Hunt takes gold number four at the European championships",
-    "score": 1
-  },
-  {
-    "original_title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
+    "original_title": "Boy, seven, among four injured after crash that killed five teenagers",
     "url": "https://www.bbc.co.uk/news/articles/ce8lx172kero?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Post-mortems due on five boys killed in crash on wrong side of motorway that injured four in Ireland",
-    "score": 9
+    "title": "Boy, seven, among four injured after crash that killed five teenagers",
+    "score": 8
   },
   {
-    "original_title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-    "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-    "score": 3
-  },
-  {
-    "original_title": "Family theme park slammed over ‘disrespectful’ Titanic ride for kids — but owner refuses to cave to ‘woke’ brigade",
-    "url": "https://nypost.com/2026/08/17/lifestyle/theme-park-ripped-over-distasteful-titanic-ride-for-kids/",
+    "original_title": "US tourist struck by lightning, dies hiking active volcano in Italy",
+    "url": "https://nypost.com/2026/08/17/world-news/tourist-dies-from-lightning-strike-on-active-italy-volcano/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Family theme park slammed over ‘disrespectful’ Titanic ride for kids — but owner refuses to cave to ‘woke’ brigade",
+    "title": "US tourist struck by lightning, dies hiking active volcano in Italy",
     "score": 7
   },
   {
-    "original_title": "What happens if you miss a student loan payment: Timelines, default and OBBBA updates",
-    "url": "https://nypost.com/personal-finance/what-happens-if-you-miss-a-student-loan-payment/",
+    "original_title": "Designer on a budget: These men’s Tommy Hilfiger sneakers are nearly 50% off",
+    "url": "https://nypost.com/2026/08/17/shopping/these-mens-tommy-hilfiger-sneakers-are-nearly-50-off-and-even-less-with-secret-coupon/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "What happens if you miss a student loan payment: Timelines, default and OBBBA updates",
-    "score": 1
-  },
-  {
-    "original_title": "‘RHUGT’ recap: Kyle confronts Gizelle over suggestive Mauricio comments, Luann calls out Vicki",
-    "url": "https://pagesix.com/video/rhugt-recap-kyle-confronts-gizelle-over-suggestive-mauricio-comments-luann-calls-out-vicki/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "‘RHUGT’ recap: Kyle confronts Gizelle over suggestive Mauricio comments, Luann calls out Vicki",
-    "score": 7
-  },
-  {
-    "original_title": "At least 7 dead after days of severe storms and record flooding in Indiana",
-    "url": "https://nypost.com/2026/08/17/us-news/indiana-multi-day-storms-leave-7-dead-cause-major-flooding/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "At least 7 dead after days of severe storms and record flooding in Indiana",
-    "score": 5
-  },
-  {
-    "original_title": "Inside Alex Cooper’s decision to dump UTA — including massive cash windfall from Hollywood power player",
-    "url": "https://pagesix.com/2026/08/17/hollywood/inside-alex-coopers-decision-to-dump-uta-including-massive-cash-windfall-from-hollywood-power-player/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Inside Alex Cooper’s decision to dump UTA — including massive cash windfall from Hollywood power player",
-    "score": 6
-  },
-  {
-    "original_title": "Andy Burnham's texts to fake Trump aide 'most likely Iran, China or Russia spy op'",
-    "url": "https://www.express.co.uk/news/politics/2239895/andy-burnhams-humiliating-texts-fake-trump-chief",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Andy Burnham's texts to fake Trump aide 'most likely Iran, China or Russia spy op'",
-    "score": 1
-  },
-  {
-    "original_title": "Substantial increase in fines for littering in England from September 1 2026",
-    "url": "https://www.express.co.uk/news/uk/2239887/substantial-increase-fines-littering-england-from-september-1-2026",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Substantial increase in fines for littering in England from September 1 2026",
-    "score": 3
-  },
-  {
-    "original_title": "Reform announces huge plan for unemployed to clean parks and repair council houses",
-    "url": "https://www.express.co.uk/news/politics/2239885/reform-robert-jenrick-unemployed-people",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Reform announces huge plan for unemployed to clean parks and repair council houses",
-    "score": 5
-  },
-  {
-    "original_title": "UK snow latest as Polar Vortex risks freezing cold snap",
-    "url": "https://www.express.co.uk/news/weather/2239883/uk-snow-latest-polar-vortex",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "UK snow latest as Polar Vortex risks freezing cold snap",
-    "score": 3
-  },
-  {
-    "original_title": "Police issue major update after man 'bitten by dog' in Wakefield dies",
-    "url": "https://www.express.co.uk/news/uk/2239881/police-update-man-bitten-dog-wakefield",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Police issue major update after man 'bitten by dog' in Wakefield dies",
+    "title": "Designer on a budget: These men’s Tommy Hilfiger sneakers are nearly 50% off",
     "score": 4
   },
   {
-    "original_title": "Heartbreak as boy, 12, drowns in River Lea at Hackney Marshes",
-    "url": "https://www.express.co.uk/news/uk/2239880/boy-drowns-river-lea-hackney-marshes",
-    "domain": "express.co.uk",
+    "original_title": "Teenage tourist stabbed in ‘unprovoked’ attack inside McDonald’s near Times Square: sources",
+    "url": "https://nypost.com/2026/08/17/us-news/teenage-tourist-stabbed-in-unprovoked-attack-inside-mcdonalds-near-times-square-sources/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Heartbreak as boy, 12, drowns in River Lea at Hackney Marshes",
-    "score": 6
+    "title": "Teenage tourist stabbed in ‘unprovoked’ attack inside McDonald’s near Times Square: sources",
+    "score": 9
   },
   {
-    "original_title": "BJP removes Malviya as IT cell chief after 11 yrs; Mhaske to head revamped team",
-    "url": "https://timesofindia.indiatimes.com/india/nitin-nabin-gets-a-new-team-amit-malviya-out-as-bjp-it-cell-chief/articleshow/133295201.cms",
-    "domain": "timesofindia.com",
+    "original_title": "‘Toy Story 5’ Comes To Digital, But When Will ‘Toy Story 5’ Be Streaming on Disney Plus?",
+    "url": "https://decider.com/2026/08/17/watch-toy-story-5-at-home-toy-story-5-streaming-disney-plus-release-date/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "BJP removes Malviya as IT cell chief after 11 yrs; Mhaske to head revamped team",
+    "title": "‘Toy Story 5’ Comes To Digital, But When Will ‘Toy Story 5’ Be Streaming on Disney Plus?",
+    "score": 7
+  },
+  {
+    "original_title": "Supreme Court again rebuffs Trump in $5M E. Jean Carroll case",
+    "url": "https://nypost.com/2026/08/17/us-news/us-supreme-court-again-rebuffs-trump-in-5-million-e-jean-carroll-case/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Supreme Court again rebuffs Trump in $5M E. Jean Carroll case",
+    "score": 4
+  },
+  {
+    "original_title": "Who is Brian Hickerson? Meet Hayden Panettiere’s on-again, off-again boyfriend",
+    "url": "https://pagesix.com/celebrity-news/who-is-brian-hickerson-hayden-panettiere-ex-boyfriend/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Who is Brian Hickerson? Meet Hayden Panettiere’s on-again, off-again boyfriend",
+    "score": 4
+  },
+  {
+    "original_title": "Grooming gang survivor furious as men who abused her at 14 to be released early",
+    "url": "https://www.express.co.uk/news/uk/2239929/grooming-gang-survivor-furious-men",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Grooming gang survivor furious as men who abused her at 14 to be released early",
+    "score": 4
+  },
+  {
+    "original_title": "Horror as 'obsessed killer' talked about killing his ex months before she was stabbed",
+    "url": "https://www.express.co.uk/news/world/2239916/horror-obsessed-killer-killed-ex",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Horror as 'obsessed killer' talked about killing his ex months before she was stabbed",
+    "score": 9
+  },
+  {
+    "original_title": "Everything you need to know about Prince Harry's plan for regular UK trips",
+    "url": "https://www.express.co.uk/news/royal/2239910/prince-harry-uk-return-details",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Everything you need to know about Prince Harry's plan for regular UK trips",
     "score": 5
+  },
+  {
+    "original_title": "Russia sends chilling WW3 threat to UK - 'There will be consequences'",
+    "url": "https://www.express.co.uk/news/world/2239906/russia-sends-chilling-ww3-threat",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Russia sends chilling WW3 threat to UK - 'There will be consequences'",
+    "score": 1
+  },
+  {
+    "original_title": "Monkey escapes UK wildlife park as 'do not approach' warning issued",
+    "url": "https://www.express.co.uk/news/uk/2239905/monkey-escapes-uk-zoo-do-approach-warnin",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Monkey escapes UK wildlife park as 'do not approach' warning issued",
+    "score": 9
+  },
+  {
+    "original_title": "Queen Camilla pictured on secret shopping trip near Balmoral",
+    "url": "https://www.express.co.uk/news/royal/2239902/queen-camilla-pictures-scotland-shopping-ballater",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Queen Camilla pictured on secret shopping trip near Balmoral",
+    "score": 2
   },
   {
     "original_title": "Smriti Irani's big comeback: Why BJP has turned to its 'giant killer'",
@@ -469,39 +469,79 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "Smriti Irani's big comeback: Why BJP has turned to its 'giant killer'",
+    "score": 6
+  },
+  {
+    "original_title": "Watch: Saudi military ship struck by missile in Red Sea; Houthis claim attack",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/houthis-escalate-red-sea-attacks-ballistic-missile-strikes-saudi-military-ship-four-escort-boats/articleshow/133298716.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Watch: Saudi military ship struck by missile in Red Sea; Houthis claim attack",
     "score": 9
   },
   {
-    "original_title": "Watch: NYC Mayor Mamdani speaks Bengali, stuns crowd during key announcement",
-    "url": "https://timesofindia.indiatimes.com/world/us/watch-nyc-mayor-mamdani-speaks-bengali-while-announcing-free-broadway-tickets-for-students-user-says-your-bangla-is-better-than-mine/articleshow/133298397.cms",
+    "original_title": "Cong workers sing 2 stanzas of Vande Mataram at Goa rally; Kharge attacks BJP",
+    "url": "https://timesofindia.indiatimes.com/city/goa/congress-sings-two-stanzas-of-vande-mataram-in-goa-kharge-hits-back-at-bjp/articleshow/133298229.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Watch: NYC Mayor Mamdani speaks Bengali, stuns crowd during key announcement",
+    "title": "Cong workers sing 2 stanzas of Vande Mataram at Goa rally; Kharge attacks BJP",
+    "score": 7
+  },
+  {
+    "original_title": "'No one will be spared': Maha FDA chief warns after notice to SRK, Devgn &amp; Tiger",
+    "url": "https://timesofindia.indiatimes.com/india/no-one-will-be-spared-maharashtra-fda-chief-warns-after-notice-to-srk-ajay-devgn-tiger/articleshow/133298789.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "'No one will be spared': Maha FDA chief warns after notice to SRK, Devgn &amp; Tiger",
     "score": 1
   },
   {
-    "original_title": "Tech CEO who fired 900 workers on Zoom call asks board for his job back for $1 salary",
-    "url": "https://timesofindia.indiatimes.com/technology/tech-news/tech-ceo-who-sacked-employees-in-a-79-second-zoom-call-has-been-fired-tells-company-board-i-want-my-job-back-willing-to-work-for-/articleshow/133295575.cms",
+    "original_title": "USB4 vs USB-C explained: Speeds, cable lengths and the one spec that nobody reads",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/usb4-vs-usb-c-explained-speeds-cable-lengths-and-the-one-spec-that-nobody-reads/articleshow/133294948.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Tech CEO who fired 900 workers on Zoom call asks board for his job back for $1 salary",
-    "score": 2
-  },
-  {
-    "original_title": "BJP announces list of office bearers: Smriti Irani, Piyush Goyal get key roles",
-    "url": "https://timesofindia.indiatimes.com/india/bjp-announces-list-of-office-bearers-smriti-irani-vasundhara-raje-get-key-roles-check-full-list/articleshow/133292796.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "BJP announces list of office bearers: Smriti Irani, Piyush Goyal get key roles",
-    "score": 4
-  },
-  {
-    "original_title": "Shabnam Sinha to succeed Sunil Bharti Mittal as Airtel Payments Bank chairperson",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/shabnam-sinha-to-succeed-sunil-bharti-mittal-as-airtel-payments-bank-chairperson/articleshow/133296390.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Shabnam Sinha to succeed Sunil Bharti Mittal as Airtel Payments Bank chairperson",
+    "title": "USB4 vs USB-C explained: Speeds, cable lengths and the one spec that nobody reads",
     "score": 8
+  },
+  {
+    "original_title": "'Will counter propaganda, dispel misconceptions': New BJP IT cell chief Mhaske",
+    "url": "https://timesofindia.indiatimes.com/india/will-counter-propaganda-dispel-misconceptions-newly-appointed-bjp-it-cell-chief-deepak-mhaske/articleshow/133298718.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "'Will counter propaganda, dispel misconceptions': New BJP IT cell chief Mhaske",
+    "score": 8
+  },
+  {
+    "original_title": "Opening statements set to begin Tupac Shakur shooting trial",
+    "url": "https://www.upi.com/Top_News/US/2026/08/17/tupac-shakur-trial/6731786974099/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Opening statements set to begin Tupac Shakur shooting trial",
+    "score": 5
+  },
+  {
+    "original_title": "New York Jets running back Breece Hall strains groin",
+    "url": "https://www.upi.com/Sports_News/NFL/2026/08/17/New-York-Jets-Breece-Hall-injury/4051786975246/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "New York Jets running back Breece Hall strains groin",
+    "score": 1
+  },
+  {
+    "original_title": "Watch: 'The Diplomat' Season 4 gets teaser, October premiere date",
+    "url": "https://www.upi.com/Entertainment_News/TV/2026/08/17/diplomat-season-4-teaser-premiere-date/4091786975345/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Watch: 'The Diplomat' Season 4 gets teaser, October premiere date",
+    "score": 6
+  },
+  {
+    "original_title": "Trial begins over murder-for-hire killing of Microsoft executive",
+    "url": "https://www.upi.com/Top_News/US/2026/08/17/mario-fernandez-saldana-murder-trial-jared-bridegan/7901786974927/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Trial begins over murder-for-hire killing of Microsoft executive",
+    "score": 5
   },
   {
     "original_title": "Virgin Trains greenlighted to operate trains through Channel Tunnel",
@@ -509,7 +549,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Virgin Trains greenlighted to operate trains through Channel Tunnel",
-    "score": 8
+    "score": 2
   },
   {
     "original_title": "Trump administration pays billions to not build wind energy projects",
@@ -517,39 +557,39 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Trump administration pays billions to not build wind energy projects",
-    "score": 5
-  },
-  {
-    "original_title": "The real reason many Americans are cutting ties with their parents and siblings",
-    "url": "https://www.upi.com/Voices/2026/08/17/family-estrangement-causes/8791786973072/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "The real reason many Americans are cutting ties with their parents and siblings",
-    "score": 3
-  },
-  {
-    "original_title": "Hayden Panettiere: Celebrities pay tribute to late 'Nashville' star",
-    "url": "https://www.upi.com/Entertainment_News/2026/08/17/hayden-panettiere-celebrity-tributes/8001786972163/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Hayden Panettiere: Celebrities pay tribute to late 'Nashville' star",
     "score": 6
   },
   {
-    "original_title": "Miami Dolphins activate WR Chris Bell from non-football injury list",
-    "url": "https://www.upi.com/Sports_News/NFL/2026/08/17/Miami-Dolphins-Chris-Bell-non-football-injury/1381786972644/",
-    "domain": "upi.com",
+    "original_title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
+    "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Miami Dolphins activate WR Chris Bell from non-football injury list",
+    "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
     "score": 2
   },
   {
-    "original_title": "Cristobal, Miami Hurricanes dismiss WR Cam Vaughn from football program",
-    "url": "https://www.upi.com/Sports_News/2026/08/17/Miami-Hurricanes-dismiss-Cam-Vaughn/3531786970039/",
-    "domain": "upi.com",
+    "original_title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
+    "url": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Cristobal, Miami Hurricanes dismiss WR Cam Vaughn from football program",
-    "score": 9
+    "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
+    "score": 7
+  },
+  {
+    "original_title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
+    "score": 5
+  },
+  {
+    "original_title": "Global condemnation of Israeli settler violence against Palestinians",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/global-condemnation-of-israeli-settler-violence-against-palestinians?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Global condemnation of Israeli settler violence against Palestinians",
+    "score": 5
   },
   {
     "original_title": "Trump hails Mecca pact: Can it replace the region’s US security umbrella?",
@@ -557,7 +597,7 @@
     "domain": "aljazeera.com",
     "region": "GLOBAL",
     "title": "Trump hails Mecca pact: Can it replace the region’s US security umbrella?",
-    "score": 6
+    "score": 3
   },
   {
     "original_title": "French Serie A footballer Yael Trepy in intensive care after near-drowning",
@@ -565,78 +605,38 @@
     "domain": "aljazeera.com",
     "region": "GLOBAL",
     "title": "French Serie A footballer Yael Trepy in intensive care after near-drowning",
-    "score": 7
+    "score": 3
   },
   {
-    "original_title": "Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap",
-    "url": "https://www.aljazeera.com/news/2026/8/17/why-kushner-met-hamas-leaders-and-what-it-means-for-trumps-gaza-roadmap?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "Crying Newborn Has No Idea How Much Worse It Gets",
+    "url": "https://theonion.com/crying-newborn-has-no-idea-how-much-worse-it-gets/",
+    "domain": "theonion.com",
     "region": "GLOBAL",
-    "title": "Why Kushner met Hamas leaders, and what it means for Trump’s Gaza roadmap",
-    "score": 4
-  },
-  {
-    "original_title": "Cameroon celebrates after winning first ever WAFCON title",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/cameroon-celebrates-after-winning-first-ever-wafcon-title?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Cameroon celebrates after winning first ever WAFCON title",
-    "score": 4
-  },
-  {
-    "original_title": "Yemen’s drone war: Rivals flex growing aerial muscle",
-    "url": "https://www.aljazeera.com/news/2026/8/17/yemens-drone-war-rivals-flex-growing-aerial-muscle?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Yemen’s drone war: Rivals flex growing aerial muscle",
-    "score": 7
-  },
-  {
-    "original_title": "Trump scales down war games with South Korea: Why it matters",
-    "url": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Trump scales down war games with South Korea: Why it matters",
+    "title": "Crying Newborn Has No Idea How Much Worse It Gets",
     "score": 1
   },
   {
-    "original_title": "Trump threatens to bomb Oman if it impedes US-Iran Strait of Hormuz talks",
-    "url": "http://www.euronews.com/2026/08/17/trump-threatens-to-bomb-oman-if-it-impedes-us-iran-strait-of-hormuz-talks",
-    "domain": "euronews.com",
+    "original_title": "AOC Freezing Her Eggs",
+    "url": "https://theonion.com/aoc-freezing-her-eggs/",
+    "domain": "theonion.com",
     "region": "GLOBAL",
-    "title": "Trump threatens to bomb Oman if it impedes US-Iran Strait of Hormuz talks",
+    "title": "AOC Freezing Her Eggs",
+    "score": 3
+  },
+  {
+    "original_title": "Announcers Watch Angels-Royals Game In Total Silence",
+    "url": "https://theonion.com/announcers-watch-angels-royals-game-in-total-silence/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "Announcers Watch Angels-Royals Game In Total Silence",
+    "score": 3
+  },
+  {
+    "original_title": "Trump Downplays Significance Of Trump Tower Found On Epstein Island",
+    "url": "https://theonion.com/trump-downplays-significance-of-trump-tower-found-on-epstein-island/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "Trump Downplays Significance Of Trump Tower Found On Epstein Island",
     "score": 2
-  },
-  {
-    "original_title": "Venezuela seeks return of 31 tonnes of gold worth €4bn from Bank of England",
-    "url": "http://www.euronews.com/2026/08/17/venezuela-seeks-return-of-31-tonnes-of-gold-worth-4bn-from-bank-of-england",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Venezuela seeks return of 31 tonnes of gold worth €4bn from Bank of England",
-    "score": 8
-  },
-  {
-    "original_title": "Yemen risks return to 'full-scale conflict' if Houthi strikes continue, UN rights chief warns",
-    "url": "http://www.euronews.com/2026/08/17/yemen-risks-return-to-full-scale-conflict-if-houthi-strikes-continue-un-rights-chief-warns",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Yemen risks return to 'full-scale conflict' if Houthi strikes continue, UN rights chief warns",
-    "score": 9
-  },
-  {
-    "original_title": "From being single to soaring costs and war: Why Iranian women are freezing their eggs",
-    "url": "http://www.euronews.com/2026/08/17/from-being-single-to-soaring-costs-and-war-why-iranian-women-are-freezing-their-eggs",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "From being single to soaring costs and war: Why Iranian women are freezing their eggs",
-    "score": 5
-  },
-  {
-    "original_title": "Latest news bulletin | August 17th, 2026 – Midday",
-    "url": "http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-midday",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Latest news bulletin | August 17th, 2026 – Midday",
-    "score": 8
   }
 ]
