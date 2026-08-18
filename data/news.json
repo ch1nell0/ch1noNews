@@ -1,11 +1,27 @@
 [
   {
+    "original_title": "L’estate rallenta il passo ma non è finita. Allerta gialla per temporali in sette regioni",
+    "url": "https://www.repubblica.it/cronaca/2026/08/18/news/temporali_allerta_gialla_sette_regioni-425534266/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "L’estate rallenta il passo ma non è finita. Allerta gialla per temporali in sette regioni",
+    "score": 5
+  },
+  {
+    "original_title": "Venezia, ministro degli Esteri ucraino contro il film “Dau” alla Mostra: “È propaganda”",
+    "url": "https://www.repubblica.it/spettacoli/dossier/mostra-del-cinema-di-venezia/2026/08/18/news/venezia_ministro_degli_esteri_ucraino_contro_il_film_dau_alla_mostra-425534238/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Venezia, ministro degli Esteri ucraino contro il film “Dau” alla Mostra: “È propaganda”",
+    "score": 7
+  },
+  {
     "original_title": "Morti in ambulanza, giudizio immediato per l’autista della Croce Rossa Luca Spada",
     "url": "https://bologna.repubblica.it/cronaca/2026/08/18/news/luca_spada_morti_ambulanza_processo_forli-425534220/",
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Morti in ambulanza, giudizio immediato per l’autista della Croce Rossa Luca Spada",
-    "score": 1
+    "score": 2
   },
   {
     "original_title": "\"Aggredito e picchiato da 30 persone a Olbia perché sono gay\": la denuncia del promoter Angelo Ratti",
@@ -13,7 +29,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "\"Aggredito e picchiato da 30 persone a Olbia perché sono gay\": la denuncia del promoter Angelo Ratti",
-    "score": 9
+    "score": 7
   },
   {
     "original_title": "Addio posto fisso. La Generazione Z vuole essere freelance e avere più fonti di reddito",
@@ -21,7 +37,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Addio posto fisso. La Generazione Z vuole essere freelance e avere più fonti di reddito",
-    "score": 7
+    "score": 1
   },
   {
     "original_title": "Ucraina, lo scontro finale per il Donetsk",
@@ -29,71 +45,55 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Ucraina, lo scontro finale per il Donetsk",
-    "score": 8
+    "score": 4
   },
   {
-    "original_title": "È morto Fulvio Lucisano, il produttore cinematografico aveva 98 anni",
-    "url": "https://www.repubblica.it/spettacoli/cinema/2026/08/18/news/fulvio_lucisano_morto_produttore_cinematografico-425534137/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "È morto Fulvio Lucisano, il produttore cinematografico aveva 98 anni",
-    "score": 3
-  },
-  {
-    "original_title": "Bragagna: “La popolarità mi spaventa, ho un fan club che sembra una setta. Benati come Paolo Rossi”",
-    "url": "https://www.repubblica.it/sport/vari/2026/08/18/news/bragagna_intervista_telecronista_atletica_europei_2026-425534122/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Bragagna: “La popolarità mi spaventa, ho un fan club che sembra una setta. Benati come Paolo Rossi”",
-    "score": 6
-  },
-  {
-    "original_title": "“Un calciatore non sarebbe mai sceso dal suo piedistallo come Sinner per farmi i complimenti”: parla Sara Curtis",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/18/sara-curtis-europei-calciatore-non-sarebbe-mai-sceso-dal-piedistallo-come-sinner-per-farmi-complimenti/8481448/",
+    "original_title": "Trova un’urna funebre su una spiaggia in Puglia e il timbro del crematorio rivela la provenienza delle ceneri: sono di un 80enne emigrato in Germania",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/18/trova-unurna-funebre-su-una-spiaggia-in-puglia-e-il-timbro-del-crematorio-rivela-la-provenienza-delle-ceneri-sono-di-un-80enne-emigrato-in-germania/8481532/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "“Un calciatore non sarebbe mai sceso dal suo piedistallo come Sinner per farmi i complimenti”: parla Sara Curtis",
+    "title": "Trova un’urna funebre su una spiaggia in Puglia e il timbro del crematorio rivela la provenienza delle ceneri: sono di un 80enne emigrato in Germania",
+    "score": 9
+  },
+  {
+    "original_title": "Calci e pugni tra la moglie e la sua ex, lui finisce in ospedale: malore per il ct dell’Egitto",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/18/hossam-hassan-malore-rissa-moglie-ospedale/8481512/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Calci e pugni tra la moglie e la sua ex, lui finisce in ospedale: malore per il ct dell’Egitto",
+    "score": 7
+  },
+  {
+    "original_title": "Vicenda Ranucci: così Colosimo usa il conflitto di interessi contro gli avversari politici",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/18/colosimo-antimafia-report-hydra-notizie/8480632/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Vicenda Ranucci: così Colosimo usa il conflitto di interessi contro gli avversari politici",
     "score": 5
   },
   {
-    "original_title": "Morto Fulvio Lucisano, il decano dei produttori cinematografici: aveva 98 anni. Dai documentari dell’Istituto Luce fino alle commedie di Troisi e Brizzi, così ha fatto la storia del cinema",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/18/morto-fulvio-lucisano-il-decano-dei-produttori-cinematografici-aveva-98-anni-dai-documentari-dellistituto-luce-fino-alle-commedie-di-troisi-e-brizzi-cosi-ha-fatto-la-storia-del-cinema/8481476/",
+    "original_title": "Angelina Jolie: “Ero legata a mia madre in modo disperato, sapere di avere la sua stessa mutazione genetica è stato come rivivere quella tragedia. Il mio ultimo film mi ha aiutata a superare il trauma del cancro”",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/18/angelina-jolie-ero-legata-a-mia-madre-in-modo-disperato-sapere-di-avere-la-sua-stessa-mutazione-genetica-e-stato-come-rivivere-quella-tragedia-il-mio-ultimo-film-mi-ha-aiutata-a-superare-il-traum/8481540/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Morto Fulvio Lucisano, il decano dei produttori cinematografici: aveva 98 anni. Dai documentari dell’Istituto Luce fino alle commedie di Troisi e Brizzi, così ha fatto la storia del cinema",
-    "score": 7
+    "title": "Angelina Jolie: “Ero legata a mia madre in modo disperato, sapere di avere la sua stessa mutazione genetica è stato come rivivere quella tragedia. Il mio ultimo film mi ha aiutata a superare il trauma del cancro”",
+    "score": 3
   },
   {
-    "original_title": "Hormuz, nave commerciale colpita da un “proiettile non identificato”: un ferito. Iran: “Lo Stretto rimarrà chiuso finché Washington non rispetterà gli accordi”",
-    "url": "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/18/stretto-hormuz-nave-colpita-proiettile-notizie/8481464/",
+    "original_title": "Il pressing di Colosimo sul Viminale: “Ridurre la scorta a Ranucci, il rinforzo non serve più. Dialogo con Piantedosi”",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/18/scorta-ranucci-colosimo-viminale-notizie/8481452/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Hormuz, nave commerciale colpita da un “proiettile non identificato”: un ferito. Iran: “Lo Stretto rimarrà chiuso finché Washington non rispetterà gli accordi”",
-    "score": 6
-  },
-  {
-    "original_title": "“Da domani non ci rivedremo mai più, non ce la faccio a dirti queste parole di persona. Addio amica mia”: lettera di 29 anni trovata all’Isola d’Elba",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/18/da-domani-non-ci-rivedremo-mai-piu-non-ce-la-faccio-a-dirti-queste-parole-di-persona-addio-amica-mia-lettera-di-29-anni-trovata-allisola-delba/8481446/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "“Da domani non ci rivedremo mai più, non ce la faccio a dirti queste parole di persona. Addio amica mia”: lettera di 29 anni trovata all’Isola d’Elba",
+    "title": "Il pressing di Colosimo sul Viminale: “Ridurre la scorta a Ranucci, il rinforzo non serve più. Dialogo con Piantedosi”",
     "score": 1
   },
   {
-    "original_title": "L’aeroporto di Catania riapre: cancellate tutte le restrizioni per l’eruzione dell’Etna",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/18/aeroporto-catania-riapertura-voli-notizie/8481417/",
+    "original_title": "“Ho insegnato io a Rocco Siffredi a fare l’amore. Faceva dieci posizioni in dieci minuti, gli ho detto: ‘Guarda che tutto quello che fai è sbagliato'”: parla Rósza Tassi",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/18/ho-insegnato-io-a-rocco-siffredi-a-fare-lamore-faceva-dieci-posizioni-in-dieci-minuti-gli-ho-detto-guarda-che-tutto-quello-che-fai-e-sbagliato-parla-rosza-tassi/8481522/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "L’aeroporto di Catania riapre: cancellate tutte le restrizioni per l’eruzione dell’Etna",
-    "score": 1
-  },
-  {
-    "original_title": "Morti in ambulanza a Forlì: disposto il giudizio immediato per Luca Spada",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/18/morti-in-ambulanza-forli-giudizio-immediato-luca-spada/8481454/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Morti in ambulanza a Forlì: disposto il giudizio immediato per Luca Spada",
-    "score": 7
+    "title": "“Ho insegnato io a Rocco Siffredi a fare l’amore. Faceva dieci posizioni in dieci minuti, gli ho detto: ‘Guarda che tutto quello che fai è sbagliato'”: parla Rósza Tassi",
+    "score": 9
   },
   {
     "original_title": "È online lo speciale di ANSA.it sui Giochi del Mediterraneo Taranto 2026",
@@ -101,7 +101,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "È online lo speciale di ANSA.it sui Giochi del Mediterraneo Taranto 2026",
-    "score": 8
+    "score": 7
   },
   {
     "original_title": "Caraibi sott'acqua tra relitti e barriere coralline",
@@ -125,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "A Venezia l'Odissea di un giovane rider a tempo di rap",
-    "score": 5
+    "score": 6
   },
   {
     "original_title": "Omegna, il lago d'Orta si illumina con la festa di San Vito",
@@ -133,7 +133,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Omegna, il lago d'Orta si illumina con la festa di San Vito",
-    "score": 9
+    "score": 6
   },
   {
     "original_title": "Nave colpita da un proiettile nello stretto di Hormuz: un ferito",
@@ -141,15 +141,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Nave colpita da un proiettile nello stretto di Hormuz: un ferito",
-    "score": 2
-  },
-  {
-    "original_title": "Addio a Fulvio Lucisano, storico ?produttore cinematografico: dai film di Troisi e Sordi fino a Brizzi, decano del cinema italiano",
-    "url": "https://www.ilmessaggero.it/persone/fulvio_lucisano_morto_produttore_cinematografico_chi_era-9712803.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Addio a Fulvio Lucisano, storico ?produttore cinematografico: dai film di Troisi e Sordi fino a Brizzi, decano del cinema italiano",
-    "score": 5
+    "score": 9
   },
   {
     "original_title": "Spid a pagamento, arriva il canone obbligatorio: quanto costa, chi deve pagare (e chi resta esente)",
@@ -157,7 +149,15 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Spid a pagamento, arriva il canone obbligatorio: quanto costa, chi deve pagare (e chi resta esente)",
-    "score": 3
+    "score": 8
+  },
+  {
+    "original_title": "Addio a Fulvio Lucisano, storico ?produttore cinematografico: dai film di Troisi e Sordi fino a Brizzi, decano del cinema italiano",
+    "url": "https://www.ilmessaggero.it/persone/fulvio_lucisano_morto_produttore_cinematografico_chi_era-9712803.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Addio a Fulvio Lucisano, storico ?produttore cinematografico: dai film di Troisi e Sordi fino a Brizzi, decano del cinema italiano",
+    "score": 2
   },
   {
     "original_title": "Tania Terrin, la mamma della 39enne uccisa dall'ex: «L'avevamo già denunciato otto volte, aveva picchiato quattro donne prima di lei»",
@@ -165,15 +165,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Tania Terrin, la mamma della 39enne uccisa dall'ex: «L'avevamo già denunciato otto volte, aveva picchiato quattro donne prima di lei»",
-    "score": 4
-  },
-  {
-    "original_title": "Le suore e la «guerra santa» sui lettini dello stabilimento Bagni Garrone a Spotorno, il comune lo mette all'asta. Loro: «È nostro»",
-    "url": "https://www.ilmessaggero.it/italia/suore_guerra_lettini_stabilimento_bagni_garrone_spotorno-9712747.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Le suore e la «guerra santa» sui lettini dello stabilimento Bagni Garrone a Spotorno, il comune lo mette all'asta. Loro: «È nostro»",
-    "score": 3
+    "score": 8
   },
   {
     "original_title": "Frosinone, due donne vanno in ospedale con il mal di testa: scoperti i tumori al cervello, salvate a Ferragosto",
@@ -181,7 +173,15 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Frosinone, due donne vanno in ospedale con il mal di testa: scoperti i tumori al cervello, salvate a Ferragosto",
-    "score": 9
+    "score": 4
+  },
+  {
+    "original_title": "«Abbiamo pagato 3.500 euro per un appartamento fatiscente, mobili attaccati con la colla e nessun ventilatore», la vacanza rovinata di un turista a Pescara",
+    "url": "https://www.ilmessaggero.it/abruzzo/turista_vacanza_rovinata_appartamento_fatiscente_pescara-9712297.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "«Abbiamo pagato 3.500 euro per un appartamento fatiscente, mobili attaccati con la colla e nessun ventilatore», la vacanza rovinata di un turista a Pescara",
+    "score": 3
   },
   {
     "original_title": "Ultraleggero scomparso, a bordo due avvocati romani. Gli amici della scuola di volo: «Carlo era prudente e l'aereo in ordine»",
@@ -189,7 +189,39 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Ultraleggero scomparso, a bordo due avvocati romani. Gli amici della scuola di volo: «Carlo era prudente e l'aereo in ordine»",
-    "score": 8
+    "score": 6
+  },
+  {
+    "original_title": "Riparte la Serie A: quando inizia la prima giornata, la fine del calciomercato e dove vedere il campionato italiano in tv e streaming",
+    "url": "https://www.open.online/2026/08/18/quando-inizia-dove-vedere-serie-a-prima-giornata-tv-streaming/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Riparte la Serie A: quando inizia la prima giornata, la fine del calciomercato e dove vedere il campionato italiano in tv e streaming",
+    "score": 4
+  },
+  {
+    "original_title": "Nella notte nuovi attacchi tra Russia e Ucraina: centinaia di droni su Mosca e 10 morti nella regione ucraina di Kharkiv",
+    "url": "https://www.open.online/2026/08/18/guerra-ucraina-russia-kharkiv-moldavia-aggiornamenti-18-agosto/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Nella notte nuovi attacchi tra Russia e Ucraina: centinaia di droni su Mosca e 10 morti nella regione ucraina di Kharkiv",
+    "score": 4
+  },
+  {
+    "original_title": "Cristiano Ronaldo e Georgina Rodríguez sposi: le clausole del contratto prematrimoniale da 100mila euro al mese",
+    "url": "https://www.open.online/2026/08/18/cristiano-ronaldo-georgina-rodriguez-matrimonio-accordo-prematrimoniale/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Cristiano Ronaldo e Georgina Rodríguez sposi: le clausole del contratto prematrimoniale da 100mila euro al mese",
+    "score": 3
+  },
+  {
+    "original_title": "Chi era Dino Keber, il 43enne che ha ucciso Tania Terrin a Venezia: i precedenti con le ex, le dipendenze, gli appostamenti sotto casa",
+    "url": "https://www.open.online/2026/08/18/dino-keber-chi-era-femminicidio-tania-terrin-venezia/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Chi era Dino Keber, il 43enne che ha ucciso Tania Terrin a Venezia: i precedenti con le ex, le dipendenze, gli appostamenti sotto casa",
+    "score": 5
   },
   {
     "original_title": "Pestaggio omofobo in Sardegna, la denuncia del dj Angelo Ratti: «Aggredito da 30 persone a Porto Istana»",
@@ -197,7 +229,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Pestaggio omofobo in Sardegna, la denuncia del dj Angelo Ratti: «Aggredito da 30 persone a Porto Istana»",
-    "score": 7
+    "score": 6
   },
   {
     "original_title": "Parla la madre di Tania Terrin, uccisa a Ferragosto dall’ex che poi si è suicidato: «La manipolava, la minacciava con un cappio»",
@@ -205,39 +237,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Parla la madre di Tania Terrin, uccisa a Ferragosto dall’ex che poi si è suicidato: «La manipolava, la minacciava con un cappio»",
-    "score": 1
-  },
-  {
-    "original_title": "Cisgiordania, la sua casa è assediata dai coloni: cittadino Usa torna dall’Ohio e issa la bandiera americana sul tetto – Il video",
-    "url": "https://www.open.online/2026/08/18/cisgiordania-loui-ridi-qusra-bandiera-usa-tetto-coloni-video/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Cisgiordania, la sua casa è assediata dai coloni: cittadino Usa torna dall’Ohio e issa la bandiera americana sul tetto – Il video",
-    "score": 1
-  },
-  {
-    "original_title": "In Italia c’è un sindaco che da otto anni rinuncia al suo stipendio per donarlo al Comune",
-    "url": "https://www.open.online/2026/08/18/massimo-di-fazio-sindaco-triora-indennita-corte-dei-conti/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "In Italia c’è un sindaco che da otto anni rinuncia al suo stipendio per donarlo al Comune",
-    "score": 4
-  },
-  {
-    "original_title": "Per Chiara Colosimo il potenziamento della scorta a Ranucci ora non è più necessario",
-    "url": "https://www.open.online/2026/08/18/chiara-colosimo-scorta-ranucci/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Per Chiara Colosimo il potenziamento della scorta a Ranucci ora non è più necessario",
-    "score": 2
-  },
-  {
-    "original_title": "Clausola energia UE: via libera a pompe di calore e nucleare. Ecco il tesoretto da 14 miliardi che salva la Manovra (ma non con sconti sulla benzina)",
-    "url": "https://www.open.online/2026/08/18/clausola-energia-ue-deroghe-patto-stabilita-manovra-governo-meloni/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Clausola energia UE: via libera a pompe di calore e nucleare. Ecco il tesoretto da 14 miliardi che salva la Manovra (ma non con sconti sulla benzina)",
-    "score": 8
+    "score": 7
   },
   {
     "original_title": "Tania Terrin, la mamma della 39enne uccisa dall'ex: «L'avevamo già denunciato otto volte, aveva picchiato quattro donne prima di lei»",
@@ -245,7 +245,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Tania Terrin, la mamma della 39enne uccisa dall'ex: «L'avevamo già denunciato otto volte, aveva picchiato quattro donne prima di lei»",
-    "score": 5
+    "score": 8
   },
   {
     "original_title": "Ha un malore mentre corre, si accascia a terra e i passanti lanciano l'allarme: 56enne morto sul colpo",
@@ -253,7 +253,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Ha un malore mentre corre, si accascia a terra e i passanti lanciano l'allarme: 56enne morto sul colpo",
-    "score": 4
+    "score": 1
   },
   {
     "original_title": "Auto esce di strada lungo la Circonvallazione: 2 persone intrappolate tra le lamiere. Tre feriti in ospedale",
@@ -261,7 +261,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Auto esce di strada lungo la Circonvallazione: 2 persone intrappolate tra le lamiere. Tre feriti in ospedale",
-    "score": 2
+    "score": 1
   },
   {
     "original_title": "Accoltellato all'ex centrale del latte: 38enne trasportato in ospedale. È in gravi condizioni",
@@ -269,7 +269,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Accoltellato all'ex centrale del latte: 38enne trasportato in ospedale. È in gravi condizioni",
-    "score": 6
+    "score": 3
   },
   {
     "original_title": "Bagnini provano a impedire i tuffi dei giovani dal pontile, vengono insultati. L'appello di Zaia: «I richiami non sono un ostacolo, servono a proteggere la vostra vita»",
@@ -277,7 +277,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Bagnini provano a impedire i tuffi dei giovani dal pontile, vengono insultati. L'appello di Zaia: «I richiami non sono un ostacolo, servono a proteggere la vostra vita»",
-    "score": 7
+    "score": 1
   },
   {
     "original_title": "Daniele Molmenti bersaglio dei social per gli alberi tagliati al laghetto, il campione olimpico risponde: «Andavano rimossi». Il duello con gli ambientalisti",
@@ -285,7 +285,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Daniele Molmenti bersaglio dei social per gli alberi tagliati al laghetto, il campione olimpico risponde: «Andavano rimossi». Il duello con gli ambientalisti",
-    "score": 4
+    "score": 3
   },
   {
     "original_title": "Addio a Fulvio Lucisano, storico ?produttore cinematografico: dai film di Troisi e Sordi fino a Brizzi, decano del cinema italiano",
@@ -293,23 +293,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Addio a Fulvio Lucisano, storico ?produttore cinematografico: dai film di Troisi e Sordi fino a Brizzi, decano del cinema italiano",
-    "score": 6
-  },
-  {
-    "original_title": "La compagna riceve un messaggio: lui la picchia e le spegne sigarette sul volto: arrestato a Marano",
-    "url": "https://www.ilmattino.it/napoli/area_metropolitana/marano_25enne_ghanese_pesta_sangue_la_compagna_fugge_strada_chiama_carabinieri-9712785.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "La compagna riceve un messaggio: lui la picchia e le spegne sigarette sul volto: arrestato a Marano",
-    "score": 3
-  },
-  {
-    "original_title": "Giuseppe D'Auria si schianta contro un palo, muore per un?infezione: indagati sedici medici",
-    "url": "https://www.ilmattino.it/schede/giuseppe_d_auria_si_schianta_contro_un_auto_muore_per_un_infezione_indagati_sedici_medici-9711605.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Giuseppe D'Auria si schianta contro un palo, muore per un?infezione: indagati sedici medici",
-    "score": 3
+    "score": 2
   },
   {
     "original_title": "Maltempo nel Cilento: barca a vela alla deriva finisce arenata sulla spiaggia di Castellabate",
@@ -317,6 +301,22 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Maltempo nel Cilento: barca a vela alla deriva finisce arenata sulla spiaggia di Castellabate",
+    "score": 8
+  },
+  {
+    "original_title": "La compagna riceve un messaggio: lui la picchia e le spegne sigarette sul volto: arrestato a Marano",
+    "url": "https://www.ilmattino.it/napoli/area_metropolitana/marano_25enne_ghanese_pesta_sangue_la_compagna_fugge_strada_chiama_carabinieri-9712785.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "La compagna riceve un messaggio: lui la picchia e le spegne sigarette sul volto: arrestato a Marano",
+    "score": 5
+  },
+  {
+    "original_title": "Giuseppe D'Auria si schianta contro un palo, muore per un?infezione: indagati sedici medici",
+    "url": "https://www.ilmattino.it/schede/giuseppe_d_auria_si_schianta_contro_un_auto_muore_per_un_infezione_indagati_sedici_medici-9711605.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Giuseppe D'Auria si schianta contro un palo, muore per un?infezione: indagati sedici medici",
     "score": 2
   },
   {
@@ -325,15 +325,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Russia warns UK will pay for supplying drones to Ukraine",
-    "score": 3
-  },
-  {
-    "original_title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-    "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-    "score": 6
+    "score": 8
   },
   {
     "original_title": "British couple on honeymoon killed in helicopter crash on Greek island",
@@ -341,7 +333,15 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "British couple on honeymoon killed in helicopter crash on Greek island",
-    "score": 6
+    "score": 1
+  },
+  {
+    "original_title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+    "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+    "score": 4
   },
   {
     "original_title": "Inside secret police warehouse as Germany targets small boats gangs",
@@ -349,15 +349,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Inside secret police warehouse as Germany targets small boats gangs",
-    "score": 3
-  },
-  {
-    "original_title": "Heavy showers and thunderstorms bring risk of flash flooding to UK",
-    "url": "https://www.bbc.co.uk/weather/articles/cx2mzgv4vgjo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Heavy showers and thunderstorms bring risk of flash flooding to UK",
-    "score": 6
+    "score": 4
   },
   {
     "original_title": "Young adults are taking prescription drugs instead of alcohol - and it's dividing experts",
@@ -365,15 +357,55 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Young adults are taking prescription drugs instead of alcohol - and it's dividing experts",
-    "score": 2
+    "score": 1
   },
   {
-    "original_title": "Wife of hedge fund mogul barred from testifying in record-breaking NJ divorce case after hacking his email, stealing his mail: judge",
+    "original_title": "Man charged with sharing asylum seeker addresses",
+    "url": "https://www.bbc.co.uk/news/articles/cly8mpp9r8no?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Man charged with sharing asylum seeker addresses",
+    "score": 3
+  },
+  {
+    "original_title": "Tragic Hayden Panettiere was ‘struggling,’ ‘really lonely’ while filming last movie, co-star reveals",
+    "url": "https://nypost.com/2026/08/18/us-news/tragic-hayden-panettiere-was-struggling-really-lonely-while-filming-last-movie-co-star-reveals/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Tragic Hayden Panettiere was ‘struggling,’ ‘really lonely’ while filming last movie, co-star reveals",
+    "score": 8
+  },
+  {
+    "original_title": "The dangerous spot the Rangers risk falling into during their retool",
+    "url": "https://nypost.com/2026/08/18/sports/the-dangerous-spot-the-rangers-risk-falling-into-during-their-retool/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "The dangerous spot the Rangers risk falling into during their retool",
+    "score": 5
+  },
+  {
+    "original_title": "Student kills schoolmate and himself in livestreamed Philippine school attack, official says",
+    "url": "https://nypost.com/2026/08/18/world-news/student-kills-schoolmate-and-himself-in-livestreamed-philippine-school-attack-official-says/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Student kills schoolmate and himself in livestreamed Philippine school attack, official says",
+    "score": 1
+  },
+  {
+    "original_title": "NYC’s deadly e-bike crisis is getting worse — and only Albany can tackle it",
+    "url": "https://nypost.com/2026/08/18/opinion/nycs-deadly-e-bike-crisis-is-getting-worse-and-only-albany-can-solve-it/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "NYC’s deadly e-bike crisis is getting worse — and only Albany can tackle it",
+    "score": 8
+  },
+  {
+    "original_title": "Wife of hedge fund mogul barred from testifying in NJ divorce case after hacking his email, stealing his mail: judge",
     "url": "https://nypost.com/2026/08/18/us-news/wife-of-hedge-fund-mogul-barred-from-testifying-in-record-breaking-nj-divorce-case-after-hacking-his-email-stealing-his-mail-judge/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Wife of hedge fund mogul barred from testifying in record-breaking NJ divorce case after hacking his email, stealing his mail: judge",
-    "score": 1
+    "title": "Wife of hedge fund mogul barred from testifying in NJ divorce case after hacking his email, stealing his mail: judge",
+    "score": 6
   },
   {
     "original_title": "Tish James snoozes as NYC charity burns tens of millions",
@@ -381,87 +413,7 @@
     "domain": "nypost.com",
     "region": "GLOBAL",
     "title": "Tish James snoozes as NYC charity burns tens of millions",
-    "score": 5
-  },
-  {
-    "original_title": "Suspect wearing Chucky mask allegedly harasses six people, asks female jogger ‘Are you ready to die?’",
-    "url": "https://nypost.com/2026/08/18/us-news/philadelphia-man-wearing-chucky-mask-allegedly-targeted-six-people/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Suspect wearing Chucky mask allegedly harasses six people, asks female jogger ‘Are you ready to die?’",
-    "score": 4
-  },
-  {
-    "original_title": "Democrats’ South Carolina presidential-primary scheme is a last-ditch effort to hold off the DSA",
-    "url": "https://nypost.com/2026/08/18/opinion/democrats-south-carolina-presidential-primary-scheme-is-a-last-ditch-effort-to-hold-off-dsa/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Democrats’ South Carolina presidential-primary scheme is a last-ditch effort to hold off the DSA",
-    "score": 5
-  },
-  {
-    "original_title": "Woman, 30, fatally stabbed in Brooklyn park",
-    "url": "https://nypost.com/2026/08/18/us-news/nycs-lincoln-terrace-park-stabbing-leaves-woman-dead/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Woman, 30, fatally stabbed in Brooklyn park",
-    "score": 8
-  },
-  {
-    "original_title": "Two Chicago-bound planes suffer tire blowouts three hours apart after landing at O’Hare airport",
-    "url": "https://nypost.com/2026/08/18/us-news/american-airlines-plane-united-jet-suffer-tire-blowouts-within-hours-at-chicago-ohare-airport/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Two Chicago-bound planes suffer tire blowouts three hours apart after landing at O’Hare airport",
-    "score": 3
-  },
-  {
-    "original_title": "Royal Mail delivery delays hit 139 UK postcode areas today — full list",
-    "url": "https://www.express.co.uk/news/uk/2240125/latest-royal-mail-delivery-delays",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Royal Mail delivery delays hit 139 UK postcode areas today — full list",
-    "score": 2
-  },
-  {
-    "original_title": "Marks and Spencer issues urgent 'stop using' warning to customers",
-    "url": "https://www.express.co.uk/news/uk/2240112/marks-spencer-product-recall-notice",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Marks and Spencer issues urgent 'stop using' warning to customers",
-    "score": 9
-  },
-  {
-    "original_title": "Reform UK civil war erupts as key party figure suspended",
-    "url": "https://www.express.co.uk/news/politics/2240160/Reform-UK-civil-war-erupts-as-key-party-figure-suspended",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Reform UK civil war erupts as key party figure suspended",
     "score": 7
-  },
-  {
-    "original_title": "Man, 62, charged with murder after missing army veteran with 'heart of gold' is found dead",
-    "url": "https://www.express.co.uk/news/uk/2240156/man-charged-murder-missing-army-veteran",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Man, 62, charged with murder after missing army veteran with 'heart of gold' is found dead",
-    "score": 7
-  },
-  {
-    "original_title": "'Up to £200 off' school uniform costs with support scheme - check eligibility",
-    "url": "https://www.express.co.uk/finance/personalfinance/2240150/school-uniform-discount-family-children",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "'Up to £200 off' school uniform costs with support scheme - check eligibility",
-    "score": 4
-  },
-  {
-    "original_title": "UK bingo hall giant with over 70 sites on brink of collapse as new tax threatened",
-    "url": "https://www.express.co.uk/news/uk/2240148/uk-bingo-hall-giant-70-machine-taxes-rank",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "UK bingo hall giant with over 70 sites on brink of collapse as new tax threatened",
-    "score": 1
   },
   {
     "original_title": "'Move Imran Khan to hospital': Pakistan SC directs govt amid ex-PM's health concerns",
@@ -469,39 +421,31 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "'Move Imran Khan to hospital': Pakistan SC directs govt amid ex-PM's health concerns",
-    "score": 7
-  },
-  {
-    "original_title": "Death penalty by lethal injection, shooting or electrocution? SC rejects plea",
-    "url": "https://timesofindia.indiatimes.com/legal/news/death-penalty-by-lethal-injection-shooting-or-electrocution-sc-rejects-plea/articleshow/133313839.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Death penalty by lethal injection, shooting or electrocution? SC rejects plea",
     "score": 1
   },
   {
-    "original_title": "Bangladesh does not want Teesta dispute to hurt ties with India, says minister",
-    "url": "https://timesofindia.indiatimes.com/india/bangladesh-does-not-want-teesta-dispute-to-hurt-ties-with-india-says-minister-shahiduddin/articleshow/133317594.cms",
+    "original_title": "JSSC-CGL exam cancellation ends one protest, sparks another as 2,000 fear job loss",
+    "url": "https://timesofindia.indiatimes.com/india/tell-us-our-crime-jssc-cgl-exam-cancellation-ends-one-protest-sparks-another-as-2000-fear-job-loss/articleshow/133316120.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Bangladesh does not want Teesta dispute to hurt ties with India, says minister",
-    "score": 5
-  },
-  {
-    "original_title": "Rishabh Pant creates history, becomes first Indian to achieve this feat",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-creates-history-becomes-first-indian-to-achieve-this-feat-in-tests/articleshow/133316107.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Rishabh Pant creates history, becomes first Indian to achieve this feat",
-    "score": 7
-  },
-  {
-    "original_title": "BJP, SP rivals take their electoral battle to wrestling pit, score love-all",
-    "url": "https://timesofindia.indiatimes.com/city/varanasi/bjp-sp-rivals-take-their-electoral-battle-to-wrestling-pit-score-love-all/articleshow/133304934.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "BJP, SP rivals take their electoral battle to wrestling pit, score love-all",
+    "title": "JSSC-CGL exam cancellation ends one protest, sparks another as 2,000 fear job loss",
     "score": 4
+  },
+  {
+    "original_title": "David Warner convicted of drink-driving; Big Bash captaincy under cloud",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/david-warner-convicted-and-fined-for-drink-driving-big-bash-captaincy-under-cloud/articleshow/133319023.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "David Warner convicted of drink-driving; Big Bash captaincy under cloud",
+    "score": 6
+  },
+  {
+    "original_title": "No chemistry teacher: Gen alpha students protest at Azamgarh school",
+    "url": "https://timesofindia.indiatimes.com/city/lucknow/our-future-is-burning-like-acid-gen-alpha-students-protest-fee-hike-chemistry-teacher-shortage-at-azamgarh-school/articleshow/133315473.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "No chemistry teacher: Gen alpha students protest at Azamgarh school",
+    "score": 9
   },
   {
     "original_title": "With no 'China burden' like on Apple, Google to stop making Pixel devices in the country",
@@ -509,6 +453,22 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "With no 'China burden' like on Apple, Google to stop making Pixel devices in the country",
+    "score": 6
+  },
+  {
+    "original_title": "Banks closed tomorrow: Why branches will remain shut in Tripura on August 19",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/banks-closed-tomorrow-why-branches-will-remain-shut-in-tripura-on-august-19/articleshow/133318435.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Banks closed tomorrow: Why branches will remain shut in Tripura on August 19",
+    "score": 3
+  },
+  {
+    "original_title": "Movie review: 'It Ends' intrigues with possibilities of minimal scenario",
+    "url": "https://www.upi.com/Entertainment_News/Movies/2026/08/18/It-Ends-movie-review/8421786993345/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Movie review: 'It Ends' intrigues with possibilities of minimal scenario",
     "score": 7
   },
   {
@@ -517,7 +477,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "At least 10 people killed, 8 hurt, in Russian strike on Kharkiv region",
-    "score": 9
+    "score": 2
   },
   {
     "original_title": "Teri McMinn, Kim Henkel set 'Texas Chain Saw Massacre' record straight",
@@ -525,7 +485,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Teri McMinn, Kim Henkel set 'Texas Chain Saw Massacre' record straight",
-    "score": 2
+    "score": 5
   },
   {
     "original_title": "The Gradient Principle: When inequality becomes movement",
@@ -533,7 +493,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "The Gradient Principle: When inequality becomes movement",
-    "score": 6
+    "score": 3
   },
   {
     "original_title": "Russia warns Britain of 'consequences' of supplying drones to Ukraine",
@@ -541,7 +501,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Russia warns Britain of 'consequences' of supplying drones to Ukraine",
-    "score": 2
+    "score": 3
   },
   {
     "original_title": "Trump admin. sued over tying security funds to election reforms",
@@ -549,63 +509,55 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Trump admin. sued over tying security funds to election reforms",
-    "score": 8
-  },
-  {
-    "original_title": "On This Day, Aug. 18: 19th Amendment ratified giving women the vote",
-    "url": "https://www.upi.com/Top_News/2026/08/18/On-This-Day-19th-Amendment-ratified-giving-women-the-vote/4631787022019/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "On This Day, Aug. 18: 19th Amendment ratified giving women the vote",
-    "score": 1
-  },
-  {
-    "original_title": "Videos show deadly school shooting in Philippines",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/videos-show-deadly-school-shooting-in-philippines?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Videos show deadly school shooting in Philippines",
-    "score": 4
-  },
-  {
-    "original_title": "Drone video shows drought-hit fields in England after driest July on record",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/drone-video-shows-drought-hit-fields-in-england-after-driest-july-on-record?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Drone video shows drought-hit fields in England after driest July on record",
-    "score": 3
-  },
-  {
-    "original_title": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
-    "url": "https://www.aljazeera.com/news/2026/8/18/pakistan-top-court-orders-imran-khans-hospital-transfer-amid-access-battle?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Pakistan top court orders Imran Khan’s hospital transfer amid access battle",
-    "score": 5
-  },
-  {
-    "original_title": "Cincinnati Open: Williams sisters fall in doubles while Zverev advances",
-    "url": "https://www.aljazeera.com/sports/2026/8/18/cincinnati-open-williams-sisters-fall-in-doubles-while-zverev-advances?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Cincinnati Open: Williams sisters fall in doubles while Zverev advances",
-    "score": 8
-  },
-  {
-    "original_title": "Trump lashes out at CNN reporter over South Korea question",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-lashes-out-at-cnn-reporter-over-south-korea-question?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Trump lashes out at CNN reporter over South Korea question",
     "score": 9
   },
   {
-    "original_title": "Syrian court sentences Wassim al-Assad to death",
-    "url": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
+    "original_title": "Deaths mount, trauma sets in as Russia ramps up missile attacks on Ukraine",
+    "url": "https://www.aljazeera.com/news/2026/8/18/putins-illusion-of-victory-russia-ramps-up-missile-attacks-on-ukraine?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Syrian court sentences Wassim al-Assad to death",
+    "title": "Deaths mount, trauma sets in as Russia ramps up missile attacks on Ukraine",
     "score": 5
+  },
+  {
+    "original_title": "India’s ‘Cockroach’ movement makes schools next battleground against Modi",
+    "url": "https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "India’s ‘Cockroach’ movement makes schools next battleground against Modi",
+    "score": 5
+  },
+  {
+    "original_title": "Asian Champions League draw: Holders Al-Ahli to face former winners Al Ain",
+    "url": "https://www.aljazeera.com/sports/2026/8/18/asian-champions-league-draw-holders-al-ahli-to-face-former-winners-al-ain?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Asian Champions League draw: Holders Al-Ahli to face former winners Al Ain",
+    "score": 7
+  },
+  {
+    "original_title": "Eight air strikes hit airbase in Syria’s Idlib",
+    "url": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Eight air strikes hit airbase in Syria’s Idlib",
+    "score": 2
+  },
+  {
+    "original_title": "Brazil’s president says Amazon oil is ‘passport to the future’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/brazils-president-says-amazon-oil-is-passport-to-the?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Brazil’s president says Amazon oil is ‘passport to the future’",
+    "score": 8
+  },
+  {
+    "original_title": "Syrian man dies in custody after alleged abuse by security officers",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/syrian-man-dies-in-custody-after-alleged-abuse-by-security-officers?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Syrian man dies in custody after alleged abuse by security officers",
+    "score": 2
   },
   {
     "original_title": "Todd Blanche Vows To Remain Fully Independent Of The Law",
@@ -621,7 +573,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "White House Taps Mean Teen In Zara Fitting Room As New Press Secretary",
-    "score": 1
+    "score": 4
   },
   {
     "original_title": "‘Do You Have Any Idea Who I Am?’ Jalen Brunson Shouts At Librarian Refusing To Move Him Up ‘Lonesome Dove’ Waitlist",
@@ -629,7 +581,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "‘Do You Have Any Idea Who I Am?’ Jalen Brunson Shouts At Librarian Refusing To Move Him Up ‘Lonesome Dove’ Waitlist",
-    "score": 8
+    "score": 6
   },
   {
     "original_title": "Crying Newborn Has No Idea How Much Worse It Gets",
@@ -637,6 +589,22 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Crying Newborn Has No Idea How Much Worse It Gets",
-    "score": 3
+    "score": 9
+  },
+  {
+    "original_title": "AOC Freezing Her Eggs",
+    "url": "https://theonion.com/aoc-freezing-her-eggs/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "AOC Freezing Her Eggs",
+    "score": 7
+  },
+  {
+    "original_title": "Announcers Watch Angels-Royals Game In Total Silence",
+    "url": "https://theonion.com/announcers-watch-angels-royals-game-in-total-silence/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "Announcers Watch Angels-Royals Game In Total Silence",
+    "score": 2
   }
 ]
