@@ -5,7 +5,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Trump “nessun negoziato”, missili balistici di Teheran tornano a colpire il Golfo. Nbc: la Russia invia armi all’Iran",
-    "score": 4
+    "score": 6
   },
   {
     "original_title": "Ritter: “Gli Stati Uniti sono in un pantano, la guerra con l’Iran ormai è persa”",
@@ -29,7 +29,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "L’ex di Fatah e il capo di Hamas: il summit segreto tra nemici per l’alleanza anti-Abu Mazen",
-    "score": 7
+    "score": 4
   },
   {
     "original_title": "Sciami enormi e invisibili: ecco perché i droni ucraini eludono le contraeree di Putin",
@@ -37,7 +37,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Sciami enormi e invisibili: ecco perché i droni ucraini eludono le contraeree di Putin",
-    "score": 5
+    "score": 7
   },
   {
     "original_title": "Mosca, l’attacco più duro: oltre 800 droni ucraini si abbattono sulla Russia",
@@ -48,12 +48,28 @@
     "score": 2
   },
   {
+    "original_title": "L’America Latina ammicca a Israele: gli effetti del Trump consensus dall’Argentina alla Colombia",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/19/israele-america-latina-nuove-alleanze-notizie/8478395/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "L’America Latina ammicca a Israele: gli effetti del Trump consensus dall’Argentina alla Colombia",
+    "score": 4
+  },
+  {
+    "original_title": "Come gestire la noia dei bambini in estate? 5 giochi da tavolo per trasformare il tempo libero in un’occasione di crescita",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/19/come-gestire-la-noia-dei-bambini-in-estate-5-giochi-da-tavolo-per-trasformare-il-tempo-libero-in-unoccasione-di-crescita/8466620/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Come gestire la noia dei bambini in estate? 5 giochi da tavolo per trasformare il tempo libero in un’occasione di crescita",
+    "score": 7
+  },
+  {
     "original_title": "L’ex ministro Fedorov torna a parlare e chiede elezioni in Ucraina durante la guerra: “La democrazia non può essere ostaggio della Russia”",
     "url": "https://www.ilfattoquotidiano.it/2026/08/18/elezioni-ucraina-fedorov-zelensky-notizie/8482309/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "L’ex ministro Fedorov torna a parlare e chiede elezioni in Ucraina durante la guerra: “La democrazia non può essere ostaggio della Russia”",
-    "score": 1
+    "score": 2
   },
   {
     "original_title": "Qusra, le Idf pregano con i coloni davanti alla casa assediata del palestinese-statunitense Loui Ridi",
@@ -61,7 +77,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Qusra, le Idf pregano con i coloni davanti alla casa assediata del palestinese-statunitense Loui Ridi",
-    "score": 5
+    "score": 9
   },
   {
     "original_title": "Qusra, il video del palestinese-statunitense Loui Ridi mentre affronta il colono: “Questa è la mia casa”",
@@ -69,7 +85,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Qusra, il video del palestinese-statunitense Loui Ridi mentre affronta il colono: “Questa è la mia casa”",
-    "score": 7
+    "score": 8
   },
   {
     "original_title": "Qusra, il palestinese-statunitense Loui Ridi arriva a casa con la bandiera Usa e la issa sul tetto",
@@ -77,23 +93,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Qusra, il palestinese-statunitense Loui Ridi arriva a casa con la bandiera Usa e la issa sul tetto",
-    "score": 6
-  },
-  {
-    "original_title": "Gli Usa sanzionano la presidente della Corte Penale Internazionale Tomoko Akane. La replica: “A rischio lo Stato di diritto”",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/18/sanzioni-usa-cpi-tomoko-akane-notizie/8482126/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Gli Usa sanzionano la presidente della Corte Penale Internazionale Tomoko Akane. La replica: “A rischio lo Stato di diritto”",
-    "score": 6
-  },
-  {
-    "original_title": "Si è risvegliato lo scout 16enne colpito da un fulmine a Roma: era in terapia intensiva da dieci giorni",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/18/fulmine-scout-monte-livata-sedicenne-notizie/8482080/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Si è risvegliato lo scout 16enne colpito da un fulmine a Roma: era in terapia intensiva da dieci giorni",
-    "score": 8
+    "score": 7
   },
   {
     "original_title": "Temporali dopo il caldo, parla l'esperto: 'Le Alpi fanno da hot spot per i fulmini'",
@@ -101,7 +101,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Temporali dopo il caldo, parla l'esperto: 'Le Alpi fanno da hot spot per i fulmini'",
-    "score": 3
+    "score": 5
   },
   {
     "original_title": "Le mostre d'autunno con Kandinsky, Hopper e i Brueghel",
@@ -109,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Le mostre d'autunno con Kandinsky, Hopper e i Brueghel",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "L'IA riconosce i pianisti jazz dalla loro impronta musicale",
@@ -117,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "L'IA riconosce i pianisti jazz dalla loro impronta musicale",
-    "score": 8
+    "score": 1
   },
   {
     "original_title": "Caldo e umidità aumentano il rischio di crisi di emicrania",
@@ -125,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Caldo e umidità aumentano il rischio di crisi di emicrania",
-    "score": 1
+    "score": 8
   },
   {
     "original_title": "Stella McCartney, la collezione autunno tra lusso etico e spirito equestre",
@@ -133,7 +133,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Stella McCartney, la collezione autunno tra lusso etico e spirito equestre",
-    "score": 5
+    "score": 9
   },
   {
     "original_title": "Trump posta la mappa di Hormuz, 'nuovo territorio Usa'. Teheran: 'Si illude'",
@@ -141,7 +141,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Trump posta la mappa di Hormuz, 'nuovo territorio Usa'. Teheran: 'Si illude'",
-    "score": 7
+    "score": 1
   },
   {
     "original_title": "Usa-Iran, finisce la tregua e tornano le tensioni su Hormuz. Trump: «Lo stretto è territorio nostro». E a Dubai scatta l'allarme missili",
@@ -149,15 +149,15 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Usa-Iran, finisce la tregua e tornano le tensioni su Hormuz. Trump: «Lo stretto è territorio nostro». E a Dubai scatta l'allarme missili",
-    "score": 3
+    "score": 6
   },
   {
-    "original_title": "Le guerra che non doveva cominciare e una exit strategy sempre più difficile",
-    "url": "https://www.ilmessaggero.it/mondo/usa_iran_la_guerra_non_doveva_cominciare_exit_strategy_sempre_piu_difficile-9713407.html",
+    "original_title": "Usa-Iran, la guerra che non doveva cominciare e una exit strategy sempre più difficile",
+    "url": "https://www.ilmessaggero.it/mondo/usa_iran_guerra_sempre_piu_difficile-9713407.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Le guerra che non doveva cominciare e una exit strategy sempre più difficile",
-    "score": 8
+    "title": "Usa-Iran, la guerra che non doveva cominciare e una exit strategy sempre più difficile",
+    "score": 1
   },
   {
     "original_title": "Lavitola avvisa Ranucci: «Gli elementi su di te i pm già ce li avevano...». I dubbi dei colleghi di Report",
@@ -165,23 +165,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Lavitola avvisa Ranucci: «Gli elementi su di te i pm già ce li avevano...». I dubbi dei colleghi di Report",
-    "score": 1
-  },
-  {
-    "original_title": "Varenne è morto, il più grande cavallo trottatore di tutti sempre: aveva 31 anni",
-    "url": "https://www.ilmessaggero.it/sport/altrisport/varenne_morto_cavallo_trottatore_quanti_anni_aveva_soprannome-9712972.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Varenne è morto, il più grande cavallo trottatore di tutti sempre: aveva 31 anni",
-    "score": 9
-  },
-  {
-    "original_title": "Varenne, un cavallo diventato industria: ha generato un valore di 30 milioni, 6 in premi. \"Monte\" da 12.000 euro l'una e duemila figli",
-    "url": "https://www.ilmessaggero.it/economia/news/varenne_valore_guadagni_premi_monte_figli-9713413.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Varenne, un cavallo diventato industria: ha generato un valore di 30 milioni, 6 in premi. \"Monte\" da 12.000 euro l'una e duemila figli",
-    "score": 6
+    "score": 4
   },
   {
     "original_title": "Varenne, Giampaolo Minnucci: «Fu un dono del cielo, il suo acquisto un colpo di fortuna. Io e lui una cosa sola»",
@@ -189,6 +173,30 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Varenne, Giampaolo Minnucci: «Fu un dono del cielo, il suo acquisto un colpo di fortuna. Io e lui una cosa sola»",
+    "score": 1
+  },
+  {
+    "original_title": "Varenne, quanto ha guadagnato il proprietario. «Ogni anno da riproduttore ricavi fino a un milione e mezzo di euro»",
+    "url": "https://www.ilmessaggero.it/sport/schede/varenne_guadagni_proprietario_quanto-9713006.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Varenne, quanto ha guadagnato il proprietario. «Ogni anno da riproduttore ricavi fino a un milione e mezzo di euro»",
+    "score": 4
+  },
+  {
+    "original_title": "Turisti cafoni invadono l'Italia: dalle file per il krapfen alle spiagge come discariche. In infradito sulle Dolomiti, in costume al cimitero e sul tetto del vaporetto",
+    "url": "https://www.ilmessaggero.it/schede/turisti_cafoni_italia_krapfen_cimitero_dolomiti_sardegna_venezia_vaporetto_rifiuti_spiaggia_cortina-9713051.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Turisti cafoni invadono l'Italia: dalle file per il krapfen alle spiagge come discariche. In infradito sulle Dolomiti, in costume al cimitero e sul tetto del vaporetto",
+    "score": 5
+  },
+  {
+    "original_title": "«Perché il gasolio arriverà a 3 euro al litro». Lo sconto bruciato sulle accise e la mazzata sul rientro dalle vacanze: cosa succede dopo il 25 agosto",
+    "url": "https://www.open.online/2026/08/19/caro-carburanti-gasolio-3-euro-litro-sconti-azzerati-contro-esodo/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "«Perché il gasolio arriverà a 3 euro al litro». Lo sconto bruciato sulle accise e la mazzata sul rientro dalle vacanze: cosa succede dopo il 25 agosto",
     "score": 7
   },
   {
@@ -197,7 +205,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "La speranza di Lavitola prima dell’arresto: «Se Ranucci mi difenderà sarà come con Berlusconi»  – Le carte",
-    "score": 5
+    "score": 6
   },
   {
     "original_title": "Il caldo record mette alla prova anche il Parmigiano Reggiano. Ma il consorzio rassicura: «La produzione non è a rischio»",
@@ -205,7 +213,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Il caldo record mette alla prova anche il Parmigiano Reggiano. Ma il consorzio rassicura: «La produzione non è a rischio»",
-    "score": 3
+    "score": 2
   },
   {
     "original_title": "Ucraina, l’ex ministro Fedorov sfida Zelensky e chiede le elezioni: «La democrazia non sia ostaggio della Russia»",
@@ -213,7 +221,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Ucraina, l’ex ministro Fedorov sfida Zelensky e chiede le elezioni: «La democrazia non sia ostaggio della Russia»",
-    "score": 4
+    "score": 6
   },
   {
     "original_title": "Truffe sulle bollette, quasi 3 milioni di italiani nel mirino ma molti non denunciano: chi è più a rischio e come difendersi",
@@ -221,7 +229,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Truffe sulle bollette, quasi 3 milioni di italiani nel mirino ma molti non denunciano: chi è più a rischio e come difendersi",
-    "score": 4
+    "score": 9
   },
   {
     "original_title": "Fontana e la controffensiva dei salviniani, Claudio Borghi: «Parole spiacevoli, nel partito ha dato fastidio. A Pontida chi contesta Salvini rischia di essere contestato»",
@@ -229,15 +237,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Fontana e la controffensiva dei salviniani, Claudio Borghi: «Parole spiacevoli, nel partito ha dato fastidio. A Pontida chi contesta Salvini rischia di essere contestato»",
-    "score": 7
-  },
-  {
-    "original_title": "Disney sfida Trump e lo porta in tribunale: «Ha colpito l’emittente Abc solo perché non gli piace ciò che trasmette»",
-    "url": "https://www.open.online/2026/08/18/disney-causa-trump-abc-ritorsioni-emittente/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Disney sfida Trump e lo porta in tribunale: «Ha colpito l’emittente Abc solo perché non gli piace ciò che trasmette»",
-    "score": 2
+    "score": 1
   },
   {
     "original_title": "Tania Terrin uccisa, la ex fidanzata di Keber: «Se non avessi ritirato quella denuncia forse sarebbe ancora viva»",
@@ -245,7 +245,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Tania Terrin uccisa, la ex fidanzata di Keber: «Se non avessi ritirato quella denuncia forse sarebbe ancora viva»",
-    "score": 1
+    "score": 3
   },
   {
     "original_title": "Lorenzo Corradin muore di West Nile, la figlia: «Il giorno prima stava bene, poi la febbre altissima e i sintomi del contagio». È la prima vittima dell'estate 2026 in Veneto",
@@ -253,7 +253,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Lorenzo Corradin muore di West Nile, la figlia: «Il giorno prima stava bene, poi la febbre altissima e i sintomi del contagio». È la prima vittima dell'estate 2026 in Veneto",
-    "score": 3
+    "score": 5
   },
   {
     "original_title": "?Incendio in carcere, morto a 19 anni: ha rifiutato i soccorsi. Si vergognava di dire alla mamma in Egitto che era detenuto",
@@ -261,7 +261,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "?Incendio in carcere, morto a 19 anni: ha rifiutato i soccorsi. Si vergognava di dire alla mamma in Egitto che era detenuto",
-    "score": 9
+    "score": 3
   },
   {
     "original_title": "Tubatura si rompe all'improvviso, turisti senz'acqua per ore: «Quest'anno? Più che una vacanza è stato un esperimento di resistenza»",
@@ -269,7 +269,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Tubatura si rompe all'improvviso, turisti senz'acqua per ore: «Quest'anno? Più che una vacanza è stato un esperimento di resistenza»",
-    "score": 4
+    "score": 9
   },
   {
     "original_title": "Sanità, la riorganizzazione preoccupa le terre alte: «Il direttore generale venga a vivere qui prima di decidere. La montagna ha dato abbastanza»",
@@ -277,7 +277,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Sanità, la riorganizzazione preoccupa le terre alte: «Il direttore generale venga a vivere qui prima di decidere. La montagna ha dato abbastanza»",
-    "score": 8
+    "score": 3
   },
   {
     "original_title": "Sile invaso dalle alghe, il Comune chiama il Genio Civile: «Le barche rimangono bloccate, serve una pulizia immediata»",
@@ -285,7 +285,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Sile invaso dalle alghe, il Comune chiama il Genio Civile: «Le barche rimangono bloccate, serve una pulizia immediata»",
-    "score": 2
+    "score": 5
   },
   {
     "original_title": "Varenne, il mito del capitano e dell'Italia che sa vincere",
@@ -293,7 +293,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Varenne, il mito del capitano e dell'Italia che sa vincere",
-    "score": 1
+    "score": 2
   },
   {
     "original_title": "Addio a Varenne, il cavallo fenomeno che stregò il mondo",
@@ -301,7 +301,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Addio a Varenne, il cavallo fenomeno che stregò il mondo",
-    "score": 9
+    "score": 3
   },
   {
     "original_title": "Varenne, gli ultimi mesi di buen retiro a Eboli: ora gli dedicheranno un mausoleo",
@@ -309,7 +309,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Varenne, gli ultimi mesi di buen retiro a Eboli: ora gli dedicheranno un mausoleo",
-    "score": 2
+    "score": 8
   },
   {
     "original_title": "Varenne, Giampaolo Minnucci: «Fu un dono dal cielo. Io e lui, una cosa sola»",
@@ -317,15 +317,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Varenne, Giampaolo Minnucci: «Fu un dono dal cielo. Io e lui, una cosa sola»",
-    "score": 9
-  },
-  {
-    "original_title": "Three dead after family get into difficulty in sea",
-    "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Three dead after family get into difficulty in sea",
-    "score": 3
+    "score": 8
   },
   {
     "original_title": "Sacked Ukrainian defence minister calls for presidential election",
@@ -333,7 +325,15 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Sacked Ukrainian defence minister calls for presidential election",
-    "score": 3
+    "score": 2
+  },
+  {
+    "original_title": "Three dead after family get into difficulty in sea",
+    "url": "https://www.bbc.co.uk/news/articles/cm2gmjd36pvo?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Three dead after family get into difficulty in sea",
+    "score": 6
   },
   {
     "original_title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
@@ -341,15 +341,23 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
-    "score": 4
+    "score": 7
   },
   {
-    "original_title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-    "url": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss",
+    "original_title": "Demand for degree apprenticeships quadruples in three years",
+    "url": "https://www.bbc.co.uk/news/articles/ckg374p4e24o?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-    "score": 5
+    "title": "Demand for degree apprenticeships quadruples in three years",
+    "score": 8
+  },
+  {
+    "original_title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+    "url": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
+    "score": 6
   },
   {
     "original_title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
@@ -357,63 +365,119 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Camilla admits it was 'difficult' to keep King's cancer diagnosis a secret",
-    "score": 7
-  },
-  {
-    "original_title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-    "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-    "score": 1
-  },
-  {
-    "original_title": "San Diego’s famous Wonder Bread factory is getting a surprising new second act",
-    "url": "https://nypost.com/2026/08/18/lifestyle/live-nation-to-transform-san-diegos-historic-wonder-bread-factory/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "San Diego’s famous Wonder Bread factory is getting a surprising new second act",
     "score": 5
   },
   {
-    "original_title": "Oldest known Iberian orca found with potential shotgun wounds, sparking investigation from Spain officials",
-    "url": "https://nypost.com/2026/08/18/world-news/oldest-known-iberian-orca-found-with-potential-shotgun-wounds-sparking-investigation-from-officials/",
+    "original_title": "Dodgers catcher makes early exit after stomach bug strikes in dugout",
+    "url": "https://nypost.com/2026/08/19/sports/dodgers-catcher-hunter-feduccia-makes-early-exit-with-stomach-bug/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Oldest known Iberian orca found with potential shotgun wounds, sparking investigation from Spain officials",
+    "title": "Dodgers catcher makes early exit after stomach bug strikes in dugout",
+    "score": 8
+  },
+  {
+    "original_title": "Jonquel Jones exits loss with ankle injury in Liberty concern",
+    "url": "https://nypost.com/2026/08/19/sports/jonquel-jones-exits-loss-with-ankle-injury-in-liberty-concern/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Jonquel Jones exits loss with ankle injury in Liberty concern",
+    "score": 8
+  },
+  {
+    "original_title": "Jonathan Kuminga suitor drops out, leaves Lakers among final 3 options",
+    "url": "https://nypost.com/2026/08/19/sports/jonathan-kuminga-suitor-backs-out-leaves-lakers-in-final-3-team-options/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Jonathan Kuminga suitor drops out, leaves Lakers among final 3 options",
     "score": 1
   },
   {
-    "original_title": "Harrowing video shows US Marshals plunge several feet when deck collapses at home of convicted sex offender",
-    "url": "https://nypost.com/2026/08/18/us-news/harrowing-video-shows-us-marshals-plunge-several-feet-when-deck-collapses-at-home-of-convicted-sex-offender/",
+    "original_title": "39-year-old killed with single shot to the head outside NYC home",
+    "url": "https://nypost.com/2026/08/19/us-news/39-year-old-killed-with-single-shot-to-the-head-outside-nyc-home/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Harrowing video shows US Marshals plunge several feet when deck collapses at home of convicted sex offender",
+    "title": "39-year-old killed with single shot to the head outside NYC home",
+    "score": 9
+  },
+  {
+    "original_title": "Former Mets folk hero Jose Iglesias ‘happy to be home’ in Citi Field return for first pitch",
+    "url": "https://nypost.com/2026/08/18/sports/mets-folk-hero-jose-iglesias-happy-to-be-home-in-citi-field-return/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Former Mets folk hero Jose Iglesias ‘happy to be home’ in Citi Field return for first pitch",
     "score": 1
   },
   {
-    "original_title": "NJ Transit workers miraculously recover wedding ring passenger accidentally flushed down toilet",
-    "url": "https://nypost.com/2026/08/18/us-news/nj-transit-workers-recover-wedding-ring-passenger-flushed-down-toilet/",
+    "original_title": "Brewers match modern-era record with 22-0 beatdown of Mariners",
+    "url": "https://nypost.com/2026/08/18/sports/brewers-match-modern-era-record-with-22-0-beatdown-of-mariners/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "NJ Transit workers miraculously recover wedding ring passenger accidentally flushed down toilet",
+    "title": "Brewers match modern-era record with 22-0 beatdown of Mariners",
+    "score": 2
+  },
+  {
+    "original_title": "UK retailer collapsed into administration owing £46m with 1,800 jobs lost",
+    "url": "https://www.express.co.uk/news/uk/2240410/uk-retailer-collapsed-into-administration",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "UK retailer collapsed into administration owing £46m with 1,800 jobs lost",
+    "score": 5
+  },
+  {
+    "original_title": "Huge seaside tourist attraction could return to UK resort after 10 years",
+    "url": "https://www.express.co.uk/news/uk/2240409/brighton-wheel-return-10-years",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Huge seaside tourist attraction could return to UK resort after 10 years",
+    "score": 5
+  },
+  {
+    "original_title": "Royal Family LIVE: Harry wants to ‘break free’ professionally amid ‘tensions’ with Meghan",
+    "url": "https://www.express.co.uk/news/royal/2240408/royal-family-live-harry-break-free-meghan",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Royal Family LIVE: Harry wants to ‘break free’ professionally amid ‘tensions’ with Meghan",
+    "score": 3
+  },
+  {
+    "original_title": "Cruise ship incident as 9-year-old 'allegedly hit by passenger' after noise complaint",
+    "url": "https://www.express.co.uk/news/world/2240407/cruise-ship-incident-9-year-old-allegedly-hit-passenger-after-noise-complaint",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Cruise ship incident as 9-year-old 'allegedly hit by passenger' after noise complaint",
+    "score": 3
+  },
+  {
+    "original_title": "Child among nine dead in Indian hotel fire reportedly sparked by air con unit",
+    "url": "https://www.express.co.uk/news/world/2240406/child-among-nine-dead-indian",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Child among nine dead in Indian hotel fire reportedly sparked by air con unit",
     "score": 7
   },
   {
-    "original_title": "Fernando Tatis Jr.’s heroics on both sides of the ball snap Mets’ win streak",
-    "url": "https://nypost.com/2026/08/18/sports/fernando-tatis-jr-s-heroics-too-much-for-mets-in-loss-to-padres/",
-    "domain": "nypost.com",
+    "original_title": "Met Office names 154 UK areas facing 'very heavy rain' on Thursday - full list",
+    "url": "https://www.express.co.uk/news/weather/2240405/met-office-forecasts-heavy-rain",
+    "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Fernando Tatis Jr.’s heroics on both sides of the ball snap Mets’ win streak",
-    "score": 4
+    "title": "Met Office names 154 UK areas facing 'very heavy rain' on Thursday - full list",
+    "score": 3
   },
   {
-    "original_title": "Saints-Cowboys practice descends into chaos with multiple brawls — with ex-WWE star’s son in middle of it",
-    "url": "https://nypost.com/2026/08/18/sports/saints-brock-rechsteiner-gets-in-heated-day-of-training-camp-brawls/",
-    "domain": "nypost.com",
+    "original_title": "Goa moves SC seeking life term for Tarun Tejpal in sexual assault case",
+    "url": "https://timesofindia.indiatimes.com/india/goa-moves-sc-seeks-life-imprisonment-for-tejpal-for-sex-assault/articleshow/133331982.cms",
+    "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Saints-Cowboys practice descends into chaos with multiple brawls — with ex-WWE star’s son in middle of it",
-    "score": 2
+    "title": "Goa moves SC seeking life term for Tarun Tejpal in sexual assault case",
+    "score": 3
+  },
+  {
+    "original_title": "'We need to meet': Envoy says PM Modi wants B'desh PM's visit to be 'memorable'",
+    "url": "https://timesofindia.indiatimes.com/india/we-need-to-meet-envoy-says-pm-modi-wants-bangladesh-pm-tarique-rahmans-visit-to-be-memorable/articleshow/133337520.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "'We need to meet': Envoy says PM Modi wants B'desh PM's visit to be 'memorable'",
+    "score": 7
   },
   {
     "original_title": "9 Bangladeshi nationals killed in massive fire at Kolkata hotel",
@@ -421,47 +485,39 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "9 Bangladeshi nationals killed in massive fire at Kolkata hotel",
+    "score": 7
+  },
+  {
+    "original_title": "Pant scripts history, leapfrogs Gill to become India’s top WTC run-scorer",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rishabh-pant-scripts-history-leapfrogs-shubman-gill-to-become-indias-top-wtc-run-scorer/articleshow/133335950.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Pant scripts history, leapfrogs Gill to become India’s top WTC run-scorer",
+    "score": 1
+  },
+  {
+    "original_title": "Imran Khan’s sister meets him after 9 months as Pak SC orders hospital transfer",
+    "url": "https://timesofindia.indiatimes.com/world/pakistan/imran-khans-sister-meets-him-after-9-months-as-pakistan-sc-orders-hospital-transfer-for-jailed-ex-pm/articleshow/133336489.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Imran Khan’s sister meets him after 9 months as Pak SC orders hospital transfer",
     "score": 5
   },
   {
-    "original_title": "'All trade, commercial exchanges halted': How UAE responded to Iran's latest missile attack",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/ballistic-missiles-target-uae-trade-ties-snap-how-abu-dhabi-responded-to-irans-latest-escalation/articleshow/133335044.cms",
+    "original_title": "Why Google just paid $10 m for Microsoft Teams chats of a dead and bankrupt airline",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/why-google-just-paid-10-million-for-microsoft-teams-chats-of-a-dead-and-bankrupt-airline/articleshow/133336531.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "'All trade, commercial exchanges halted': How UAE responded to Iran's latest missile attack",
-    "score": 6
+    "title": "Why Google just paid $10 m for Microsoft Teams chats of a dead and bankrupt airline",
+    "score": 8
   },
   {
-    "original_title": "US-Canada tariff row eases: Trump pauses 50% levies after last-minute deal",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-canada-tariff-row-eases-trump-pauses-50-levies-after-last-minute-deal/articleshow/133335629.cms",
-    "domain": "timesofindia.com",
+    "original_title": "Trump announces 3-day pause on Canada tariffs as deadline neared",
+    "url": "https://www.upi.com/Top_News/US/2026/08/19/tariff-deadline-looms-canada/9481787079835/",
+    "domain": "upi.com",
     "region": "GLOBAL",
-    "title": "US-Canada tariff row eases: Trump pauses 50% levies after last-minute deal",
-    "score": 2
-  },
-  {
-    "original_title": "‘Ball was on the ground’: Ex-cricketer baffled as Jurel catch sparks controversy",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/ball-was-on-the-ground-ex-cricketer-baffled-as-dhruv-jurel-catch-sparks-controversy/articleshow/133334725.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "‘Ball was on the ground’: Ex-cricketer baffled as Jurel catch sparks controversy",
+    "title": "Trump announces 3-day pause on Canada tariffs as deadline neared",
     "score": 9
-  },
-  {
-    "original_title": "'Wanted to start new life': More skeletons tumble out in Bengaluru double murder",
-    "url": "https://timesofindia.indiatimes.com/city/bengaluru/wanted-to-start-new-life-more-skeletons-tumble-out-as-bengaluru-woman-lover-kill-husband/articleshow/133335120.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "'Wanted to start new life': More skeletons tumble out in Bengaluru double murder",
-    "score": 2
-  },
-  {
-    "original_title": "Former Google CEO Eric Schmidt is ‘in the market’ for a billionaire: Here’s why",
-    "url": "https://timesofindia.indiatimes.com/technology/tech-news/former-google-ceo-eric-schmidt-is-in-the-market-looking-for-a-billionaire-and-the-reason-is-this-listing/articleshow/133335195.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Former Google CEO Eric Schmidt is ‘in the market’ for a billionaire: Here’s why",
-    "score": 6
   },
   {
     "original_title": "U.S. sanctions ICC officials amid crackdown on global tribunal",
@@ -469,7 +525,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "U.S. sanctions ICC officials amid crackdown on global tribunal",
-    "score": 2
+    "score": 1
   },
   {
     "original_title": "France to expel 2 Iranian diplomats in retaliation for Tehran arrests",
@@ -477,7 +533,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "France to expel 2 Iranian diplomats in retaliation for Tehran arrests",
-    "score": 6
+    "score": 1
   },
   {
     "original_title": "Medical experts, ex-mother-in-law testify for defense in Clancy trial",
@@ -493,7 +549,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "U.S. stocks fall as rising bond yields, oil prices spook investors",
-    "score": 5
+    "score": 2
   },
   {
     "original_title": "Coalition sues to challenge rule limiting U.S. stays by international students",
@@ -501,63 +557,71 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Coalition sues to challenge rule limiting U.S. stays by international students",
-    "score": 9
+    "score": 5
   },
   {
-    "original_title": "Judge allows Trump administration to end TPS protection for Ethiopians",
-    "url": "https://www.upi.com/Top_News/US/2026/08/18/judge-tps-ethiopians/8601787083092/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Judge allows Trump administration to end TPS protection for Ethiopians",
-    "score": 4
-  },
-  {
-    "original_title": "US, Canada reach trade deal to avert steep tariffs, Trump says",
-    "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
+    "original_title": "South Korea, US scale back annual military drills after Trump’s order",
+    "url": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "US, Canada reach trade deal to avert steep tariffs, Trump says",
-    "score": 8
+    "title": "South Korea, US scale back annual military drills after Trump’s order",
+    "score": 3
   },
   {
-    "original_title": "US refineries taking in half of Venezuela’s oil output, official says",
-    "url": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss",
+    "original_title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/attackers-go-house-to-house-killing-25-villagers-in-central-nigeria?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "US refineries taking in half of Venezuela’s oil output, official says",
-    "score": 1
-  },
-  {
-    "original_title": "How Ebola became the deadliest outbreak in DR Congo’s history",
-    "url": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
+    "title": "Attackers go ‘house to house’ killing 25 villagers in central Nigeria",
     "score": 7
   },
   {
-    "original_title": "US ambassador to Israel calls settler violence ‘terror’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
+    "original_title": "Bali gym owner kicks out three Israeli tourists for links to ‘IDF’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/bali-gym-owner-kicks-out-three-israeli-tourists-for-links-to?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "US ambassador to Israel calls settler violence ‘terror’",
+    "title": "Bali gym owner kicks out three Israeli tourists for links to ‘IDF’",
     "score": 4
   },
   {
-    "original_title": "Quebec separatist says no independence referendum while Trump in office",
-    "url": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss",
+    "original_title": "US unions sue over new visa rule for foreign students, journalists",
+    "url": "https://www.aljazeera.com/news/2026/8/19/us-unions-sue-over-new-visa-rule-for-foreign-students-journalists?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Quebec separatist says no independence referendum while Trump in office",
-    "score": 8
+    "title": "US unions sue over new visa rule for foreign students, journalists",
+    "score": 2
   },
   {
-    "original_title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+    "original_title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+    "url": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Iran war live: Trump denies Iran talks, Tehran claims US ‘begging’",
-    "score": 3
+    "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+    "score": 4
+  },
+  {
+    "original_title": "US sanctions International Criminal Court’s president and top lawyer",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "US sanctions International Criminal Court’s president and top lawyer",
+    "score": 6
+  },
+  {
+    "original_title": "Latest news bulletin | August 19th, 2026 – Morning",
+    "url": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-morning",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "Latest news bulletin | August 19th, 2026 – Morning",
+    "score": 9
+  },
+  {
+    "original_title": "US and South Korean militaries agree to shorten drills days after Trump ordered reduction in joint exercises",
+    "url": "http://www.euronews.com/2026/08/19/us-and-south-korean-militaries-agree-to-shorten-drills-days-after-trump-ordered-reduction-",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "US and South Korean militaries agree to shorten drills days after Trump ordered reduction in joint exercises",
+    "score": 4
   },
   {
     "original_title": "ICC hits back after US announces fresh sanctions on senior court figures",
@@ -573,70 +637,6 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Italian town carries towering Virgin Mary structure through streets",
-    "score": 3
-  },
-  {
-    "original_title": "Champagne harvest starts early in France as heatwave speeds ripening",
-    "url": "http://www.euronews.com/video/2026/08/18/champagne-harvest-starts-early-in-france-as-heatwave-speeds-ripening",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Champagne harvest starts early in France as heatwave speeds ripening",
-    "score": 5
-  },
-  {
-    "original_title": "Latest news bulletin | August 18th, 2026 – Evening",
-    "url": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-evening",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Latest news bulletin | August 18th, 2026 – Evening",
-    "score": 7
-  },
-  {
-    "original_title": "UAE says Iran targeted its territory with two missiles after first alert in months",
-    "url": "http://www.euronews.com/2026/08/18/uae-issues-alert-warning-of-potential-missile-threats",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "UAE says Iran targeted its territory with two missiles after first alert in months",
-    "score": 7
-  },
-  {
-    "original_title": "South Korea and Japan stress stress 'critical' US alliance as Trump slashes military drills",
-    "url": "http://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "South Korea and Japan stress stress 'critical' US alliance as Trump slashes military drills",
-    "score": 3
-  },
-  {
-    "original_title": "Man Doesn’t Like Who He Becomes When He’s Around Salsa",
-    "url": "https://theonion.com/man-doesnt-like-who-he-becomes-when-hes-around-salsa/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Man Doesn’t Like Who He Becomes When He’s Around Salsa",
-    "score": 1
-  },
-  {
-    "original_title": "Inter-Not-So-Stellar",
-    "url": "https://theonion.com/inter-not-so-stellar/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Inter-Not-So-Stellar",
-    "score": 8
-  },
-  {
-    "original_title": "Visit To Girlfriend’s Family Provides Illuminating Insight Into Why She’s Asian",
-    "url": "https://theonion.com/visit-to-girlfriends-family-provides-illuminating-insight-into-why-shes-asian/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Visit To Girlfriend’s Family Provides Illuminating Insight Into Why She’s Asian",
-    "score": 8
-  },
-  {
-    "original_title": "Report: Tennis-Racket-Shaped Bag Gotta Be Full Of Tennis Rackets",
-    "url": "https://theonion.com/report-tennis-racket-shaped-bag-gotta-be-full-of-tennis-rackets/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Report: Tennis-Racket-Shaped Bag Gotta Be Full Of Tennis Rackets",
-    "score": 9
+    "score": 4
   }
 ]
