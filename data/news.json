@@ -1,11 +1,35 @@
 [
   {
-    "original_title": "Cobolli batte Jodar, è ai quarti a Cincinnati",
+    "original_title": "Guerra Ucraina - Russia, le news di oggi. Massiccio attacco di Mosca su Kiev, colpito un ospedale pediatrico",
+    "url": "https://www.repubblica.it/esteri/2026/08/20/diretta/guerra_ucraina_russia_news_oggi-425537177/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Guerra Ucraina - Russia, le news di oggi. Massiccio attacco di Mosca su Kiev, colpito un ospedale pediatrico",
+    "score": 6
+  },
+  {
+    "original_title": "Harry e Meghan tornano a vivere nel Regno Unito dopo sei anni",
+    "url": "https://www.repubblica.it/esteri/2026/08/19/news/harry_meghan_tornano_regno_unito_londra-425537173/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Harry e Meghan tornano a vivere nel Regno Unito dopo sei anni",
+    "score": 4
+  },
+  {
+    "original_title": "“Allarme sottovalutato, mandiamo gli ispettori”: la morte di Tania è un caso",
+    "url": "https://www.repubblica.it/cronaca/2026/08/19/news/tania_terrin_femminicidio_controlli_caso_politico-425537160/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "“Allarme sottovalutato, mandiamo gli ispettori”: la morte di Tania è un caso",
+    "score": 2
+  },
+  {
+    "original_title": "Cobolli batte Jodar, è ai quarti a Cincinnati: “Devo credere in me stesso”",
     "url": "https://www.repubblica.it/sport/tennis/2026/08/19/news/cobolli_atp_cincinnati_risultati_oggi-425536764/",
     "domain": "repubblica.it",
     "region": "IT",
-    "title": "Cobolli batte Jodar, è ai quarti a Cincinnati",
-    "score": 7
+    "title": "Cobolli batte Jodar, è ai quarti a Cincinnati: “Devo credere in me stesso”",
+    "score": 8
   },
   {
     "original_title": "Morta soffocata da una fetta di bacon, i genitori: “La nostra Rachele ora vive in altre 20 persone”",
@@ -13,7 +37,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Morta soffocata da una fetta di bacon, i genitori: “La nostra Rachele ora vive in altre 20 persone”",
-    "score": 8
+    "score": 6
   },
   {
     "original_title": "L'Idf annuncia un'inchiesta sulla morte di Hind Rajab: crivellata di colpi in auto a Gaza",
@@ -21,31 +45,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "L'Idf annuncia un'inchiesta sulla morte di Hind Rajab: crivellata di colpi in auto a Gaza",
-    "score": 7
-  },
-  {
-    "original_title": "Attacchi alle raffinerie, la Russia corre ai ripari: “Stiamo importando petrolio”",
-    "url": "https://www.repubblica.it/economia/2026/08/19/news/russia_importa_petrolio_attacchi_raffinerie_infrastrutture-425536613/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Attacchi alle raffinerie, la Russia corre ai ripari: “Stiamo importando petrolio”",
     "score": 8
-  },
-  {
-    "original_title": "Sabotaggio al gasdotto Nordstream, arrestato un sub ucraino in Croazia: “Complice dell’attacco”",
-    "url": "https://www.repubblica.it/esteri/2026/08/19/news/sabotaggio_gasdotto_nordstream_arrestato_sub_ucraino_in_croazia_complice-425536606/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Sabotaggio al gasdotto Nordstream, arrestato un sub ucraino in Croazia: “Complice dell’attacco”",
-    "score": 8
-  },
-  {
-    "original_title": "Sacerdoti contro Vannacci: “Non può definire San Paolo camerata. Rispetti le Sacre scritture”",
-    "url": "https://www.repubblica.it/politica/2026/08/19/news/sacerdoti_contro_vannacci_san_paolo_camerata-425536562/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Sacerdoti contro Vannacci: “Non può definire San Paolo camerata. Rispetti le Sacre scritture”",
-    "score": 5
   },
   {
     "original_title": "“Una forca per l’impiccagione e delle sale per assistere”: il video shock in cui Ben-Gvir mostra il cantiere del nuovo centro per la pena di morte",
@@ -53,7 +53,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "“Una forca per l’impiccagione e delle sale per assistere”: il video shock in cui Ben-Gvir mostra il cantiere del nuovo centro per la pena di morte",
-    "score": 4
+    "score": 1
   },
   {
     "original_title": "Attacchi a Ranucci all’evento Fdi, Mazzi senza freni: “Comportamento da vergogna umana, sa quanti figli ha fatto soffrire?”. E Donzelli elogia Delmastro",
@@ -61,7 +61,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Attacchi a Ranucci all’evento Fdi, Mazzi senza freni: “Comportamento da vergogna umana, sa quanti figli ha fatto soffrire?”. E Donzelli elogia Delmastro",
-    "score": 3
+    "score": 5
   },
   {
     "original_title": "Due morti sul lavoro in poche ore: 39enne precipita da 14 metri sull’A1, 73enne schiacciato da un cancello nel Cuneese",
@@ -69,7 +69,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Due morti sul lavoro in poche ore: 39enne precipita da 14 metri sull’A1, 73enne schiacciato da un cancello nel Cuneese",
-    "score": 1
+    "score": 2
   },
   {
     "original_title": "Spara alla compagna, la ferisce alla mano e alla testa e poi scappa: fermato un uomo a Imperia",
@@ -77,7 +77,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Spara alla compagna, la ferisce alla mano e alla testa e poi scappa: fermato un uomo a Imperia",
-    "score": 3
+    "score": 8
   },
   {
     "original_title": "Litiga con la moglie e si butta con l’auto nel canale di Cattolica: i passanti li salvano, ma lui scappa",
@@ -85,7 +85,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Litiga con la moglie e si butta con l’auto nel canale di Cattolica: i passanti li salvano, ma lui scappa",
-    "score": 7
+    "score": 3
   },
   {
     "original_title": "L’Austria ha iniziato a rimandare i richiedenti asilo in Italia: trasferite già quattro persone",
@@ -93,7 +93,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "L’Austria ha iniziato a rimandare i richiedenti asilo in Italia: trasferite già quattro persone",
-    "score": 5
+    "score": 3
   },
   {
     "original_title": "Caldo, niente bollini rossi fino a venerdì ma domani 6 città in arancione",
@@ -101,7 +101,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Caldo, niente bollini rossi fino a venerdì ma domani 6 città in arancione",
-    "score": 5
+    "score": 6
   },
   {
     "original_title": "All'asta il progetto delle medie di Steve Jobs, stima da oltre 20 mila dollari",
@@ -109,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "All'asta il progetto delle medie di Steve Jobs, stima da oltre 20 mila dollari",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "In Portogallo è stata promulgata la cosiddetta \"legge del burqa\"",
@@ -125,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Ozempic culture , la magrezza estrema dilaga / INCHIESTA",
-    "score": 5
+    "score": 4
   },
   {
     "original_title": "Shakira, l'appello e i fondi per le scuole distrutte dal terremoto in Colombia",
@@ -133,7 +133,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Shakira, l'appello e i fondi per le scuole distrutte dal terremoto in Colombia",
-    "score": 6
+    "score": 1
   },
   {
     "original_title": "I piani di Teheran in caso di escalation: 'Pronti a colpire le basi militari Usa in Europa'",
@@ -141,55 +141,63 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "I piani di Teheran in caso di escalation: 'Pronti a colpire le basi militari Usa in Europa'",
-    "score": 8
-  },
-  {
-    "original_title": "Elicottero precipitato in Kenya, tra le vittime Michele Sensi Contugi: l'imprenditore italiano era in vacanza con la moglie",
-    "url": "https://www.ilmessaggero.it/mondo/kenya_elicottero_precipita_morto_italiano_michele_sensi_contugi_ultima_ora-9714916.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Elicottero precipitato in Kenya, tra le vittime Michele Sensi Contugi: l'imprenditore italiano era in vacanza con la moglie",
-    "score": 4
-  },
-  {
-    "original_title": "Caldo, picchi di oltre 40 gradi in arrivo: quando e dove. Il climatologo Messeri: «Verso nuovi record, autunno estremo»",
-    "url": "https://www.ilmessaggero.it/schede/caldo_picco_quando_e_dove-9714645.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Caldo, picchi di oltre 40 gradi in arrivo: quando e dove. Il climatologo Messeri: «Verso nuovi record, autunno estremo»",
-    "score": 3
-  },
-  {
-    "original_title": "Bambina di 6 anni in vacanza con i genitori colpita al volto dal calcio di un cavallo: ?ricoverata in terapia intensiva",
-    "url": "https://www.ilmessaggero.it/italia/bambina_vacanza_calcio_cavallo_terapia_intensiva_come_sta-9715187.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Bambina di 6 anni in vacanza con i genitori colpita al volto dal calcio di un cavallo: ?ricoverata in terapia intensiva",
     "score": 9
   },
   {
-    "original_title": "Discute con la moglie, poi si lancia in acqua con l'auto nel porto: il bagagliaio si apre e i passanti li salvano. L'uomo è fuggito tra gli scogli",
-    "url": "https://www.ilmessaggero.it/italia/uomo_lancia_auto_porto_dopo_lite_moglie_cattolica_ultima_ora-9715068.html",
+    "original_title": "L'Iran e la minaccia di attacco alle basi Usa in Europa, l?Italia alza la sua barriera: radar e sensori nei cieli, pronti caccia e missili",
+    "url": "https://www.ilmessaggero.it/mondo/iran_attacco_basi_italiane_dove_quando_come_difendersi-9715217.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Discute con la moglie, poi si lancia in acqua con l'auto nel porto: il bagagliaio si apre e i passanti li salvano. L'uomo è fuggito tra gli scogli",
+    "title": "L'Iran e la minaccia di attacco alle basi Usa in Europa, l?Italia alza la sua barriera: radar e sensori nei cieli, pronti caccia e missili",
+    "score": 7
+  },
+  {
+    "original_title": "Ucraina, caos corruzione: indagata la collaboratrice di Zelensky. Federov: «Subito al voto»",
+    "url": "https://www.ilmessaggero.it/mondo/ucraina_inchiesta_corruzione_zelensky_mudra_elezioni_cosa_succede_ora-9715212.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Ucraina, caos corruzione: indagata la collaboratrice di Zelensky. Federov: «Subito al voto»",
+    "score": 1
+  },
+  {
+    "original_title": "Russia, crisi della benzina: scattano limite al rifornimento e code ai distributori. «E ora Mosca importa il carburante»",
+    "url": "https://www.ilmessaggero.it/mondo/russia_crisi_benzina_prezzi_code_carburante-9715230.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Russia, crisi della benzina: scattano limite al rifornimento e code ai distributori. «E ora Mosca importa il carburante»",
+    "score": 7
+  },
+  {
+    "original_title": "Ceuta, il governo valuta proroga stop a Schengen per la Spagna. E l'Austria annuncia: «Trasferiti migranti in Italia»",
+    "url": "https://www.ilmessaggero.it/politica/migranti_ceuta_italia_schengen_spagna_cosa_succede-9715143.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Ceuta, il governo valuta proroga stop a Schengen per la Spagna. E l'Austria annuncia: «Trasferiti migranti in Italia»",
+    "score": 4
+  },
+  {
+    "original_title": "L?aereo contro una montagna, trovati (abbracciati) i corpi dei due avvocati Carlo Arnulfo e Angela Buccico. «Si conoscevano da un mese»",
+    "url": "https://www.ilmessaggero.it/italia/carlo_arnulfo_e_angela_buccico_morti_abbracciati_aereo_contro_montagna-9715239.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "L?aereo contro una montagna, trovati (abbracciati) i corpi dei due avvocati Carlo Arnulfo e Angela Buccico. «Si conoscevano da un mese»",
+    "score": 6
+  },
+  {
+    "original_title": "Ranucci, il centrodestra lo vuole in Vigilanza Rai: più vicina la sostituzione a Report",
+    "url": "https://www.ilmessaggero.it/politica/ranucci_licenziato_report_cosa_succede-9715225.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Ranucci, il centrodestra lo vuole in Vigilanza Rai: più vicina la sostituzione a Report",
+    "score": 5
+  },
+  {
+    "original_title": "Amazon punta sui droni per le consegne: l’obiettivo è un milione di ordini nel 2026. Ecco perché in Italia non ce ne sono",
+    "url": "https://www.open.online/2026/08/19/amazon-consegne-droni-obiettivo-2026-italia/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Amazon punta sui droni per le consegne: l’obiettivo è un milione di ordini nel 2026. Ecco perché in Italia non ce ne sono",
     "score": 3
-  },
-  {
-    "original_title": "Spara alla compagna e la colpisce con una spranga, poi scappa ancora armato: fermato l'uomo in provincia d'Imperia",
-    "url": "https://www.ilmessaggero.it/italia/spara_compagna_scappa_armato_imperia-9715110.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Spara alla compagna e la colpisce con una spranga, poi scappa ancora armato: fermato l'uomo in provincia d'Imperia",
-    "score": 1
-  },
-  {
-    "original_title": "Sbranato da due rottweiler nel Salento, Giuseppe Pampo muore a 72 anni: individuato il proprietario dei cani",
-    "url": "https://www.ilmessaggero.it/italia/uomo_sbranato_rottweiler_muore_salento_ultima_ora-9714901.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Sbranato da due rottweiler nel Salento, Giuseppe Pampo muore a 72 anni: individuato il proprietario dei cani",
-    "score": 1
   },
   {
     "original_title": "Il vaccino contro il melanoma fa volare il titolo di Moderna a Wall Street: come funziona e quando sarà disponibile",
@@ -205,7 +213,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Chi è Angie Nixon, la socialista che divide l’establishment dem dopo aver battuto il moderato Vindman in Florida. E come l’ha presa Trump",
-    "score": 9
+    "score": 1
   },
   {
     "original_title": "Su ChatGPT arriva la pubblicità: dal 24 agosto annunci per gli utenti senza abbonamento premium",
@@ -221,7 +229,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Hayden Panettiere, gli ultimi momenti prima della morte: nell’appartamento c’era anche l’ex fidanzato condannato per violenze",
-    "score": 7
+    "score": 5
   },
   {
     "original_title": "Spara alla mano della compagna e la colpisce in testa con una spranga: lei fugge nel bosco e riesce a salvarsi",
@@ -229,15 +237,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Spara alla mano della compagna e la colpisce in testa con una spranga: lei fugge nel bosco e riesce a salvarsi",
-    "score": 1
-  },
-  {
-    "original_title": "Trump vuole incontrare di nuovo Kim Jong-Un: «La Corea del Nord non dovrebbe avere armi nucleari»",
-    "url": "https://www.open.online/2026/08/19/trump-incontro-kim-jong-un-armi-nucleari/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Trump vuole incontrare di nuovo Kim Jong-Un: «La Corea del Nord non dovrebbe avere armi nucleari»",
-    "score": 6
+    "score": 5
   },
   {
     "original_title": "Bambina di 6 anni in vacanza con i genitori colpita al volto dal calcio di un cavallo: ?ricoverata in terapia intensiva",
@@ -245,7 +245,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Bambina di 6 anni in vacanza con i genitori colpita al volto dal calcio di un cavallo: ?ricoverata in terapia intensiva",
-    "score": 9
+    "score": 1
   },
   {
     "original_title": "Famiglia si ritrova davanti la strada franata e resta bloccata a oltre 2mila metri di quota: mamma, papà e figlioletti salvati dal soccorso alpino",
@@ -253,7 +253,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Famiglia si ritrova davanti la strada franata e resta bloccata a oltre 2mila metri di quota: mamma, papà e figlioletti salvati dal soccorso alpino",
-    "score": 1
+    "score": 9
   },
   {
     "original_title": "Escursionista mette male un piede e scivola in una scarpata per 70 metri, il 50enne muore davanti agli occhi della moglie",
@@ -261,7 +261,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Escursionista mette male un piede e scivola in una scarpata per 70 metri, il 50enne muore davanti agli occhi della moglie",
-    "score": 2
+    "score": 8
   },
   {
     "original_title": "Ragazzo di 17 anni si tuffa nel torrente, ma scivola e sbatte la testa sulle rocce: l'amico (coetaneo) lo salva e chiama i soccorsi. Elitrasportato in ospedale",
@@ -269,7 +269,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Ragazzo di 17 anni si tuffa nel torrente, ma scivola e sbatte la testa sulle rocce: l'amico (coetaneo) lo salva e chiama i soccorsi. Elitrasportato in ospedale",
-    "score": 4
+    "score": 9
   },
   {
     "original_title": "Aggressione a colpi di coltello e spray al peperoncino, la spedizione punitiva dopo un inseguimento tra auto: quattro feriti",
@@ -285,39 +285,47 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Tania Terrin uccisa, la ex fidanzata di Keber: «Se non avessi ritirato quella denuncia forse sarebbe ancora viva»",
-    "score": 6
-  },
-  {
-    "original_title": "San Giorgio a Cremano, uomo barricato in casa: bloccato dai carabinieri, cosa è successo",
-    "url": "https://www.ilmattino.it/schede/san_giorgio_a_cremano_uomo_barricato_in_casa_negoziatori_carabinieri_via_gianturco_22-9714962.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "San Giorgio a Cremano, uomo barricato in casa: bloccato dai carabinieri, cosa è successo",
     "score": 2
   },
   {
-    "original_title": "Elicottero precipitato in Kenya, tra le vittime Michele Sensi Contugi: l'imprenditore italiano era in vacanza con la moglie",
-    "url": "https://www.ilmattino.it/primopiano/cronaca/elicottero_precipita_kenya_morto_italiano_michele_sensi_contugi_ultima_ora-9714925.html",
+    "original_title": "Terremoto ai Campi Flegrei, lievitano gli affitti. È allarme speculazioni: «Mille euro per due vani»",
+    "url": "https://www.ilmattino.it/schede/terremoto_ai_campi_flegrei_lievitano_gli_affitti_e_allarme_speculazioni_mille_euro_per_due_vani-9715071.html",
     "domain": "ilmattino.it",
     "region": "IT",
-    "title": "Elicottero precipitato in Kenya, tra le vittime Michele Sensi Contugi: l'imprenditore italiano era in vacanza con la moglie",
+    "title": "Terremoto ai Campi Flegrei, lievitano gli affitti. È allarme speculazioni: «Mille euro per due vani»",
+    "score": 3
+  },
+  {
+    "original_title": "San Giorgio a Cremano, la casa venduta all?asta: «Basta, voglio farla finita», l'uomo si barrica in casa",
+    "url": "https://www.ilmattino.it/napoli/area_metropolitana/san_giorgio_a_cremano_la_casa_venduta_all_asta_basta_voglio_farla_finita_l_uomo_si_barrica_in_casa-9715145.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "San Giorgio a Cremano, la casa venduta all?asta: «Basta, voglio farla finita», l'uomo si barrica in casa",
+    "score": 2
+  },
+  {
+    "original_title": "Varenne, Patrizio Giacomo La Pietra: «Nel segno del capitano il rilancio dell'ippica»",
+    "url": "https://www.ilmattino.it/sport/ippica/varenne_patrizio_giacomo_la_pietra_nel_segno_del_capitano_il_rilancio_dell_ippica_premium-9715149.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Varenne, Patrizio Giacomo La Pietra: «Nel segno del capitano il rilancio dell'ippica»",
+    "score": 7
+  },
+  {
+    "original_title": "Conti Pnrr e terminal di Levante, porto di Napoli: doppia scadenza",
+    "url": "https://www.ilmattino.it/economia/news/conti_pnrr_terminal_di_levante_porto_di_napoli_doppia_scadenza-9715214.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Conti Pnrr e terminal di Levante, porto di Napoli: doppia scadenza",
     "score": 4
   },
   {
-    "original_title": "Auto si ribalta: tre giovani a bordo, uno è grave. Traffico in tilt tra Marano e Qualiano",
-    "url": "https://www.ilmattino.it/napoli/area_metropolitana/fiat_panda_si_ribalta_tre_giovani_bordo_grave_traffico_tilt_marano_qualiano-9715075.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Auto si ribalta: tre giovani a bordo, uno è grave. Traffico in tilt tra Marano e Qualiano",
-    "score": 2
-  },
-  {
-    "original_title": "Spara alla compagna e la colpisce con una spranga, poi scappa ancora armato: fermato l'uomo in provincia d'Imperia",
-    "url": "https://www.ilmattino.it/primopiano/cronaca/spara_compagna_scappa_armato_imperia-9715112.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Spara alla compagna e la colpisce con una spranga, poi scappa ancora armato: fermato l'uomo in provincia d'Imperia",
-    "score": 2
+    "original_title": "Prince Harry and Meghan moving back to UK",
+    "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Prince Harry and Meghan moving back to UK",
+    "score": 3
   },
   {
     "original_title": "Couple and teenage daughter who died in water off Shoreham named by police",
@@ -325,7 +333,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Couple and teenage daughter who died in water off Shoreham named by police",
-    "score": 3
+    "score": 4
   },
   {
     "original_title": "Track defect found on approach to site of Lewes derailment, initial report says",
@@ -333,7 +341,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Track defect found on approach to site of Lewes derailment, initial report says",
-    "score": 5
+    "score": 7
   },
   {
     "original_title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
@@ -349,7 +357,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "People smuggler exposed by BBC investigation arrested and charged",
-    "score": 9
+    "score": 1
   },
   {
     "original_title": "Salmonella outbreak: What we know so far",
@@ -357,63 +365,55 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Salmonella outbreak: What we know so far",
+    "score": 1
+  },
+  {
+    "original_title": "How Trump’s bold ‘Finland Model’ strategy is actually reviving America’s military fleet",
+    "url": "https://nypost.com/2026/08/19/opinion/trumps-bold-finland-plan-is-reviving-americas-military-fleet/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "How Trump’s bold ‘Finland Model’ strategy is actually reviving America’s military fleet",
     "score": 2
   },
   {
-    "original_title": "Vaccine breakthrough stops cancer returning in trial",
-    "url": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Vaccine breakthrough stops cancer returning in trial",
-    "score": 1
-  },
-  {
-    "original_title": "Ex-Yankees star Nestor Cortes Jr. agrees to MLB deal with Phillies after disappointing 2025",
-    "url": "https://nypost.com/2026/08/19/sports/ex-yankees-star-nestor-cortes-jr-agrees-to-mlb-deal-with-phillies/",
+    "original_title": "Team Mamdani’s pied-à-terre-tax hearing boycott shows total contempt for democracy",
+    "url": "https://nypost.com/2026/08/19/opinion/team-mamdanis-pied-a-terre-tax-hearing-boycott-shows-total-contempt-for-democracy/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Ex-Yankees star Nestor Cortes Jr. agrees to MLB deal with Phillies after disappointing 2025",
+    "title": "Team Mamdani’s pied-à-terre-tax hearing boycott shows total contempt for democracy",
+    "score": 9
+  },
+  {
+    "original_title": "Jerry Buss wouldn’t be pleased with Lakers drama: Why Jeanie needs to wave white flag",
+    "url": "https://nypost.com/2026/08/19/sports/jeanie-buss-needs-to-wave-lakers-white-flag-why-jerry-wouldnt-be-happy/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Jerry Buss wouldn’t be pleased with Lakers drama: Why Jeanie needs to wave white flag",
     "score": 7
   },
   {
-    "original_title": "Jared Moskowitz savagely sends ‘condolences’ to Hasan Piker in victory lap after defeating DSA member in Florida primary",
-    "url": "https://nypost.com/2026/08/19/media/jared-moskowitz-sends-condolences-to-hasan-piker-after-defeating-dsa-member-in-florida-primary/",
+    "original_title": "Mets owner weighs in on Dodgers’ Mark Walter investigation",
+    "url": "https://nypost.com/2026/08/19/sports/mets-owner-steve-cohen-weighs-dodgers-mark-walter-investigation/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Jared Moskowitz savagely sends ‘condolences’ to Hasan Piker in victory lap after defeating DSA member in Florida primary",
-    "score": 1
+    "title": "Mets owner weighs in on Dodgers’ Mark Walter investigation",
+    "score": 3
   },
   {
-    "original_title": "Geno Smith provides one iffy highlight in shaky Jets practice",
-    "url": "https://nypost.com/2026/08/19/sports/geno-smith-provides-one-iffy-highlight-in-shaky-jets-practice/",
+    "original_title": "City takes prospective vendors for Mamdani’s planned $30M NYC-owned grocery store on tour — of vacant lot",
+    "url": "https://nypost.com/2026/08/19/us-news/city-takes-prospective-vendors-for-mamdanis-planned-30m-nyc-owned-grocery-store-on-tour-of-vacant-lot/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Geno Smith provides one iffy highlight in shaky Jets practice",
-    "score": 7
-  },
-  {
-    "original_title": "US quietly guides millions of barrels of oil through Strait of Hormuz in stealth operation",
-    "url": "https://nypost.com/2026/08/19/world-news/us-guides-millions-of-barrels-of-oil-through-strait-of-hormuz-in-stealth-operation/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "US quietly guides millions of barrels of oil through Strait of Hormuz in stealth operation",
-    "score": 8
-  },
-  {
-    "original_title": "Rory McIlroy’s savage dig at LIV Golf stars who could try to crawl back to PGA Tour",
-    "url": "https://nypost.com/2026/08/19/sports/rory-mcilroys-savage-dig-at-liv-golf-stars-who-could-try-to-return/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Rory McIlroy’s savage dig at LIV Golf stars who could try to crawl back to PGA Tour",
+    "title": "City takes prospective vendors for Mamdani’s planned $30M NYC-owned grocery store on tour — of vacant lot",
     "score": 5
   },
   {
-    "original_title": "Mom rages after passing disgusting homeless camp near elite California college",
-    "url": "https://nypost.com/2026/08/19/us-news/socal-mom-slams-berkeley-officials-over-homeless-camps-near-campus/",
+    "original_title": "California political candidate accused of election fraud for listing dive bar as her home address",
+    "url": "https://nypost.com/2026/08/19/us-news/california-candidate-who-listed-dive-bar-as-address-accused-of-fraud/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Mom rages after passing disgusting homeless camp near elite California college",
-    "score": 3
+    "title": "California political candidate accused of election fraud for listing dive bar as her home address",
+    "score": 8
   },
   {
     "original_title": "Sun cream banned from sale in UK as shoppers warned it is 'high risk'",
@@ -421,47 +421,55 @@
     "domain": "express.co.uk",
     "region": "GLOBAL",
     "title": "Sun cream banned from sale in UK as shoppers warned it is 'high risk'",
-    "score": 1
+    "score": 9
   },
   {
-    "original_title": "Helicopter pilot’s last radio message revealed before crash killed British newlyweds",
-    "url": "https://www.express.co.uk/news/world/2240702/helicopter-pilot-last-radio-crash-british-newlyweds-killed",
+    "original_title": "Piers Morgan instantly savages Harry and Meghan's UK return plans in eight words",
+    "url": "https://www.express.co.uk/news/royal/2240730/piers-morgan-savages-harry-meghan",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Helicopter pilot’s last radio message revealed before crash killed British newlyweds",
+    "title": "Piers Morgan instantly savages Harry and Meghan's UK return plans in eight words",
+    "score": 2
+  },
+  {
+    "original_title": "Prince Harry and Meghan's UK return 'could cause enormous damage to Royal Family’",
+    "url": "https://www.express.co.uk/news/royal/2240729/prince-harry-meghan-shock-uk-return",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Prince Harry and Meghan's UK return 'could cause enormous damage to Royal Family’",
+    "score": 7
+  },
+  {
+    "original_title": "King Charles’s reaction as Harry and Meghan announce shock return to Britain",
+    "url": "https://www.express.co.uk/news/royal/2240725/king-charles-harry-meghan-uk-return",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "King Charles’s reaction as Harry and Meghan announce shock return to Britain",
     "score": 6
   },
   {
-    "original_title": "Met Office issues 6th heatwave forecast for September as temperatures to soar again",
-    "url": "https://www.express.co.uk/news/weather/2240701/met-office-issues-sixth-heatwave",
+    "original_title": "Prince Harry and Meghan Markle make huge U-turn on major Archie and Lilibet decision",
+    "url": "https://www.express.co.uk/news/royal/2240724/prince-harry-meghan-markle-uk-return",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Met Office issues 6th heatwave forecast for September as temperatures to soar again",
-    "score": 8
+    "title": "Prince Harry and Meghan Markle make huge U-turn on major Archie and Lilibet decision",
+    "score": 6
   },
   {
-    "original_title": "Horror as girl, 14, raped in back of van after attackers drove 270 miles to meet her",
-    "url": "https://www.express.co.uk/news/world/2240700/girl-14-raped-van-attackers-drove-270-miles",
+    "original_title": "Prince Harry and Meghan Markle already have secret UK base as return confirmed",
+    "url": "https://www.express.co.uk/news/royal/2240723/prince-harry-meghan-markle-already",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Horror as girl, 14, raped in back of van after attackers drove 270 miles to meet her",
-    "score": 8
+    "title": "Prince Harry and Meghan Markle already have secret UK base as return confirmed",
+    "score": 1
   },
   {
-    "original_title": "EasyJet cancels all flights from major UK airport - 6 locations affected",
-    "url": "https://www.express.co.uk/news/uk/2240699/easyjet-cancels-flights-uk-airport",
-    "domain": "express.co.uk",
+    "original_title": "Trump-Bibi tensions deepen? US officials frustrated by Israel’s Syria strikes",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/trump-bibi-tensions-deepen-us-officials-frustrated-by-israels-syria-strikes-report/articleshow/133345205.cms",
+    "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "EasyJet cancels all flights from major UK airport - 6 locations affected",
+    "title": "Trump-Bibi tensions deepen? US officials frustrated by Israel’s Syria strikes",
     "score": 8
-  },
-  {
-    "original_title": "The Government just admitted too many migrants are ignoring our laws - it's so dangerous",
-    "url": "https://www.express.co.uk/news/politics/2240698/Alicia-Kearns-Home-Office-asylum-leaflets-rape",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "The Government just admitted too many migrants are ignoring our laws - it's so dangerous",
-    "score": 3
   },
   {
     "original_title": "'Message to Europe - it can receive missiles': Iran warns of wider war if Trump attacks",
@@ -469,7 +477,7 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "'Message to Europe - it can receive missiles': Iran warns of wider war if Trump attacks",
-    "score": 9
+    "score": 3
   },
   {
     "original_title": "Pakistan whines, summons top diplomat over US envoy Gor's J&amp;K remark in Srinagar",
@@ -477,15 +485,7 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "Pakistan whines, summons top diplomat over US envoy Gor's J&amp;K remark in Srinagar",
-    "score": 3
-  },
-  {
-    "original_title": "PM's Gen Z, Gen Alpha outreach: Ministers told to visit universities, govt schools",
-    "url": "https://timesofindia.indiatimes.com/india/pm-modis-gen-z-gen-alpha-outreach-ministers-told-to-visit-universities-govt-schools/articleshow/133358584.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "PM's Gen Z, Gen Alpha outreach: Ministers told to visit universities, govt schools",
-    "score": 7
+    "score": 5
   },
   {
     "original_title": "‘Cannot afford any mistake’: Harmanpreet rues India’s lapses despite Pakistan win",
@@ -493,15 +493,15 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "‘Cannot afford any mistake’: Harmanpreet rues India’s lapses despite Pakistan win",
-    "score": 6
+    "score": 2
   },
   {
-    "original_title": "'PM under pressure': Rahul at Cong meet; party plans grassroots campaign to corner govt",
-    "url": "https://timesofindia.indiatimes.com/india/vande-mataram-chhatron-ki-goonj-chanda-chori-what-congress-discussed-in-key-strategy-meet/articleshow/133351843.cms",
+    "original_title": "Mehul Choksi’s lawyer Vijay Aggarwal arrested in UK over sexual assault allegation",
+    "url": "https://timesofindia.indiatimes.com/world/uk/mehul-choksis-lawyer-vijay-aggarwal-arrested-in-london-and-in-prison-accused-of-sexual-assault/articleshow/133358801.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "'PM under pressure': Rahul at Cong meet; party plans grassroots campaign to corner govt",
-    "score": 4
+    "title": "Mehul Choksi’s lawyer Vijay Aggarwal arrested in UK over sexual assault allegation",
+    "score": 3
   },
   {
     "original_title": "Meet 10-yr-old Hsu Ting-wei, winner of Silicon Valley invention award",
@@ -510,6 +510,14 @@
     "region": "GLOBAL",
     "title": "Meet 10-yr-old Hsu Ting-wei, winner of Silicon Valley invention award",
     "score": 5
+  },
+  {
+    "original_title": "Study: Europe sees marine heat wave from climate change",
+    "url": "https://www.upi.com/Top_News/World-News/2026/08/19/europe-marine-heat-wave/6091787175133/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Study: Europe sees marine heat wave from climate change",
+    "score": 1
   },
   {
     "original_title": "'Sons of Anarchy' follow-up reunites Hunnam, Perlman, Sagal",
@@ -525,7 +533,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Treasury to double bond buybacks this fall",
-    "score": 9
+    "score": 4
   },
   {
     "original_title": "Board approves $15.5 billion budget for Trump’s Dulles Airport plans",
@@ -533,7 +541,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Board approves $15.5 billion budget for Trump’s Dulles Airport plans",
-    "score": 6
+    "score": 8
   },
   {
     "original_title": "Ukrainian man arrested for 2022 Nord Stream pipeline sabotage",
@@ -541,7 +549,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Ukrainian man arrested for 2022 Nord Stream pipeline sabotage",
-    "score": 7
+    "score": 1
   },
   {
     "original_title": "Look: Netherlands woman finds escaped snake in bedroom closet",
@@ -549,63 +557,55 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Look: Netherlands woman finds escaped snake in bedroom closet",
-    "score": 3
-  },
-  {
-    "original_title": "Ohio player wins $10,000 lottery prize on his 18th birthday",
-    "url": "https://www.upi.com/Odd_News/2026/08/19/lotto-Ohio-Lottery-18th-birthday/9751787166983/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Ohio player wins $10,000 lottery prize on his 18th birthday",
     "score": 9
   },
   {
-    "original_title": "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
-    "url": "https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss",
+    "original_title": "What the social media addiction lawsuit could cost Meta",
+    "url": "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
-    "score": 2
-  },
-  {
-    "original_title": "What’s behind Israel’s latest attack on Syria?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "What’s behind Israel’s latest attack on Syria?",
-    "score": 4
-  },
-  {
-    "original_title": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
-    "url": "https://www.aljazeera.com/news/2026/8/19/seven-mostly-tourists-killed-in-helicopter-crash-in-northern-kenya?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Seven people, mostly foreign tourists, killed in helicopter crash in Kenya",
-    "score": 5
-  },
-  {
-    "original_title": "582 skeletons, including children discovered in Sri Lanka mass grave",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "582 skeletons, including children discovered in Sri Lanka mass grave",
-    "score": 4
-  },
-  {
-    "original_title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
+    "title": "What the social media addiction lawsuit could cost Meta",
     "score": 6
   },
   {
-    "original_title": "Violence in the New Syria?",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/violence-in-the-new-syria?traffic_source=rss",
+    "original_title": "“I get along with him very well.”",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Violence in the New Syria?",
-    "score": 1
+    "title": "“I get along with him very well.”",
+    "score": 3
+  },
+  {
+    "original_title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Israeli strike on Gaza City police headquarters kills women’s police chief",
+    "score": 4
+  },
+  {
+    "original_title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
+    "score": 4
+  },
+  {
+    "original_title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
+    "score": 9
+  },
+  {
+    "original_title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
+    "url": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
+    "score": 5
   },
   {
     "original_title": "‘Harry Potter’ Fans Force Relocation Of Undersea Cable To Avoid Fictional Elf’s Grave",
@@ -613,7 +613,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "‘Harry Potter’ Fans Force Relocation Of Undersea Cable To Avoid Fictional Elf’s Grave",
-    "score": 4
+    "score": 6
   },
   {
     "original_title": "Little League World Series Game Turned Off Due To Neither Team Having Big Fat Kid",
@@ -621,7 +621,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Little League World Series Game Turned Off Due To Neither Team Having Big Fat Kid",
-    "score": 5
+    "score": 8
   },
   {
     "original_title": "Democratic Socialism: Myth Vs. Fact",
@@ -629,7 +629,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Democratic Socialism: Myth Vs. Fact",
-    "score": 2
+    "score": 5
   },
   {
     "original_title": "White House Confirms It Customary For President To Start Press Conference With ‘Moo’",
@@ -637,6 +637,6 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "White House Confirms It Customary For President To Start Press Conference With ‘Moo’",
-    "score": 1
+    "score": 7
   }
 ]
