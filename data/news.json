@@ -1,11 +1,43 @@
 [
   {
+    "original_title": "Roma, ricercatore della Sapienza aggredito sotto casa: “Ebreo di m...”",
+    "url": "https://www.repubblica.it/cronaca/2026/08/20/news/roma_ricercatore_sapienza_aggressione_antisemita_anna_foa-425538575/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Roma, ricercatore della Sapienza aggredito sotto casa: “Ebreo di m...”",
+    "score": 8
+  },
+  {
+    "original_title": "Alcaraz giocherà gli Us Open, è ufficiale",
+    "url": "https://www.repubblica.it/sport/dossier/us-open-tennis/2026/08/20/news/alcaraz_ritorno_in_campo_us_open_2026-425538496/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Alcaraz giocherà gli Us Open, è ufficiale",
+    "score": 3
+  },
+  {
+    "original_title": "Romeo: “La Lega così non va, bisogna coinvolgere Zaia e i governatori del Nord”",
+    "url": "https://www.repubblica.it/politica/2026/08/20/news/lega_romeo_salvini_zaia_governatori-425538493/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Romeo: “La Lega così non va, bisogna coinvolgere Zaia e i governatori del Nord”",
+    "score": 5
+  },
+  {
     "original_title": "Ilva, Mattarella: è un impegno nazionale. Meloni: tavolo su Taranto a palazzo Chigi",
     "url": "https://www.repubblica.it/politica/2026/08/20/news/taranto_ilva_mattarella_meloni-425538459/",
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Ilva, Mattarella: è un impegno nazionale. Meloni: tavolo su Taranto a palazzo Chigi",
-    "score": 6
+    "score": 3
+  },
+  {
+    "original_title": "Le balene giganti affamate stanno invadendo i ghiacciai sciolti della Groenlandia",
+    "url": "https://www.repubblica.it/esteri/2026/08/20/news/groenlandia_invasione_balene_giganti_affamate_riscaldamento_climatico-425538401/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Le balene giganti affamate stanno invadendo i ghiacciai sciolti della Groenlandia",
+    "score": 3
   },
   {
     "original_title": "Il biografo reale: “È un’umiliazione per Harry e Meghan tornare in Inghilterra”",
@@ -13,87 +45,55 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Il biografo reale: “È un’umiliazione per Harry e Meghan tornare in Inghilterra”",
-    "score": 1
+    "score": 4
   },
   {
-    "original_title": "Carlo Arnulfo e Angela Buccico trovati morti abbracciati nell'ultraleggero: l’ultimo gesto d’amore",
-    "url": "https://roma.repubblica.it/cronaca/2026/08/20/news/carno_arnulfo_angela_buccico_morti_ultraleggero_abbracciati_rita_rusic-425538290/",
-    "domain": "repubblica.it",
+    "original_title": "Cade in mare dal gommone e non riemerge: ritrovato a Portovenere il corpo del 21enne scomparso da Ferragosto",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/20/sebastiano-piaggi-portovenere-disperso-notizie/8484264/",
+    "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Carlo Arnulfo e Angela Buccico trovati morti abbracciati nell'ultraleggero: l’ultimo gesto d’amore",
-    "score": 2
-  },
-  {
-    "original_title": "Bambina di 4 anni muore per difterite, i genitori no vax si rifiutarono di vaccinarla",
-    "url": "https://palermo.repubblica.it/cronaca/2026/08/20/news/bambina_tre_anni_muore_difterite_genitori_no_vax_palermo-425538237/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Bambina di 4 anni muore per difterite, i genitori no vax si rifiutarono di vaccinarla",
+    "title": "Cade in mare dal gommone e non riemerge: ritrovato a Portovenere il corpo del 21enne scomparso da Ferragosto",
     "score": 6
   },
   {
-    "original_title": "Napoli, donna trovata morta in casa a Ponticelli con lividi sul corpo: disposta l’autopsia",
-    "url": "https://napoli.repubblica.it/cronaca/2026/08/20/news/ponticelli_donna_morta_napoli-425538209/",
-    "domain": "repubblica.it",
+    "original_title": "Terremoto di magnitudo 6,7 in Perù: epicentro a sudest di Lima. La scossa sentita anche nella capitale",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/20/terremoto-peru-magnitudo-ayacucho-notizie/8484267/",
+    "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Napoli, donna trovata morta in casa a Ponticelli con lividi sul corpo: disposta l’autopsia",
+    "title": "Terremoto di magnitudo 6,7 in Perù: epicentro a sudest di Lima. La scossa sentita anche nella capitale",
+    "score": 1
+  },
+  {
+    "original_title": "L’avvertimento dei “ribelli” leghisti Romeo e Fontana a Salvini: “Così non va, prima di Pontida serve una soluzione”",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/20/lavvertimento-dei-ribelli-leghisti-romeo-e-fontana-a-salvini-cosi-non-va-prima-di-pontida-serve-una-soluzione/8484227/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "L’avvertimento dei “ribelli” leghisti Romeo e Fontana a Salvini: “Così non va, prima di Pontida serve una soluzione”",
+    "score": 8
+  },
+  {
+    "original_title": "Ucraina, l’inchiesta “Forrest Gump” sale di livello: coinvolti il capo della Direzione giuridica di Zelensky, un ex ministro ad interim e un viceministro della Giustizia",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/20/inchiesta-forrest-gump-ucraina-zelensky-notizie/8484030/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Ucraina, l’inchiesta “Forrest Gump” sale di livello: coinvolti il capo della Direzione giuridica di Zelensky, un ex ministro ad interim e un viceministro della Giustizia",
     "score": 9
   },
   {
-    "original_title": "Patto Ue, Svezia e Finlandia preparano i ritorni in Italia. Schlein: “Clamoroso boomerang”",
-    "url": "https://www.repubblica.it/politica/2026/08/20/news/migranti_finlandia_patto_ue-425538150/",
-    "domain": "repubblica.it",
+    "original_title": "Lo strano ruolo di Natalie Harp, l’assistente di Trump che secondo il Nyt invia messaggi ai leader mondiali a nome del presidente",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/20/natalie-harp-assistente-trump-leader-mondiali-notizie/8484212/",
+    "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Patto Ue, Svezia e Finlandia preparano i ritorni in Italia. Schlein: “Clamoroso boomerang”",
+    "title": "Lo strano ruolo di Natalie Harp, l’assistente di Trump che secondo il Nyt invia messaggi ai leader mondiali a nome del presidente",
+    "score": 1
+  },
+  {
+    "original_title": "Carlos Alcaraz torna agli Us Open, ora è ufficiale. L’annuncio sui social: “Sono tornato”",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/20/alcaraz-us-open-ritorno-ufficiale-sono-tornato/8484194/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Carlos Alcaraz torna agli Us Open, ora è ufficiale. L’annuncio sui social: “Sono tornato”",
     "score": 2
-  },
-  {
-    "original_title": "“Gli ha puntato una pistola”: minaccia choc a tre ciclisti 16enni, tra cui la promessa Magagnotti. “Vi ammazzo tutti”",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/20/minacce-ciclisti-pistola-colli-euganei-magagnotti-vi-ammazzo-tutti/8484125/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "“Gli ha puntato una pistola”: minaccia choc a tre ciclisti 16enni, tra cui la promessa Magagnotti. “Vi ammazzo tutti”",
-    "score": 3
-  },
-  {
-    "original_title": "Meloni venerdì a Taranto ma dice no alle associazioni di categoria: “Tavolo sull’Ilva in città? Già previsto a Roma”",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/20/meloni-taranto-ilva-tavolo-messaggio-mattarella-news/8484113/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Meloni venerdì a Taranto ma dice no alle associazioni di categoria: “Tavolo sull’Ilva in città? Già previsto a Roma”",
-    "score": 1
-  },
-  {
-    "original_title": "Dalle etichettature al marketing: la battaglia del papà di Mattia Maestri, morto per un formaggio a latte crudo. “Meloni faccia approvare la legge”",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/20/caso-mattia-maestri-latte-crudo-querele-notizie/8484119/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Dalle etichettature al marketing: la battaglia del papà di Mattia Maestri, morto per un formaggio a latte crudo. “Meloni faccia approvare la legge”",
-    "score": 1
-  },
-  {
-    "original_title": "Scontro Mollicone-Pucciarelli su La7. “Gli stipendi di Report? Trasparenza”. “Allora pubblicate le chat di Delmastro”",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/20/mollicone-pucciarelli-report-capezzone-angelucci-ranucci-delmastro/8483972/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Scontro Mollicone-Pucciarelli su La7. “Gli stipendi di Report? Trasparenza”. “Allora pubblicate le chat di Delmastro”",
-    "score": 1
-  },
-  {
-    "original_title": "Il debito Usa sfonda i 40mila miliardi per la prima volta dalla II Guerra Mondiale e i mercati non credono al piano di Bessent",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/20/debito-pubblico-usa-40000-miliardi-notizie/8483838/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Il debito Usa sfonda i 40mila miliardi per la prima volta dalla II Guerra Mondiale e i mercati non credono al piano di Bessent",
-    "score": 7
-  },
-  {
-    "original_title": "La Corte suprema israeliana annulla la decisione del governo di chiudere Army Radio: “Mossa antidemocratica”",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/20/army-radio-israele-corte-suprema-annulla-chiusura-notizie/8484088/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "La Corte suprema israeliana annulla la decisione del governo di chiudere Army Radio: “Mossa antidemocratica”",
-    "score": 5
   },
   {
     "original_title": "Nel più piccolo borgo della Puglia si insegna ai turisti il francoprovenzale",
@@ -101,7 +101,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Nel più piccolo borgo della Puglia si insegna ai turisti il francoprovenzale",
-    "score": 7
+    "score": 8
   },
   {
     "original_title": "Belen Rodriguez cade da cavallo sulla spiaggia, \"rialzarsi sempre\"",
@@ -109,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Belen Rodriguez cade da cavallo sulla spiaggia, \"rialzarsi sempre\"",
-    "score": 5
+    "score": 2
   },
   {
     "original_title": "Individuato nel cervello  il motore del sonno",
@@ -117,7 +117,15 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Individuato nel cervello  il motore del sonno",
-    "score": 8
+    "score": 1
+  },
+  {
+    "original_title": "Le prime immagini del cast di X Factor 2026, da Paola Iezzi a Irama",
+    "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/08/20/le-prime-immagini-del-cast-di-x-factor-2026-da-paola-iezzi-a-irama_95c69a16-dbf5-4594-8ba1-99928a543dbc.html",
+    "domain": "ansa.it",
+    "region": "IT",
+    "title": "Le prime immagini del cast di X Factor 2026, da Paola Iezzi a Irama",
+    "score": 2
   },
   {
     "original_title": "Barbie è più 'curvy' e ora somiglia alle donne reali, Ken meno agli uomini",
@@ -125,39 +133,39 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Barbie è più 'curvy' e ora somiglia alle donne reali, Ken meno agli uomini",
-    "score": 5
+    "score": 7
   },
   {
-    "original_title": "OpenAI lancia anche in Italia la pubblicità su ChatGpt",
-    "url": "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/08/19/openai-lancia-anche-in-italia-la-pubblicita-su-chatgpt_97ef229a-6ca5-467c-b100-f0df65a4ed0d.html",
+    "original_title": "Si allarga il caso dublinanti, anche Finlandia e Svezia li rimandano in Italia",
+    "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/anche-la-svezia-trasferisce-i-migranti-in-italia-spagna-e-francia-no_f3081cbe-5518-4036-8bb9-84bc7317e174.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "OpenAI lancia anche in Italia la pubblicità su ChatGpt",
-    "score": 5
-  },
-  {
-    "original_title": "Il cda di Mps approva le offerte di scambio per Bpm e Banca Generali",
-    "url": "https://www.ansa.it/sito/notizie/economia/2026/08/20/iniziato-il-cda-di-mps-sul-tavolo-le-offerte-per-bpm-e-banca-generali_56e45912-721e-4db6-8006-04d4bc02cd39.html",
-    "domain": "ansa.it",
-    "region": "IT",
-    "title": "Il cda di Mps approva le offerte di scambio per Bpm e Banca Generali",
+    "title": "Si allarga il caso dublinanti, anche Finlandia e Svezia li rimandano in Italia",
     "score": 4
   },
   {
-    "original_title": "Migranti, anche Finlandia e Svezia riprendono i trasferimenti in Italia: chi sono i dublinanti e cosa può succedere ora",
-    "url": "https://www.ilmessaggero.it/politica/migranti_tornano_italia_perche_quanti_sono-9716452.html",
+    "original_title": "Migranti, cinque Paesi preparano i ritorni dei «Dublinanti» in Italia: Finlandia e Svezia sì. No di Francia e Spagna: «Per ora no alle espulsione»",
+    "url": "https://www.ilmessaggero.it/politica/migranti_dublinanti_tornano_italia_perche_quanti_sono_francia_spagna_finlandia_svezia_cosa_succede-9716452.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Migranti, anche Finlandia e Svezia riprendono i trasferimenti in Italia: chi sono i dublinanti e cosa può succedere ora",
-    "score": 6
+    "title": "Migranti, cinque Paesi preparano i ritorni dei «Dublinanti» in Italia: Finlandia e Svezia sì. No di Francia e Spagna: «Per ora no alle espulsione»",
+    "score": 4
   },
   {
     "original_title": "«In Uk i rapporti devono essere consensuali. Vietato il sesso con gli under 16». Il depliant (choc) per migranti diffuso dal governo inglese",
-    "url": "https://www.ilmessaggero.it/mondo/vietato_stuprare_minorenni_gran_bretagna_opuscolo_migranti-9716755.html",
+    "url": "https://www.ilmessaggero.it/mondo/migranti_gran_bretagna_diffusi_fogli_vietato_sesso_minorenni_ultima_ora-9716755.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "«In Uk i rapporti devono essere consensuali. Vietato il sesso con gli under 16». Il depliant (choc) per migranti diffuso dal governo inglese",
-    "score": 9
+    "score": 8
+  },
+  {
+    "original_title": "Allerta meteo domani in 14 regioni per violenti temporali: ecco dove. Codice arancione in Toscana e Liguria",
+    "url": "https://www.ilmessaggero.it/schede/allerta_meteo_domani_venerdi_21_agosto_14_regioni_temporali_dove_previsioni-9716752.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Allerta meteo domani in 14 regioni per violenti temporali: ecco dove. Codice arancione in Toscana e Liguria",
+    "score": 2
   },
   {
     "original_title": "Auto a 100 euro al mese: chi può chiedere e come fare domanda per il noleggio sociale. Data del Click day e requisiti",
@@ -165,7 +173,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Auto a 100 euro al mese: chi può chiedere e come fare domanda per il noleggio sociale. Data del Click day e requisiti",
-    "score": 3
+    "score": 7
   },
   {
     "original_title": "Calendario scolastico 2026/2027, quando inizia la scuola: le date regione per regione, le chiusure e le festività",
@@ -173,7 +181,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Calendario scolastico 2026/2027, quando inizia la scuola: le date regione per regione, le chiusure e le festività",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "Targhe straniere in Italia, stretta del governo sui furbetti: tassa di iscrizione e Rc auto italiana obbligatoria",
@@ -181,63 +189,55 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Targhe straniere in Italia, stretta del governo sui furbetti: tassa di iscrizione e Rc auto italiana obbligatoria",
-    "score": 7
-  },
-  {
-    "original_title": "Russi in fila davanti alle banche per prelevare rubli in contanti, temono che Putin possa utilizzarli per finanziare la guerra in Ucraina",
-    "url": "https://www.ilmessaggero.it/mondo/russi_prelevano_contanti_banche_paura_soldi_guerra_ucraina-9716567.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Russi in fila davanti alle banche per prelevare rubli in contanti, temono che Putin possa utilizzarli per finanziare la guerra in Ucraina",
-    "score": 1
-  },
-  {
-    "original_title": "Autista del bus perde i sensi, passeggera afferra il volante e guida: così ha salvato 50 persone – Il video",
-    "url": "https://www.open.online/2026/08/20/svezia-autista-bus-sviene-passeggera-guida-video/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Autista del bus perde i sensi, passeggera afferra il volante e guida: così ha salvato 50 persone – Il video",
-    "score": 9
-  },
-  {
-    "original_title": "Difterite, cos’è la malattia che ha ucciso la bimba di 4 anni a Palermo: sintomi, contagio e vaccino",
-    "url": "https://www.open.online/2026/08/20/difterite-cosa-e-sintomi-contagio-vaccino-bambina-palermo/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Difterite, cos’è la malattia che ha ucciso la bimba di 4 anni a Palermo: sintomi, contagio e vaccino",
-    "score": 7
-  },
-  {
-    "original_title": "Ancona, 19enne colpito da un fulmine mentre fa trekking con gli amici",
-    "url": "https://www.open.online/2026/08/20/ancona-19enne-colpito-fulmine-trekking/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Ancona, 19enne colpito da un fulmine mentre fa trekking con gli amici",
-    "score": 8
-  },
-  {
-    "original_title": "Palermo, bambina di 4 anni morta per sospetta difterite. Era figlia di due no vax. Ricoverato anche il cuginetto",
-    "url": "https://www.open.online/2026/08/20/palermo-bambina-morta-difterite-genitori-no-vax/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Palermo, bambina di 4 anni morta per sospetta difterite. Era figlia di due no vax. Ricoverato anche il cuginetto",
     "score": 3
   },
   {
-    "original_title": "MPS, il cda dice sì a Lovaglio. Ecco la risposta a Intesa con doppia mossa: Banco Bpm e Banca Generali",
-    "url": "https://www.open.online/2026/08/20/mps-difesa-opas-intesa-ipotesi-banco-bpm-banca-generali/",
+    "original_title": "Migranti, il fronte europeo si spacca: Francia e Spagna dicono no ai rimpatri in Italia dei «dublinanti»",
+    "url": "https://www.open.online/2026/08/20/dublinanti-francia-spagna-bloccano-trasferimento-migranti/",
     "domain": "open.online",
     "region": "IT",
-    "title": "MPS, il cda dice sì a Lovaglio. Ecco la risposta a Intesa con doppia mossa: Banco Bpm e Banca Generali",
-    "score": 4
+    "title": "Migranti, il fronte europeo si spacca: Francia e Spagna dicono no ai rimpatri in Italia dei «dublinanti»",
+    "score": 5
   },
   {
-    "original_title": "Texas, il drone Amazon fa cadere il pacco nella piscina di casa: la caduta diventa virale – Il video",
-    "url": "https://www.open.online/2026/08/20/pacco-amazon-caduto-piscina-drone-video/",
+    "original_title": "Terremoto in Perù, forte scossa di magnitudo 7.2: i distacchi di rocce e i danni alle case – Il video",
+    "url": "https://www.open.online/2026/08/20/terremoto-peru-magnitudo-video/",
     "domain": "open.online",
     "region": "IT",
-    "title": "Texas, il drone Amazon fa cadere il pacco nella piscina di casa: la caduta diventa virale – Il video",
-    "score": 2
+    "title": "Terremoto in Perù, forte scossa di magnitudo 7.2: i distacchi di rocce e i danni alle case – Il video",
+    "score": 3
+  },
+  {
+    "original_title": "La società per commerciare il pesce (surgelato), l’uomo di fiducia africano per sistemare le cose, la vita precedente di Sigfrido Ranucci sembra quella di Valter Lavitola",
+    "url": "https://www.open.online/2026/08/20/ranucci-vita-precedente-come-lavitola-pesce-uomo-fiducia-africano/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "La società per commerciare il pesce (surgelato), l’uomo di fiducia africano per sistemare le cose, la vita precedente di Sigfrido Ranucci sembra quella di Valter Lavitola",
+    "score": 5
+  },
+  {
+    "original_title": "Lega, Romeo e Fontana di nuovo contro Salvini alla Versiliana: «Prima di Pontida serve una soluzione». Ma scatta la contestazione: «Il Capitano non si tocca»",
+    "url": "https://www.open.online/2026/08/20/lega-romeo-e-fontana-versiliana-contro-salvini-e-scatta-contestazione/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Lega, Romeo e Fontana di nuovo contro Salvini alla Versiliana: «Prima di Pontida serve una soluzione». Ma scatta la contestazione: «Il Capitano non si tocca»",
+    "score": 1
+  },
+  {
+    "original_title": "L’influencer Sonia Bellina trovata nuda e morta carbonizzata, fermati due uomini. La scoperta tra le vigne della Francia",
+    "url": "https://www.open.online/2026/08/20/sonia-bellina-influencer-francese-morta-fermati-uomini/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "L’influencer Sonia Bellina trovata nuda e morta carbonizzata, fermati due uomini. La scoperta tra le vigne della Francia",
+    "score": 9
+  },
+  {
+    "original_title": "Francia, Germania, Italia e Regno Unito contro Israele: «Stop agli insediamenti in Cisgiordania, sono illegali»",
+    "url": "https://www.open.online/2026/08/20/francia-germania-italia-uk-cisgiordania-insediamenti-illegali/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Francia, Germania, Italia e Regno Unito contro Israele: «Stop agli insediamenti in Cisgiordania, sono illegali»",
+    "score": 5
   },
   {
     "original_title": "Alberi spazzati via dalla bufera, pali abbattuti e tetti divelti: i danni del maltempo nel Vicentino e nel Bellunese. Allerta meteo per temporali",
@@ -245,7 +245,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Alberi spazzati via dalla bufera, pali abbattuti e tetti divelti: i danni del maltempo nel Vicentino e nel Bellunese. Allerta meteo per temporali",
-    "score": 3
+    "score": 7
   },
   {
     "original_title": "Auto esce di strada sul viadotto dell'A27 e prende fuoco: il conducente di 83 anni salvato in tempo dai vigili del fuoco",
@@ -253,7 +253,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Auto esce di strada sul viadotto dell'A27 e prende fuoco: il conducente di 83 anni salvato in tempo dai vigili del fuoco",
-    "score": 7
+    "score": 9
   },
   {
     "original_title": "Cortina, seggiovia Bai de Dones meno cara pagando con la carta di credito: scoppia la polemica",
@@ -261,7 +261,15 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Cortina, seggiovia Bai de Dones meno cara pagando con la carta di credito: scoppia la polemica",
-    "score": 4
+    "score": 1
+  },
+  {
+    "original_title": "Sigfrido Ranucci arriva ad Asiago, il saluto con il sindaco (e legale di Cappellari): «Non sarà così facile cacciarti»",
+    "url": "https://www.ilgazzettino.it/nordest/vicenza_bassano/sigfrido_ranucci_cappellari_asiago-9716809.html",
+    "domain": "ilgazzettino.it",
+    "region": "IT",
+    "title": "Sigfrido Ranucci arriva ad Asiago, il saluto con il sindaco (e legale di Cappellari): «Non sarà così facile cacciarti»",
+    "score": 7
   },
   {
     "original_title": "Tania Terrin, i messaggi scambiati con l'ex compagna dell'assassino: «Dino è stato violento con te? Mi ha quasi uccisa e cerca di darmi la colpa»",
@@ -269,23 +277,23 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Tania Terrin, i messaggi scambiati con l'ex compagna dell'assassino: «Dino è stato violento con te? Mi ha quasi uccisa e cerca di darmi la colpa»",
-    "score": 3
+    "score": 6
   },
   {
-    "original_title": "West Nile, nuovo caso a Rovigo: un 55enne ha contratto la febbre all'inizio di agosto",
-    "url": "https://www.ilgazzettino.it/nordest/rovigo/west_nile_nuovo_caso_55enne-9716722.html",
+    "original_title": "Incendio in carcere, detenuto 19enne dà fuoco al materasso e muore intossicato: 5 agenti di polizia penitenziaria indagati",
+    "url": "https://www.ilgazzettino.it/nordest/pordenone/incendio_carcere_detenuto_morto_agenti_polizia_penitenziaria_indagati-9716761.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "West Nile, nuovo caso a Rovigo: un 55enne ha contratto la febbre all'inizio di agosto",
-    "score": 8
+    "title": "Incendio in carcere, detenuto 19enne dà fuoco al materasso e muore intossicato: 5 agenti di polizia penitenziaria indagati",
+    "score": 6
   },
   {
-    "original_title": "Fulmine colpisce un 19enne durante il trekking con gli amici",
-    "url": "https://www.ilgazzettino.it/nordest/trento/fulmine_escursionista_trekking-9716454.html",
-    "domain": "ilgazzettino.it",
+    "original_title": "Migranti, cinque Paesi preparano i ritorni dei «Dublinanti» in Italia: Finlandia e Svezia sì. No di Francia e Spagna: «Per ora no alle espulsione»",
+    "url": "https://www.ilmattino.it/primopiano/esteri/migranti_tornano_italia_perche_quanti_sono-9716480.html",
+    "domain": "ilmattino.it",
     "region": "IT",
-    "title": "Fulmine colpisce un 19enne durante il trekking con gli amici",
-    "score": 9
+    "title": "Migranti, cinque Paesi preparano i ritorni dei «Dublinanti» in Italia: Finlandia e Svezia sì. No di Francia e Spagna: «Per ora no alle espulsione»",
+    "score": 5
   },
   {
     "original_title": "Bimba di 4 anni muore per sospetta difterite a Palermo, i genitori si erano rifiutati di vaccinarla, ricoverato anche il cuginetto",
@@ -293,7 +301,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Bimba di 4 anni muore per sospetta difterite a Palermo, i genitori si erano rifiutati di vaccinarla, ricoverato anche il cuginetto",
-    "score": 5
+    "score": 9
   },
   {
     "original_title": "Avvelenate con la ricina, Gianni Di Vita convocato in questura: faccia a faccia con una sua amica davanti a pm e capo della polizia",
@@ -309,23 +317,15 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Napoli, donna trovata morta in casa con lividi sul corpo: si attende l'esito dell'autopsia",
-    "score": 2
+    "score": 6
   },
   {
-    "original_title": "Poggioreale, scoperto bar abusivo davanti al carcere: era un \"hub\" di servizi per i parenti dei detenuti",
-    "url": "https://www.ilmattino.it/napoli/cronaca/si_affiancava_anche_la_somministrazione_di_bevande_e_alimenti_anche_questa_illegal-9716681.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Poggioreale, scoperto bar abusivo davanti al carcere: era un \"hub\" di servizi per i parenti dei detenuti",
-    "score": 8
-  },
-  {
-    "original_title": "Harry and Meghan's security arrangements a private matter, PM says",
+    "original_title": "Harry and Meghan's return to UK reignites questions over security",
     "url": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Harry and Meghan's security arrangements a private matter, PM says",
-    "score": 4
+    "title": "Harry and Meghan's return to UK reignites questions over security",
+    "score": 1
   },
   {
     "original_title": "Watch: What does Harry's return mean for his fractured relationship with William?",
@@ -333,7 +333,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
-    "score": 5
+    "score": 3
   },
   {
     "original_title": "Five key takeaways from GCSE results day 2026",
@@ -344,12 +344,12 @@
     "score": 8
   },
   {
-    "original_title": "Man charged over Manchester synagogue attack",
-    "url": "https://www.bbc.co.uk/news/articles/cm2g5ne37zyo?at_medium=RSS&at_campaign=rss",
+    "original_title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+    "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Man charged over Manchester synagogue attack",
-    "score": 9
+    "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
+    "score": 5
   },
   {
     "original_title": "Academic who accused Jason Arday of plagiarism suspended by university",
@@ -357,7 +357,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Academic who accused Jason Arday of plagiarism suspended by university",
-    "score": 4
+    "score": 1
   },
   {
     "original_title": "John Swinney defends £45,000 business-class flights to World Cup",
@@ -365,111 +365,87 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "John Swinney defends £45,000 business-class flights to World Cup",
-    "score": 5
-  },
-  {
-    "original_title": "Diamondbacks CEO dumbfounded by ‘bizarre’ Ketel Marte absence: ‘Complete mystery’",
-    "url": "https://nypost.com/2026/08/20/sports/diamondbacks-ceo-dumbfounded-by-bizarre-ketel-marte-absence/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Diamondbacks CEO dumbfounded by ‘bizarre’ Ketel Marte absence: ‘Complete mystery’",
-    "score": 1
-  },
-  {
-    "original_title": "Prince Harry’s UK return fueled by inheritance fears as Prince William’s reign looms: ‘Time is ticking’",
-    "url": "https://pagesix.com/2026/08/20/royal-family/prince-harrys-uk-return-fueled-by-inheritance-fears-as-prince-williams-reign-looms/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Prince Harry’s UK return fueled by inheritance fears as Prince William’s reign looms: ‘Time is ticking’",
-    "score": 3
-  },
-  {
-    "original_title": "Pizza Hut gets major name ‘change’ and a new look — see why the rebrand won’t last long",
-    "url": "https://nypost.com/2026/08/20/lifestyle/pizza-hut-gets-major-name-change-ahead-of-2026-nfl-season/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Pizza Hut gets major name ‘change’ and a new look — see why the rebrand won’t last long",
     "score": 2
   },
   {
-    "original_title": "‘Outer Banks’ Stars Chase Stokes and Madelyn Cline React To the Series’ Tearjerker Finale: “It Might Be My Favorite Sequence We Shot”",
-    "url": "https://decider.com/2026/08/20/outer-banks-finale-chase-stokes-madelyn-cline-john-b-sarah-wedding/",
+    "original_title": "Prince Harry, Meghan Markle’s Montecito neighbors ‘thrilled’ royals are moving back to UK: ‘Good riddance!’",
+    "url": "https://pagesix.com/2026/08/20/royal-family/prince-harry-meghan-markles-montecito-neighbors-thrilled-royals-are-moving-back-to-uk/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "‘Outer Banks’ Stars Chase Stokes and Madelyn Cline React To the Series’ Tearjerker Finale: “It Might Be My Favorite Sequence We Shot”",
+    "title": "Prince Harry, Meghan Markle’s Montecito neighbors ‘thrilled’ royals are moving back to UK: ‘Good riddance!’",
     "score": 8
   },
   {
-    "original_title": "Save 20% on Luseta Beauty before the NY Post Fall Shopping Event even starts",
-    "url": "https://nypost.com/2026/08/20/shopping/save-20-on-luseta-beauty-bestsellers-only-for-ny-post-readers/",
+    "original_title": "High-speed rail CEO gives rambling excuses for $231B project’s myriad delays",
+    "url": "https://nypost.com/2026/08/20/us-news/california-high-speed-rail-ceo-blames-regulations-for-delays/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Save 20% on Luseta Beauty before the NY Post Fall Shopping Event even starts",
-    "score": 2
-  },
-  {
-    "original_title": "Chaos in Spain as holiday hotspot filled with Brits facing 39C heat and thunderstorms",
-    "url": "https://www.express.co.uk/news/world/2241048/chaos-spain-holiday-hotspot-filled",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Chaos in Spain as holiday hotspot filled with Brits facing 39C heat and thunderstorms",
-    "score": 8
-  },
-  {
-    "original_title": "Huge blow for Sadiq Khan as new poll reveals what Londoners really think of him",
-    "url": "https://www.express.co.uk/news/politics/2241047/sadiq-khan-london-poll",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Huge blow for Sadiq Khan as new poll reveals what Londoners really think of him",
-    "score": 5
-  },
-  {
-    "original_title": "Prince Harry dropped huge hint about UK return almost a year ago",
-    "url": "https://www.express.co.uk/news/royal/2241046/prince-harry-uk-return-hint",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Prince Harry dropped huge hint about UK return almost a year ago",
+    "title": "High-speed rail CEO gives rambling excuses for $231B project’s myriad delays",
     "score": 6
   },
   {
-    "original_title": "Harry and Meghan’s UK security ‘expected to cost £5m’ as questions mount over who will pay",
-    "url": "https://www.express.co.uk/news/royal/2241045/harry-meghan-uk-security-bill-who-will-pay",
-    "domain": "express.co.uk",
+    "original_title": "How Chase Stokes saved ‘Outer Banks’ co-star’s life during scary on-set incident",
+    "url": "https://pagesix.com/2026/08/20/entertainment/chase-stokes-saved-outer-banks-co-star-madison-baileys-life-during-on-set-incident/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Harry and Meghan’s UK security ‘expected to cost £5m’ as questions mount over who will pay",
-    "score": 1
-  },
-  {
-    "original_title": "Harry and Meghan dealt humiliating blow hours after UK return news - 'Don't come back'",
-    "url": "https://www.express.co.uk/news/royal/2241041/harry-meghan-dealt-humiliating-blow",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Harry and Meghan dealt humiliating blow hours after UK return news - 'Don't come back'",
-    "score": 3
-  },
-  {
-    "original_title": "Meghan Markle and Prince Harry issued brutal 4-word warning about UK return",
-    "url": "https://www.express.co.uk/news/royal/2241040/meghan-markle-prince-harry-uk-warning",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Meghan Markle and Prince Harry issued brutal 4-word warning about UK return",
+    "title": "How Chase Stokes saved ‘Outer Banks’ co-star’s life during scary on-set incident",
     "score": 5
   },
   {
-    "original_title": "Why UP's 'Aadhi Aabadi' matters more than ever in 2027 assembly election",
-    "url": "https://timesofindia.indiatimes.com/india/battle-for-ups-aadhi-aabadi-why-parties-are-wooing-women-voters-like-never-before-ahead-of-2027-polls/articleshow/133377404.cms",
-    "domain": "timesofindia.com",
+    "original_title": "Neutrogena apologizes for past treatment of Hayden Panettiere after her tragic death",
+    "url": "https://pagesix.com/2026/08/20/celebrity-news/neutrogena-apologizes-for-past-treatment-of-hayden-panettiere-after-her-tragic-death/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Why UP's 'Aadhi Aabadi' matters more than ever in 2027 assembly election",
-    "score": 9
+    "title": "Neutrogena apologizes for past treatment of Hayden Panettiere after her tragic death",
+    "score": 7
   },
   {
-    "original_title": "Man posing as transgender rapes air hostess on pretext of 'curing evil eye'",
-    "url": "https://timesofindia.indiatimes.com/city/mumbai/man-posing-as-transgender-enters-mumbai-flat-rapes-air-hostess-on-pretext-of-curing-evil-eye/articleshow/133383052.cms",
-    "domain": "timesofindia.com",
+    "original_title": "William and Kate's 'reaction' to Harry and Meghan coming back to UK revealed",
+    "url": "https://www.express.co.uk/news/royal/2241073/william-kate-reaction-harry-meghan-return",
+    "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Man posing as transgender rapes air hostess on pretext of 'curing evil eye'",
+    "title": "William and Kate's 'reaction' to Harry and Meghan coming back to UK revealed",
+    "score": 5
+  },
+  {
+    "original_title": "'I'm a royal expert - this is how Harry and Meghan can win over ordinary Brits'",
+    "url": "https://www.express.co.uk/news/royal/2241070/harry-meghan-brits-uk-return-win",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "'I'm a royal expert - this is how Harry and Meghan can win over ordinary Brits'",
     "score": 1
+  },
+  {
+    "original_title": "Peru earthquake LIVE: Lima, Ica, and Cusco rocked by 7.2 tremors sparking avalanches",
+    "url": "https://www.express.co.uk/news/world/2241066/peru-earthquake-live-ica-rocked",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Peru earthquake LIVE: Lima, Ica, and Cusco rocked by 7.2 tremors sparking avalanches",
+    "score": 2
+  },
+  {
+    "original_title": "Horror as teen girl can't leave home without mum or dad after man, 28, sexually abuses her",
+    "url": "https://www.express.co.uk/news/uk/2241065/liverpool-paedophile-grooming-sexual-abuse-prison-sentence",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Horror as teen girl can't leave home without mum or dad after man, 28, sexually abuses her",
+    "score": 4
+  },
+  {
+    "original_title": "UK weather maps turn volcanic red as temperatures hit 26C - the 7 hottest counties",
+    "url": "https://www.express.co.uk/news/weather/2241062/uk-weather-maps-turn-volcanic",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "UK weather maps turn volcanic red as temperatures hit 26C - the 7 hottest counties",
+    "score": 1
+  },
+  {
+    "original_title": "Angela Rayner blasted after taking £20k from oil lobbyist - despite 'cheering on' Net Zero",
+    "url": "https://www.express.co.uk/news/politics/2241058/angela-rayner-donation",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Angela Rayner blasted after taking £20k from oil lobbyist - despite 'cheering on' Net Zero",
+    "score": 6
   },
   {
     "original_title": "US debt crosses $40tn but everyone still trusts Uncle Sam. But for how long?",
@@ -477,7 +453,23 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "US debt crosses $40tn but everyone still trusts Uncle Sam. But for how long?",
-    "score": 6
+    "score": 5
+  },
+  {
+    "original_title": "FBI lists Bishnoi gang-linked Indian national as most wanted fugitive in extortion case",
+    "url": "https://timesofindia.indiatimes.com/nri/us-canada-news/fbi-lists-lawrence-bishnoi-gang-linked-indian-national-as-wanted-fugitive-in-us-extortion-case/articleshow/133385630.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "FBI lists Bishnoi gang-linked Indian national as most wanted fugitive in extortion case",
+    "score": 7
+  },
+  {
+    "original_title": "6.6-magnitude earthquake strikes central Peru",
+    "url": "https://timesofindia.indiatimes.com/world/rest-of-world/6-6-magnitude-earthquake-strikes-central-peru/articleshow/133386487.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "6.6-magnitude earthquake strikes central Peru",
+    "score": 4
   },
   {
     "original_title": "8-0 becomes 8-1: 'Impatient' PV Sindhu falls to cramping Wang Zhi Yi in epic duel",
@@ -485,119 +477,119 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "8-0 becomes 8-1: 'Impatient' PV Sindhu falls to cramping Wang Zhi Yi in epic duel",
-    "score": 4
-  },
-  {
-    "original_title": "Iran rejects Trump's Hormuz claim, says strait will reopen only on Tehran's terms",
-    "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-rejects-trumps-hormuz-total-control-claim-says-strait-will-reopen-only-on-tehrans-terms/articleshow/133383098.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Iran rejects Trump's Hormuz claim, says strait will reopen only on Tehran's terms",
-    "score": 3
-  },
-  {
-    "original_title": "How an ex-Buddhist monk &amp; Meta engineer founded a startup that now rivals Accenture",
-    "url": "https://timesofindia.indiatimes.com/technology/tech-news/in-2021-a-former-buddhist-monk-who-was-a-software-engineer-at-meta-accidentally-founded-a-startup-that-now-competes-with-accenture/articleshow/133375483.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "How an ex-Buddhist monk &amp; Meta engineer founded a startup that now rivals Accenture",
-    "score": 1
-  },
-  {
-    "original_title": "USS George Washington reaches CENTCOM region in Middle East",
-    "url": "https://www.upi.com/Top_News/US/2026/08/20/uss-washington-lincoln-aircraft-carrier-conditions-middle-east/8071787245101/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "USS George Washington reaches CENTCOM region in Middle East",
-    "score": 6
-  },
-  {
-    "original_title": "U.S. ambassador skips Argentine hearing on Huawei",
-    "url": "https://www.upi.com/Top_News/World-News/2026/08/20/latam-agrentina-us-ambassador-no-show-pressure-huawei/9631787243776/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "U.S. ambassador skips Argentine hearing on Huawei",
     "score": 8
   },
   {
-    "original_title": "CK Hutchison begins arbitration against Panama, seeks $1.5 billion",
-    "url": "https://www.upi.com/Top_News/World-News/2026/08/20/latam-panama-CKHutchison-contract-arbitration/1331787242566/",
-    "domain": "upi.com",
+    "original_title": "US ambassador Sergio Gor in Ladakh, goes river rafting along Zanskar-Indus stretch",
+    "url": "https://timesofindia.indiatimes.com/india/us-ambassador-sergio-gor-in-ladakh-goes-river-rafting-along-zanskar-indus-stretch/articleshow/133387083.cms",
+    "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "CK Hutchison begins arbitration against Panama, seeks $1.5 billion",
-    "score": 2
-  },
-  {
-    "original_title": "Salmonella cases from jalapeno peppers reach 431 across 32 states",
-    "url": "https://www.upi.com/Top_News/US/2026/08/20/salmonella-jalapeno-peppers-cases-chipotle-qdoba/6851787241647/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Salmonella cases from jalapeno peppers reach 431 across 32 states",
-    "score": 7
-  },
-  {
-    "original_title": "Look: Fourth, final season of 'Yellowjackets' to premiere Nov. 20",
-    "url": "https://www.upi.com/Entertainment_News/TV/2026/08/20/yellowjackets-season-four-premiere-date/7471787241004/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Look: Fourth, final season of 'Yellowjackets' to premiere Nov. 20",
+    "title": "US ambassador Sergio Gor in Ladakh, goes river rafting along Zanskar-Indus stretch",
     "score": 1
   },
   {
-    "original_title": "Watch: Michigan woman finds escaped python in her pole barn",
-    "url": "https://www.upi.com/Odd_News/2026/08/20/python-snake-pole-barn-Grant-Township-Michigan/2841787241816/",
-    "domain": "upi.com",
+    "original_title": "Gates Foundation makes landmark 10-yr donation to Washington University to strengthen ...",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/gates-foundation-makes-landmark-10-year-donation-to-washington-university-to-strengthen-/articleshow/133384916.cms",
+    "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Watch: Michigan woman finds escaped python in her pole barn",
+    "title": "Gates Foundation makes landmark 10-yr donation to Washington University to strengthen ...",
     "score": 3
   },
   {
-    "original_title": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "USS Lincoln begins journey home after nine-month deployment",
+    "url": "https://www.upi.com/Top_News/US/2026/08/20/uss-washington-lincoln-aircraft-carrier-conditions-middle-east/8071787245101/",
+    "domain": "upi.com",
     "region": "GLOBAL",
-    "title": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
-    "score": 7
+    "title": "USS Lincoln begins journey home after nine-month deployment",
+    "score": 6
   },
   {
-    "original_title": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
-    "url": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "Man wins $500,000 lottery prize during gas station pit stop",
+    "url": "https://www.upi.com/Odd_News/2026/08/20/lotto-Michigan-Lottery-gas-station-stop/8231787254161/",
+    "domain": "upi.com",
     "region": "GLOBAL",
-    "title": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
+    "title": "Man wins $500,000 lottery prize during gas station pit stop",
     "score": 5
   },
   {
-    "original_title": "North Korea fires ballistic missiles as US-South Korea drills near end",
-    "url": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "Reigning champ Carlos Alcaraz to end tennis hiatus at 2026 U.S. Open",
+    "url": "https://www.upi.com/Sports_News/2026/08/20/Carlos-Alcaraz-return-USOpen-tennis/2461787249397/",
+    "domain": "upi.com",
     "region": "GLOBAL",
-    "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
-    "score": 2
+    "title": "Reigning champ Carlos Alcaraz to end tennis hiatus at 2026 U.S. Open",
+    "score": 3
   },
   {
-    "original_title": "At least 800 people evacuated from major wildfire in western Spain",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "U.S. says American academic is 'wrongfully detained' in China",
+    "url": "https://www.upi.com/Top_News/US/2026/08/20/china-min-zin-wrongfully-detained/9291787250915/",
+    "domain": "upi.com",
     "region": "GLOBAL",
-    "title": "At least 800 people evacuated from major wildfire in western Spain",
-    "score": 7
+    "title": "U.S. says American academic is 'wrongfully detained' in China",
+    "score": 8
   },
   {
-    "original_title": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "FBI seizes former Rep. Eric Swalwell's electronic devices amid probe",
+    "url": "https://www.upi.com/Top_News/US/2026/08/20/california-swalwell-FBI-raid/7731787248995/",
+    "domain": "upi.com",
     "region": "GLOBAL",
-    "title": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
+    "title": "FBI seizes former Rep. Eric Swalwell's electronic devices amid probe",
+    "score": 4
+  },
+  {
+    "original_title": "Heavy snowfall impacts communities in western Bolivia",
+    "url": "https://www.upi.com/Top_News/World-News/2026/08/20/latam-bolivia-heavy-snow-weahter-emergency/8491787248401/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Heavy snowfall impacts communities in western Bolivia",
     "score": 9
   },
   {
-    "original_title": "Syria detains policeman over death of White Helmets rescuer hit in custody",
-    "url": "https://www.aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss",
+    "original_title": "Walmart sees sales drop as US consumer spending retreats",
+    "url": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Syria detains policeman over death of White Helmets rescuer hit in custody",
+    "title": "Walmart sees sales drop as US consumer spending retreats",
     "score": 6
+  },
+  {
+    "original_title": "University suspends US academic leading Jason Arday plagiarism accusations",
+    "url": "https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "University suspends US academic leading Jason Arday plagiarism accusations",
+    "score": 2
+  },
+  {
+    "original_title": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
+    "url": "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
+    "score": 9
+  },
+  {
+    "original_title": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
+    "url": "https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
+    "score": 7
+  },
+  {
+    "original_title": "Fishermen rescued after five days clinging to cooler at sea",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fishermen-rescued-after-five-days-clinging-to-cooler-at-sea?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Fishermen rescued after five days clinging to cooler at sea",
+    "score": 3
+  },
+  {
+    "original_title": "Jewish-American barred by Israel calls settler violence ‘state terror’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-208-20-2026-jewish-american-banned-sv-mp4?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Jewish-American barred by Israel calls settler violence ‘state terror’",
+    "score": 7
   },
   {
     "original_title": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
@@ -605,7 +597,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
-    "score": 3
+    "score": 2
   },
   {
     "original_title": "Latest news bulletin | August 20th, 2026 – Evening",
@@ -613,7 +605,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Latest news bulletin | August 20th, 2026 – Evening",
-    "score": 4
+    "score": 7
   },
   {
     "original_title": "Tokyo-bound express train hits and kills four workers at railway station in Japan",
@@ -629,7 +621,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Drought on Serbia's Sava River reveals long-lost WWII shipwreck",
-    "score": 7
+    "score": 9
   },
   {
     "original_title": "Tibetan protesters in New Dehli denounce China with shaved heads and prayers",
@@ -637,6 +629,14 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Tibetan protesters in New Dehli denounce China with shaved heads and prayers",
-    "score": 7
+    "score": 4
+  },
+  {
+    "original_title": "Latest news bulletin | August 20th, 2026 – Midday",
+    "url": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-midday",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "Latest news bulletin | August 20th, 2026 – Midday",
+    "score": 3
   }
 ]
