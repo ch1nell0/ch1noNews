@@ -1,5 +1,13 @@
 [
   {
+    "original_title": "Terremoto in Perù: una scossa 6.7 colpisce le Ande meridionali",
+    "url": "https://www.repubblica.it/esteri/2026/08/20/news/terremoto_peru_scossa_67_ande_upahuacho-425538692/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Terremoto in Perù: una scossa 6.7 colpisce le Ande meridionali",
+    "score": 8
+  },
+  {
     "original_title": "Roma, ricercatore della Sapienza aggredito sotto casa: “Ebreo di m...”",
     "url": "https://www.repubblica.it/cronaca/2026/08/20/news/roma_ricercatore_sapienza_aggressione_antisemita_anna_foa-425538575/",
     "domain": "repubblica.it",
@@ -13,15 +21,15 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Alcaraz giocherà gli Us Open, è ufficiale",
-    "score": 3
+    "score": 5
   },
   {
-    "original_title": "Romeo: “La Lega così non va, bisogna coinvolgere Zaia e i governatori del Nord”",
+    "original_title": "Fontana e Romeo ancora contro Salvini: “Zaia ha più appeal”",
     "url": "https://www.repubblica.it/politica/2026/08/20/news/lega_romeo_salvini_zaia_governatori-425538493/",
     "domain": "repubblica.it",
     "region": "IT",
-    "title": "Romeo: “La Lega così non va, bisogna coinvolgere Zaia e i governatori del Nord”",
-    "score": 5
+    "title": "Fontana e Romeo ancora contro Salvini: “Zaia ha più appeal”",
+    "score": 3
   },
   {
     "original_title": "Ilva, Mattarella: è un impegno nazionale. Meloni: tavolo su Taranto a palazzo Chigi",
@@ -29,7 +37,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Ilva, Mattarella: è un impegno nazionale. Meloni: tavolo su Taranto a palazzo Chigi",
-    "score": 3
+    "score": 9
   },
   {
     "original_title": "Le balene giganti affamate stanno invadendo i ghiacciai sciolti della Groenlandia",
@@ -37,14 +45,14 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Le balene giganti affamate stanno invadendo i ghiacciai sciolti della Groenlandia",
-    "score": 3
+    "score": 7
   },
   {
-    "original_title": "Il biografo reale: “È un’umiliazione per Harry e Meghan tornare in Inghilterra”",
-    "url": "https://www.repubblica.it/esteri/2026/08/20/news/harry_meghan_tornano_londra_robert_hardman_intervista-425538307/",
-    "domain": "repubblica.it",
+    "original_title": "Il medico palestinese Abu Safyia ancora in cella. E Israele vieta al deputato arabo della Knesset di visitarlo",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/20/abu-safyia-israele-knesset-deputato-notizie/8484057/",
+    "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Il biografo reale: “È un’umiliazione per Harry e Meghan tornare in Inghilterra”",
+    "title": "Il medico palestinese Abu Safyia ancora in cella. E Israele vieta al deputato arabo della Knesset di visitarlo",
     "score": 4
   },
   {
@@ -53,7 +61,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Cade in mare dal gommone e non riemerge: ritrovato a Portovenere il corpo del 21enne scomparso da Ferragosto",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "Terremoto di magnitudo 6,7 in Perù: epicentro a sudest di Lima. La scossa sentita anche nella capitale",
@@ -69,7 +77,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "L’avvertimento dei “ribelli” leghisti Romeo e Fontana a Salvini: “Così non va, prima di Pontida serve una soluzione”",
-    "score": 8
+    "score": 5
   },
   {
     "original_title": "Ucraina, l’inchiesta “Forrest Gump” sale di livello: coinvolti il capo della Direzione giuridica di Zelensky, un ex ministro ad interim e un viceministro della Giustizia",
@@ -77,7 +85,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Ucraina, l’inchiesta “Forrest Gump” sale di livello: coinvolti il capo della Direzione giuridica di Zelensky, un ex ministro ad interim e un viceministro della Giustizia",
-    "score": 9
+    "score": 1
   },
   {
     "original_title": "Lo strano ruolo di Natalie Harp, l’assistente di Trump che secondo il Nyt invia messaggi ai leader mondiali a nome del presidente",
@@ -86,14 +94,6 @@
     "region": "IT",
     "title": "Lo strano ruolo di Natalie Harp, l’assistente di Trump che secondo il Nyt invia messaggi ai leader mondiali a nome del presidente",
     "score": 1
-  },
-  {
-    "original_title": "Carlos Alcaraz torna agli Us Open, ora è ufficiale. L’annuncio sui social: “Sono tornato”",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/20/alcaraz-us-open-ritorno-ufficiale-sono-tornato/8484194/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Carlos Alcaraz torna agli Us Open, ora è ufficiale. L’annuncio sui social: “Sono tornato”",
-    "score": 2
   },
   {
     "original_title": "Nel più piccolo borgo della Puglia si insegna ai turisti il francoprovenzale",
@@ -109,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Belen Rodriguez cade da cavallo sulla spiaggia, \"rialzarsi sempre\"",
-    "score": 2
+    "score": 3
   },
   {
     "original_title": "Individuato nel cervello  il motore del sonno",
@@ -117,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Individuato nel cervello  il motore del sonno",
-    "score": 1
+    "score": 2
   },
   {
     "original_title": "Le prime immagini del cast di X Factor 2026, da Paola Iezzi a Irama",
@@ -133,7 +133,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Barbie è più 'curvy' e ora somiglia alle donne reali, Ken meno agli uomini",
-    "score": 7
+    "score": 5
   },
   {
     "original_title": "Si allarga il caso dublinanti, anche Finlandia e Svezia li rimandano in Italia",
@@ -141,7 +141,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Si allarga il caso dublinanti, anche Finlandia e Svezia li rimandano in Italia",
-    "score": 4
+    "score": 2
   },
   {
     "original_title": "Migranti, cinque Paesi preparano i ritorni dei «Dublinanti» in Italia: Finlandia e Svezia sì. No di Francia e Spagna: «Per ora no alle espulsione»",
@@ -149,7 +149,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Migranti, cinque Paesi preparano i ritorni dei «Dublinanti» in Italia: Finlandia e Svezia sì. No di Francia e Spagna: «Per ora no alle espulsione»",
-    "score": 4
+    "score": 6
   },
   {
     "original_title": "«In Uk i rapporti devono essere consensuali. Vietato il sesso con gli under 16». Il depliant (choc) per migranti diffuso dal governo inglese",
@@ -157,7 +157,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "«In Uk i rapporti devono essere consensuali. Vietato il sesso con gli under 16». Il depliant (choc) per migranti diffuso dal governo inglese",
-    "score": 8
+    "score": 3
   },
   {
     "original_title": "Allerta meteo domani in 14 regioni per violenti temporali: ecco dove. Codice arancione in Toscana e Liguria",
@@ -165,7 +165,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Allerta meteo domani in 14 regioni per violenti temporali: ecco dove. Codice arancione in Toscana e Liguria",
-    "score": 2
+    "score": 6
   },
   {
     "original_title": "Auto a 100 euro al mese: chi può chiedere e come fare domanda per il noleggio sociale. Data del Click day e requisiti",
@@ -173,7 +173,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Auto a 100 euro al mese: chi può chiedere e come fare domanda per il noleggio sociale. Data del Click day e requisiti",
-    "score": 7
+    "score": 1
   },
   {
     "original_title": "Calendario scolastico 2026/2027, quando inizia la scuola: le date regione per regione, le chiusure e le festività",
@@ -181,7 +181,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Calendario scolastico 2026/2027, quando inizia la scuola: le date regione per regione, le chiusure e le festività",
-    "score": 7
+    "score": 6
   },
   {
     "original_title": "Targhe straniere in Italia, stretta del governo sui furbetti: tassa di iscrizione e Rc auto italiana obbligatoria",
@@ -189,7 +189,47 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Targhe straniere in Italia, stretta del governo sui furbetti: tassa di iscrizione e Rc auto italiana obbligatoria",
-    "score": 3
+    "score": 9
+  },
+  {
+    "original_title": "Gelosia ossessiva, violenza brutale, accanimento: cosa c’è nell’ordinanza della gip sul femminicidio di Ornella Forastefano",
+    "url": "https://www.open.online/2026/08/20/femminicidio-ornella-forastefano-ordinanza-gip-autopsia/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Gelosia ossessiva, violenza brutale, accanimento: cosa c’è nell’ordinanza della gip sul femminicidio di Ornella Forastefano",
+    "score": 5
+  },
+  {
+    "original_title": "La lettera di Lavitola alla compagna dal carcere: «Dovevo ascoltarti, ma ormai è tardi». Il passaggio su Berlusconi",
+    "url": "https://www.open.online/2026/08/20/lettera-lavitola-carcere-ranucci-berlusconi/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "La lettera di Lavitola alla compagna dal carcere: «Dovevo ascoltarti, ma ormai è tardi». Il passaggio su Berlusconi",
+    "score": 9
+  },
+  {
+    "original_title": "Crans Montana, per la prima volta parla il 17enne Kean: «Quella sera mi ripetevo “Non puoi morire qui”». L’attacco ai Moretti",
+    "url": "https://www.open.online/2026/08/20/crans-montana-parla-17enne-kean/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Crans Montana, per la prima volta parla il 17enne Kean: «Quella sera mi ripetevo “Non puoi morire qui”». L’attacco ai Moretti",
+    "score": 2
+  },
+  {
+    "original_title": "In Veneto la Lega di Stefani (e non di Zaia) prepara il blitz sull’Autonomia differenziata per battere le altre regioni del Nord. Lombardia compresa",
+    "url": "https://www.open.online/2026/08/20/blitz-lega-veneto-autonomia-differenziata-fine-vita/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "In Veneto la Lega di Stefani (e non di Zaia) prepara il blitz sull’Autonomia differenziata per battere le altre regioni del Nord. Lombardia compresa",
+    "score": 6
+  },
+  {
+    "original_title": "Lo scontro in Spagna sulle 500 migranti minorenni di Ceuta da trasferire: così Sánchez sfida il Partito Popolare",
+    "url": "https://www.open.online/2026/08/20/spagna-sanchez-trasferimento-500-ragazze-migranti-ceuta/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Lo scontro in Spagna sulle 500 migranti minorenni di Ceuta da trasferire: così Sánchez sfida il Partito Popolare",
+    "score": 5
   },
   {
     "original_title": "Migranti, il fronte europeo si spacca: Francia e Spagna dicono no ai rimpatri in Italia dei «dublinanti»",
@@ -197,47 +237,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Migranti, il fronte europeo si spacca: Francia e Spagna dicono no ai rimpatri in Italia dei «dublinanti»",
-    "score": 5
-  },
-  {
-    "original_title": "Terremoto in Perù, forte scossa di magnitudo 7.2: i distacchi di rocce e i danni alle case – Il video",
-    "url": "https://www.open.online/2026/08/20/terremoto-peru-magnitudo-video/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Terremoto in Perù, forte scossa di magnitudo 7.2: i distacchi di rocce e i danni alle case – Il video",
-    "score": 3
-  },
-  {
-    "original_title": "La società per commerciare il pesce (surgelato), l’uomo di fiducia africano per sistemare le cose, la vita precedente di Sigfrido Ranucci sembra quella di Valter Lavitola",
-    "url": "https://www.open.online/2026/08/20/ranucci-vita-precedente-come-lavitola-pesce-uomo-fiducia-africano/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "La società per commerciare il pesce (surgelato), l’uomo di fiducia africano per sistemare le cose, la vita precedente di Sigfrido Ranucci sembra quella di Valter Lavitola",
-    "score": 5
-  },
-  {
-    "original_title": "Lega, Romeo e Fontana di nuovo contro Salvini alla Versiliana: «Prima di Pontida serve una soluzione». Ma scatta la contestazione: «Il Capitano non si tocca»",
-    "url": "https://www.open.online/2026/08/20/lega-romeo-e-fontana-versiliana-contro-salvini-e-scatta-contestazione/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Lega, Romeo e Fontana di nuovo contro Salvini alla Versiliana: «Prima di Pontida serve una soluzione». Ma scatta la contestazione: «Il Capitano non si tocca»",
-    "score": 1
-  },
-  {
-    "original_title": "L’influencer Sonia Bellina trovata nuda e morta carbonizzata, fermati due uomini. La scoperta tra le vigne della Francia",
-    "url": "https://www.open.online/2026/08/20/sonia-bellina-influencer-francese-morta-fermati-uomini/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "L’influencer Sonia Bellina trovata nuda e morta carbonizzata, fermati due uomini. La scoperta tra le vigne della Francia",
-    "score": 9
-  },
-  {
-    "original_title": "Francia, Germania, Italia e Regno Unito contro Israele: «Stop agli insediamenti in Cisgiordania, sono illegali»",
-    "url": "https://www.open.online/2026/08/20/francia-germania-italia-uk-cisgiordania-insediamenti-illegali/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Francia, Germania, Italia e Regno Unito contro Israele: «Stop agli insediamenti in Cisgiordania, sono illegali»",
-    "score": 5
+    "score": 4
   },
   {
     "original_title": "Alberi spazzati via dalla bufera, pali abbattuti e tetti divelti: i danni del maltempo nel Vicentino e nel Bellunese. Allerta meteo per temporali",
@@ -245,7 +245,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Alberi spazzati via dalla bufera, pali abbattuti e tetti divelti: i danni del maltempo nel Vicentino e nel Bellunese. Allerta meteo per temporali",
-    "score": 7
+    "score": 3
   },
   {
     "original_title": "Auto esce di strada sul viadotto dell'A27 e prende fuoco: il conducente di 83 anni salvato in tempo dai vigili del fuoco",
@@ -253,7 +253,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Auto esce di strada sul viadotto dell'A27 e prende fuoco: il conducente di 83 anni salvato in tempo dai vigili del fuoco",
-    "score": 9
+    "score": 3
   },
   {
     "original_title": "Cortina, seggiovia Bai de Dones meno cara pagando con la carta di credito: scoppia la polemica",
@@ -269,7 +269,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Sigfrido Ranucci arriva ad Asiago, il saluto con il sindaco (e legale di Cappellari): «Non sarà così facile cacciarti»",
-    "score": 7
+    "score": 4
   },
   {
     "original_title": "Tania Terrin, i messaggi scambiati con l'ex compagna dell'assassino: «Dino è stato violento con te? Mi ha quasi uccisa e cerca di darmi la colpa»",
@@ -277,7 +277,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Tania Terrin, i messaggi scambiati con l'ex compagna dell'assassino: «Dino è stato violento con te? Mi ha quasi uccisa e cerca di darmi la colpa»",
-    "score": 6
+    "score": 8
   },
   {
     "original_title": "Incendio in carcere, detenuto 19enne dà fuoco al materasso e muore intossicato: 5 agenti di polizia penitenziaria indagati",
@@ -285,7 +285,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Incendio in carcere, detenuto 19enne dà fuoco al materasso e muore intossicato: 5 agenti di polizia penitenziaria indagati",
-    "score": 6
+    "score": 9
   },
   {
     "original_title": "Migranti, cinque Paesi preparano i ritorni dei «Dublinanti» in Italia: Finlandia e Svezia sì. No di Francia e Spagna: «Per ora no alle espulsione»",
@@ -293,7 +293,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Migranti, cinque Paesi preparano i ritorni dei «Dublinanti» in Italia: Finlandia e Svezia sì. No di Francia e Spagna: «Per ora no alle espulsione»",
-    "score": 5
+    "score": 7
   },
   {
     "original_title": "Bimba di 4 anni muore per sospetta difterite a Palermo, i genitori si erano rifiutati di vaccinarla, ricoverato anche il cuginetto",
@@ -301,7 +301,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Bimba di 4 anni muore per sospetta difterite a Palermo, i genitori si erano rifiutati di vaccinarla, ricoverato anche il cuginetto",
-    "score": 9
+    "score": 7
   },
   {
     "original_title": "Avvelenate con la ricina, Gianni Di Vita convocato in questura: faccia a faccia con una sua amica davanti a pm e capo della polizia",
@@ -317,7 +317,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Napoli, donna trovata morta in casa con lividi sul corpo: si attende l'esito dell'autopsia",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "Harry and Meghan's return to UK reignites questions over security",
@@ -325,7 +325,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Harry and Meghan's return to UK reignites questions over security",
-    "score": 1
+    "score": 7
   },
   {
     "original_title": "Watch: What does Harry's return mean for his fractured relationship with William?",
@@ -333,7 +333,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
-    "score": 3
+    "score": 1
   },
   {
     "original_title": "Five key takeaways from GCSE results day 2026",
@@ -341,7 +341,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Five key takeaways from GCSE results day 2026",
-    "score": 8
+    "score": 1
   },
   {
     "original_title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
@@ -349,7 +349,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-    "score": 5
+    "score": 8
   },
   {
     "original_title": "Academic who accused Jason Arday of plagiarism suspended by university",
@@ -357,7 +357,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Academic who accused Jason Arday of plagiarism suspended by university",
-    "score": 1
+    "score": 9
   },
   {
     "original_title": "John Swinney defends £45,000 business-class flights to World Cup",
@@ -365,39 +365,87 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "John Swinney defends £45,000 business-class flights to World Cup",
+    "score": 7
+  },
+  {
+    "original_title": "Stream It Or Skip It: ‘Blood Sacrifice’ On Netflix, Where A Police Detective Turns To His Estranged Ex-Cop Father To Help Him Solve Grisly Cop Killings",
+    "url": "https://decider.com/2026/08/20/blood-sacrifice-netflix-review-stream-it-or-skip-it/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Stream It Or Skip It: ‘Blood Sacrifice’ On Netflix, Where A Police Detective Turns To His Estranged Ex-Cop Father To Help Him Solve Grisly Cop Killings",
+    "score": 3
+  },
+  {
+    "original_title": "Boy, 8, killed in freak accident at summer camp: ‘Never forgotten’",
+    "url": "https://nypost.com/2026/08/20/us-news/boy-8-killed-in-freak-accident-at-summer-camp-never-forgotten/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Boy, 8, killed in freak accident at summer camp: ‘Never forgotten’",
     "score": 2
   },
   {
-    "original_title": "Prince Harry, Meghan Markle’s Montecito neighbors ‘thrilled’ royals are moving back to UK: ‘Good riddance!’",
-    "url": "https://pagesix.com/2026/08/20/royal-family/prince-harry-meghan-markles-montecito-neighbors-thrilled-royals-are-moving-back-to-uk/",
+    "original_title": "Kentucky doctor left her baby granddaughter in hot car for 8 hours to die  — forgetting to drop her off at daycare",
+    "url": "https://nypost.com/2026/08/20/us-news/kentucky-doctor-left-her-baby-granddaughter-in-hot-car-to-die-while-she-worked-at-medical-clinic/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Prince Harry, Meghan Markle’s Montecito neighbors ‘thrilled’ royals are moving back to UK: ‘Good riddance!’",
-    "score": 8
-  },
-  {
-    "original_title": "High-speed rail CEO gives rambling excuses for $231B project’s myriad delays",
-    "url": "https://nypost.com/2026/08/20/us-news/california-high-speed-rail-ceo-blames-regulations-for-delays/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "High-speed rail CEO gives rambling excuses for $231B project’s myriad delays",
-    "score": 6
-  },
-  {
-    "original_title": "How Chase Stokes saved ‘Outer Banks’ co-star’s life during scary on-set incident",
-    "url": "https://pagesix.com/2026/08/20/entertainment/chase-stokes-saved-outer-banks-co-star-madison-baileys-life-during-on-set-incident/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "How Chase Stokes saved ‘Outer Banks’ co-star’s life during scary on-set incident",
+    "title": "Kentucky doctor left her baby granddaughter in hot car for 8 hours to die  — forgetting to drop her off at daycare",
     "score": 5
   },
   {
-    "original_title": "Neutrogena apologizes for past treatment of Hayden Panettiere after her tragic death",
-    "url": "https://pagesix.com/2026/08/20/celebrity-news/neutrogena-apologizes-for-past-treatment-of-hayden-panettiere-after-her-tragic-death/",
+    "original_title": "True scale of Meghan and Harry’s US political plans revealed — from request for Biden Oval Office meeting to eyeing Senate seat",
+    "url": "https://nypost.com/2026/08/20/us-news/true-scale-of-meghan-and-harrys-us-political-plans-revealed-from-request-for-biden-oval-office-meeting-to-eyeing-senate-seat/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Neutrogena apologizes for past treatment of Hayden Panettiere after her tragic death",
+    "title": "True scale of Meghan and Harry’s US political plans revealed — from request for Biden Oval Office meeting to eyeing Senate seat",
+    "score": 9
+  },
+  {
+    "original_title": "‘Keep it’ host Nina Parker dishes on new gig, toxic ‘L&HH’ fanbase, & Morgan Stewart ‘RHOBH’ casting rumors on VRT",
+    "url": "https://pagesix.com/video/keep-it-host-nina-parker-dishes-on-new-gig-toxic-lhh-fanbase-morgan-stewart-rhobh-casting-rumors-on-vrt/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "‘Keep it’ host Nina Parker dishes on new gig, toxic ‘L&HH’ fanbase, & Morgan Stewart ‘RHOBH’ casting rumors on VRT",
+    "score": 4
+  },
+  {
+    "original_title": "UK cinemas introduce new rules for customers - popular clothing item banned",
+    "url": "https://www.express.co.uk/news/uk/2241085/uk-cinemas-introduce-new-rules",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "UK cinemas introduce new rules for customers - popular clothing item banned",
+    "score": 6
+  },
+  {
+    "original_title": "Boy, 6, collapses and dies after teacher 'slaps him for not finishing homework'",
+    "url": "https://www.express.co.uk/news/world/2241083/boy-6-collapses-dies-teacher",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Boy, 6, collapses and dies after teacher 'slaps him for not finishing homework'",
+    "score": 2
+  },
+  {
+    "original_title": "Popular tourist hotspot hits Brits with new ban - starts in September",
+    "url": "https://www.express.co.uk/news/world/2241081/lake-como-bike-ban",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Popular tourist hotspot hits Brits with new ban - starts in September",
+    "score": 3
+  },
+  {
+    "original_title": "Harry and Meghan's 7 most likely 'real reasons' for suddenly returning to UK",
+    "url": "https://www.express.co.uk/news/royal/2241079/harry-meghan-real-reasons-sudden-return-uk",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Harry and Meghan's 7 most likely 'real reasons' for suddenly returning to UK",
     "score": 7
+  },
+  {
+    "original_title": "Horror in holiday hotspot filled with Brits as lion 'spotted' on the loose sparking panic",
+    "url": "https://www.express.co.uk/news/world/2241078/holiday-hotspot-horror-lion-spotted-spain",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Horror in holiday hotspot filled with Brits as lion 'spotted' on the loose sparking panic",
+    "score": 1
   },
   {
     "original_title": "William and Kate's 'reaction' to Harry and Meghan coming back to UK revealed",
@@ -405,71 +453,31 @@
     "domain": "express.co.uk",
     "region": "GLOBAL",
     "title": "William and Kate's 'reaction' to Harry and Meghan coming back to UK revealed",
-    "score": 5
-  },
-  {
-    "original_title": "'I'm a royal expert - this is how Harry and Meghan can win over ordinary Brits'",
-    "url": "https://www.express.co.uk/news/royal/2241070/harry-meghan-brits-uk-return-win",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "'I'm a royal expert - this is how Harry and Meghan can win over ordinary Brits'",
-    "score": 1
-  },
-  {
-    "original_title": "Peru earthquake LIVE: Lima, Ica, and Cusco rocked by 7.2 tremors sparking avalanches",
-    "url": "https://www.express.co.uk/news/world/2241066/peru-earthquake-live-ica-rocked",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Peru earthquake LIVE: Lima, Ica, and Cusco rocked by 7.2 tremors sparking avalanches",
-    "score": 2
-  },
-  {
-    "original_title": "Horror as teen girl can't leave home without mum or dad after man, 28, sexually abuses her",
-    "url": "https://www.express.co.uk/news/uk/2241065/liverpool-paedophile-grooming-sexual-abuse-prison-sentence",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Horror as teen girl can't leave home without mum or dad after man, 28, sexually abuses her",
-    "score": 4
-  },
-  {
-    "original_title": "UK weather maps turn volcanic red as temperatures hit 26C - the 7 hottest counties",
-    "url": "https://www.express.co.uk/news/weather/2241062/uk-weather-maps-turn-volcanic",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "UK weather maps turn volcanic red as temperatures hit 26C - the 7 hottest counties",
-    "score": 1
-  },
-  {
-    "original_title": "Angela Rayner blasted after taking £20k from oil lobbyist - despite 'cheering on' Net Zero",
-    "url": "https://www.express.co.uk/news/politics/2241058/angela-rayner-donation",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Angela Rayner blasted after taking £20k from oil lobbyist - despite 'cheering on' Net Zero",
     "score": 6
   },
   {
-    "original_title": "US debt crosses $40tn but everyone still trusts Uncle Sam. But for how long?",
-    "url": "https://timesofindia.indiatimes.com/world/us/us-debt-crosses-40-trillion-but-everyone-still-trusts-uncle-sam-but-for-how-long/articleshow/133382668.cms",
+    "original_title": "Delimitation, NEET &amp; Cauvery: What Tamil Nadu CM Vijay discussed with Amit Shah",
+    "url": "https://timesofindia.indiatimes.com/india/delimitation-neet-and-cauvery-what-tamil-nadu-cm-vijay-discussed-with-amit-shah/articleshow/133381090.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "US debt crosses $40tn but everyone still trusts Uncle Sam. But for how long?",
+    "title": "Delimitation, NEET &amp; Cauvery: What Tamil Nadu CM Vijay discussed with Amit Shah",
     "score": 5
   },
   {
-    "original_title": "FBI lists Bishnoi gang-linked Indian national as most wanted fugitive in extortion case",
-    "url": "https://timesofindia.indiatimes.com/nri/us-canada-news/fbi-lists-lawrence-bishnoi-gang-linked-indian-national-as-wanted-fugitive-in-us-extortion-case/articleshow/133385630.cms",
+    "original_title": "For 1st time in a decade, India to import 10 lakh tonnes of sugar",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/for-1st-time-in-a-decade-india-to-import-10-lakh-tonnes-of-sugar/articleshow/133387518.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "FBI lists Bishnoi gang-linked Indian national as most wanted fugitive in extortion case",
-    "score": 7
+    "title": "For 1st time in a decade, India to import 10 lakh tonnes of sugar",
+    "score": 6
   },
   {
-    "original_title": "6.6-magnitude earthquake strikes central Peru",
-    "url": "https://timesofindia.indiatimes.com/world/rest-of-world/6-6-magnitude-earthquake-strikes-central-peru/articleshow/133386487.cms",
+    "original_title": "'Can Standard 6 be spared 3-language plan this year?' asks SC",
+    "url": "https://timesofindia.indiatimes.com/india/can-standard-6-be-spared-3-language-plan-this-year-asks-sc/articleshow/133387463.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "6.6-magnitude earthquake strikes central Peru",
-    "score": 4
+    "title": "'Can Standard 6 be spared 3-language plan this year?' asks SC",
+    "score": 5
   },
   {
     "original_title": "8-0 becomes 8-1: 'Impatient' PV Sindhu falls to cramping Wang Zhi Yi in epic duel",
@@ -477,15 +485,15 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "8-0 becomes 8-1: 'Impatient' PV Sindhu falls to cramping Wang Zhi Yi in epic duel",
-    "score": 8
+    "score": 5
   },
   {
-    "original_title": "US ambassador Sergio Gor in Ladakh, goes river rafting along Zanskar-Indus stretch",
-    "url": "https://timesofindia.indiatimes.com/india/us-ambassador-sergio-gor-in-ladakh-goes-river-rafting-along-zanskar-indus-stretch/articleshow/133387083.cms",
+    "original_title": "Ex-SC judge Subhash Reddy to lead probe into action on CJP Parliament march",
+    "url": "https://timesofindia.indiatimes.com/india/ex-sc-judge-subhash-reddy-to-lead-probe-into-action-on-cjp-parliament-march/articleshow/133387348.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "US ambassador Sergio Gor in Ladakh, goes river rafting along Zanskar-Indus stretch",
-    "score": 1
+    "title": "Ex-SC judge Subhash Reddy to lead probe into action on CJP Parliament march",
+    "score": 2
   },
   {
     "original_title": "Gates Foundation makes landmark 10-yr donation to Washington University to strengthen ...",
@@ -493,6 +501,30 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "Gates Foundation makes landmark 10-yr donation to Washington University to strengthen ...",
+    "score": 8
+  },
+  {
+    "original_title": "La Oreja de Van Gogh to receive Agent of Change award",
+    "url": "https://www.upi.com/Top_News/World-News/2026/08/20/latam-La-Oreja-de-Van-Gogh-Agent-of-change-award/7021787255184/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "La Oreja de Van Gogh to receive Agent of Change award",
+    "score": 8
+  },
+  {
+    "original_title": "Belgian former car salesman, 26, quietly becomes a prince",
+    "url": "https://www.upi.com/Top_News/World-News/2026/08/20/belgium-new-prince0car-salesman/1221787252724/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Belgian former car salesman, 26, quietly becomes a prince",
+    "score": 2
+  },
+  {
+    "original_title": "Albany woman arrested for ISIS-inspired plot on N.Y. capitol",
+    "url": "https://www.upi.com/Top_News/US/2026/08/20/new-york-albany-isis-plot/5081787254948/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Albany woman arrested for ISIS-inspired plot on N.Y. capitol",
     "score": 3
   },
   {
@@ -501,7 +533,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "USS Lincoln begins journey home after nine-month deployment",
-    "score": 6
+    "score": 5
   },
   {
     "original_title": "Man wins $500,000 lottery prize during gas station pit stop",
@@ -509,7 +541,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Man wins $500,000 lottery prize during gas station pit stop",
-    "score": 5
+    "score": 3
   },
   {
     "original_title": "Reigning champ Carlos Alcaraz to end tennis hiatus at 2026 U.S. Open",
@@ -517,79 +549,55 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Reigning champ Carlos Alcaraz to end tennis hiatus at 2026 U.S. Open",
-    "score": 3
+    "score": 7
   },
   {
-    "original_title": "U.S. says American academic is 'wrongfully detained' in China",
-    "url": "https://www.upi.com/Top_News/US/2026/08/20/china-min-zin-wrongfully-detained/9291787250915/",
-    "domain": "upi.com",
+    "original_title": "Landslide at illegal gold mine kills 13 people in Colombia",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "U.S. says American academic is 'wrongfully detained' in China",
-    "score": 8
+    "title": "Landslide at illegal gold mine kills 13 people in Colombia",
+    "score": 9
   },
   {
-    "original_title": "FBI seizes former Rep. Eric Swalwell's electronic devices amid probe",
-    "url": "https://www.upi.com/Top_News/US/2026/08/20/california-swalwell-FBI-raid/7731787248995/",
-    "domain": "upi.com",
+    "original_title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "FBI seizes former Rep. Eric Swalwell's electronic devices amid probe",
+    "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
     "score": 4
   },
   {
-    "original_title": "Heavy snowfall impacts communities in western Bolivia",
-    "url": "https://www.upi.com/Top_News/World-News/2026/08/20/latam-bolivia-heavy-snow-weahter-emergency/8491787248401/",
-    "domain": "upi.com",
+    "original_title": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Heavy snowfall impacts communities in western Bolivia",
+    "title": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
+    "score": 1
+  },
+  {
+    "original_title": "Four railway workers killed by express train at station in Japan",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Four railway workers killed by express train at station in Japan",
     "score": 9
   },
   {
-    "original_title": "Walmart sees sales drop as US consumer spending retreats",
-    "url": "https://www.aljazeera.com/economy/2026/8/20/walmart-sees-sales-drop-as-us-consumer-spending-retreats?traffic_source=rss",
+    "original_title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
+    "url": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Walmart sees sales drop as US consumer spending retreats",
-    "score": 6
-  },
-  {
-    "original_title": "University suspends US academic leading Jason Arday plagiarism accusations",
-    "url": "https://www.aljazeera.com/news/2026/8/20/university-suspends-us-academic-leading-jason-arday-plagiarism-accusations?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "University suspends US academic leading Jason Arday plagiarism accusations",
-    "score": 2
-  },
-  {
-    "original_title": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
-    "url": "https://www.aljazeera.com/sports/2026/8/20/arsenal-vs-coventry-premier-league-prediction-lineups-teams?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Arsenal vs Coventry: Premier League – prediction, lineups, teams",
-    "score": 9
-  },
-  {
-    "original_title": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
-    "url": "https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
+    "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
     "score": 7
   },
   {
-    "original_title": "Fishermen rescued after five days clinging to cooler at sea",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fishermen-rescued-after-five-days-clinging-to-cooler-at-sea?traffic_source=rss",
+    "original_title": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Fishermen rescued after five days clinging to cooler at sea",
-    "score": 3
-  },
-  {
-    "original_title": "Jewish-American barred by Israel calls settler violence ‘state terror’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-208-20-2026-jewish-american-banned-sv-mp4?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Jewish-American barred by Israel calls settler violence ‘state terror’",
-    "score": 7
+    "title": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
+    "score": 8
   },
   {
     "original_title": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
@@ -597,7 +605,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
-    "score": 2
+    "score": 1
   },
   {
     "original_title": "Latest news bulletin | August 20th, 2026 – Evening",
@@ -605,7 +613,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Latest news bulletin | August 20th, 2026 – Evening",
-    "score": 7
+    "score": 3
   },
   {
     "original_title": "Tokyo-bound express train hits and kills four workers at railway station in Japan",
@@ -613,7 +621,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Tokyo-bound express train hits and kills four workers at railway station in Japan",
-    "score": 9
+    "score": 4
   },
   {
     "original_title": "Drought on Serbia's Sava River reveals long-lost WWII shipwreck",
@@ -621,7 +629,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Drought on Serbia's Sava River reveals long-lost WWII shipwreck",
-    "score": 9
+    "score": 4
   },
   {
     "original_title": "Tibetan protesters in New Dehli denounce China with shaved heads and prayers",
@@ -629,14 +637,6 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Tibetan protesters in New Dehli denounce China with shaved heads and prayers",
-    "score": 4
-  },
-  {
-    "original_title": "Latest news bulletin | August 20th, 2026 – Midday",
-    "url": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-midday",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Latest news bulletin | August 20th, 2026 – Midday",
-    "score": 3
+    "score": 6
   }
 ]
