@@ -1,11 +1,43 @@
 [
   {
+    "original_title": "Il diesel sfonda i 2,2 euro. Schlein: “Il governo tassi gli extraprofitti delle società energetiche”",
+    "url": "https://www.repubblica.it/economia/2026/08/23/news/il_diesel_sfonda_i_22_euro_schlein_il_governo_tassi_gli_extraprofitti_delle_societa_energetiche-425542992/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Il diesel sfonda i 2,2 euro. Schlein: “Il governo tassi gli extraprofitti delle società energetiche”",
+    "score": 2
+  },
+  {
+    "original_title": "FdI scrive a Commissione Ue: Report a senso unico viola le norme europee",
+    "url": "https://www.repubblica.it/politica/2026/08/23/news/fdi_commissione_ue_report_viola_norme-425542970/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "FdI scrive a Commissione Ue: Report a senso unico viola le norme europee",
+    "score": 4
+  },
+  {
     "original_title": "Il cuginetto contagiato è fuori pericolo. I medici: “Salvo solo grazie al siero”",
     "url": "https://palermo.repubblica.it/cronaca/2026/08/23/news/difterite_no-vax_palermo_cuginetto_anna_rosa_contagio_fuori_pericolo-425542911/",
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Il cuginetto contagiato è fuori pericolo. I medici: “Salvo solo grazie al siero”",
-    "score": 4
+    "score": 1
+  },
+  {
+    "original_title": "Crans Montana, quell’inchiesta piena di buchi: spunta la fattura falsa sull’acquisto della schiuma",
+    "url": "https://www.repubblica.it/cronaca/2026/08/23/news/crans_montana_inchiesta_fattura_falsa_moretti-425542904/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Crans Montana, quell’inchiesta piena di buchi: spunta la fattura falsa sull’acquisto della schiuma",
+    "score": 8
+  },
+  {
+    "original_title": "Bimba morta per difterite, indagati i genitori no vax. Sui vaccini ispezioni nelle scuole",
+    "url": "https://palermo.repubblica.it/cronaca/2026/08/23/news/bambina_morta_difterite_genitori_no-vax_palermo_ispezioni_scuole_notizia_indagati_omicidio-425542899/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Bimba morta per difterite, indagati i genitori no vax. Sui vaccini ispezioni nelle scuole",
+    "score": 3
   },
   {
     "original_title": "Il balzo in avanti di Burnham: così in appena un mese a Downing Street ha conquistato i sondaggi",
@@ -13,87 +45,55 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Il balzo in avanti di Burnham: così in appena un mese a Downing Street ha conquistato i sondaggi",
-    "score": 2
+    "score": 6
   },
   {
-    "original_title": "Liam Gallagher “innamorato” del Centroparco di Segrate, il commento social: “Spiritual”",
-    "url": "https://milano.repubblica.it/cronaca/2026/08/23/news/liam_gallagher_oasis_innamorato_centroparco_segrate_commento_social_invito_sindaco-425542880/",
-    "domain": "repubblica.it",
+    "original_title": "Terremoto di magnitudo 5.9 in Giappone, il video della scossa che fa oscillare un ponte",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/23/terremoto-giappone-hokkaido-magnitudo-notizie/8486278/",
+    "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Liam Gallagher “innamorato” del Centroparco di Segrate, il commento social: “Spiritual”",
+    "title": "Terremoto di magnitudo 5.9 in Giappone, il video della scossa che fa oscillare un ponte",
+    "score": 5
+  },
+  {
+    "original_title": "Report, FdI sposta l’attacco in Europa alla vigilia dello stop a Ranucci. La lettera alla Commissione Ue: “È fazioso”",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/23/report-ranucci-fratelli-d-italia-attacco-europa-lettera-commissione/8486261/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Report, FdI sposta l’attacco in Europa alla vigilia dello stop a Ranucci. La lettera alla Commissione Ue: “È fazioso”",
+    "score": 6
+  },
+  {
+    "original_title": "“Le scie chimiche aumentano il riscaldamento climatico, pronti a combatterle con l’intelligenza artificiale”: Google lancia l’Operazione Blue Skies e riaccende le teorie del complotto",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/23/le-scie-chimiche-aumentano-il-riscaldamento-climatico-pronti-a-combatterle-con-lintelligenza-artificiale-google-lancia-loperazione-blue-skies-e-riaccende-le-teorie-del-complotto/8486259/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "“Le scie chimiche aumentano il riscaldamento climatico, pronti a combatterle con l’intelligenza artificiale”: Google lancia l’Operazione Blue Skies e riaccende le teorie del complotto",
+    "score": 3
+  },
+  {
+    "original_title": "Clamoroso Lazio, Rocca chiede a Lotito di vendere il club: “La sua stagione è conclusa, non si può ignorare il sentimento della gente”",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/23/clamoroso-lazio-rocca-chiede-a-lotito-di-vendere-club-sua-stagione-conclusa-non-si-puo-ignorare-sentimento-gente/8486254/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Clamoroso Lazio, Rocca chiede a Lotito di vendere il club: “La sua stagione è conclusa, non si può ignorare il sentimento della gente”",
     "score": 8
   },
   {
-    "original_title": "Kimi Antonelli, dalla striscia di vittorie a quella di fumetti: diventa Paperelli",
-    "url": "https://www.repubblica.it/sport/formulauno/2026/08/23/news/kimi_antonelli_paperelli_fumetti_topolino-425542866/",
-    "domain": "repubblica.it",
+    "original_title": "L’Inno di Mameli a suon di tamburello: il video dell’apertura solenne della Notte della Taranta 2026",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/23/linno-di-mameli-a-suon-di-tamburello-il-video-dellapertura-solenne-della-notte-della-taranta-2026/8486249/",
+    "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Kimi Antonelli, dalla striscia di vittorie a quella di fumetti: diventa Paperelli",
-    "score": 1
+    "title": "L’Inno di Mameli a suon di tamburello: il video dell’apertura solenne della Notte della Taranta 2026",
+    "score": 6
   },
   {
-    "original_title": "Benedetta Pilato: “Io sono dovuta emigrare da Taranto, ora non si disperda l’eredità dei Giochi”",
-    "url": "https://www.repubblica.it/sport/vari/2026/08/23/news/benedetta_pilato_taranto_giochi_intervista-425542804/",
-    "domain": "repubblica.it",
+    "original_title": "“La Fomo ci ruba il presente, anche in amore”, Callum Turner protagonista di One Night Only – Quando tutto è possibile",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/23/one-night-only-callum-turner-fomo-amore-notizie/8486248/",
+    "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Benedetta Pilato: “Io sono dovuta emigrare da Taranto, ora non si disperda l’eredità dei Giochi”",
+    "title": "“La Fomo ci ruba il presente, anche in amore”, Callum Turner protagonista di One Night Only – Quando tutto è possibile",
     "score": 9
-  },
-  {
-    "original_title": "Arresto rapper Tony boy, in casa droga e una pistola con matricola abrasa: il blitz live sui social",
-    "url": "https://milano.repubblica.it/cronaca/2026/08/23/news/arrestato_rapper_tony_boy_casa_droga_cocaina_pistola_matricola_abrasa_live_social_video-425542776/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Arresto rapper Tony boy, in casa droga e una pistola con matricola abrasa: il blitz live sui social",
-    "score": 5
-  },
-  {
-    "original_title": "“Brian le ha somministrato il Narcan prima che morisse per cercare di farla riprendere dall’overdose”: parla Zach Hickerson, il fratello del fidanzato di Hayden Panettiere",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/23/brian-le-ha-somministrato-il-narcan-prima-che-morisse-per-cercare-di-farla-riprendere-dalloverdose-parla-zach-hickerson-il-fratello-del-fidanzato-di-hayden-panettiere/8486226/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "“Brian le ha somministrato il Narcan prima che morisse per cercare di farla riprendere dall’overdose”: parla Zach Hickerson, il fratello del fidanzato di Hayden Panettiere",
-    "score": 2
-  },
-  {
-    "original_title": "“Hai perso una scommessa?”: Haaland dice addio ai lunghi capelli biondi e si rasa a zero, Ibrahimovic non approva",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/23/haaland-testa-rasata-ibrahimovic-foto-virali/8486227/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "“Hai perso una scommessa?”: Haaland dice addio ai lunghi capelli biondi e si rasa a zero, Ibrahimovic non approva",
-    "score": 7
-  },
-  {
-    "original_title": "Cisgiordania, 14enne palestinese ucciso: colpito al petto dal fuoco dell’Idf nel campo profughi di Nablus",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/23/cisgiordania-14enne-palestinese-ucciso-idf-notizie/8486183/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Cisgiordania, 14enne palestinese ucciso: colpito al petto dal fuoco dell’Idf nel campo profughi di Nablus",
-    "score": 5
-  },
-  {
-    "original_title": "“Il mio futuro a La 7? Ci sono due possibilità, o penso che potrò fare altro nella vita essendo ancora giovane”: l’aut aut di Enrico Mentana a Cairo e i retroscena",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/23/il-mio-futuro-a-la-7-ci-sono-due-possibilita-o-penso-che-potro-fare-altro-nella-vita-essendo-ancora-giovane-laut-aut-di-enrico-mentana-a-cairo-e-i-retroscena-sul-suo-futuro/8486211/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "“Il mio futuro a La 7? Ci sono due possibilità, o penso che potrò fare altro nella vita essendo ancora giovane”: l’aut aut di Enrico Mentana a Cairo e i retroscena",
-    "score": 5
-  },
-  {
-    "original_title": "El Niño verso livelli record, il 2027 rischia di essere l’anno più caldo di sempre",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/23/el-nino-record-2027-anno-piu-caldo-notizie/8486203/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "El Niño verso livelli record, il 2027 rischia di essere l’anno più caldo di sempre",
-    "score": 7
-  },
-  {
-    "original_title": "Verstappen, finale choc a Zandvoort: si schianta al primo giro nell’ultimo GP d’Olanda. Cosa è successo",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/23/verstappen-gp-olanda-zandvoort-incidente-notizie/8486205/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Verstappen, finale choc a Zandvoort: si schianta al primo giro nell’ultimo GP d’Olanda. Cosa è successo",
-    "score": 2
   },
   {
     "original_title": "Non solo performance, l'abbigliamento sportivo è già motivazione atletica",
@@ -101,7 +101,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Non solo performance, l'abbigliamento sportivo è già motivazione atletica",
-    "score": 5
+    "score": 3
   },
   {
     "original_title": "Lanzarote, dove vulcani, vento e oceano diventano sapori",
@@ -109,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Lanzarote, dove vulcani, vento e oceano diventano sapori",
-    "score": 1
+    "score": 2
   },
   {
     "original_title": "Al Lido tanta paura di guerra atomica e non solo",
@@ -117,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Al Lido tanta paura di guerra atomica e non solo",
-    "score": 8
+    "score": 7
   },
   {
     "original_title": "Pochi infermieri, negli Usa via libera ai robot per le analisi del sangue",
@@ -125,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Pochi infermieri, negli Usa via libera ai robot per le analisi del sangue",
-    "score": 1
+    "score": 9
   },
   {
     "original_title": "Esce l''Iliade e l'Odissea a fumetti' tra eroi vulnerabili e divinità pop",
@@ -133,23 +133,23 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Esce l''Iliade e l'Odissea a fumetti' tra eroi vulnerabili e divinità pop",
-    "score": 3
+    "score": 7
   },
   {
-    "original_title": "Piantedosi: '45giorni di fermo e 7.500 euro di multa per la Sea Watch 5'. L'ong: 'Non collaboriamo con i criminali, il governo può dire lo stesso?'",
-    "url": "https://www.ansa.it/sito/notizie/politica/2026/08/23/migranti-piantedosi-sea-watch-5-ha-violato-norme-stop-di-45-giorni_8571281d-be31-49fa-aafd-7f38479c2042.html",
+    "original_title": "Cresce ancora il prezzo dei carburanti, gasolio sopra i 2,2 in autostrada",
+    "url": "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/23/cresce-ancora-il-prezzo-dei-carburanti-gasolio-sopra-i-22-in-autostrada_88295d67-975d-4e9b-98a8-a2040222bc59.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Piantedosi: '45giorni di fermo e 7.500 euro di multa per la Sea Watch 5'. L'ong: 'Non collaboriamo con i criminali, il governo può dire lo stesso?'",
-    "score": 6
+    "title": "Cresce ancora il prezzo dei carburanti, gasolio sopra i 2,2 in autostrada",
+    "score": 1
   },
   {
-    "original_title": "GP di Olanda, la diretta: gran partenza di Antonelli che infila alla prima curva Norris e va al comando, quinto Leclerc",
+    "original_title": "GP di Olanda, la diretta: dopo la VSC e nuovi cambi gomme, Norris precede Russell, Antonelli, Hamilton e Leclerc",
     "url": "https://www.ilmessaggero.it/sport/formula1/gp_di_olanda_diretta_live_norris_leclerc_antonelli_ferrari_live_dove_vederlo-9721561.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "GP di Olanda, la diretta: gran partenza di Antonelli che infila alla prima curva Norris e va al comando, quinto Leclerc",
-    "score": 4
+    "title": "GP di Olanda, la diretta: dopo la VSC e nuovi cambi gomme, Norris precede Russell, Antonelli, Hamilton e Leclerc",
+    "score": 1
   },
   {
     "original_title": "Caldo, nuova intensa ondata in arrivo: picchi di 44 gradi, ecco quando e dove. Le previsioni della prossima settimana",
@@ -157,15 +157,23 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Caldo, nuova intensa ondata in arrivo: picchi di 44 gradi, ecco quando e dove. Le previsioni della prossima settimana",
-    "score": 8
+    "score": 7
   },
   {
-    "original_title": "Meteo, si attiva il vortice polare. Gli esperti: «Con El Nino rischio autunno eccezionale». Ecco come sarà, le previsioni",
-    "url": "https://www.ilmessaggero.it/italia/vortice_polare_attivazione_come_sara_autunno-9719920.html",
+    "original_title": "Leone XIV riapre il fronte russo: Gallagher da Lavrov, poi Zuppi a Mosca",
+    "url": "https://www.ilmessaggero.it/vaticano/leone_xiv_missione_diplomatica_a_mosca_per_l_ucraina_zuppi_e_gallagher_lavrov-9721628.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Meteo, si attiva il vortice polare. Gli esperti: «Con El Nino rischio autunno eccezionale». Ecco come sarà, le previsioni",
-    "score": 9
+    "title": "Leone XIV riapre il fronte russo: Gallagher da Lavrov, poi Zuppi a Mosca",
+    "score": 1
+  },
+  {
+    "original_title": "Chi è Mykhailo Fedorov, ?l'anti Zelensky? che chiede le elezioni anticipate: il ruolo nella guerra tecnologica e il licenziamento improvviso",
+    "url": "https://www.ilmessaggero.it/mondo/fedorov_chi_e_anti_zelensky-9721622.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Chi è Mykhailo Fedorov, ?l'anti Zelensky? che chiede le elezioni anticipate: il ruolo nella guerra tecnologica e il licenziamento improvviso",
+    "score": 3
   },
   {
     "original_title": "L'Iran colpisce l'Europa, spenta centrale elettrica per 4 giorni: cosa è successo",
@@ -173,15 +181,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "L'Iran colpisce l'Europa, spenta centrale elettrica per 4 giorni: cosa è successo",
-    "score": 2
-  },
-  {
-    "original_title": "Migranti, multa di 7.500 euro e 45 giorni di fermo per la Sea Watch 5. Piantedosi: «Ha violato le norme»",
-    "url": "https://www.ilmessaggero.it/politica/multa_sea_watch_cosa_succede-9721523.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Migranti, multa di 7.500 euro e 45 giorni di fermo per la Sea Watch 5. Piantedosi: «Ha violato le norme»",
-    "score": 7
+    "score": 5
   },
   {
     "original_title": "Scioperi settembre, si fermano treni, aerei e mezzi pubblici: le date e il calendario del mese",
@@ -189,7 +189,15 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Scioperi settembre, si fermano treni, aerei e mezzi pubblici: le date e il calendario del mese",
-    "score": 1
+    "score": 4
+  },
+  {
+    "original_title": "Stretta in arrivo per gli automobilisti over 85: niente autostrada e guida entro 100 chilometri da casa. Cosa cambia con le nuove regole",
+    "url": "https://www.open.online/2026/08/23/stretta-automobilisti-over-85-codice-della-strada/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Stretta in arrivo per gli automobilisti over 85: niente autostrada e guida entro 100 chilometri da casa. Cosa cambia con le nuove regole",
+    "score": 9
   },
   {
     "original_title": "Giorgia Meloni sarà ad Amatrice per i dieci anni dal terremoto. La promessa della premier: «Faremo rinascere l’Appennino»",
@@ -197,7 +205,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Giorgia Meloni sarà ad Amatrice per i dieci anni dal terremoto. La promessa della premier: «Faremo rinascere l’Appennino»",
-    "score": 3
+    "score": 5
   },
   {
     "original_title": "Difende la madre nella lite con il compagno e lui lo accoltella: 15enne finisce in ospedale",
@@ -205,7 +213,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Difende la madre nella lite con il compagno e lui lo accoltella: 15enne finisce in ospedale",
-    "score": 4
+    "score": 3
   },
   {
     "original_title": "Il Viminale multa la nave della Sea Watch. L’ong: «Noi non collaboriamo con i criminali, il governo può dire lo stesso?»",
@@ -213,7 +221,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Il Viminale multa la nave della Sea Watch. L’ong: «Noi non collaboriamo con i criminali, il governo può dire lo stesso?»",
-    "score": 9
+    "score": 4
   },
   {
     "original_title": "Schlein incalza Meloni sul caro carburanti: «Il governo tassi gli extraprofitti delle società energetiche»",
@@ -221,7 +229,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Schlein incalza Meloni sul caro carburanti: «Il governo tassi gli extraprofitti delle società energetiche»",
-    "score": 6
+    "score": 1
   },
   {
     "original_title": "Zelensky frena sulle elezioni in Ucraina: «Uno tsunami, spaccherebbero il Paese». L’attacco dell’ex ministro Fedorov sulla corruzione – La diretta",
@@ -229,15 +237,15 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Zelensky frena sulle elezioni in Ucraina: «Uno tsunami, spaccherebbero il Paese». L’attacco dell’ex ministro Fedorov sulla corruzione – La diretta",
-    "score": 6
+    "score": 8
   },
   {
-    "original_title": "Tony Boy arrestato, la polizia a casa del trapper e lui fa una live sui social: a San Vittore per droga e una pistola – Il video",
-    "url": "https://www.open.online/2026/08/23/tony-boy-arrestato-droga-armi-live-social-video/",
-    "domain": "open.online",
+    "original_title": "Auto contro albero: in condizioni disperate due sorelline di 5 e 11 anni. Ferito anche il papà alla guida",
+    "url": "https://www.ilgazzettino.it/nordest/udine/auto_contro_albero_sorelline_ferite_gravissime_cos_e_successo-9721644.html",
+    "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Tony Boy arrestato, la polizia a casa del trapper e lui fa una live sui social: a San Vittore per droga e una pistola – Il video",
-    "score": 3
+    "title": "Auto contro albero: in condizioni disperate due sorelline di 5 e 11 anni. Ferito anche il papà alla guida",
+    "score": 9
   },
   {
     "original_title": "Nicola Maggiotto ha aperto gli occhi davanti ai genitori e stretto la mano alla mamma: il 21enne picchiato in Spagna dà segni di miglioramento",
@@ -253,7 +261,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "?Braccialetto elettronico, il veneziano: «In 17 mesi ne ho dovuti cambiare 16 e ogni volta sono andato io in caserma»",
-    "score": 1
+    "score": 7
   },
   {
     "original_title": "Affitti brevi e locazioni turistiche: a Murano su 14 strutture ispezionate solo due sono in regola",
@@ -261,7 +269,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Affitti brevi e locazioni turistiche: a Murano su 14 strutture ispezionate solo due sono in regola",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "Parcheggio disabili, rimossa l?auto di due invalidi perché senza pass: «Lo abbiamo entrambi, mai successo. Forse è scivolato nel cruscotto»",
@@ -269,7 +277,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Parcheggio disabili, rimossa l?auto di due invalidi perché senza pass: «Lo abbiamo entrambi, mai successo. Forse è scivolato nel cruscotto»",
-    "score": 3
+    "score": 5
   },
   {
     "original_title": "Turisti cafoni sulle Marmarole strappano i 'libri' del bivacco: «Sono pagine preziose in caso di emergenza in alta quota»",
@@ -277,23 +285,15 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Turisti cafoni sulle Marmarole strappano i 'libri' del bivacco: «Sono pagine preziose in caso di emergenza in alta quota»",
-    "score": 3
+    "score": 8
   },
   {
-    "original_title": "Tony Boy arrestato: il rapper padovano aveva in casa droga e una pistola",
-    "url": "https://www.ilgazzettino.it/nordest/padova/tony_boy_arresto_rapper_droga_pistola-9721502.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Tony Boy arrestato: il rapper padovano aveva in casa droga e una pistola",
-    "score": 7
-  },
-  {
-    "original_title": "GP di Olanda, la diretta: gran partenza di Antonelli che infila alla prima curva Norris e va al comando, quinto Leclerc",
+    "original_title": "GP di Olanda, la diretta: dopo la VSC e nuovi cambi gomme, Norris precede Russell, Antonelli, Hamilton e Leclerc",
     "url": "https://www.ilmattino.it/sport/formula1/gp_di_olanda_diretta_live_oggi-9721581.html",
     "domain": "ilmattino.it",
     "region": "IT",
-    "title": "GP di Olanda, la diretta: gran partenza di Antonelli che infila alla prima curva Norris e va al comando, quinto Leclerc",
-    "score": 5
+    "title": "GP di Olanda, la diretta: dopo la VSC e nuovi cambi gomme, Norris precede Russell, Antonelli, Hamilton e Leclerc",
+    "score": 2
   },
   {
     "original_title": "Genoa-Napoli, i tifosi elogiano Allegri: «Chi ben comincia è a metà dell'opera» | Video",
@@ -301,7 +301,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Genoa-Napoli, i tifosi elogiano Allegri: «Chi ben comincia è a metà dell'opera» | Video",
-    "score": 8
+    "score": 5
   },
   {
     "original_title": "Caserta, clochard ucciso in piazza Sant?Anna: spunta il drammatico video dell?aggressione",
@@ -309,15 +309,15 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Caserta, clochard ucciso in piazza Sant?Anna: spunta il drammatico video dell?aggressione",
-    "score": 9
+    "score": 6
   },
   {
-    "original_title": "Migranti, multa di 7.500 euro e 45 giorni di fermo per la Sea Watch 5. Piantedosi: «Ha violato le norme»",
-    "url": "https://www.ilmattino.it/primopiano/esteri/migranti_multa_sea_watch_ultime_notizie_oggi-9721533.html",
+    "original_title": "Scuola, conti alla mano per l'avvio dell'anno: servono fino a 1.300 euro a studente per corredo e libri",
+    "url": "https://www.ilmattino.it/primopiano/scuola_e_universita/ritorno_a_scuola_spesa_studenti_libri_corredo_codacons_2026-9721621.html",
     "domain": "ilmattino.it",
     "region": "IT",
-    "title": "Migranti, multa di 7.500 euro e 45 giorni di fermo per la Sea Watch 5. Piantedosi: «Ha violato le norme»",
-    "score": 7
+    "title": "Scuola, conti alla mano per l'avvio dell'anno: servono fino a 1.300 euro a studente per corredo e libri",
+    "score": 2
   },
   {
     "original_title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -325,7 +325,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "Mayors to get powers to overrule local councils on planning decisions",
@@ -333,7 +333,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Mayors to get powers to overrule local councils on planning decisions",
-    "score": 7
+    "score": 1
   },
   {
     "original_title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
@@ -349,7 +349,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "CrossCountry cancels 'almost all' UK services after power cut",
-    "score": 8
+    "score": 4
   },
   {
     "original_title": "How a new era of heatwaves could shake up the school calendar",
@@ -357,7 +357,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "How a new era of heatwaves could shake up the school calendar",
-    "score": 7
+    "score": 1
   },
   {
     "original_title": "The hotel booking mix-up that could free mushroom murderer",
@@ -368,43 +368,107 @@
     "score": 7
   },
   {
-    "original_title": "Kate Middleton smiles as she steps out with Prince William, King Charles days after Harry and Meghan’s UK move bombshell",
-    "url": "https://pagesix.com/2026/08/23/royal-family/kate-middleton-steps-out-with-prince-william-king-charles-days-after-harry-and-meghans-uk-move-bombshell/",
+    "original_title": "Eagles’ Ja’Quinden Jackson leaves field in ambulance after opening kickoff in scary scene",
+    "url": "https://nypost.com/2026/08/23/sports/eagles-jaquinden-jackson-leaves-field-in-ambulance-in-scary-scene/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Kate Middleton smiles as she steps out with Prince William, King Charles days after Harry and Meghan’s UK move bombshell",
-    "score": 3
-  },
-  {
-    "original_title": "Nationals vs. Marlins picks, odds: MLB best bets, predictions Sunday",
-    "url": "https://nypost.com/2026/08/23/betting/nationals-vs-marlins-picks-odds-mlb-best-bets-predictions-sunday/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Nationals vs. Marlins picks, odds: MLB best bets, predictions Sunday",
-    "score": 8
-  },
-  {
-    "original_title": "ProphetX promo code NYPBONUS: Trade $10, get $20 for Yankees vs. Blue Jays",
-    "url": "https://nypost.com/2026/08/23/betting/prophetx-promo-code-nypbonus-trade-10-get-20-for-yankees-vs-blue-jays/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "ProphetX promo code NYPBONUS: Trade $10, get $20 for Yankees vs. Blue Jays",
+    "title": "Eagles’ Ja’Quinden Jackson leaves field in ambulance after opening kickoff in scary scene",
     "score": 5
   },
   {
-    "original_title": "2 rescued off India’s eastern coast after distress alert from Panama-flagged cargo ship",
-    "url": "https://nypost.com/2026/08/23/world-news/2-rescued-off-indias-eastern-coast-after-distress-alert-from-panama-flagged-cargo-ship/",
+    "original_title": "Will Forte warns of ‘super perverted’ places ticks may hide — and the awkward way he checked",
+    "url": "https://nypost.com/2026/08/23/health/will-forte-warns-of-super-perverted-places-ticks-may-hide/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "2 rescued off India’s eastern coast after distress alert from Panama-flagged cargo ship",
+    "title": "Will Forte warns of ‘super perverted’ places ticks may hide — and the awkward way he checked",
     "score": 2
   },
   {
-    "original_title": "Canadian PM claims country ‘at war’ with Trump on trade: ‘We got attacked’",
-    "url": "https://nypost.com/2026/08/23/us-news/canadian-pm-mark-carney-says-country-at-war-with-president-trump-on-trade-we-got-attacked/",
+    "original_title": "Erling Haaland cuts off signature hair before Manchester City opener — leaving his girlfriend in shock: ‘I think I will cry’",
+    "url": "https://nypost.com/2026/08/23/sports/erling-haaland-cuts-off-hair-before-man-city-opener-leaving-girlfriend-shocked/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Canadian PM claims country ‘at war’ with Trump on trade: ‘We got attacked’",
+    "title": "Erling Haaland cuts off signature hair before Manchester City opener — leaving his girlfriend in shock: ‘I think I will cry’",
+    "score": 4
+  },
+  {
+    "original_title": "‘National Treasure 3’ Is Finally Happening, According To Director Jon Turteltaub",
+    "url": "https://decider.com/2026/08/23/national-treasure-3-is-happening-director-jon-turteltaub/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "‘National Treasure 3’ Is Finally Happening, According To Director Jon Turteltaub",
+    "score": 4
+  },
+  {
+    "original_title": "Civil rights leader calls on embattled DSA co-chair Gustavo Gordillo to resign: ‘Double Standards of America’",
+    "url": "https://nypost.com/2026/08/23/us-news/civil-rights-leader-calls-on-embattled-dsa-co-chair-gustavo-gordillo-to-resign/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Civil rights leader calls on embattled DSA co-chair Gustavo Gordillo to resign: ‘Double Standards of America’",
+    "score": 8
+  },
+  {
+    "original_title": "1 in 10 kids will be sexually molested before finishing high school, Education Secretary Linda McMahon claims",
+    "url": "https://nypost.com/2026/08/23/us-news/1-in-10-kids-will-be-sexually-molested-before-finishing-high-school-education-secretary-says/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "1 in 10 kids will be sexually molested before finishing high school, Education Secretary Linda McMahon claims",
+    "score": 3
+  },
+  {
+    "original_title": "Woman brands stray cat 'ugly' - but the moggie gets last laugh",
+    "url": "https://www.express.co.uk/news/weird/2241697/woman-stray-cat-ugly-gets-last-laugh",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Woman brands stray cat 'ugly' - but the moggie gets last laugh",
+    "score": 5
+  },
+  {
+    "original_title": "Aldi issues one-week-to-claim warning - £3,000 payouts",
+    "url": "https://www.express.co.uk/news/uk/2241696/aldi-one-week-claim-warning-3000-payouts",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Aldi issues one-week-to-claim warning - £3,000 payouts",
+    "score": 9
+  },
+  {
+    "original_title": "Major update on deadly A66 wrong way crash as police watchdog issues bombshell revelation",
+    "url": "https://www.express.co.uk/news/uk/2241695/a66-crash-update-police-watchdog",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Major update on deadly A66 wrong way crash as police watchdog issues bombshell revelation",
+    "score": 1
+  },
+  {
+    "original_title": "Queen Camilla’s selfless act to Prince Harry revealed",
+    "url": "https://www.express.co.uk/news/royal/2241687/prince-harry-queen-camilla",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Queen Camilla’s selfless act to Prince Harry revealed",
+    "score": 7
+  },
+  {
+    "original_title": "'I'm sick of the mess my neighbour's kids are making - I want to say something'",
+    "url": "https://www.express.co.uk/news/weird/2241686/mess-neighbours-kids-shared-spaces",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "'I'm sick of the mess my neighbour's kids are making - I want to say something'",
+    "score": 3
+  },
+  {
+    "original_title": "Putin tipped to 'mobilise 300,000 more troops' but Zelensky vows to 'wipe them out'",
+    "url": "https://www.express.co.uk/news/world/2241685/putin-russia-mobilisation-ukraine-war",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Putin tipped to 'mobilise 300,000 more troops' but Zelensky vows to 'wipe them out'",
+    "score": 1
+  },
+  {
+    "original_title": "Hindu family of four found dead in locked home in Bangladesh; strangulation suspected",
+    "url": "https://timesofindia.indiatimes.com/world/south-asia/hindu-family-of-four-found-dead-in-locked-home-in-bangladeshs-rangpur-strangulation-suspected/articleshow/133436369.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Hindu family of four found dead in locked home in Bangladesh; strangulation suspected",
     "score": 3
   },
   {
@@ -413,39 +477,31 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "‘I am an Indian citizen’: Ex-envoy who served in 3 nations flags SIR process",
-    "score": 8
+    "score": 1
   },
   {
-    "original_title": "‘600-630 of most potent type weapon’: Zelenskyy’s warning on Russian missile arsenal",
-    "url": "https://timesofindia.indiatimes.com/defence/international/600-630-of-most-potent-type-weapon-zelenskyys-big-warning-on-russian-missile-stockpile/articleshow/133440562.cms",
+    "original_title": "‘They may have fled to Odisha’: Mystery deepens in Tamil Nadu Express murder case",
+    "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-womans-remains-found-in-trolley-aboard-tn-express-chennai-cops-launch-search-in-state/articleshow/133439167.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "‘600-630 of most potent type weapon’: Zelenskyy’s warning on Russian missile arsenal",
-    "score": 5
-  },
-  {
-    "original_title": "Destroyed in Op Sindoor, JeM's terror base operational again; Pak govt gave Rs 8 cr",
-    "url": "https://timesofindia.indiatimes.com/world/pakistan/destroyed-in-operation-sindoor-jems-bahawalpur-terror-base-fully-operational-again/articleshow/133438629.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Destroyed in Op Sindoor, JeM's terror base operational again; Pak govt gave Rs 8 cr",
-    "score": 9
-  },
-  {
-    "original_title": "IND vs SL: Devdutt Padikkal, Shubman Gill and the trailer of a blockbuster",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/devdutt-padikkal-shubman-gill-and-the-trailer-of-a-blockbuster/articleshow/133439093.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "IND vs SL: Devdutt Padikkal, Shubman Gill and the trailer of a blockbuster",
-    "score": 8
-  },
-  {
-    "original_title": "KPSC exam scam: ED raids 'missing' IAS officer's premises in Bengaluru, Bareilly",
-    "url": "https://timesofindia.indiatimes.com/city/bengaluru/kpsc-exam-scam-ed-raids-ias-officer-gyanendra-gangwars-premises-in-bengaluru-bareilly/articleshow/133439305.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "KPSC exam scam: ED raids 'missing' IAS officer's premises in Bengaluru, Bareilly",
+    "title": "‘They may have fled to Odisha’: Mystery deepens in Tamil Nadu Express murder case",
     "score": 2
+  },
+  {
+    "original_title": "Rest, viral and not in India's XI for Colombo Test: Mysterious case of Kuldeep",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/rest-viral-and-not-in-indias-xi-for-colombo-test-the-mysterious-case-of-kuldeep-yadav/articleshow/133441019.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Rest, viral and not in India's XI for Colombo Test: Mysterious case of Kuldeep",
+    "score": 6
+  },
+  {
+    "original_title": "Trump tariffs: What India can learn from Canada’s failed trade talks with US",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/trump-tariffs-what-india-can-learn-from-canadas-failed-trade-talks-with-us/articleshow/133441067.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Trump tariffs: What India can learn from Canada’s failed trade talks with US",
+    "score": 4
   },
   {
     "original_title": "Why ex-Google CEO Eric Schmidt is 'unhappy' with his former boss Sergey Brin",
@@ -453,7 +509,15 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "Why ex-Google CEO Eric Schmidt is 'unhappy' with his former boss Sergey Brin",
-    "score": 5
+    "score": 8
+  },
+  {
+    "original_title": "Deadly storm leaves half a million without power in Poland, Baltics",
+    "url": "https://www.upi.com/Top_News/World-News/2026/08/23/poland-baltics-storm-power-outaage/8771787492788/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Deadly storm leaves half a million without power in Poland, Baltics",
+    "score": 7
   },
   {
     "original_title": "Famous birthdays for Aug. 23: Trixie Mattel, Andrew Rannells",
@@ -469,7 +533,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "On This Day, Aug. 23: Marcario García is 1st Mexican American to earn Medal of Honor",
-    "score": 1
+    "score": 6
   },
   {
     "original_title": "Big Bad Film Fest: Michael Jai White nixed kicks in 'Undisputed II'",
@@ -477,7 +541,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Big Bad Film Fest: Michael Jai White nixed kicks in 'Undisputed II'",
-    "score": 1
+    "score": 2
   },
   {
     "original_title": "Chinese humanoid robot breaks 100m sprint record set by Usain Bolt",
@@ -485,7 +549,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Chinese humanoid robot breaks 100m sprint record set by Usain Bolt",
-    "score": 3
+    "score": 6
   },
   {
     "original_title": "Postal Service publishes mail-in voting rule despite court injunctions",
@@ -493,15 +557,39 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Postal Service publishes mail-in voting rule despite court injunctions",
-    "score": 1
+    "score": 9
   },
   {
-    "original_title": "Meghan Markle casting in Netflix show withdrawn amid intense backlash",
-    "url": "https://www.upi.com/Entertainment_News/2026/08/22/markle-casting-withdrawn/7961787443895/",
-    "domain": "upi.com",
+    "original_title": "PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties",
+    "url": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Meghan Markle casting in Netflix show withdrawn amid intense backlash",
+    "title": "PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties",
+    "score": 6
+  },
+  {
+    "original_title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
+    "url": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
+    "score": 5
+  },
+  {
+    "original_title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
+    "url": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
     "score": 9
+  },
+  {
+    "original_title": "Chelsea preview: Five key talking points for 2026-27 Premier League season",
+    "url": "https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Chelsea preview: Five key talking points for 2026-27 Premier League season",
+    "score": 7
   },
   {
     "original_title": "Heavy Israeli air strike hits warehouse in central Gaza",
@@ -509,7 +597,7 @@
     "domain": "aljazeera.com",
     "region": "GLOBAL",
     "title": "Heavy Israeli air strike hits warehouse in central Gaza",
-    "score": 2
+    "score": 8
   },
   {
     "original_title": "Dozens of attacks in southern Thailand wound three people",
@@ -517,39 +605,15 @@
     "domain": "aljazeera.com",
     "region": "GLOBAL",
     "title": "Dozens of attacks in southern Thailand wound three people",
-    "score": 5
+    "score": 3
   },
   {
-    "original_title": "AI fraud costing victims millions of dollars",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "Trump claims Hormuz on Truth Social, Rezaei says 'shut until US changes'",
+    "url": "http://www.euronews.com/2026/08/23/trump-claims-hormuz-on-truth-social-rezaei-says-shut-until-us-changes",
+    "domain": "euronews.com",
     "region": "GLOBAL",
-    "title": "AI fraud costing victims millions of dollars",
-    "score": 7
-  },
-  {
-    "original_title": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
-    "url": "https://www.aljazeera.com/news/2026/8/23/zelenskyy-says-wartime-elections-could-destroy-ukraine?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
-    "score": 1
-  },
-  {
-    "original_title": "DR Congo miners risk Ebola to make a living",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/dr-congo-miners-risk-ebola-to-make-a-living?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "DR Congo miners risk Ebola to make a living",
-    "score": 7
-  },
-  {
-    "original_title": "Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win",
-    "score": 6
+    "title": "Trump claims Hormuz on Truth Social, Rezaei says 'shut until US changes'",
+    "score": 8
   },
   {
     "original_title": "Latest news bulletin | August 23rd, 2026 – Midday",
@@ -557,7 +621,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Latest news bulletin | August 23rd, 2026 – Midday",
-    "score": 6
+    "score": 5
   },
   {
     "original_title": "Chinese humanoid robot beats Bolt's 100-metre world record time",
@@ -573,70 +637,6 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "5.9-magnitude earthquake strikes Japan, injuring at least 37",
-    "score": 6
-  },
-  {
-    "original_title": "Indian Coast Guard launches search and rescue operation after cargo vessel sinks in Bay of Bengal",
-    "url": "http://www.euronews.com/2026/08/23/indian-coast-guard-launches-search-and-rescue-operation-after-cargo-vessel-sinks-in-bay-of",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Indian Coast Guard launches search and rescue operation after cargo vessel sinks in Bay of Bengal",
-    "score": 3
-  },
-  {
-    "original_title": "Canadian PM Carney says new US tariffs are 'designed to hurt us and divide us'",
-    "url": "http://www.euronews.com/2026/08/23/canadian-pm-carney-says-new-us-tariffs-are-designed-to-hurt-us-and-divide-us",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Canadian PM Carney says new US tariffs are 'designed to hurt us and divide us'",
-    "score": 4
-  },
-  {
-    "original_title": "Latest news bulletin | August 23rd, 2026 – Morning",
-    "url": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-morning",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Latest news bulletin | August 23rd, 2026 – Morning",
-    "score": 1
-  },
-  {
-    "original_title": "DOJ Develops Pathway To Restore Gun Rights To Felons",
-    "url": "https://theonion.com/doj-develops-pathway-to-restore-gun-rights-to-felons/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "DOJ Develops Pathway To Restore Gun Rights To Felons",
-    "score": 9
-  },
-  {
-    "original_title": "Luigi Mangione Pleads Guilty",
-    "url": "https://theonion.com/luigi-mangione-pleads-guilty/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Luigi Mangione Pleads Guilty",
-    "score": 4
-  },
-  {
-    "original_title": "Pros And Cons Of Wearing Shorts In The Office",
-    "url": "https://theonion.com/pros-and-cons-of-wearing-shorts-in-the-office/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Pros And Cons Of Wearing Shorts In The Office",
-    "score": 4
-  },
-  {
-    "original_title": "David Attenborough Admits To Exaggerating Wonder Of Seals",
-    "url": "https://theonion.com/david-attenborough-admits-to-exaggerating-wonder-of-seals/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "David Attenborough Admits To Exaggerating Wonder Of Seals",
-    "score": 4
-  },
-  {
-    "original_title": "Men Overly Bored",
-    "url": "https://theonion.com/men-overly-bored/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Men Overly Bored",
     "score": 3
   }
 ]
