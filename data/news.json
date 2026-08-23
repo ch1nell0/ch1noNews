@@ -5,7 +5,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Giappone, terremoto di magnitudo 5.9 avvertito fino a Tokyo. Diversi feriti e disagi ai servizi ferroviari",
-    "score": 3
+    "score": 6
   },
   {
     "original_title": "Al vertice con Berlino l’attacco di Piantedosi alle ong tedesche",
@@ -13,7 +13,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Al vertice con Berlino l’attacco di Piantedosi alle ong tedesche",
-    "score": 8
+    "score": 6
   },
   {
     "original_title": "Scholz: “Che emozione il Papa a Rimini, una visita storica improntataal dialogo”",
@@ -21,7 +21,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Scholz: “Che emozione il Papa a Rimini, una visita storica improntataal dialogo”",
-    "score": 1
+    "score": 6
   },
   {
     "original_title": "Allarme a palazzo Chigi: “Se FI e Lega sotto il 15% premio impossibile”",
@@ -29,7 +29,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Allarme a palazzo Chigi: “Se FI e Lega sotto il 15% premio impossibile”",
-    "score": 3
+    "score": 2
   },
   {
     "original_title": "Manovra, la misura elettorale: meno tasse sulle tredicesime",
@@ -45,7 +45,39 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "I fischi a Taranto un campanello, Meloni teme il bis ad Amatrice",
+    "score": 3
+  },
+  {
+    "original_title": "Congelamento degli ovuli: a vantaggio di chi si sta ingaggiando questa lotta?",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/23/social-freezing-autodeterminazione-donne-notizie/8481858/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Congelamento degli ovuli: a vantaggio di chi si sta ingaggiando questa lotta?",
+    "score": 3
+  },
+  {
+    "original_title": "Il bagno proibito del giovane canonico",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/23/egisto-roggero-racconto-apocrifo-pretino-notizie/8484547/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Il bagno proibito del giovane canonico",
     "score": 8
+  },
+  {
+    "original_title": "“L’Australia è diventata casa, lì ho cresciuto la mia famiglia. Giovani, andate dove il merito viene riconosciuto”",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/23/chirurgo-australia-diventata-casa-giovani-andate-dove-merito-riconosciuto/8467517/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "“L’Australia è diventata casa, lì ho cresciuto la mia famiglia. Giovani, andate dove il merito viene riconosciuto”",
+    "score": 6
+  },
+  {
+    "original_title": "Trump annuncia il ‘D-Day economico’ contro l’Iran: che noia la politica delle minacce verbali senza un seguito",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/23/trump-sanzioni-iran-minacce-notizie/8484518/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Trump annuncia il ‘D-Day economico’ contro l’Iran: che noia la politica delle minacce verbali senza un seguito",
+    "score": 4
   },
   {
     "original_title": "Si tuffa in mare per aiutare alcuni ragazzi: muore annegato il designer Paolo Allasia",
@@ -53,7 +85,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Si tuffa in mare per aiutare alcuni ragazzi: muore annegato il designer Paolo Allasia",
-    "score": 5
+    "score": 3
   },
   {
     "original_title": "Il prezzo della benzina vola e il governo Meloni torna a chiedere l’ombrello Ue per una tassa sugli extraprofitti energetici",
@@ -61,39 +93,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Il prezzo della benzina vola e il governo Meloni torna a chiedere l’ombrello Ue per una tassa sugli extraprofitti energetici",
-    "score": 3
-  },
-  {
-    "original_title": "Aliante precipita durante la Coppa Città di Rieti: morto il pilota",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/22/aliante-precipita-durante-la-coppa-citta-di-rieti-morto-il-pilota/8485838/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Aliante precipita durante la Coppa Città di Rieti: morto il pilota",
-    "score": 1
-  },
-  {
-    "original_title": "Plastiche degli anni ’80, mozziconi e ciucci per bambini: la caccia ai rifiuti di Legambiente sul sentiero verso il Monte Bianco – Video",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/22/carovana-ghiacciai-monte-bianco-rifiuti-notizie/8485831/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Plastiche degli anni ’80, mozziconi e ciucci per bambini: la caccia ai rifiuti di Legambiente sul sentiero verso il Monte Bianco – Video",
-    "score": 2
-  },
-  {
-    "original_title": "Leo Gullotta: “Taormina arte doveva assegnarmi un premio, poi una manina destra figlia dell’amichettismo mi ha cancellato”",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/22/leo-gullotta-taormina-arte-premi-notizie/8485820/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Leo Gullotta: “Taormina arte doveva assegnarmi un premio, poi una manina destra figlia dell’amichettismo mi ha cancellato”",
-    "score": 3
-  },
-  {
-    "original_title": "Omicidio di Tor Sapienza, fermato il presunto assassino di Raymond Asosa Agheyisi",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/22/omicidio-tor-sapienza-agheyisi-fermato-notizie/8485817/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Omicidio di Tor Sapienza, fermato il presunto assassino di Raymond Asosa Agheyisi",
-    "score": 6
+    "score": 4
   },
   {
     "original_title": "Una libellula curiosa vince tra le foto che celebrano biodiversità e ricerca",
@@ -101,7 +101,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Una libellula curiosa vince tra le foto che celebrano biodiversità e ricerca",
-    "score": 5
+    "score": 8
   },
   {
     "original_title": "Secondo la scienza, guardare video brevi riduce l'attività decisionale del cervello",
@@ -109,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Secondo la scienza, guardare video brevi riduce l'attività decisionale del cervello",
-    "score": 8
+    "score": 5
   },
   {
     "original_title": "Notte della Taranta, tutto pronto per il concertone che celebra il Mediterraneo",
@@ -117,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Notte della Taranta, tutto pronto per il concertone che celebra il Mediterraneo",
-    "score": 2
+    "score": 7
   },
   {
     "original_title": "Ridley Scott, 'nel mondo post-apocalittico di The Dog Stars il caos di oggi'",
@@ -125,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Ridley Scott, 'nel mondo post-apocalittico di The Dog Stars il caos di oggi'",
-    "score": 8
+    "score": 9
   },
   {
     "original_title": "Apple Music come Spotify, potrebbe etichettare i brani generati dall'IA",
@@ -136,12 +136,12 @@
     "score": 5
   },
   {
-    "original_title": "Putin giura vendetta, 'Kiev ha aperto il vaso di Pandora attaccando l'economia'",
-    "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/22/putin-giura-vendetta-kiev-ha-aperto-il-vaso-di-pandora-attaccando-leconomia_fe7b30d9-a772-4a9e-a3a4-6c7c1a8b1613.html",
+    "original_title": "Teheran: 'Hormuz resta chiuso, non riaprirà se gli Usa non cambiano atteggiamento'",
+    "url": "https://www.ansa.it/sito/notizie/mondo/2026/08/23/teheran-hormuz-resta-chiuso-non-riaprira-se-gli-usa-non-cambiano_11b6c62a-5ef1-4ac7-9f34-ac65e4773ca6.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Putin giura vendetta, 'Kiev ha aperto il vaso di Pandora attaccando l'economia'",
-    "score": 9
+    "title": "Teheran: 'Hormuz resta chiuso, non riaprirà se gli Usa non cambiano atteggiamento'",
+    "score": 4
   },
   {
     "original_title": "Papa Leone contro guerre e riarmo: «No al business della morte. Migranti? Le persone contano più dei confini»",
@@ -149,7 +149,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Papa Leone contro guerre e riarmo: «No al business della morte. Migranti? Le persone contano più dei confini»",
-    "score": 3
+    "score": 1
   },
   {
     "original_title": "Il cardinale di Algeri Vesco: «Il militarismo più l?IA, così può finire il mondo. Netanyahu? Vuole la cancellazione del popolo palestinese»",
@@ -157,7 +157,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Il cardinale di Algeri Vesco: «Il militarismo più l?IA, così può finire il mondo. Netanyahu? Vuole la cancellazione del popolo palestinese»",
-    "score": 6
+    "score": 5
   },
   {
     "original_title": "Codice strada, i nuovi limiti per gli anziani: niente autostrada, zero alcol e guida entro 100 km da casa. Ecco per chi",
@@ -165,7 +165,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Codice strada, i nuovi limiti per gli anziani: niente autostrada, zero alcol e guida entro 100 km da casa. Ecco per chi",
-    "score": 4
+    "score": 5
   },
   {
     "original_title": "Meteo, si attiva il vortice polare. Gli esperti: «Con El Nino rischio autunno eccezionale». Ecco come sarà, le previsioni",
@@ -173,7 +173,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Meteo, si attiva il vortice polare. Gli esperti: «Con El Nino rischio autunno eccezionale». Ecco come sarà, le previsioni",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "Genoa-Napoli, De Rossi furioso per il gol di De Bruyne: «Una delle cose più brutte che mi siano capitate»",
@@ -181,7 +181,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Genoa-Napoli, De Rossi furioso per il gol di De Bruyne: «Una delle cose più brutte che mi siano capitate»",
-    "score": 9
+    "score": 7
   },
   {
     "original_title": "Ucraina, Putin ammette «danni all'economia» dopo i raid di Kiev. Poi avverte: «Pronti a reagire, risposta sarà distruttiva»",
@@ -189,7 +189,15 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Ucraina, Putin ammette «danni all'economia» dopo i raid di Kiev. Poi avverte: «Pronti a reagire, risposta sarà distruttiva»",
-    "score": 6
+    "score": 7
+  },
+  {
+    "original_title": "«Sigfrido Ranucci rimosso da Report», cosa gli offrono per restare in Rai: il gelo con la redazione e chi prenderà il suo posto",
+    "url": "https://www.open.online/2026/08/23/sigfrido-ranucci-rimosso-report-offerte-alternative-chi-nuovo-conduttore/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "«Sigfrido Ranucci rimosso da Report», cosa gli offrono per restare in Rai: il gelo con la redazione e chi prenderà il suo posto",
+    "score": 3
   },
   {
     "original_title": "Ikea come Vinted: al via la piattaforma per scambiare mobili di seconda mano. Come funziona  e chi può usarla",
@@ -197,7 +205,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Ikea come Vinted: al via la piattaforma per scambiare mobili di seconda mano. Come funziona  e chi può usarla",
-    "score": 2
+    "score": 3
   },
   {
     "original_title": "«Papà, non ce la faccio». Molla il bimbo di 7 anni a 2mila metri e prosegue l’escursione: i soccorsi e l’intervento della polizia",
@@ -205,7 +213,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "«Papà, non ce la faccio». Molla il bimbo di 7 anni a 2mila metri e prosegue l’escursione: i soccorsi e l’intervento della polizia",
-    "score": 5
+    "score": 1
   },
   {
     "original_title": "Davanti a Leone al Meeting riecco don Julián Carrón. L’ex presidente di Cl mandato via da Bergoglio accolto come una star – Il video",
@@ -229,15 +237,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Little Italia: come e perché si è spenta negli Usa la stella degli italoamericani",
-    "score": 7
-  },
-  {
-    "original_title": "La Germania è il più grande mercato di cannabis legale in Europa: così la liberalizzazione ha fatto esplodere l’import per uso medico",
-    "url": "https://www.open.online/2026/08/22/germania-mercato-cannabis-legale/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "La Germania è il più grande mercato di cannabis legale in Europa: così la liberalizzazione ha fatto esplodere l’import per uso medico",
-    "score": 4
+    "score": 9
   },
   {
     "original_title": "?Braccialetto elettronico, il veneziano: «In 17 mesi ne ho dovuti cambiare 16 e ogni volta sono andato io in caserma»",
@@ -245,7 +245,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "?Braccialetto elettronico, il veneziano: «In 17 mesi ne ho dovuti cambiare 16 e ogni volta sono andato io in caserma»",
-    "score": 1
+    "score": 4
   },
   {
     "original_title": "Inseguimento a folle velocità tra clan, la Bmw si schianta e i rivali accoltellano un 25enne: il ferito abbandonato sulla strada, è grave",
@@ -253,7 +253,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Inseguimento a folle velocità tra clan, la Bmw si schianta e i rivali accoltellano un 25enne: il ferito abbandonato sulla strada, è grave",
-    "score": 7
+    "score": 1
   },
   {
     "original_title": "Parcheggio disabili, rimossa l?auto di due invalidi perché senza pass: «Lo abbiamo entrambi, mai successo. Forse è scivolato nel cruscotto»",
@@ -261,7 +261,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Parcheggio disabili, rimossa l?auto di due invalidi perché senza pass: «Lo abbiamo entrambi, mai successo. Forse è scivolato nel cruscotto»",
-    "score": 4
+    "score": 5
   },
   {
     "original_title": "«Stazione rinnovata ma binario 2 inaccessibile a disabili e anziani». Pressing del Comune su Rfi e Regione",
@@ -269,7 +269,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "«Stazione rinnovata ma binario 2 inaccessibile a disabili e anziani». Pressing del Comune su Rfi e Regione",
-    "score": 9
+    "score": 8
   },
   {
     "original_title": "Allarme Fentanyl, farmacie e ospedali nel mirino dei Nas: mancanza di fiale e irregolarità nella compilazione dei registri",
@@ -277,7 +277,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Allarme Fentanyl, farmacie e ospedali nel mirino dei Nas: mancanza di fiale e irregolarità nella compilazione dei registri",
-    "score": 5
+    "score": 9
   },
   {
     "original_title": "Sergio Giannachi trovato morto dalla moglie nel giardino di casa: aveva 39 anni",
@@ -301,7 +301,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Le pagelle di Genoa-Napoli, i voti: i top e i flop del match del Marassi",
-    "score": 7
+    "score": 8
   },
   {
     "original_title": "Genoa-Napoli, Allegri: «Cambi fondamentali, De Bruyne fa la differenza»",
@@ -309,7 +309,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Genoa-Napoli, Allegri: «Cambi fondamentali, De Bruyne fa la differenza»",
-    "score": 4
+    "score": 2
   },
   {
     "original_title": "Vaccini difterite, la Campania in linea: ma serve stretta sui richiami",
@@ -317,7 +317,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Vaccini difterite, la Campania in linea: ma serve stretta sui richiami",
-    "score": 7
+    "score": 2
   },
   {
     "original_title": "Mayors to get powers to overrule local councils on planning decisions",
@@ -325,7 +325,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Mayors to get powers to overrule local councils on planning decisions",
-    "score": 5
+    "score": 4
   },
   {
     "original_title": "Two police officers among seven killed in wrong-way car crash",
@@ -333,7 +333,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Two police officers among seven killed in wrong-way car crash",
-    "score": 8
+    "score": 5
   },
   {
     "original_title": "Struggling households need more help with bills, energy industry says",
@@ -341,7 +341,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Struggling households need more help with bills, energy industry says",
-    "score": 9
+    "score": 5
   },
   {
     "original_title": "Restriction zone scheme for offenders to start in October",
@@ -349,7 +349,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Restriction zone scheme for offenders to start in October",
-    "score": 5
+    "score": 7
   },
   {
     "original_title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
@@ -357,7 +357,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-    "score": 8
+    "score": 7
   },
   {
     "original_title": "Cyber attack shut down small power plant",
@@ -365,55 +365,55 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Cyber attack shut down small power plant",
-    "score": 7
+    "score": 4
   },
   {
-    "original_title": "Sophie Cunningham supporters, detractors, rally outside NYC arena during Liberty-Fever WNBA game",
+    "original_title": "AOC announces completion of egg retrieval journey, vows to share more public updates on process",
+    "url": "https://nypost.com/2026/08/23/us-news/aoc-announces-completion-of-egg-retrieval-journey-vows-to-share-more-public-updates-on-process/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "AOC announces completion of egg retrieval journey, vows to share more public updates on process",
+    "score": 1
+  },
+  {
+    "original_title": "Maniac fires wildly on Brooklyn street, shooting dog that miraculously survived",
+    "url": "https://nypost.com/2026/08/23/us-news/maniac-fires-wildly-brooklyn-street-shooting-dog-barely-missing-developmentally-delayed-woman/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Maniac fires wildly on Brooklyn street, shooting dog that miraculously survived",
+    "score": 1
+  },
+  {
+    "original_title": "Liberty’s Leonie Fiebich has big night, shows rare on-court emotion in return from lengthy injury",
+    "url": "https://nypost.com/2026/08/23/sports/leonie-fiebich-has-big-night-shows-rare-emotion-in-libertys-win/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Liberty’s Leonie Fiebich has big night, shows rare on-court emotion in return from lengthy injury",
+    "score": 8
+  },
+  {
+    "original_title": "Reds’ JJ Bleday homers to complete cycle in win — eight months after he was cut by A’s",
+    "url": "https://nypost.com/2026/08/22/sports/reds-jj-bleday-homers-to-complete-in-blowout-win/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Reds’ JJ Bleday homers to complete cycle in win — eight months after he was cut by A’s",
+    "score": 3
+  },
+  {
+    "original_title": "Woman found dead in Bronx apartment building — authorities investigating as possible homicide",
+    "url": "https://nypost.com/2026/08/22/us-news/woman-found-dead-bronx-apartment-building-friday-authorities-investigating-possible-homicide/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Woman found dead in Bronx apartment building — authorities investigating as possible homicide",
+    "score": 2
+  },
+  {
+    "original_title": "Sophie Cunningham supporters, detractors clash outside Barclays Center during Liberty-Fever game",
     "url": "https://nypost.com/2026/08/22/us-news/sophie-cunningham-supporters-detractors-rally-outside-nyc-arena-during-liberty-v-fever-wnba-game-amid-trans-scandal/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Sophie Cunningham supporters, detractors, rally outside NYC arena during Liberty-Fever WNBA game",
-    "score": 5
-  },
-  {
-    "original_title": "Carson Benge continues red-hot streak in Mets’ blowout win over White Sox",
-    "url": "https://nypost.com/2026/08/22/sports/carson-benge-continues-red-hot-streak-in-offensive-powered-mets-win-over-white-sox/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Carson Benge continues red-hot streak in Mets’ blowout win over White Sox",
+    "title": "Sophie Cunningham supporters, detractors clash outside Barclays Center during Liberty-Fever game",
     "score": 6
-  },
-  {
-    "original_title": "Stetson Bennett takes control of Rams backup QB battle: ‘Gamer’",
-    "url": "https://nypost.com/2026/08/22/sports/stetson-bennett-made-rams-backup-qb-decision-a-lot-easier/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Stetson Bennett takes control of Rams backup QB battle: ‘Gamer’",
-    "score": 5
-  },
-  {
-    "original_title": "Gavin Newsom signs controversial ‘Stop Nick Shirley Act’ into law",
-    "url": "https://nypost.com/2026/08/22/us-news/gavin-newsom-signs-controversial-stop-nick-shirley-act-into-law/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Gavin Newsom signs controversial ‘Stop Nick Shirley Act’ into law",
-    "score": 7
-  },
-  {
-    "original_title": "Giants’ Dominic Zvada impresses John Harbaugh in preseason debut",
-    "url": "https://nypost.com/2026/08/22/sports/giants-dominic-zvada-impresses-john-harbaugh-in-preseason-debut/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Giants’ Dominic Zvada impresses John Harbaugh in preseason debut",
-    "score": 7
-  },
-  {
-    "original_title": "Randy Mastro goes to war against Mamdani amid the pied-à-terre tax rollout",
-    "url": "https://nypost.com/2026/08/22/business/randy-mastro-goes-to-war-against-mamdani-amid-the-pied-a-terre-tax-rollout/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Randy Mastro goes to war against Mamdani amid the pied-à-terre tax rollout",
-    "score": 3
   },
   {
     "original_title": "Thomas Markle's desperate message to daughter Meghan ahead of UK move - 'hurt and upset'",
@@ -429,7 +429,7 @@
     "domain": "express.co.uk",
     "region": "GLOBAL",
     "title": "Iranian hackers ‘shut down UK power plant’ for four days after major cyber attack",
-    "score": 7
+    "score": 6
   },
   {
     "original_title": "A66 crash LIVE: Seven dead including two police officers in horror wrong-way collision",
@@ -437,78 +437,78 @@
     "domain": "express.co.uk",
     "region": "GLOBAL",
     "title": "A66 crash LIVE: Seven dead including two police officers in horror wrong-way collision",
-    "score": 2
+    "score": 8
   },
   {
-    "original_title": "‘Real reason’ Prince Harry wants to return to the UK - and it’s not about King Charles",
-    "url": "https://www.express.co.uk/news/royal/2240420/prince-harry-UK-return-latest",
+    "original_title": "Dog expert says check 'hidden' spots for blood-sucking parasite after RSPCA warning",
+    "url": "https://www.express.co.uk/news/uk/2241305/dog-expert-says-check-hidden-spots-rspca",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "‘Real reason’ Prince Harry wants to return to the UK - and it’s not about King Charles",
-    "score": 1
-  },
-  {
-    "original_title": "Donald Trump warns midterm defeat could lead to his impeachment in rally speech",
-    "url": "https://www.express.co.uk/news/world/2241608/donald-trump-midterm-defeat-impeachment",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Donald Trump warns midterm defeat could lead to his impeachment in rally speech",
-    "score": 4
-  },
-  {
-    "original_title": "Meghan Markle’s acting comeback ‘axed’ after fierce backlash over Netflix role",
-    "url": "https://www.express.co.uk/news/royal/2241606/meghan-markles-acting-comeback-axed",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Meghan Markle’s acting comeback ‘axed’ after fierce backlash over Netflix role",
-    "score": 1
-  },
-  {
-    "original_title": "Trump shares image calling Hormuz 'new US territory'; Iran says strait 'closed'",
-    "url": "https://timesofindia.indiatimes.com/world/us/trump-shares-image-calling-hormuz-new-us-territory-iran-says-strait-closed/articleshow/133432963.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Trump shares image calling Hormuz 'new US territory'; Iran says strait 'closed'",
-    "score": 1
-  },
-  {
-    "original_title": "Gujarat store owner shot dead in US in front of 19-year-old daughter",
-    "url": "https://timesofindia.indiatimes.com/city/ahmedabad/gujarati-store-owner-shot-dead-in-us-19-year-old-daughter-standing-next-to-him-escapes-unharmed/articleshow/133433493.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Gujarat store owner shot dead in US in front of 19-year-old daughter",
-    "score": 1
-  },
-  {
-    "original_title": "Ganpati idol falls during procession in Mumbai; 2 dead, 5 injured",
-    "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-ganpati-idol-falls-during-procession-two-dead-five-injured/articleshow/133430250.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Ganpati idol falls during procession in Mumbai; 2 dead, 5 injured",
-    "score": 2
-  },
-  {
-    "original_title": "India seek 2-0 sweep: Gill, Jaiswal look to bounce back; Kuldeep to miss out?",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/india-seek-2-0-sweep-shubman-gill-yashasvi-jaiswal-look-to-bounce-back-kuldeep-to-miss-out/articleshow/133433181.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "India seek 2-0 sweep: Gill, Jaiswal look to bounce back; Kuldeep to miss out?",
-    "score": 2
-  },
-  {
-    "original_title": "'Vanished from tracking system': How Panama-flagged cargo ship sank off Odisha coast",
-    "url": "https://timesofindia.indiatimes.com/india/vanished-from-tracking-system-how-panama-flagged-cargo-ship-with-24-on-board-sank-off-odisha-coast/articleshow/133432951.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "'Vanished from tracking system': How Panama-flagged cargo ship sank off Odisha coast",
+    "title": "Dog expert says check 'hidden' spots for blood-sucking parasite after RSPCA warning",
     "score": 6
   },
   {
-    "original_title": "Zohran Mamdani’s office skips City Council meeting on ‘second home tax’",
-    "url": "https://timesofindia.indiatimes.com/technology/tech-news/mayor-zohran-mamdanis-office-decides-to-skip-in-person-appearance-at-city-council-meeting-for-which-council-members-complied-pages-and-pages-of-questions-about-rollout-of-second-house-tax-in-the-hope-that-/articleshow/133420431.cms",
+    "original_title": "Government urged to prioritise sun safety as NHS spends £2m daily on skin cancer",
+    "url": "https://www.express.co.uk/news/uk/2241077/skin-cancer-VAT-campaign",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Government urged to prioritise sun safety as NHS spends £2m daily on skin cancer",
+    "score": 8
+  },
+  {
+    "original_title": "Harry just did a Keir Starmer - does he think we've forgotten what he said about the UK",
+    "url": "https://www.express.co.uk/news/royal/2241055/prince-harry-uk-claims-u-turn-starmer",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Harry just did a Keir Starmer - does he think we've forgotten what he said about the UK",
+    "score": 3
+  },
+  {
+    "original_title": "‘Who would apply medicine to child’s blisters?’ Delhi techie killed over chore; wife, in-laws held",
+    "url": "https://timesofindia.indiatimes.com/city/delhi/who-would-apply-medicine-to-childs-blisters-delhi-techie-killed-after-row-over-chore-wife-3-held/articleshow/133433250.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Zohran Mamdani’s office skips City Council meeting on ‘second home tax’",
+    "title": "‘Who would apply medicine to child’s blisters?’ Delhi techie killed over chore; wife, in-laws held",
+    "score": 9
+  },
+  {
+    "original_title": "Christ University files complaint after ABVP gherao, vandalism, assault on guards",
+    "url": "https://timesofindia.indiatimes.com/city/noida/christ-university-files-complaint-after-abvp-gherao-alleges-vandalism-assault-on-guards/articleshow/133430047.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Christ University files complaint after ABVP gherao, vandalism, assault on guards",
+    "score": 5
+  },
+  {
+    "original_title": "'Masters in our own home': Canada PM Carney explains why talks with US were suspended",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/masters-in-our-own-home-canada-pm-carney-explains-why-trade-talks-with-us-were-suspended/articleshow/133433826.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "'Masters in our own home': Canada PM Carney explains why talks with US were suspended",
+    "score": 1
+  },
+  {
+    "original_title": "Reddy denied US visit, Gujarat CM cleared: Overseas Congress alleges ‘double standard’",
+    "url": "https://timesofindia.indiatimes.com/india/double-standard-overseas-congress-on-denial-to-revanth-reddy-nod-for-gujarat-cms-us-visit/articleshow/133433750.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Reddy denied US visit, Gujarat CM cleared: Overseas Congress alleges ‘double standard’",
+    "score": 9
+  },
+  {
+    "original_title": "Microsoft has a 6-word answer for students wondering if coding is still worth it",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-to-all-the-students-wondering-whether-it-still-is-worth-learning-how-to-code-the-answer-is-now/articleshow/133433932.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Microsoft has a 6-word answer for students wondering if coding is still worth it",
+    "score": 1
+  },
+  {
+    "original_title": "Saransh Jain makes India debut at 33: Who is the allrounder taking on Sri Lanka?",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/saransh-jain-makes-india-debut-at-33-who-is-the-madhya-pradesh-allrounder-taking-on-sri-lanka/articleshow/133434166.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Saransh Jain makes India debut at 33: Who is the allrounder taking on Sri Lanka?",
     "score": 9
   },
   {
@@ -517,7 +517,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Chinese humanoid robot breaks 100m sprint record set by Usain Bolt",
-    "score": 3
+    "score": 9
   },
   {
     "original_title": "Postal Service publishes mail-in voting rule despite court injunctions",
@@ -525,7 +525,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Postal Service publishes mail-in voting rule despite court injunctions",
-    "score": 6
+    "score": 2
   },
   {
     "original_title": "Meghan Markle casting in Netflix show withdrawn amid intense backlash",
@@ -533,7 +533,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Meghan Markle casting in Netflix show withdrawn amid intense backlash",
-    "score": 2
+    "score": 3
   },
   {
     "original_title": "Winston, Giants dismantle Dolphins in preseason triumph",
@@ -541,7 +541,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Winston, Giants dismantle Dolphins in preseason triumph",
-    "score": 8
+    "score": 7
   },
   {
     "original_title": "Tropical Storm Moke forecast to cause heavy rain, flooding in Hawaii",
@@ -549,7 +549,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Tropical Storm Moke forecast to cause heavy rain, flooding in Hawaii",
-    "score": 6
+    "score": 1
   },
   {
     "original_title": "Karmelo Anthony denied bid for new trial in killing of Austin Metcalf",
@@ -557,7 +557,23 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Karmelo Anthony denied bid for new trial in killing of Austin Metcalf",
-    "score": 9
+    "score": 6
+  },
+  {
+    "original_title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
+    "score": 7
+  },
+  {
+    "original_title": "In rural Chad, solar kiosks bring healthcare closer",
+    "url": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "In rural Chad, solar kiosks bring healthcare closer",
+    "score": 2
   },
   {
     "original_title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
@@ -565,7 +581,7 @@
     "domain": "aljazeera.com",
     "region": "GLOBAL",
     "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
-    "score": 9
+    "score": 3
   },
   {
     "original_title": "Canada to hit US with retaliatory tariffs as trade war escalates",
@@ -573,7 +589,7 @@
     "domain": "aljazeera.com",
     "region": "GLOBAL",
     "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
-    "score": 3
+    "score": 5
   },
   {
     "original_title": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
@@ -581,7 +597,7 @@
     "domain": "aljazeera.com",
     "region": "GLOBAL",
     "title": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
-    "score": 7
+    "score": 4
   },
   {
     "original_title": "Iran war live: Tehran warns neighbours against joining US economic war",
@@ -589,23 +605,15 @@
     "domain": "aljazeera.com",
     "region": "GLOBAL",
     "title": "Iran war live: Tehran warns neighbours against joining US economic war",
-    "score": 3
-  },
-  {
-    "original_title": "Iran threatens countries that join US ‘economic D-Day’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Iran threatens countries that join US ‘economic D-Day’",
     "score": 4
   },
   {
-    "original_title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
-    "url": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "Latest news bulletin | August 23rd, 2026 – Morning",
+    "url": "http://www.euronews.com/video/2026/08/23/latest-news-bulletin-august-23rd-2026-morning",
+    "domain": "euronews.com",
     "region": "GLOBAL",
-    "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
-    "score": 1
+    "title": "Latest news bulletin | August 23rd, 2026 – Morning",
+    "score": 7
   },
   {
     "original_title": "Latest news bulletin | August 22nd, 2026 – Evening",
@@ -613,7 +621,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Latest news bulletin | August 22nd, 2026 – Evening",
-    "score": 4
+    "score": 5
   },
   {
     "original_title": "White House ballroom will cost nearly $400m as Supreme Court allows work to continue",
@@ -621,7 +629,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "White House ballroom will cost nearly $400m as Supreme Court allows work to continue",
-    "score": 4
+    "score": 3
   },
   {
     "original_title": "Latest news bulletin | August 22nd, 2026 – Midday",
@@ -629,14 +637,6 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Latest news bulletin | August 22nd, 2026 – Midday",
-    "score": 3
-  },
-  {
-    "original_title": "TikTok agrees to pay $400 million to settle US children's privacy lawsuit",
-    "url": "http://www.euronews.com/2026/08/22/tiktok-agrees-to-pay-400-million-to-settle-us-childrens-privacy-lawsuit",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "TikTok agrees to pay $400 million to settle US children's privacy lawsuit",
-    "score": 5
+    "score": 2
   }
 ]
