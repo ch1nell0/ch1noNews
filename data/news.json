@@ -1,11 +1,27 @@
 [
   {
+    "original_title": "Monica Bellucci: “Oggi non farei Irréversible. Tim Burton? Dalle relazioni imparo sempre qualcosa”",
+    "url": "https://www.repubblica.it/spettacoli/cinema/2026/08/25/news/monica_bellucci_film_kettice_premio_locarno_intervista-425544681/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Monica Bellucci: “Oggi non farei Irréversible. Tim Burton? Dalle relazioni imparo sempre qualcosa”",
+    "score": 1
+  },
+  {
+    "original_title": "Il furto al Museo di Messina, un custode indagato per false dichiarazioni. L’ombra di una talpa",
+    "url": "https://palermo.repubblica.it/cronaca/2026/08/25/news/furto_museo_messina_custode_indagato_falso-425545447/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Il furto al Museo di Messina, un custode indagato per false dichiarazioni. L’ombra di una talpa",
+    "score": 1
+  },
+  {
     "original_title": "Ho scritto calcio sulla sabbia",
     "url": "https://www.repubblica.it/sport/rubriche/la-finestra-sul-cortile/2026/08/25/news/guardiola_calcio_sabbia_premier_league_possesso_palla-425545432/",
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Ho scritto calcio sulla sabbia",
-    "score": 3
+    "score": 5
   },
   {
     "original_title": "Amatrice, quegli applausi a Meloni e l’alert del sindaco a Chigi: “Fermate i contestatori”",
@@ -24,28 +40,36 @@
     "score": 8
   },
   {
-    "original_title": "Volker: “La Nato deve creare una no fly zone sull’Ucraina”",
-    "url": "https://www.repubblica.it/esteri/2026/08/25/news/volker_intervista_nato_creare_no_fly_zone_ucraina-425545240/",
-    "domain": "repubblica.it",
+    "original_title": "L’Iran recluta giovani vulnerabili per eseguire attacchi terroristici in Europa: i casi di Foxtrot e Rumba",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/25/iran-bande-criminali-attacchi-israeliani-notizie/8484562/",
+    "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Volker: “La Nato deve creare una no fly zone sull’Ucraina”",
-    "score": 8
+    "title": "L’Iran recluta giovani vulnerabili per eseguire attacchi terroristici in Europa: i casi di Foxtrot e Rumba",
+    "score": 6
   },
   {
-    "original_title": "Ucraina, i primi umani uccisi da un drone comandato dall’IA",
-    "url": "https://www.repubblica.it/esteri/2026/08/25/news/ucraina_prime_persone_uccise_drone_comandato_ia-425545260/",
-    "domain": "repubblica.it",
+    "original_title": "La morte del prof Arday porta a galla l’ipotesi di una rete di ricchi reazionari: emergono rivelazioni inquietanti",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/25/caso-jason-arday-ambasciatore-usa-ghent-notizie/8486584/",
+    "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Ucraina, i primi umani uccisi da un drone comandato dall’IA",
-    "score": 8
-  },
-  {
-    "original_title": "La morsa americana sull’Iran, sanzioni su tech e commercio: “Puniremo chiunque lo aiuti”",
-    "url": "https://www.repubblica.it/esteri/2026/08/25/news/usa_iran_sanzioni_tech_commercio_cosa_prevedono-425545250/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "La morsa americana sull’Iran, sanzioni su tech e commercio: “Puniremo chiunque lo aiuti”",
+    "title": "La morte del prof Arday porta a galla l’ipotesi di una rete di ricchi reazionari: emergono rivelazioni inquietanti",
     "score": 3
+  },
+  {
+    "original_title": "Nouri al Jarrah e ‘I ragazzi di Damasco’: una città che ha fatto nascere abitanti e invasori",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/25/nouri-al-jarrah-ragazzi-damasco-poesia-notizie/8486664/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Nouri al Jarrah e ‘I ragazzi di Damasco’: una città che ha fatto nascere abitanti e invasori",
+    "score": 3
+  },
+  {
+    "original_title": "Che priorità danno alla crisi climatica i vari leader politici? Un piccolo vademecum",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/25/crisi-climatica-partiti-italiani-priorita-notizie/8484181/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Che priorità danno alla crisi climatica i vari leader politici? Un piccolo vademecum",
+    "score": 7
   },
   {
     "original_title": "Fu licenziata dal Washington Post per i post su Charlie Kirk, l’editorialista Karen Attiah dovrà essere reintegrata",
@@ -53,7 +77,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Fu licenziata dal Washington Post per i post su Charlie Kirk, l’editorialista Karen Attiah dovrà essere reintegrata",
-    "score": 4
+    "score": 8
   },
   {
     "original_title": "“Positivo alla difterite il campione della bimba morta a Palermo”. L’Iss: “Nessuna correlazione tra vaccino e autismo”",
@@ -61,39 +85,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "“Positivo alla difterite il campione della bimba morta a Palermo”. L’Iss: “Nessuna correlazione tra vaccino e autismo”",
-    "score": 7
-  },
-  {
-    "original_title": "Dalla plastica ai biscotti: i lieviti che trasformano i rifiuti in cibo. Lo studio sostenuto dalla Nasa",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/24/dalla-plastica-ai-biscotti-i-lieviti-che-trasformano-i-rifiuti-in-cibo-lo-studio-sostenuto-dalla-nasa/8487221/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Dalla plastica ai biscotti: i lieviti che trasformano i rifiuti in cibo. Lo studio sostenuto dalla Nasa",
-    "score": 1
-  },
-  {
-    "original_title": "Sanzioni all’Iran, gli Usa lanciano l’Operation Economic Outcast: “Taglieremo ogni sostegno al regime. Cina? Colpiamo chiunque faccia affari con Teheran”",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/24/sanzioni-iran-usa-operation-economic-outcast-notizie/8487140/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Sanzioni all’Iran, gli Usa lanciano l’Operation Economic Outcast: “Taglieremo ogni sostegno al regime. Cina? Colpiamo chiunque faccia affari con Teheran”",
     "score": 9
-  },
-  {
-    "original_title": "Stop agli smartphone nelle scuole superiori in Francia. Le scuole protestano: “Timing sbagliato”",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/24/divieto-smartphone-scuole-superiori-francia-notizie/8487097/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Stop agli smartphone nelle scuole superiori in Francia. Le scuole protestano: “Timing sbagliato”",
-    "score": 5
-  },
-  {
-    "original_title": "Morta a 92 anni Bice Bochicchio, era la madre di Gabriele Paolini: la Procura dispone l’autopsia",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/24/bice-bochicchio-morte-autopsia-notizie/8487107/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Morta a 92 anni Bice Bochicchio, era la madre di Gabriele Paolini: la Procura dispone l’autopsia",
-    "score": 5
   },
   {
     "original_title": "È online lo speciale Back to School di ANSA.it",
@@ -101,38 +93,38 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "È online lo speciale Back to School di ANSA.it",
-    "score": 9
+    "score": 8
   },
   {
-    "original_title": "Scoperta la stella più veloce della Via Lattea, sfreccia a 25mila km al secondo",
-    "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/24/scoperta-la-stella-piu-veloce-della-via-lattea-sfreccia-a-25mila-km-al-secondo_27599392-5dda-4a15-9060-bea4e6b6fb7e.html",
+    "original_title": "Riparte la stagione calda dei live, Jova al Circo Massimo e Guetta a Milano",
+    "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/24/riparte-la-stagione-calda-dei-live-jova-al-circo-massimo-e-guetta-a-milano_b5528f57-03aa-4abd-99ce-212f90922cfd.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Scoperta la stella più veloce della Via Lattea, sfreccia a 25mila km al secondo",
-    "score": 5
+    "title": "Riparte la stagione calda dei live, Jova al Circo Massimo e Guetta a Milano",
+    "score": 2
   },
   {
-    "original_title": "Parigi città della moda, i 5 musei da non perdere + 1 mostra",
-    "url": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/08/24/parigi-citta-della-moda-i-5-musei-da-non-perdere-1-mostra_56b91f42-65f0-4e4f-a55b-9ab8b83c10ca.html",
+    "original_title": "'ChatGpt for Teens', gli esperti di sicurezza chiedono più tutele per i ragazzi",
+    "url": "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/08/24/chatgpt-for-teens-gli-esperti-di-sicurezza-chiedono-piu-tutele-per_948445e8-5152-406d-88bd-7bdccf87fc90.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Parigi città della moda, i 5 musei da non perdere + 1 mostra",
-    "score": 9
+    "title": "'ChatGpt for Teens', gli esperti di sicurezza chiedono più tutele per i ragazzi",
+    "score": 1
   },
   {
-    "original_title": "Detection e crime, le novità di stagione per il filone più amato della fiction",
-    "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/08/23/detection-e-crime-le-novita-di-stagione-per-il-filone-piu-amato-della-fiction_81ea8a56-0582-41e7-a2a7-6ba9f7ce5c74.html",
+    "original_title": "Spider-Man pronto a rubare il posto Titanic tra i cinque film più redditizi di sempre",
+    "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/08/24/spider-man-pronto-a-rubare-il-posto-titanic-tra-i-cinque-film-piu_26d0aed1-841f-4908-9244-12dec51d9a10.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Detection e crime, le novità di stagione per il filone più amato della fiction",
-    "score": 3
+    "title": "Spider-Man pronto a rubare il posto Titanic tra i cinque film più redditizi di sempre",
+    "score": 7
   },
   {
-    "original_title": "Vassily Kandinsky torna a Roma dopo 25 anni, tra consacrazione e scoperta",
-    "url": "https://www.ansa.it/canale_viaggi/regione/lazio/2026/08/23/vassily-kandinsky-torna-a-roma-dopo-25-anni-tra-consacrazione-e-scoperta_d552bf9b-bca9-4da3-bdbe-b77a6e27acce.html",
+    "original_title": "450 anni senza Tiziano, primo pittore europeo e innovatore del paesaggio",
+    "url": "https://www.ansa.it/canale_viaggi/notizie/arte/2026/08/24/450-anni-senza-tiziano-primo-pittore-europeo-e-innovatore-del-paesaggio_c650d8dd-d305-4cce-90fa-ab500cd222cd.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Vassily Kandinsky torna a Roma dopo 25 anni, tra consacrazione e scoperta",
+    "title": "450 anni senza Tiziano, primo pittore europeo e innovatore del paesaggio",
     "score": 7
   },
   {
@@ -144,12 +136,36 @@
     "score": 7
   },
   {
+    "original_title": "Lorenzo Riva: «Finalmente ritorno a scuola ma Sofia non sarà lì. A Crans ho perso la mia migliore amica»",
+    "url": "https://www.ilmessaggero.it/persone/crans_montana_lorenzo_riva_torno_a_scuola_perso_migiore_amica_quella_notte-9723512.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Lorenzo Riva: «Finalmente ritorno a scuola ma Sofia non sarà lì. A Crans ho perso la mia migliore amica»",
+    "score": 5
+  },
+  {
+    "original_title": "Rottamazione, 730, Iva e ritenute: tutte le scadenze fiscali di settembre. Il calendario",
+    "url": "https://www.ilmessaggero.it/economia/schede/rottamazione_730_iva_ritenute_scadenze_fiscali_settembre_2026_calendario-9723445.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Rottamazione, 730, Iva e ritenute: tutte le scadenze fiscali di settembre. Il calendario",
+    "score": 1
+  },
+  {
+    "original_title": "Un nuovo incarico per Ranucci, vertice in Rai per il post-Report",
+    "url": "https://www.ilmessaggero.it/politica/ranucci_report_chi_conduce_rai_ultime_notizie-9723566.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Un nuovo incarico per Ranucci, vertice in Rai per il post-Report",
+    "score": 6
+  },
+  {
     "original_title": "Guerra Ucraina e armi a Kiev, frenata di Meloni. Giallo sul nuovo pacchetto di aiuti",
     "url": "https://www.ilmessaggero.it/politica/guerra_ucraina_armi_italia_frenata_meloni_giallo_nuovo_pacchetto_di_aiuti-9723493.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Guerra Ucraina e armi a Kiev, frenata di Meloni. Giallo sul nuovo pacchetto di aiuti",
-    "score": 1
+    "score": 3
   },
   {
     "original_title": "Russia, file chilometriche ai distributori di benzina: la frustrazione dei russi minaccia la popolarità di Putin",
@@ -160,36 +176,36 @@
     "score": 6
   },
   {
-    "original_title": "Artico, la minaccia russa spinge l'Islanda (unico paese Nato senza esercito) ad armarsi: il piano per reclutare 44mila soldati",
-    "url": "https://www.ilmessaggero.it/mondo/russia_minaccia_islanda_sicurezza_nato_artico-9723437.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Artico, la minaccia russa spinge l'Islanda (unico paese Nato senza esercito) ad armarsi: il piano per reclutare 44mila soldati",
-    "score": 8
-  },
-  {
     "original_title": "Usa, scatta il D-Day economico. Bessent: «Colpiremo i Paesi che riciclano denaro per l?Iran»",
     "url": "https://www.ilmessaggero.it/mondo/usa_iran_d_day_economico_bessent_colpiremo_paesi_cosa_cambia-9723476.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Usa, scatta il D-Day economico. Bessent: «Colpiremo i Paesi che riciclano denaro per l?Iran»",
-    "score": 1
+    "score": 5
   },
   {
-    "original_title": "Trump, visti Usa a rischio per 200mila stranieri che hanno chiesto asilo: possibile revoca di massa",
-    "url": "https://www.ilmessaggero.it/mondo/trump_espelle_migranti_visti_rischio_stanieri_cosa_succede-9723567.html",
-    "domain": "ilmessaggero.it",
+    "original_title": "Ucraina, l’Italia si sfila dai «volenterosi». La cautela di Meloni: niente armi a Kiev ma generatori – La diretta",
+    "url": "https://www.open.online/2026/08/25/ucraina-russia-aggiornamenti-25-agosto/",
+    "domain": "open.online",
     "region": "IT",
-    "title": "Trump, visti Usa a rischio per 200mila stranieri che hanno chiesto asilo: possibile revoca di massa",
+    "title": "Ucraina, l’Italia si sfila dai «volenterosi». La cautela di Meloni: niente armi a Kiev ma generatori – La diretta",
+    "score": 5
+  },
+  {
+    "original_title": "Perché ad Amatrice non hanno fischiato a Meloni (come a Taranto). Il retroscena di Repubblica e quel suggerimento sui contestatori",
+    "url": "https://www.open.online/2026/08/25/giorgia-meloni-applausi-amatrici-non-fischi-taranto-retroscena-repubblica/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Perché ad Amatrice non hanno fischiato a Meloni (come a Taranto). Il retroscena di Repubblica e quel suggerimento sui contestatori",
     "score": 6
   },
   {
-    "original_title": "Data center, boom di investimenti. Ma adesso l?economia Usa rischia",
-    "url": "https://www.ilmessaggero.it/economia/data_center_boom_di_investimenti_ma_adesso_economia_usa_rischia-9723539.html",
-    "domain": "ilmessaggero.it",
+    "original_title": "La Rai pronta a rimuovere Ranucci da Report. Corsini sul sostituto: «Non faremo scelte marziane»",
+    "url": "https://www.open.online/2026/08/25/rai-rimozione-ranucci-conduzione-report/",
+    "domain": "open.online",
     "region": "IT",
-    "title": "Data center, boom di investimenti. Ma adesso l?economia Usa rischia",
-    "score": 1
+    "title": "La Rai pronta a rimuovere Ranucci da Report. Corsini sul sostituto: «Non faremo scelte marziane»",
+    "score": 7
   },
   {
     "original_title": "Nascondeva i sonniferi nel cibo del marito e poi lo derubava: arrestata una 57enne a Genova",
@@ -197,7 +213,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Nascondeva i sonniferi nel cibo del marito e poi lo derubava: arrestata una 57enne a Genova",
-    "score": 2
+    "score": 3
   },
   {
     "original_title": "Donald Trump è a un passo dall’obesità. La preoccupazione dei medici sui 10 chili in più da quando è tornato alla Casa Bianca",
@@ -213,31 +229,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Mangiano nel ristorante chiuso e prima di andarsene puliscono tutto. Il titolare pubblica i filmati: «Siete un esempio» – Il video",
-    "score": 6
-  },
-  {
-    "original_title": "In Abruzzo c’è un paese dove il pieno costa 20 centesimi in meno: cos’è la «benzina del sindaco» e da dove arriva l’idea",
-    "url": "https://www.open.online/2026/08/24/valle-castellana-abruzzo-benzina-sindaco-caro-carburanti/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "In Abruzzo c’è un paese dove il pieno costa 20 centesimi in meno: cos’è la «benzina del sindaco» e da dove arriva l’idea",
-    "score": 2
-  },
-  {
-    "original_title": "Gli Usa lanciano il piano per «soffocare» l’Iran. Raffica di sanzioni a chi aiuta il regime: «Nessuno escluso, neanche la Cina»",
-    "url": "https://www.open.online/2026/08/24/piano-usa-sanzioni-economia-iran/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Gli Usa lanciano il piano per «soffocare» l’Iran. Raffica di sanzioni a chi aiuta il regime: «Nessuno escluso, neanche la Cina»",
-    "score": 2
-  },
-  {
-    "original_title": "Bologna 2027, l’incognita Vannacci e i dubbi del centrodestra: caccia al nome per sfidare Lepore, che deve ricucire a sinistra",
-    "url": "https://www.open.online/2026/08/24/bologna-comunali-2027-lepore-vannacci-candidati/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Bologna 2027, l’incognita Vannacci e i dubbi del centrodestra: caccia al nome per sfidare Lepore, che deve ricucire a sinistra",
-    "score": 1
+    "score": 4
   },
   {
     "original_title": "Borseggiatrici fermate dalla polizia a Rialto, giravano con l'ecografia nello zaino: «Siamo incinte». Due minorenni portate in comunità",
@@ -253,7 +245,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Tania Terrin uccisa dall'ex, la conferma dall'autopsia: non è riuscita a difendersi",
-    "score": 4
+    "score": 1
   },
   {
     "original_title": "Luca Martello, il sindaco di Vigonovo: «Giulia Cecchettin, Giada Zanola e Tania Terrin: quelle donne che potevano essere salvate»",
@@ -261,15 +253,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Luca Martello, il sindaco di Vigonovo: «Giulia Cecchettin, Giada Zanola e Tania Terrin: quelle donne che potevano essere salvate»",
-    "score": 6
-  },
-  {
-    "original_title": "Moschea in via Giustizia, Venturini frena: «La comunità bengalese deve ancora fare passi avanti per l?integrazione»",
-    "url": "https://www.ilgazzettino.it/nordest/venezia/moschea_via_giustizia_tavolo_confronto_integrazione_venturini_cosa_ha_dettp-9723429.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Moschea in via Giustizia, Venturini frena: «La comunità bengalese deve ancora fare passi avanti per l?integrazione»",
-    "score": 4
+    "score": 9
   },
   {
     "original_title": "Anziano buttato in acqua dai maranza, presi i bulli: «Una bravata». La nipote dell'80enne: Per salvarsi si è aggrappato alle bricole sfregiandosi le gambe",
@@ -277,15 +261,23 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Anziano buttato in acqua dai maranza, presi i bulli: «Una bravata». La nipote dell'80enne: Per salvarsi si è aggrappato alle bricole sfregiandosi le gambe",
-    "score": 7
+    "score": 4
   },
   {
-    "original_title": "Senza un lavoro e senza reddito, cerca di farsi arrestare rubando una volante: 35enne finisce in manette, ma il giudice lo scagiona",
-    "url": "https://www.ilgazzettino.it/nordest/rovigo/senza_lavoro_reddito_si_fa_arrestare_giudice_lo_scagiona-9723231.html",
+    "original_title": "Emanuele è appassionato di cosplay, ma sui social viene insultato e deriso: «Discriminato perché sono disabile». Scatta la denuncia",
+    "url": "https://www.ilgazzettino.it/nordest/padova/cosplay_insultato_social_disabile-9723305.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Senza un lavoro e senza reddito, cerca di farsi arrestare rubando una volante: 35enne finisce in manette, ma il giudice lo scagiona",
-    "score": 5
+    "title": "Emanuele è appassionato di cosplay, ma sui social viene insultato e deriso: «Discriminato perché sono disabile». Scatta la denuncia",
+    "score": 2
+  },
+  {
+    "original_title": "Moschea in via Giustizia, Venturini frena: «La comunità bengalese deve ancora fare passi avanti per l?integrazione»",
+    "url": "https://www.ilgazzettino.it/nordest/venezia/moschea_via_giustizia_tavolo_confronto_integrazione_venturini_cosa_ha_dettp-9723429.html",
+    "domain": "ilgazzettino.it",
+    "region": "IT",
+    "title": "Moschea in via Giustizia, Venturini frena: «La comunità bengalese deve ancora fare passi avanti per l?integrazione»",
+    "score": 2
   },
   {
     "original_title": "Campania, caro scuola: stangata di settembre su libri, zaini e astucci",
@@ -293,7 +285,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Campania, caro scuola: stangata di settembre su libri, zaini e astucci",
-    "score": 7
+    "score": 4
   },
   {
     "original_title": "La piazza degli invisibili, clochard ucciso a Caserta per un debito di 50 euro",
@@ -309,7 +301,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Data center, il Sud hub digitale proiettato verso il Mediterraneo",
-    "score": 3
+    "score": 8
   },
   {
     "original_title": "Bradisismo, Roberto Castelluccio: «Il suolo continua a salire ora servono interventi»",
@@ -317,31 +309,39 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Bradisismo, Roberto Castelluccio: «Il suolo continua a salire ora servono interventi»",
+    "score": 9
+  },
+  {
+    "original_title": "Video choc a Capri: rissa con calci e sedie tra turisti e commercianti",
+    "url": "https://www.ilmattino.it/napoli/area_metropolitana/video_choc_capri_rissa_calci_sedie_turisti_commercianti-9723486.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Video choc a Capri: rissa con calci e sedie tra turisti e commercianti",
     "score": 5
   },
   {
-    "original_title": "Organised crime arrests as police investigate A66 crash that killed two officers",
-    "url": "https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&at_campaign=rss",
+    "original_title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+    "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+    "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+    "score": 9
+  },
+  {
+    "original_title": "More than 70,000 social and affordable homes to be built across England",
+    "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "More than 70,000 social and affordable homes to be built across England",
+    "score": 1
+  },
+  {
+    "original_title": "Lockerbie bombing trial postponed days before it was due to start",
+    "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Lockerbie bombing trial postponed days before it was due to start",
     "score": 8
-  },
-  {
-    "original_title": "How the deadly A66 crash unfolded leaving seven dead",
-    "url": "https://www.bbc.co.uk/news/videos/cvgyx7yzejpo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "How the deadly A66 crash unfolded leaving seven dead",
-    "score": 4
-  },
-  {
-    "original_title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-    "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-    "score": 4
   },
   {
     "original_title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
@@ -349,62 +349,86 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
-    "score": 3
+    "score": 9
   },
   {
-    "original_title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-    "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-    "score": 1
-  },
-  {
-    "original_title": "The grieving family who says the coroner's courts aren't working",
+    "original_title": "The grieving family who say the coroner's courts aren't working",
     "url": "https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "The grieving family who says the coroner's courts aren't working",
-    "score": 1
-  },
-  {
-    "original_title": "Uber Eats delivery driver attacks Barstool employee in shocking, caught-on-camera brawl at NYC headquarters",
-    "url": "https://nypost.com/2026/08/24/us-news/uber-eats-delivery-driver-attacks-barstool-employee-in-shocking-caught-on-camera-brawl-at-nyc-headquarters/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Uber Eats delivery driver attacks Barstool employee in shocking, caught-on-camera brawl at NYC headquarters",
-    "score": 3
-  },
-  {
-    "original_title": "Freddie Freeman’s wife Chelsea looks healthy in white dress after hospital scare",
-    "url": "https://nypost.com/2026/08/24/sports/freddie-freemans-wife-chelsea-wears-white-dress-after-hospital-scare/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Freddie Freeman’s wife Chelsea looks healthy in white dress after hospital scare",
-    "score": 5
-  },
-  {
-    "original_title": "NYCFC keeping Nicolás Fernández Mercau despite transfer rumors",
-    "url": "https://nypost.com/2026/08/24/sports/nycfc-keeping-nicolas-fernandez-mercau-despite-transfer-rumors/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "NYCFC keeping Nicolás Fernández Mercau despite transfer rumors",
-    "score": 6
-  },
-  {
-    "original_title": "Dodgers star Kiké Hernández reveals the one Pokémon card he’ll chase ‘forever’",
-    "url": "https://nypost.com/2026/08/24/sports/kike-hernandez-reveals-pokemon-hobby-bond-with-daughter-and-the-card-hell-be-chasing-forever/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Dodgers star Kiké Hernández reveals the one Pokémon card he’ll chase ‘forever’",
+    "title": "The grieving family who say the coroner's courts aren't working",
     "score": 7
   },
   {
-    "original_title": "Simon Cowell’s sudden ‘America’s Got Talent’ absence comes with a painful backstory",
-    "url": "https://pagesix.com/2026/08/24/celebrity-news/simon-cowell-to-miss-weeks-of-agt-filming-as-old-injuries-send-him-to-surgery/",
+    "original_title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+    "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+    "score": 5
+  },
+  {
+    "original_title": "John Cusack stands in ‘solidarity’ with Mark Ruffalo amid Paramount’s antisemitism allegation",
+    "url": "https://pagesix.com/2026/08/25/entertainment/john-cusack-stands-in-solidarity-with-mark-ruffalo-amid-paramounts-antisemitism-allegation/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Simon Cowell’s sudden ‘America’s Got Talent’ absence comes with a painful backstory",
+    "title": "John Cusack stands in ‘solidarity’ with Mark Ruffalo amid Paramount’s antisemitism allegation",
+    "score": 1
+  },
+  {
+    "original_title": "‘National Treasure’ director predicts upcoming third film won’t be able to ‘ignore’ politics",
+    "url": "https://nypost.com/2026/08/25/media/national-treasure-director-jon-turteltaub-predicts-upcoming-third-film-wont-be-able-to-ignore-politics/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "‘National Treasure’ director predicts upcoming third film won’t be able to ‘ignore’ politics",
+    "score": 7
+  },
+  {
+    "original_title": "Victims of Oregon ‘quintuple’ murder-suicide ID’d as killer’s girlfriend and her relatives, friends, pets",
+    "url": "https://nypost.com/2026/08/25/us-news/victims-of-oregon-quintuple-murder-suicide-idd-as-killers-girlfriend-and-her-relatives-friends/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Victims of Oregon ‘quintuple’ murder-suicide ID’d as killer’s girlfriend and her relatives, friends, pets",
+    "score": 7
+  },
+  {
+    "original_title": "Little League breakout star Kinley Rasmus ties Mo’ne Davis record in latest gem",
+    "url": "https://nypost.com/2026/08/25/sports/little-league-breakout-star-kinley-rasmus-ties-mone-davis-record-in-latest-gem/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Little League breakout star Kinley Rasmus ties Mo’ne Davis record in latest gem",
+    "score": 1
+  },
+  {
+    "original_title": "Trump admin to target 200,000 foreigners in largest mass visa revocation ever: report",
+    "url": "https://nypost.com/2026/08/25/us-news/trump-admin-to-target-200000-foreigners-in-largest-mass-visa-revocation-ever-report/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Trump admin to target 200,000 foreigners in largest mass visa revocation ever: report",
+    "score": 8
+  },
+  {
+    "original_title": "'Multiple children and adults' killed in horror house fire and shooting in Montana",
+    "url": "https://www.express.co.uk/news/world/2242111/children-adults-killed-Montana-fire",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "'Multiple children and adults' killed in horror house fire and shooting in Montana",
+    "score": 2
+  },
+  {
+    "original_title": "Royal Family LIVE: Meghan faces brutal UK reality check as '2 things will ruin comeback'",
+    "url": "https://www.express.co.uk/news/royal/2242110/royal-family-live-meghan-markle-uk",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Royal Family LIVE: Meghan faces brutal UK reality check as '2 things will ruin comeback'",
+    "score": 3
+  },
+  {
+    "original_title": "Mystery as police find suspect linked to death of five people 180 miles away",
+    "url": "https://www.express.co.uk/news/us/2242109/mystery-police-find-suspect-linked",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Mystery as police find suspect linked to death of five people 180 miles away",
     "score": 2
   },
   {
@@ -413,7 +437,7 @@
     "domain": "express.co.uk",
     "region": "GLOBAL",
     "title": "Police find 'large quantity' of drugs buried underground at UK music festival site",
-    "score": 7
+    "score": 2
   },
   {
     "original_title": "BBC 'could axe' long-running TV show with millions of viewers by next year",
@@ -421,7 +445,7 @@
     "domain": "express.co.uk",
     "region": "GLOBAL",
     "title": "BBC 'could axe' long-running TV show with millions of viewers by next year",
-    "score": 6
+    "score": 2
   },
   {
     "original_title": "Britain's oldest cliff lift closed due to safety risk - first opened in 1875",
@@ -429,79 +453,71 @@
     "domain": "express.co.uk",
     "region": "GLOBAL",
     "title": "Britain's oldest cliff lift closed due to safety risk - first opened in 1875",
-    "score": 3
-  },
-  {
-    "original_title": "British holiday hotspot hell as tourists issued 'stay indoors' thunderstorm warning",
-    "url": "https://www.express.co.uk/news/world/2242104/british-holiday-hotspot-hell-tourists",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "British holiday hotspot hell as tourists issued 'stay indoors' thunderstorm warning",
-    "score": 3
-  },
-  {
-    "original_title": "Kremlin insider issues chilling threat to UK for 'semi-military' attack at key location",
-    "url": "https://www.express.co.uk/news/uk/2242103/kremlin-says-attack-on-uk-from-unknown",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Kremlin insider issues chilling threat to UK for 'semi-military' attack at key location",
-    "score": 7
-  },
-  {
-    "original_title": "Iran 'puts $10million bounty on Barron Trump's head' as chilling video says 'wait for us'",
-    "url": "https://www.express.co.uk/news/us/2242102/iran-video-barron-trump-bounty",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Iran 'puts $10million bounty on Barron Trump's head' as chilling video says 'wait for us'",
-    "score": 5
-  },
-  {
-    "original_title": "In a first, Census 2027 will not record data on begging",
-    "url": "https://timesofindia.indiatimes.com/india/in-a-first-census-2027-will-not-record-data-on-begging/articleshow/133479345.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "In a first, Census 2027 will not record data on begging",
     "score": 4
   },
   {
-    "original_title": "Heavy rain lashes Delhi-NCR; Gurgaon offices, schools shift to online mode",
-    "url": "https://timesofindia.indiatimes.com/city/delhi/heavy-rain-lashes-delhi-ncr-gurgaon-shifts-offices-schools-to-wfh-mode/articleshow/133486936.cms",
+    "original_title": "From Gen Z wave to heat in 150 days: Nepal PM Balen faces street anger, party unease",
+    "url": "https://timesofindia.indiatimes.com/world/south-asia/from-gen-z-wave-to-heat-in-150-days-nepal-pm-balen-faces-street-anger-parliament-pressure-and-party-unease/articleshow/133485397.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Heavy rain lashes Delhi-NCR; Gurgaon offices, schools shift to online mode",
+    "title": "From Gen Z wave to heat in 150 days: Nepal PM Balen faces street anger, party unease",
     "score": 5
   },
   {
-    "original_title": "Dera chief Ram Rahim granted 21-day parole, his 17th release since 2020",
-    "url": "https://timesofindia.indiatimes.com/city/chandigarh/dera-chief-ram-rahim-granted-21-day-parole-his-17th-release-since-2020/articleshow/133487509.cms",
+    "original_title": "Mojtaba Khamenei seen, heard in rare video amid health concerns",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/mojtaba-khamenei-seen-heard-in-rare-video-amid-health-concerns/articleshow/133494668.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Dera chief Ram Rahim granted 21-day parole, his 17th release since 2020",
-    "score": 7
-  },
-  {
-    "original_title": "'You’re going to get in trouble': Ex-cricketer warns Jaiswal after ugly clash",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/youre-going-to-get-in-trouble-ex-india-cricketer-warns-yashasvi-jaiswal-after-ugly-clash/articleshow/133486115.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "'You’re going to get in trouble': Ex-cricketer warns Jaiswal after ugly clash",
+    "title": "Mojtaba Khamenei seen, heard in rare video amid health concerns",
     "score": 1
   },
   {
-    "original_title": "Unusual rise in Turkish military flights to Pak surprises Indian defence circles",
-    "url": "https://timesofindia.indiatimes.com/india/repeated-trips-of-turkish-military-transport-planes-to-pak-between-aug-19-21-raise-eyebrows-in-india/articleshow/133478914.cms",
+    "original_title": "CCTV shows BJP MLA's daughter slapping cop at Karnataka temple",
+    "url": "https://timesofindia.indiatimes.com/city/bengaluru/cctv-shows-bjp-mlas-daughter-slapping-cop-at-karnataka-temple/articleshow/133488703.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Unusual rise in Turkish military flights to Pak surprises Indian defence circles",
+    "title": "CCTV shows BJP MLA's daughter slapping cop at Karnataka temple",
+    "score": 8
+  },
+  {
+    "original_title": "'State tried to airbrush Imran Khan out': Atherton on appeal for ex-Pakistan PM",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/state-tried-to-airbrush-imran-khan-out-of-existence-atherton-on-appeal-for-former-pakistan-pm/articleshow/133489095.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "'State tried to airbrush Imran Khan out': Atherton on appeal for ex-Pakistan PM",
     "score": 4
   },
   {
-    "original_title": "Sam Altman ‘worried’ Microsoft, Amazon, Google, Meta and Nvidia could control AI",
-    "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-amazon-google-meta-and-nvidia-sam-altman-is-worried-about-you-as-may-be-one-day-/articleshow/133487163.cms",
+    "original_title": "'Horrifying to the core': Gurgaon rain traps kids in school buses for over 7 hours",
+    "url": "https://timesofindia.indiatimes.com/city/gurgaon/horrifying-to-the-core-gurgaon-rain-traps-kids-in-school-buses-for-over-7-hours/articleshow/133489525.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Sam Altman ‘worried’ Microsoft, Amazon, Google, Meta and Nvidia could control AI",
+    "title": "'Horrifying to the core': Gurgaon rain traps kids in school buses for over 7 hours",
+    "score": 6
+  },
+  {
+    "original_title": "Anthropic's job interview has one question you cannot prepare for",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/at-claude-maker-anthropic-candidates-cannot-negotiate-on-salary-as-company-follows-standard-process-for-compensation-where-what-you-are-offered-is/articleshow/133490732.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Anthropic's job interview has one question you cannot prepare for",
     "score": 9
+  },
+  {
+    "original_title": "Pakistani, Iranian officials meet amid stalled talks with U.S.",
+    "url": "https://www.upi.com/Top_News/World-News/2026/08/25/pakistan-Iran-meeting-stalled-talks/3461787631609/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Pakistani, Iranian officials meet amid stalled talks with U.S.",
+    "score": 7
+  },
+  {
+    "original_title": "Projectile strikes, disables tanker near Strait of Hormuz",
+    "url": "https://www.upi.com/Top_News/World-News/2026/08/24/oman-Hormuz-tanker-attacked/9311787626785/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Projectile strikes, disables tanker near Strait of Hormuz",
+    "score": 6
   },
   {
     "original_title": "U.S. officially delists Syria as a state sponsor of terrorism",
@@ -509,7 +525,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "U.S. officially delists Syria as a state sponsor of terrorism",
-    "score": 2
+    "score": 3
   },
   {
     "original_title": "Supreme Court: Trump can start carrying out order restricting mail-in voting",
@@ -517,7 +533,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Supreme Court: Trump can start carrying out order restricting mail-in voting",
-    "score": 5
+    "score": 3
   },
   {
     "original_title": "Woman wanted in connection with husband’s death found dead, police say",
@@ -525,7 +541,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Woman wanted in connection with husband’s death found dead, police say",
-    "score": 1
+    "score": 8
   },
   {
     "original_title": "Former U.S. Senator Nancy Kassebaum of Kansas dies at 94",
@@ -533,23 +549,47 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Former U.S. Senator Nancy Kassebaum of Kansas dies at 94",
+    "score": 6
+  },
+  {
+    "original_title": "Two US carrier groups in Middle East strain navy resources",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/two-us-carrier-groups-in-middle-east-strain-navy-resources?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Two US carrier groups in Middle East strain navy resources",
+    "score": 4
+  },
+  {
+    "original_title": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
     "score": 9
   },
   {
-    "original_title": "Nevada sues Trump administration over mandated water reduction",
-    "url": "https://www.upi.com/Top_News/US/2026/08/24/nevada-lawsuit-trump-administration-colorado-river/7481787605040/",
-    "domain": "upi.com",
+    "original_title": "Syrian president thanks nation for getting off US state terror list",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Nevada sues Trump administration over mandated water reduction",
-    "score": 2
+    "title": "Syrian president thanks nation for getting off US state terror list",
+    "score": 4
   },
   {
-    "original_title": "Trump says he will impose higher tariffs on more Canadian products",
-    "url": "https://www.upi.com/Top_News/US/2026/08/24/trump-threatens-more-canada-tariffs/2581787603501/",
-    "domain": "upi.com",
+    "original_title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+    "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Trump says he will impose higher tariffs on more Canadian products",
-    "score": 6
+    "title": "France, Saudi Arabia agree on $7bn theme park project near Paris",
+    "score": 1
+  },
+  {
+    "original_title": "Rare tornado near Carcassonne in France causes damage and injuries",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rare-tornado-near-carcassonne-in-france-causes-damage-and-injuries?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Rare tornado near Carcassonne in France causes damage and injuries",
+    "score": 3
   },
   {
     "original_title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
@@ -557,86 +597,46 @@
     "domain": "aljazeera.com",
     "region": "GLOBAL",
     "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
-    "score": 8
-  },
-  {
-    "original_title": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters",
     "score": 5
   },
   {
-    "original_title": "Muslims celebrate Prophet Muhammad’s birthday",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "BREAKING: If Harry, Meghan Going To U.K., Then Heck, Rest Of America Going With ’Em!",
+    "url": "https://theonion.com/breaking-if-harry-meghan-going-to-u-k-then-heck-rest-of-america-going-with-em/",
+    "domain": "theonion.com",
     "region": "GLOBAL",
-    "title": "Muslims celebrate Prophet Muhammad’s birthday",
-    "score": 8
-  },
-  {
-    "original_title": "Man killed in world’s largest annual bullfighting event in Mexico",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Man killed in world’s largest annual bullfighting event in Mexico",
-    "score": 1
-  },
-  {
-    "original_title": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
-    "score": 2
-  },
-  {
-    "original_title": "Trump administration plans to revoke B1, B2 visas of 200,000 asylum seekers",
-    "url": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Trump administration plans to revoke B1, B2 visas of 200,000 asylum seekers",
-    "score": 3
-  },
-  {
-    "original_title": "US Treasury Secretary launches 'Operation Economic Outcast' aimed at isolating Iran",
-    "url": "http://www.euronews.com/2026/08/24/us-launches-operation-economic-outcast-as-washington-targets-irans-enablers",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "US Treasury Secretary launches 'Operation Economic Outcast' aimed at isolating Iran",
-    "score": 9
-  },
-  {
-    "original_title": "Latest news bulletin | August 24th, 2026 – Evening",
-    "url": "http://www.euronews.com/video/2026/08/24/latest-news-bulletin-august-24th-2026-evening",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Latest news bulletin | August 24th, 2026 – Evening",
-    "score": 7
-  },
-  {
-    "original_title": "Houthis claim strike on Saudi tanker in latest Red Sea escalation",
-    "url": "http://www.euronews.com/2026/08/24/houthis-claim-strike-on-saudi-tanker-in-latest-red-sea-escalation",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Houthis claim strike on Saudi tanker in latest Red Sea escalation",
-    "score": 9
-  },
-  {
-    "original_title": "Greta Thunberg joins 10,000 climate marchers in Stockholm",
-    "url": "http://www.euronews.com/video/2026/08/24/greta-thunberg-joins-10000-climate-marchers-in-stockholm",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Greta Thunberg joins 10,000 climate marchers in Stockholm",
+    "title": "BREAKING: If Harry, Meghan Going To U.K., Then Heck, Rest Of America Going With ’Em!",
     "score": 6
   },
   {
-    "original_title": "Trump threatens to double tariffs on Canadian vehicles to 50% after trade talks collapse",
-    "url": "http://www.euronews.com/2026/08/24/us-to-double-tariffs-on-canadian-vehicles-after-trade-talks-break-down-trump-says",
-    "domain": "euronews.com",
+    "original_title": "Energy Drinks: Myth Vs. Fact",
+    "url": "https://theonion.com/energy-drinks-myth-vs-fact/",
+    "domain": "theonion.com",
     "region": "GLOBAL",
-    "title": "Trump threatens to double tariffs on Canadian vehicles to 50% after trade talks collapse",
-    "score": 8
+    "title": "Energy Drinks: Myth Vs. Fact",
+    "score": 3
+  },
+  {
+    "original_title": "God Concerned By Q3 Circumcision Numbers",
+    "url": "https://theonion.com/god-concerned-by-q3-circumcision-numbers/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "God Concerned By Q3 Circumcision Numbers",
+    "score": 5
+  },
+  {
+    "original_title": "Biology Teacher Disappointed Nobody Did Assigned Summer Dissecting",
+    "url": "https://theonion.com/biology-teacher-disappointed-nobody-did-assigned-summer-dissecting/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "Biology Teacher Disappointed Nobody Did Assigned Summer Dissecting",
+    "score": 7
+  },
+  {
+    "original_title": "Trump Makes Repeated Verbal Flubs While Performing ‘Wild Wild West’ Theme Song",
+    "url": "https://theonion.com/trump-makes-repeated-verbal-flubs-while-performing-wild-wild-west-theme-song/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "Trump Makes Repeated Verbal Flubs While Performing ‘Wild Wild West’ Theme Song",
+    "score": 5
   }
 ]
