@@ -1,19 +1,43 @@
 [
   {
+    "original_title": "Ranucci contro la Rai: “Inaccettabile la mia rimozione da Report”. E chiede gli atti all’azienda",
+    "url": "https://roma.repubblica.it/cronaca/2026/08/29/news/ranucci_rai_rimozione_report_contestazione_legali_battaglia_giudiziaria-425554381/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Ranucci contro la Rai: “Inaccettabile la mia rimozione da Report”. E chiede gli atti all’azienda",
+    "score": 9
+  },
+  {
+    "original_title": "Udine, donna uccisa a coltellate: fermato il compagno",
+    "url": "https://www.repubblica.it/cronaca/2026/08/29/news/donna_uccisa_san_giovanni_udine_coltellate_femminicidio-425554313/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Udine, donna uccisa a coltellate: fermato il compagno",
+    "score": 4
+  },
+  {
     "original_title": "Il mondo politico si stringe attorno a Di Battista: “Forza Alessandro!”",
     "url": "https://www.repubblica.it/politica/2026/08/29/news/malore_alessandro_di_battista_cuba_reazioni-425554173/",
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Il mondo politico si stringe attorno a Di Battista: “Forza Alessandro!”",
-    "score": 2
+    "score": 3
   },
   {
-    "original_title": "Pogacar cade e si ritira dalla Vuelta: dolore a spalla e fianco sinistri, Mondiale a rischio",
+    "original_title": "La Sicilia brucia, 14 incendi in poche ore. A Ciminna un ragazzo si ustiona per liberare il suo cane",
+    "url": "https://palermo.repubblica.it/cronaca/2026/08/29/news/la_sicilia_brucia_14_incendi_in_un_pomeriggio_a_ciminna_i_residenti_fuggono_dalle_villette-425554106/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "La Sicilia brucia, 14 incendi in poche ore. A Ciminna un ragazzo si ustiona per liberare il suo cane",
+    "score": 4
+  },
+  {
+    "original_title": "Pogacar cade e si ritira dalla Vuelta: clavicola fratturata e trauma cranico, Mondiale addio",
     "url": "https://www.repubblica.it/sport/ciclismo/2026/08/29/news/pogacar_cade_si_ritira_vuelta_mondiale_rischio-425554064/",
     "domain": "repubblica.it",
     "region": "IT",
-    "title": "Pogacar cade e si ritira dalla Vuelta: dolore a spalla e fianco sinistri, Mondiale a rischio",
-    "score": 4
+    "title": "Pogacar cade e si ritira dalla Vuelta: clavicola fratturata e trauma cranico, Mondiale addio",
+    "score": 1
   },
   {
     "original_title": "La lite con Neymar e il sogno azzurro: chi è Robinho Jr, il figlio dell’ex Milan che andrà al Genoa",
@@ -21,31 +45,15 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "La lite con Neymar e il sogno azzurro: chi è Robinho Jr, il figlio dell’ex Milan che andrà al Genoa",
-    "score": 5
+    "score": 1
   },
   {
-    "original_title": "Avaria a bordo, il volo New York-Roma fa dietrofront sull’Atlantico: atterraggio in Canada",
-    "url": "https://www.repubblica.it/economia/2026/08/29/news/volo_new_york_roma_avaria_atterraggio_canada-425554041/",
-    "domain": "repubblica.it",
+    "original_title": "Morto il giornalista Pierluigi Bollettini: ha avuto un malore davanti allo stadio di Sassari",
+    "url": "https://www.ilfattoquotidiano.it/2026/08/29/pierluigi-bollettini-morte-stadio-sassari-notizie/8491811/",
+    "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Avaria a bordo, il volo New York-Roma fa dietrofront sull’Atlantico: atterraggio in Canada",
-    "score": 7
-  },
-  {
-    "original_title": "È morto Franco Fontana, il fotografo domatore dell’arcobaleno",
-    "url": "https://www.repubblica.it/cultura/2026/08/29/news/e_morto_franco_fontana_uno_dei_maestri_della_fotografia_italiana-425554029/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "È morto Franco Fontana, il fotografo domatore dell’arcobaleno",
-    "score": 3
-  },
-  {
-    "original_title": "“Potremmo prestare i fregi del Partenone”: il British Museum apre alla Grecia, Burnham frena",
-    "url": "https://www.repubblica.it/cultura/2026/08/29/news/potremmo_prestare_i_fregi_del_partenone_il_british_museum_apre_alla_grecia_burnham_frena-425554011/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "“Potremmo prestare i fregi del Partenone”: il British Museum apre alla Grecia, Burnham frena",
-    "score": 7
+    "title": "Morto il giornalista Pierluigi Bollettini: ha avuto un malore davanti allo stadio di Sassari",
+    "score": 9
   },
   {
     "original_title": "“Forza Ale!”, “Siamo con te”: dalla politica allo spettacolo, tutti i messaggi di sostegno per Alessandro Di Battista",
@@ -61,7 +69,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "“L’infortunio e l’assenza di Sinner? È una situazione un po’ strana, davvero particolare”: parla Alcaraz",
-    "score": 2
+    "score": 5
   },
   {
     "original_title": "L’ultima di Trump? Donald Ducks in marcia: l’esercito di papere generate con l’IA per difendere il Lago Ontario (diventato America)",
@@ -69,7 +77,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "L’ultima di Trump? Donald Ducks in marcia: l’esercito di papere generate con l’IA per difendere il Lago Ontario (diventato America)",
-    "score": 8
+    "score": 3
   },
   {
     "original_title": "Choc alla Vuelta, Pogacar cade e si ritira: è stato portato via in ambulanza. Mondiale a rischio",
@@ -77,7 +85,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Choc alla Vuelta, Pogacar cade e si ritira: è stato portato via in ambulanza. Mondiale a rischio",
-    "score": 3
+    "score": 8
   },
   {
     "original_title": "Sarah Ferguson torna nel Regno Unito dopo l’esilio per gli scandali degli Epstein Files. “Con tutti gli occhi puntati su Harry e Meghan, sperava di passare inosservata”",
@@ -88,20 +96,12 @@
     "score": 7
   },
   {
-    "original_title": "È morto Franco Fontana, maestro del colore nella fotografia italiana: aveva 92 anni",
-    "url": "https://www.ilfattoquotidiano.it/2026/08/29/e-morto-franco-fontana-maestro-del-colore-nella-fotografia-italiana-aveva-92-anni/8491708/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "È morto Franco Fontana, maestro del colore nella fotografia italiana: aveva 92 anni",
-    "score": 5
-  },
-  {
     "original_title": "Weekend con tregua dal caldo torrido al Centro-Nord, ma ancora 38-40 gradi al Sud",
     "url": "https://www.ansa.it/sito/notizie/cronaca/2026/08/29/weekend-con-tregua-dal-caldo-torrido-al-centro-nord-ma-ancora-38-40-gradi_0bb0ef0a-c62f-406b-b444-d804285ecbdf.html",
     "domain": "ansa.it",
     "region": "IT",
     "title": "Weekend con tregua dal caldo torrido al Centro-Nord, ma ancora 38-40 gradi al Sud",
-    "score": 5
+    "score": 8
   },
   {
     "original_title": "Bimbo salvo su un albero in Nepal, ritrova la madre grazie a una reporter",
@@ -109,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Bimbo salvo su un albero in Nepal, ritrova la madre grazie a una reporter",
-    "score": 7
+    "score": 2
   },
   {
     "original_title": "Da Fano alla Lapponia in auto a 83 anni, l'avventura di Olga Mancurti",
@@ -117,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Da Fano alla Lapponia in auto a 83 anni, l'avventura di Olga Mancurti",
-    "score": 8
+    "score": 7
   },
   {
     "original_title": "La Piramide Cestia riapre al pubblico con un percorso che coniuga tutela e accessibilità",
@@ -125,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "La Piramide Cestia riapre al pubblico con un percorso che coniuga tutela e accessibilità",
-    "score": 3
+    "score": 2
   },
   {
     "original_title": "Lo snack prima dell'allenamento, il trend porridge oatmeal",
@@ -133,15 +133,23 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Lo snack prima dell'allenamento, il trend porridge oatmeal",
-    "score": 5
+    "score": 6
   },
   {
-    "original_title": "Alessandro Di Battista ricoverato a Cuba dopo un malore, è grave. Ha ripreso conoscenza, è in trasferimento a L'Avana",
-    "url": "https://www.ansa.it/sito/notizie/politica/2026/08/29/alessandro-di-battista-ricoverato-a-cuba-dopo-un-malore-e-grave.-ha-ripreso-conoscenza-e-in-trasferimento_97ec2496-cf44-4da9-83da-8df05bbe6eaf.html",
+    "original_title": "Di Battista in ospedale lucido risponde alle domande dei medici",
+    "url": "https://www.ansa.it/sito/notizie/politica/2026/08/29/di-battista-in-ospedale-lucido-risponde-alle-domande-dei-medici_97ec2496-cf44-4da9-83da-8df05bbe6eaf.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Alessandro Di Battista ricoverato a Cuba dopo un malore, è grave. Ha ripreso conoscenza, è in trasferimento a L'Avana",
-    "score": 8
+    "title": "Di Battista in ospedale lucido risponde alle domande dei medici",
+    "score": 7
+  },
+  {
+    "original_title": "Russia, sferrato maxi raid vicino Kiev con 598 droni e 31 missili. Premier polacco Tusk: «I prossimi 6 mesi saranno decisivi»",
+    "url": "https://www.ilmessaggero.it/mondo/raid_russo_deposito_kiev_polonia_mesi_decisivi_ultime_notizie-9732335.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Russia, sferrato maxi raid vicino Kiev con 598 droni e 31 missili. Premier polacco Tusk: «I prossimi 6 mesi saranno decisivi»",
+    "score": 5
   },
   {
     "original_title": "Di Battista ricoverato in «gravi condizioni» a Cuba ha ripreso conoscenza. Il post a tarda notte poi il mal di testa e il malore",
@@ -149,23 +157,31 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Di Battista ricoverato in «gravi condizioni» a Cuba ha ripreso conoscenza. Il post a tarda notte poi il mal di testa e il malore",
-    "score": 8
+    "score": 2
   },
   {
-    "original_title": "Alessandro Di Battista, nella notte gli ultimi post prima del malore: «Lo Stato terrorista di Israele continua a bombardare». La story su Gaza alle 2",
-    "url": "https://www.ilmessaggero.it/persone/alessandro_di_battista_ultimi_post_social_israele_gaza_prima_del_malore_facebook_instagram-9732006.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Alessandro Di Battista, nella notte gli ultimi post prima del malore: «Lo Stato terrorista di Israele continua a bombardare». La story su Gaza alle 2",
-    "score": 6
-  },
-  {
-    "original_title": "Alessandro Di Battista, l'ospedale a L'Avana dove sarà ricoverato: eccellenza per trapianti di organi e tessuti",
+    "original_title": "Alessandro Di Battista, l'ospedale a L'Avana dov'è ricoverato: eccellenza per trapianti di organi e tessuti",
     "url": "https://www.ilmessaggero.it/salute/focus/alessandro_di_battista_ricoverato_dove_ospedale_avana-9732206.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Alessandro Di Battista, l'ospedale a L'Avana dove sarà ricoverato: eccellenza per trapianti di organi e tessuti",
+    "title": "Alessandro Di Battista, l'ospedale a L'Avana dov'è ricoverato: eccellenza per trapianti di organi e tessuti",
+    "score": 2
+  },
+  {
+    "original_title": "Di Battista e le ultime voci di un ritorno in politica. «È il Vannacci del centrosinistra»",
+    "url": "https://www.ilmessaggero.it/politica/di_battista_ritorno_politica-9732322.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Di Battista e le ultime voci di un ritorno in politica. «È il Vannacci del centrosinistra»",
     "score": 1
+  },
+  {
+    "original_title": "La bomba a Ranucci, ecco cosa non torna: le lamentele del giornalista sul lavoro e quelle strane coincidenze",
+    "url": "https://www.ilmessaggero.it/persone/bomba_ranucci_cosa_non_torna-9732336.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "La bomba a Ranucci, ecco cosa non torna: le lamentele del giornalista sul lavoro e quelle strane coincidenze",
+    "score": 9
   },
   {
     "original_title": "Caldo, tregua al Centro-Nord ma ancora 40°C al Sud. E dopo il 5 settembre in arrivo nuova fiammata",
@@ -173,70 +189,54 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Caldo, tregua al Centro-Nord ma ancora 40°C al Sud. E dopo il 5 settembre in arrivo nuova fiammata",
-    "score": 1
+    "score": 5
   },
   {
-    "original_title": "Infarti e ictus, svolta nelle cure: ora si possono prevenire con il farmaco che combatte il colesterolo. Lo studio rivoluzionario",
-    "url": "https://www.ilmessaggero.it/salute/prevenzione/farmaco_colesterolo_previene_infarti_qual_e-9732145.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Infarti e ictus, svolta nelle cure: ora si possono prevenire con il farmaco che combatte il colesterolo. Lo studio rivoluzionario",
-    "score": 1
-  },
-  {
-    "original_title": "Scuola, quando si torna in classe? Il calendario regione per regione: da Bolzano il 7 settembre alla Puglia il 17, vacanze e ponti",
-    "url": "https://www.ilmessaggero.it/schede/scuola_quando_inizia_2026_calendario_scolastico_regioni_date_settembre_vacanze_natale_pasqua_ponti-9731767.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Scuola, quando si torna in classe? Il calendario regione per regione: da Bolzano il 7 settembre alla Puglia il 17, vacanze e ponti",
-    "score": 1
-  },
-  {
-    "original_title": "Di Maio a Calenda, l’abbraccio a Di Battista dei grandi rivali: «Forza Ale». Mulé (Fi): «Scontri in tv, poi ridiamo e parliamo della Lazio»",
-    "url": "https://www.open.online/2026/08/29/alessandro-di-battista-ricoverato-cuba-reazioni/",
+    "original_title": "Report, spunta una foto della nuova conduttrice nel ristorante di Lavitola",
+    "url": "https://www.open.online/2026/08/29/report-spunta-foto-presutti-ristorante-lavitola/",
     "domain": "open.online",
     "region": "IT",
-    "title": "Di Maio a Calenda, l’abbraccio a Di Battista dei grandi rivali: «Forza Ale». Mulé (Fi): «Scontri in tv, poi ridiamo e parliamo della Lazio»",
+    "title": "Report, spunta una foto della nuova conduttrice nel ristorante di Lavitola",
+    "score": 5
+  },
+  {
+    "original_title": "Ranucci-Rai, è guerra aperta: il giornalista contesta la cacciata da Report e chiede il reintegro e il risarcimento danni",
+    "url": "https://www.open.online/2026/08/29/ranucci-rai-contestazione-sostituzione-report-reintegro-risarcimento-danni/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Ranucci-Rai, è guerra aperta: il giornalista contesta la cacciata da Report e chiede il reintegro e il risarcimento danni",
     "score": 6
   },
   {
-    "original_title": "Alessandro Di Battista ha ripreso conoscenza: il trasferimento a L’Avana dopo il malore. Il governo: «Pronti a riportarlo in Italia»",
+    "original_title": "Gaffe in diretta a «4 di Sera», lo sfogo di Sabrina Scampini su Alessandro Di Battista: ma il microfono è aperto – Il video",
+    "url": "https://www.open.online/2026/08/29/4-di-sera-gaffe-sabrina-scampini-alessandro-di-battista-video/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Gaffe in diretta a «4 di Sera», lo sfogo di Sabrina Scampini su Alessandro Di Battista: ma il microfono è aperto – Il video",
+    "score": 1
+  },
+  {
+    "original_title": "Alessandro Di Battista trasferito in ambulanza a L’Avana: «È lucido, ha parlato coi medici»",
     "url": "https://www.open.online/2026/08/29/alessandro-di-battista-ricoverato-cuba-gravi-condizioni/",
     "domain": "open.online",
     "region": "IT",
-    "title": "Alessandro Di Battista ha ripreso conoscenza: il trasferimento a L’Avana dopo il malore. Il governo: «Pronti a riportarlo in Italia»",
-    "score": 6
+    "title": "Alessandro Di Battista trasferito in ambulanza a L’Avana: «È lucido, ha parlato coi medici»",
+    "score": 4
   },
   {
-    "original_title": "Strage di cozze nell’Adriatico: il mare bollente distrugge il 90% degli allevamenti. «Danni per oltre 50 milioni»",
-    "url": "https://www.open.online/2026/08/29/cozze-strage-adriatico-caldo-danni-50-milioni/",
+    "original_title": "Alessandro Di Battista, la missione a Cuba per Il Fatto e lo spettacolo pronto al debutto sul caso Epstein",
+    "url": "https://www.open.online/2026/08/29/alessandro-di-battista-cuba-fatto-quotidiano-spettacolo-epstein/",
     "domain": "open.online",
     "region": "IT",
-    "title": "Strage di cozze nell’Adriatico: il mare bollente distrugge il 90% degli allevamenti. «Danni per oltre 50 milioni»",
+    "title": "Alessandro Di Battista, la missione a Cuba per Il Fatto e lo spettacolo pronto al debutto sul caso Epstein",
     "score": 9
   },
   {
-    "original_title": "«Non esce mai di casa, ha paura»: la vita da recluso di Barron Trump dopo le minacce dell’Iran e gli attentati al padre",
-    "url": "https://www.open.online/2026/08/29/barron-trump-non-esce-mai-casa-minacce-iran-attentati-padre/",
+    "original_title": "L’Iran voleva uccidere il figlio di Netanyahu. Il complotto a Miami e l’operazione per riportarlo «d’urgenza» in Israele",
+    "url": "https://www.open.online/2026/08/29/iran-complotto-uccidere-yair-netanyahu-miami-israele/",
     "domain": "open.online",
     "region": "IT",
-    "title": "«Non esce mai di casa, ha paura»: la vita da recluso di Barron Trump dopo le minacce dell’Iran e gli attentati al padre",
-    "score": 2
-  },
-  {
-    "original_title": "Addio a Franco Fontana, morto a 92 anni il maestro della fotografia e delle geometrie del colore",
-    "url": "https://www.open.online/2026/08/29/addio-franco-fontana-morto-maestro-fotografia-colore/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Addio a Franco Fontana, morto a 92 anni il maestro della fotografia e delle geometrie del colore",
-    "score": 3
-  },
-  {
-    "original_title": "Di Battista ricoverato a Cuba e scatta la macchina della propaganda No Vax: «Il collaborazionismo paga»",
-    "url": "https://www.open.online/2026/08/29/di-battista-ricoverato-cuba-no-vax-vaccino-post-2021/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Di Battista ricoverato a Cuba e scatta la macchina della propaganda No Vax: «Il collaborazionismo paga»",
+    "title": "L’Iran voleva uccidere il figlio di Netanyahu. Il complotto a Miami e l’operazione per riportarlo «d’urgenza» in Israele",
     "score": 6
   },
   {
@@ -245,7 +245,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Uccide la moglie a coltellate, i vicini di casa sentono le urla e lanciano l'allarme",
-    "score": 4
+    "score": 6
   },
   {
     "original_title": "Climber 73enne scivola e precipita per 20 metri, muore davanti al compagno di cordata",
@@ -253,7 +253,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Climber 73enne scivola e precipita per 20 metri, muore davanti al compagno di cordata",
-    "score": 3
+    "score": 4
   },
   {
     "original_title": "Violenti temporali e grandinate in Veneto, Stefani dichiara lo stato di emergenza: oltre 376 le segnalazioni ai vigili del fuoco. Le previsioni per il fine settimana",
@@ -261,7 +261,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Violenti temporali e grandinate in Veneto, Stefani dichiara lo stato di emergenza: oltre 376 le segnalazioni ai vigili del fuoco. Le previsioni per il fine settimana",
-    "score": 4
+    "score": 1
   },
   {
     "original_title": "EssilorLuxottica, spunta il report francese: «Milleri sotto osservazione, monitorare le sue ambizioni personali»",
@@ -269,15 +269,15 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "EssilorLuxottica, spunta il report francese: «Milleri sotto osservazione, monitorare le sue ambizioni personali»",
-    "score": 9
+    "score": 7
   },
   {
-    "original_title": "Barca affonda nel Golfo di Trieste: 10 persone salvare dalla Guardia costiera",
+    "original_title": "Barca affonda nel Golfo di Trieste: 10 persone salvate dalla Guardia costiera",
     "url": "https://www.ilgazzettino.it/nordest/trieste/barca_affonda_golfo_persone_salvate_capitaneria_di_porto-9732207.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Barca affonda nel Golfo di Trieste: 10 persone salvare dalla Guardia costiera",
-    "score": 4
+    "title": "Barca affonda nel Golfo di Trieste: 10 persone salvate dalla Guardia costiera",
+    "score": 3
   },
   {
     "original_title": "Guerra per il controllo dello spaccio con mazze, macheti e coltelli: due uomini in carcere, un espulso, uno allontanato dal Veneto",
@@ -285,39 +285,39 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Guerra per il controllo dello spaccio con mazze, macheti e coltelli: due uomini in carcere, un espulso, uno allontanato dal Veneto",
-    "score": 2
+    "score": 8
   },
   {
-    "original_title": "Di Battista ricoverato in «gravi condizioni» a Cuba ha ripreso conoscenza. Il post a tarda notte poi il mal di testa e il malore",
-    "url": "https://www.ilmattino.it/primopiano/cronaca/di_battista_ricoverato_in_gravi_condizioni_a_cuba._il_post_a_tarda_notte_poi_il_mal_di_testa_e_il_malore_cosa_sappiamo-9732143.html",
+    "original_title": "Daniela Di Maggio: «Tre anni senza mio figlio Giogiò: mi manca il suo sorriso»",
+    "url": "https://www.ilmattino.it/napoli/cronaca/daniela_de_maggio_tre_anni_senza_mio_figlio_giogio_mi_manca_il_suo_sorriso-9732275.html",
     "domain": "ilmattino.it",
     "region": "IT",
-    "title": "Di Battista ricoverato in «gravi condizioni» a Cuba ha ripreso conoscenza. Il post a tarda notte poi il mal di testa e il malore",
-    "score": 9
-  },
-  {
-    "original_title": "Napoli-Como, Allegri: «Il mercato? Contento della rosa, ma può succedere di tutto. Champions? Si vive per partite come queste»",
-    "url": "https://www.ilmattino.it/sport/sscnapoli/napoli_como_conferenza_stampa_max_allegri_cosa_ha_detto_gironi_champions_league_ultime_notizie-9731988.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Napoli-Como, Allegri: «Il mercato? Contento della rosa, ma può succedere di tutto. Champions? Si vive per partite come queste»",
-    "score": 1
-  },
-  {
-    "original_title": "Gragnano, morte di Gena Totaro: fermata la figlia 53enne",
-    "url": "https://www.ilmattino.it/napoli/area_metropolitana/gragnano_morte_gena_totaro_fermata_la_figlia-9731947.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Gragnano, morte di Gena Totaro: fermata la figlia 53enne",
-    "score": 9
-  },
-  {
-    "original_title": "Neonato abbandonato in strada nella notte nel Casertano: salvato dai residenti",
-    "url": "https://www.ilmattino.it/caserta/neonato_abbandonato_strada_pignataro_maggiore_via_matteotti_partignano_salvato_residenti_ricoverato_santobono_napoli_carabinieri_indagini-9731909.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Neonato abbandonato in strada nella notte nel Casertano: salvato dai residenti",
+    "title": "Daniela Di Maggio: «Tre anni senza mio figlio Giogiò: mi manca il suo sorriso»",
     "score": 7
+  },
+  {
+    "original_title": "Caserta, bimba rapita di notte dalla casa famiglia: «Aiutateci a trovarla»",
+    "url": "https://www.ilmattino.it/caserta/bimba_rapita_di_notte_dalla_casa_famiglia_aiutateci_trovarla-9732317.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Caserta, bimba rapita di notte dalla casa famiglia: «Aiutateci a trovarla»",
+    "score": 8
+  },
+  {
+    "original_title": "«Ho trovato un neonato in strada»: Ma lui è il papà, la madre ha 16 anni",
+    "url": "https://www.ilmattino.it/caserta/ho_trovato_un_neonato_strada_ma_papa_la_madre_ha_16_anni_pignataro_maggiore-9732319.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "«Ho trovato un neonato in strada»: Ma lui è il papà, la madre ha 16 anni",
+    "score": 3
+  },
+  {
+    "original_title": "Primarie: «Governatori e sindaci in campo per contribuire a scrivere il programma»",
+    "url": "https://www.ilmattino.it/primopiano/politica/primarie_governatori_e_sindaci_in_campo_per_contribuire_a_scrivere_il_programma-9732315.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Primarie: «Governatori e sindaci in campo per contribuire a scrivere il programma»",
+    "score": 3
   },
   {
     "original_title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
@@ -325,15 +325,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-    "score": 1
-  },
-  {
-    "original_title": "Christian festival 'devastated' as man dies after sign falls",
-    "url": "https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Christian festival 'devastated' as man dies after sign falls",
-    "score": 6
+    "score": 5
   },
   {
     "original_title": "Cleverly quits shadow cabinet to run for London mayor",
@@ -341,15 +333,15 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Cleverly quits shadow cabinet to run for London mayor",
-    "score": 4
+    "score": 8
   },
   {
-    "original_title": "Football fans pay tribute to crash death officers at Middlesbrough match",
-    "url": "https://www.bbc.co.uk/news/articles/c5y5727d02xo?at_medium=RSS&at_campaign=rss",
+    "original_title": "Norway's new king remembers 'my dear father' in first speech",
+    "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Football fans pay tribute to crash death officers at Middlesbrough match",
-    "score": 3
+    "title": "Norway's new king remembers 'my dear father' in first speech",
+    "score": 4
   },
   {
     "original_title": "Sarah Ferguson expected back in the UK 'shortly', source says",
@@ -357,7 +349,15 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
-    "score": 2
+    "score": 9
+  },
+  {
+    "original_title": "Vessel in distress with five people onboard in Channel",
+    "url": "https://www.bbc.co.uk/news/articles/czeznrgyd1go?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Vessel in distress with five people onboard in Channel",
+    "score": 4
   },
   {
     "original_title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
@@ -365,71 +365,111 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-    "score": 2
-  },
-  {
-    "original_title": "Polymarket promo code NYPMAX1: Deposit $10, get $20 for UNLV vs. Memphis",
-    "url": "https://nypost.com/2026/08/29/betting/polymarket-promo-code-nypmax1-deposit-10-get-20-for-unlv-vs-memphis/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Polymarket promo code NYPMAX1: Deposit $10, get $20 for UNLV vs. Memphis",
-    "score": 4
-  },
-  {
-    "original_title": "The placebo effect has an evil twin — and it can be deadly",
-    "url": "https://nypost.com/2026/08/29/health/nocebo-effect-is-the-placebos-evil-twin/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "The placebo effect has an evil twin — and it can be deadly",
-    "score": 3
-  },
-  {
-    "original_title": "Trade 20 minutes of doomscrolling for 3 minutes with Socrates for $30",
-    "url": "https://nypost.com/2026/08/29/shopping/trade-20-minutes-of-doomscrolling-for-3-minutes-with-socrates-for-30/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Trade 20 minutes of doomscrolling for 3 minutes with Socrates for $30",
-    "score": 4
-  },
-  {
-    "original_title": "Rumer Willis’ ex accuses actress of blocking access to their 3-year-old daughter",
-    "url": "https://pagesix.com/2026/08/29/parents/rumer-willis-ex-accuses-actress-of-blocking-access-to-their-daughter/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Rumer Willis’ ex accuses actress of blocking access to their 3-year-old daughter",
-    "score": 8
-  },
-  {
-    "original_title": "Texas is welcoming cheaper homes — but some cities are pushing back",
-    "url": "https://nypost.com/2026/08/29/real-estate/texas-is-welcoming-cheaper-homes-but-some-cities-are-pushing-back/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Texas is welcoming cheaper homes — but some cities are pushing back",
-    "score": 1
-  },
-  {
-    "original_title": "The deadly forces behind Nepal’s Himalayan disasters",
-    "url": "https://timesofindia.indiatimes.com/world/south-asia/the-deadly-forces-behind-nepals-himalayan-disasters/articleshow/133614019.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "The deadly forces behind Nepal’s Himalayan disasters",
     "score": 5
   },
   {
-    "original_title": "From making iPhones to building the next Apple: Will India's Rs 62K-cr bet pay off?",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/mobile-phone-manufacturing-scheme-explained-from-making-iphones-to-building-the-next-apple-will-indias-rs-62500-crore-mobile-phones-bet-pay-off/articleshow/133612536.cms",
-    "domain": "timesofindia.com",
+    "original_title": "USC football makes loud opening statement in rout of San Jose State",
+    "url": "https://nypost.com/2026/08/29/sports/usc-football-rolls-in-opening-win-over-san-jose-state/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "From making iPhones to building the next Apple: Will India's Rs 62K-cr bet pay off?",
+    "title": "USC football makes loud opening statement in rout of San Jose State",
+    "score": 7
+  },
+  {
+    "original_title": "Howard Stern lands major deal with HBO Max for his SiriusXM show: report",
+    "url": "https://pagesix.com/2026/08/29/celebrity-news/howard-stern-lands-major-deal-with-hbo-max-report/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Howard Stern lands major deal with HBO Max for his SiriusXM show: report",
+    "score": 7
+  },
+  {
+    "original_title": "Woman, 39, dies after lightning strike on Brazilian beach",
+    "url": "https://nypost.com/2026/08/29/world-news/woman-dies-after-lightning-strike-on-brazilian-beach/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Woman, 39, dies after lightning strike on Brazilian beach",
+    "score": 8
+  },
+  {
+    "original_title": "Chilling Google Maps images captured where man was killed by pack of dogs",
+    "url": "https://nypost.com/2026/08/29/us-news/chilling-google-maps-images-captured-where-dogs-killed-man/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Chilling Google Maps images captured where man was killed by pack of dogs",
+    "score": 6
+  },
+  {
+    "original_title": "How to save hundreds of dollars and get a new headshot in 15 minutes",
+    "url": "https://nypost.com/2026/08/29/shopping/save-hundreds-of-dollars-and-get-a-new-headshot-in-15-minutes/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "How to save hundreds of dollars and get a new headshot in 15 minutes",
+    "score": 7
+  },
+  {
+    "original_title": "Prince Harry's security fury as Al-Qaeda threat bombshell sparks fresh row",
+    "url": "https://www.express.co.uk/news/royal/2243780/prince-harrys-security-fury-al-qaeda",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Prince Harry's security fury as Al-Qaeda threat bombshell sparks fresh row",
     "score": 1
   },
   {
-    "original_title": "Flood fears in Bihar as several rivers cross danger marks amid Nepal rains",
-    "url": "https://timesofindia.indiatimes.com/city/patna/flood-fears-in-bihar-as-several-rivers-cross-danger-marks-amid-nepal-rains/articleshow/133615679.cms",
+    "original_title": "Boy, 13, stabbed at Taco Bell in Rochdale as two teenagers arrested",
+    "url": "https://www.express.co.uk/news/uk/2243774/boy-13-stabbed-taco-bell-stabbing-police-arrest-rochdale",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Boy, 13, stabbed at Taco Bell in Rochdale as two teenagers arrested",
+    "score": 2
+  },
+  {
+    "original_title": "Sarah Ferguson bombshell as ex-duchess 'set for tell-all TV documentary' after UK return",
+    "url": "https://www.express.co.uk/news/royal/2243769/sarah-ferguson-bombshell-ex-duchess-set",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Sarah Ferguson bombshell as ex-duchess 'set for tell-all TV documentary' after UK return",
+    "score": 1
+  },
+  {
+    "original_title": "Donald Trump health fears spike over psychologist warning - ‘getting worse’",
+    "url": "https://www.express.co.uk/news/world/2243767/donald-trump-health-fears",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Donald Trump health fears spike over psychologist warning - ‘getting worse’",
+    "score": 4
+  },
+  {
+    "original_title": "Rescue launched for vessel 'in distress' in English Channel off coast of Plymouth",
+    "url": "https://www.express.co.uk/news/uk/2243765/plymouth-english-channel-coastguard-helicopter",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Rescue launched for vessel 'in distress' in English Channel off coast of Plymouth",
+    "score": 9
+  },
+  {
+    "original_title": "Prince Harry ‘has to fix’ one relationship now he’s back in UK - ‘untenable’",
+    "url": "https://www.express.co.uk/news/royal/2243763/prince-harry-fix-relationship-uk",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Prince Harry ‘has to fix’ one relationship now he’s back in UK - ‘untenable’",
+    "score": 3
+  },
+  {
+    "original_title": "Even layman knows of SC bulldozer order, but IAS officer unaware: HC",
+    "url": "https://timesofindia.indiatimes.com/city/nagpur/even-layman-knows-of-sc-bulldozer-order-but-ias-officer-unaware-hc/articleshow/133599459.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Flood fears in Bihar as several rivers cross danger marks amid Nepal rains",
-    "score": 4
+    "title": "Even layman knows of SC bulldozer order, but IAS officer unaware: HC",
+    "score": 7
+  },
+  {
+    "original_title": "Months after HDFC Bank chair quit, CEO says won’t stay beyond Oct",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/months-after-hdfc-bank-chair-quit-ceo-says-wont-stay-beyond-oct/articleshow/133619506.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Months after HDFC Bank chair quit, CEO says won’t stay beyond Oct",
+    "score": 8
   },
   {
     "original_title": "‘I urge others to speak up’: Ex-Pak cricketer's emotional appeal for Imran Khan",
@@ -437,15 +477,15 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "‘I urge others to speak up’: Ex-Pak cricketer's emotional appeal for Imran Khan",
-    "score": 5
+    "score": 3
   },
   {
-    "original_title": "'If any Hindu thinks there should be no Muslims in India, he's not Hindu': RSS chief",
-    "url": "https://timesofindia.indiatimes.com/india/if-any-hindu-thinks-there-should-be-no-muslims-in-india-hes-not-hindu-rss-mohan-bhagwat-in-us/articleshow/133616471.cms",
+    "original_title": "BJP president pulls up 3 Delhi MPs for visiting Sajjan Kumar’s house",
+    "url": "https://timesofindia.indiatimes.com/india/bjp-president-pulls-up-3-delhi-mps-for-visiting-sajjan-kumars-house/articleshow/133619553.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "'If any Hindu thinks there should be no Muslims in India, he's not Hindu': RSS chief",
-    "score": 8
+    "title": "BJP president pulls up 3 Delhi MPs for visiting Sajjan Kumar’s house",
+    "score": 2
   },
   {
     "original_title": "Jamie Dimon says it is ‘frustrating’ to hear America is behind in defence tech",
@@ -453,7 +493,47 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "Jamie Dimon says it is ‘frustrating’ to hear America is behind in defence tech",
-    "score": 2
+    "score": 3
+  },
+  {
+    "original_title": "FSSAI bans Everest, LG from selling hing",
+    "url": "https://timesofindia.indiatimes.com/india/fssai-bans-everest-lg-from-selling-hing/articleshow/133619574.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "FSSAI bans Everest, LG from selling hing",
+    "score": 1
+  },
+  {
+    "original_title": "Judge rules against Trump over deporting students critical of Israel",
+    "url": "https://www.upi.com/Top_News/US/2026/08/29/trump-deporations-unconstitutional/5771788040530/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Judge rules against Trump over deporting students critical of Israel",
+    "score": 6
+  },
+  {
+    "original_title": "Trump's ex-teleprompter operator fined $172K for betting on speeches",
+    "url": "https://www.upi.com/Top_News/US/2026/08/29/trump-teleprompter-fined/1111788035526/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Trump's ex-teleprompter operator fined $172K for betting on speeches",
+    "score": 5
+  },
+  {
+    "original_title": "Simon Pegg: Danny's marriage anchors him in 'Undeclared War'",
+    "url": "https://www.upi.com/Entertainment_News/TV/2026/08/29/simon-pegg-sian-brooke-undeclared-war-interview/7241787948105/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Simon Pegg: Danny's marriage anchors him in 'Undeclared War'",
+    "score": 1
+  },
+  {
+    "original_title": "Far-right activist Milo Yiannopoulos deported to U.K.",
+    "url": "https://www.upi.com/Top_News/US/2026/08/29/milo-yiannopoulos-deported/6921788033111/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Far-right activist Milo Yiannopoulos deported to U.K.",
+    "score": 1
   },
   {
     "original_title": "Watch: Tim McGraw shares video of him falling on stage",
@@ -461,7 +541,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Watch: Tim McGraw shares video of him falling on stage",
-    "score": 5
+    "score": 6
   },
   {
     "original_title": "Kenan Thompson to guest judge 'America's Got Talent'",
@@ -469,87 +549,55 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Kenan Thompson to guest judge 'America's Got Talent'",
-    "score": 5
+    "score": 4
   },
   {
-    "original_title": "Ukraine: 37 dead near Kyiv after ammunition depot hit",
-    "url": "https://www.upi.com/Top_News/World-News/2026/08/29/ukraine-37-dead-kyiv-ammunition-depot/3501788020092/",
-    "domain": "upi.com",
+    "original_title": "Anger mounts in Nepal over the government’s response to flash flood",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/anger-mounts-in-nepal-over-the-governments-response-to-flash-flood?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Ukraine: 37 dead near Kyiv after ammunition depot hit",
+    "title": "Anger mounts in Nepal over the government’s response to flash flood",
     "score": 9
   },
   {
-    "original_title": "Katseye's 'Wild' tops U.S. album chart",
-    "url": "https://www.upi.com/Entertainment_News/Music/2026/08/29/katseye-tops-album-chart/1611788015152/",
-    "domain": "upi.com",
+    "original_title": "Iceland votes in a tight race on whether to resume talks to join the EU",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/iceland-votes-in-a-tight-race-on-whether-to-resume-talks-to-join-the-eu?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Katseye's 'Wild' tops U.S. album chart",
-    "score": 5
-  },
-  {
-    "original_title": "Nepal: 626 dead, more than 3,000 missing in flash flood",
-    "url": "https://www.upi.com/Top_News/World-News/2026/08/29/nepal-626-dead-3000-missing-flash-flood/6531788014971/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Nepal: 626 dead, more than 3,000 missing in flash flood",
+    "title": "Iceland votes in a tight race on whether to resume talks to join the EU",
     "score": 6
   },
   {
-    "original_title": "On This Day, Aug. 29: Hurricane Katrina devastates Gulf Coast",
-    "url": "https://www.upi.com/Top_News/2026/08/29/thisday-aug29/6601787974188/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "On This Day, Aug. 29: Hurricane Katrina devastates Gulf Coast",
-    "score": 7
-  },
-  {
-    "original_title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
-    "url": "https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss",
+    "original_title": "Norway’s new king pays tribute to his late father as the country mourns",
+    "url": "https://www.aljazeera.com/news/2026/8/29/norways-new-king-pays-tribute-to-his-late-father-as-the-country-mourns?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Turkiye summons Ukraine ambassador over Black Sea attacks",
-    "score": 7
+    "title": "Norway’s new king pays tribute to his late father as the country mourns",
+    "score": 9
   },
   {
-    "original_title": "Israeli army arrests six Palestinians after settler violence in West Bank",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
+    "original_title": "Gaza runs out of cancer medicines, as Israeli strikes continue",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
-    "score": 7
-  },
-  {
-    "original_title": "Niger military says it is regaining control after attempted mutiny",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Niger military says it is regaining control after attempted mutiny",
+    "title": "Gaza runs out of cancer medicines, as Israeli strikes continue",
     "score": 3
   },
   {
-    "original_title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
+    "original_title": "Algeria wildfire death toll expected to rise as survivors say nothing left",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-algeria-wildfires-sv?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+    "title": "Algeria wildfire death toll expected to rise as survivors say nothing left",
     "score": 7
   },
   {
-    "original_title": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
-    "url": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss",
+    "original_title": "Can international diplomacy find a way forward in Libya?",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/8/29/can-international-diplomacy-find-a-way-forward-in-libya?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
-    "score": 9
-  },
-  {
-    "original_title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
-    "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
-    "score": 6
+    "title": "Can international diplomacy find a way forward in Libya?",
+    "score": 3
   },
   {
     "original_title": "Latest news bulletin | August 29th, 2026 – Evening",
@@ -557,7 +605,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Latest news bulletin | August 29th, 2026 – Evening",
-    "score": 3
+    "score": 2
   },
   {
     "original_title": "Music, lights and drones: Uzbekistan celebrates 35 years of independence",
@@ -565,7 +613,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Music, lights and drones: Uzbekistan celebrates 35 years of independence",
-    "score": 1
+    "score": 2
   },
   {
     "original_title": "Kazakhstan’s government steps down as newly elected Kurultai holds first session",
@@ -573,7 +621,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Kazakhstan’s government steps down as newly elected Kurultai holds first session",
-    "score": 3
+    "score": 5
   },
   {
     "original_title": "Hundreds of foreign nationals among the missing following deadly Nepal floods",
@@ -581,7 +629,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Hundreds of foreign nationals among the missing following deadly Nepal floods",
-    "score": 6
+    "score": 5
   },
   {
     "original_title": "Uzbekistan marks 35 years of independence as president outlines plans for next decade",
@@ -589,54 +637,6 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Uzbekistan marks 35 years of independence as president outlines plans for next decade",
-    "score": 9
-  },
-  {
-    "original_title": "Heavy gunfire in Niger capital as clashes reported at presidential palace",
-    "url": "http://www.euronews.com/2026/08/29/heavy-gunfire-in-niger-capital-as-clashes-reported-at-presidential-palace",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Heavy gunfire in Niger capital as clashes reported at presidential palace",
-    "score": 9
-  },
-  {
-    "original_title": "Red Sox Fan Throws Back Son Who Caught Yankees Home Run",
-    "url": "https://theonion.com/red-sox-fan-throws-back-son-who-caught-yankees-home-run/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Red Sox Fan Throws Back Son Who Caught Yankees Home Run",
     "score": 8
-  },
-  {
-    "original_title": "U.S. Lobbying Against Global Plastic Limits",
-    "url": "https://theonion.com/u-s-lobbying-against-global-plastic-limits/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "U.S. Lobbying Against Global Plastic Limits",
-    "score": 2
-  },
-  {
-    "original_title": "Trump Posts Disturbing Video Of Himself Twirling With Knives",
-    "url": "https://theonion.com/trump-posts-disturbing-video-of-himself-twirling-with-knives/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Trump Posts Disturbing Video Of Himself Twirling With Knives",
-    "score": 7
-  },
-  {
-    "original_title": "SNAP Enrollment Drops By Over 13%",
-    "url": "https://theonion.com/snap-enrollment-drops-by-over-13/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "SNAP Enrollment Drops By Over 13%",
-    "score": 8
-  },
-  {
-    "original_title": "Top Songs August 2026",
-    "url": "https://theonion.com/top-songs-august-2025/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Top Songs August 2026",
-    "score": 1
   }
 ]
