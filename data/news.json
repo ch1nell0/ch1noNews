@@ -1,11 +1,35 @@
 [
   {
+    "original_title": "Volley, azzurre inarrestabili: avanti oltre la paura, battuta anche la Svezia. Ora la semifinale",
+    "url": "https://www.repubblica.it/sport/volley/2026/09/02/news/volley_italia_svezia_semifinale-425561680/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Volley, azzurre inarrestabili: avanti oltre la paura, battuta anche la Svezia. Ora la semifinale",
+    "score": 5
+  },
+  {
+    "original_title": "Report, passo indietro di Giulia Presutti: “Rinuncio alla conduzione per amore del programma”",
+    "url": "https://www.repubblica.it/politica/2026/09/02/news/presutti_report_rinuncia_conduzione-425561526/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Report, passo indietro di Giulia Presutti: “Rinuncio alla conduzione per amore del programma”",
+    "score": 7
+  },
+  {
+    "original_title": "Con George Clooney la Mostra di Venezia è politica: “America guidata da incapaci”",
+    "url": "https://www.repubblica.it/spettacoli/dossier/mostra-del-cinema-di-venezia/2026/09/02/news/george_clooney_mostra_venezia_trump_leone_d_oro-425561502/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Con George Clooney la Mostra di Venezia è politica: “America guidata da incapaci”",
+    "score": 1
+  },
+  {
     "original_title": "Suicidio assistito, il patriarca di Venezia: “Amarezza, rischio deriva difficilmente controllabile”",
     "url": "https://www.repubblica.it/cronaca/2026/09/02/news/suicidio_assistito_legge_regionale_veneto__patriarca_venezia_commento-425561118/",
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Suicidio assistito, il patriarca di Venezia: “Amarezza, rischio deriva difficilmente controllabile”",
-    "score": 5
+    "score": 1
   },
   {
     "original_title": "Red carpet di Venezia 2026: da Amal e George Clooney a Bianca Balti, le pagelle dei look di oggi",
@@ -13,31 +37,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Red carpet di Venezia 2026: da Amal e George Clooney a Bianca Balti, le pagelle dei look di oggi",
-    "score": 1
-  },
-  {
-    "original_title": "L’Italia rimonta e va sul 2-1 con la Svezia: gli Europei di volley in diretta",
-    "url": "https://www.repubblica.it/sport/volley/2026/09/02/diretta/italia_svezia_volley_diretta_quarti_europei-425561058/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "L’Italia rimonta e va sul 2-1 con la Svezia: gli Europei di volley in diretta",
-    "score": 7
-  },
-  {
-    "original_title": "Venezia 83, effetto George Clooney: 20mila al Lido. “Nessuno arriva da nessuna parte da solo”",
-    "url": "https://www.repubblica.it/spettacoli/dossier/mostra-del-cinema-di-venezia/2026/09/02/diretta/mostra_cinema_venezia_2026_apertura_diretta-425561055/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Venezia 83, effetto George Clooney: 20mila al Lido. “Nessuno arriva da nessuna parte da solo”",
-    "score": 3
-  },
-  {
-    "original_title": "Report, gli inviati: “Aperto un canale con la Rai, l’obiettivo è andare in onda l'8 novembre”",
-    "url": "https://www.repubblica.it/politica/2026/09/02/news/report_invitati_incontro_rai_ranucci-425561032/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Report, gli inviati: “Aperto un canale con la Rai, l’obiettivo è andare in onda l'8 novembre”",
-    "score": 8
+    "score": 9
   },
   {
     "original_title": "Fine vita, sì del Veneto. È la prima volta per una regione di centrodestra",
@@ -45,7 +45,23 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Fine vita, sì del Veneto. È la prima volta per una regione di centrodestra",
-    "score": 7
+    "score": 3
+  },
+  {
+    "original_title": "Report, gli inviati dopo l’incontro con Corsini in Rai: “L’obiettivo è andare in onda l’8 novembre con la consueta autonomia e indipendenza”",
+    "url": "https://www.ilfattoquotidiano.it/2026/09/02/report-rai-incontro-corsini-notizie/8495357/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Report, gli inviati dopo l’incontro con Corsini in Rai: “L’obiettivo è andare in onda l’8 novembre con la consueta autonomia e indipendenza”",
+    "score": 4
+  },
+  {
+    "original_title": "Giulia Presutti rinuncia alla conduzione di Report: “Così aiuto la trasmissione a non impantanarsi in discussioni e scambi così piccoli”",
+    "url": "https://www.ilfattoquotidiano.it/2026/09/02/report-presutti-rinuncia-conduzione-notizie/8495292/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Giulia Presutti rinuncia alla conduzione di Report: “Così aiuto la trasmissione a non impantanarsi in discussioni e scambi così piccoli”",
+    "score": 4
   },
   {
     "original_title": "Ink, il Big Bang del tabloid alla Mostra del Cinema di Venezia: quando The Sun imparò a vendere il “male”",
@@ -53,7 +69,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Ink, il Big Bang del tabloid alla Mostra del Cinema di Venezia: quando The Sun imparò a vendere il “male”",
-    "score": 1
+    "score": 6
   },
   {
     "original_title": "Daphne Caruana Galizia, assolto Fenech: il miliardario maltese era accusato di essere il mandante dell’omicidio della giornalista",
@@ -61,7 +77,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Daphne Caruana Galizia, assolto Fenech: il miliardario maltese era accusato di essere il mandante dell’omicidio della giornalista",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "Caso Torino, molestie sulla tredicenne: insulti sulle saracinesche del minimarket dell’indagato",
@@ -69,7 +85,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Caso Torino, molestie sulla tredicenne: insulti sulle saracinesche del minimarket dell’indagato",
-    "score": 4
+    "score": 6
   },
   {
     "original_title": "“Ritorno a Camelot”, Trento mobilita 140 uomini delle forze dell’ordine per il raduno neonazi: vietati slogan razzisti",
@@ -77,23 +93,23 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "“Ritorno a Camelot”, Trento mobilita 140 uomini delle forze dell’ordine per il raduno neonazi: vietati slogan razzisti",
-    "score": 3
+    "score": 2
   },
   {
-    "original_title": "La Banca centrale olandese sposta 86 tonnellate d’oro da USA e Canada a Londra: “Dobbiamo essere pronti a crisi geopolitiche”",
-    "url": "https://www.ilfattoquotidiano.it/2026/09/02/riserve-auree-olanda-oro-londra-notizie/8495157/",
-    "domain": "ilfattoquotidiano.it",
+    "original_title": "++ Vannacci, 'siamo l'interlocutore naturale dell'alleanza di centrodestra' ++",
+    "url": "https://www.ansa.it/sito/notizie/flash/2026/09/02/-vannacci-siamo-linterlocutore-naturale-dellalleanza-di-centrodestra-_a9b82c5a-d8e2-47ea-b7df-7085e15fbc30.html",
+    "domain": "ansa.it",
     "region": "IT",
-    "title": "La Banca centrale olandese sposta 86 tonnellate d’oro da USA e Canada a Londra: “Dobbiamo essere pronti a crisi geopolitiche”",
-    "score": 6
+    "title": "++ Vannacci, 'siamo l'interlocutore naturale dell'alleanza di centrodestra' ++",
+    "score": 5
   },
   {
-    "original_title": "Trump insiste: “Controlliamo lo Stretto di Hormuz, ribattezzarlo con il mio nome”",
-    "url": "https://www.ilfattoquotidiano.it/2026/09/02/stretto-hormuz-trump-rinomina-notizie/8495116/",
-    "domain": "ilfattoquotidiano.it",
+    "original_title": "Venezia83: si apre il festival, George Clooney mattatore",
+    "url": "https://www.ansa.it/sito/photogallery/spettacolo/2026/09/02/venezia83-si-apre-il-festival-george-clooney-mattatore_845b4021-b31e-4bd7-9458-196223c3b1a7.html",
+    "domain": "ansa.it",
     "region": "IT",
-    "title": "Trump insiste: “Controlliamo lo Stretto di Hormuz, ribattezzarlo con il mio nome”",
-    "score": 1
+    "title": "Venezia83: si apre il festival, George Clooney mattatore",
+    "score": 7
   },
   {
     "original_title": "Bagni per disabili, al Sud poco più di 1 scuola su 2 è adeguata",
@@ -101,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Bagni per disabili, al Sud poco più di 1 scuola su 2 è adeguata",
-    "score": 8
+    "score": 1
   },
   {
     "original_title": "Disastro in Nepal, i ghiacciai himalaiani più sensibili all’aumento delle temperature",
@@ -109,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Disastro in Nepal, i ghiacciai himalaiani più sensibili all’aumento delle temperature",
-    "score": 6
+    "score": 2
   },
   {
     "original_title": "Viaggio per immagini a Cuba, tra crisi e orgoglio",
@@ -117,14 +133,6 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Viaggio per immagini a Cuba, tra crisi e orgoglio",
-    "score": 4
-  },
-  {
-    "original_title": "La canotta di Alcaraz si prende la scena, in tilt per il nipplegate agli Us Open",
-    "url": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/01/la-canotta-di-alcaraz-si-prende-la-scena-in-tilt-per-il-nipplegate-agli-us-open_1fbbffd2-e17a-4d98-87a6-f3e436f1872a.html",
-    "domain": "ansa.it",
-    "region": "IT",
-    "title": "La canotta di Alcaraz si prende la scena, in tilt per il nipplegate agli Us Open",
     "score": 2
   },
   {
@@ -133,111 +141,103 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Mercato obbligazionario: come funziona, strumenti trattati e differenza tra investment grade e high yield",
-    "score": 2
-  },
-  {
-    "original_title": "George Clooney Leone d'Oro alla Carriera: 'nessuno ride o piange in lingue diverse'",
-    "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/02/george-clooney-leone-doro-alla-carriera-nessuno-ride-o-piange-in-lingue_ee4cd039-5c58-4f0e-80de-134818231c39.html",
-    "domain": "ansa.it",
-    "region": "IT",
-    "title": "George Clooney Leone d'Oro alla Carriera: 'nessuno ride o piange in lingue diverse'",
-    "score": 2
-  },
-  {
-    "original_title": "Italvolley in semifinale degli Europei, quando gioca? Polonia o Olanda, data e dove vederla in chiaro",
-    "url": "https://www.ilmessaggero.it/sport/schede/italvolley_europei_quando_gioca_semifinale_data_orario_dove_vederla_in_chiaro-9739633.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Italvolley in semifinale degli Europei, quando gioca? Polonia o Olanda, data e dove vederla in chiaro",
-    "score": 8
-  },
-  {
-    "original_title": "Guerra ibrida, Tajani: «Non escludo interferenze Mosca in elezioni». Salvini: «Ansia anti-russa mi preoccupa»",
-    "url": "https://www.ilmessaggero.it/politica/guerra_ibrida_allarme_tajani_russia_influenza_elezioni_italia_salvini_cosa_ha_detto-9739591.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Guerra ibrida, Tajani: «Non escludo interferenze Mosca in elezioni». Salvini: «Ansia anti-russa mi preoccupa»",
-    "score": 3
-  },
-  {
-    "original_title": "Vannacci, Ft: «È il cavallo di Troia della Russia in Italia». L'ex generale: «Scrivo con mano tremante, mi aspettavo di più da voi»",
-    "url": "https://www.ilmessaggero.it/politica/vannacci_cavallo_troia_russia_meloni_italia_financial_times-9739450.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Vannacci, Ft: «È il cavallo di Troia della Russia in Italia». L'ex generale: «Scrivo con mano tremante, mi aspettavo di più da voi»",
-    "score": 6
-  },
-  {
-    "original_title": "Hormuz, due petroliere in fiamme dopo aver urtato mine marine. Teheran: «Erano su rotta non autorizzata»",
-    "url": "https://www.ilmessaggero.it/mondo/petroliere_hormuz_mine_guerra_usa_iran-9738961.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Hormuz, due petroliere in fiamme dopo aver urtato mine marine. Teheran: «Erano su rotta non autorizzata»",
     "score": 9
   },
   {
-    "original_title": "Russia, i missili ipersonici segreti all'Iran per la guerra contro gli Stati Uniti. «Pronti per colpire le navi Usa in Medio Oriente»",
-    "url": "https://www.ilmessaggero.it/mondo/russia_missili_ipersonici_iran_guerra_stati_uniti-9739516.html",
+    "original_title": "Famiglia nel bosco, i giudici: «Il percorso dei genitori è incompiuto, temono di perdere il loro controllo ideologico sui figli»",
+    "url": "https://www.ilmessaggero.it/abruzzo/bambini_bosco_giudici_genitori_temono_di_perdere_loro_controllo_ideologico-9739719.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Russia, i missili ipersonici segreti all'Iran per la guerra contro gli Stati Uniti. «Pronti per colpire le navi Usa in Medio Oriente»",
-    "score": 3
+    "title": "Famiglia nel bosco, i giudici: «Il percorso dei genitori è incompiuto, temono di perdere il loro controllo ideologico sui figli»",
+    "score": 7
   },
   {
-    "original_title": "Portaerei Lincoln (piena di ruggine) in Thailandia dopo la missione record. Perché è una delle tappe preferite dagli Usa",
-    "url": "https://www.ilmessaggero.it/mondo/portaerei_lincoln_thailandia_missione_record_soldati_usa-9738903.html",
+    "original_title": "Famiglia morta a Roma, il medico messicano (ora) assalito dai rimorsi: «Se avessi saputo, avrei fatto loro uno sconto»",
+    "url": "https://www.ilmessaggero.it/roma/tiburtino/medico_messicano_rimorso_famiglia_morta_roma_cure_figlia_malata-9739711.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Portaerei Lincoln (piena di ruggine) in Thailandia dopo la missione record. Perché è una delle tappe preferite dagli Usa",
-    "score": 3
+    "title": "Famiglia morta a Roma, il medico messicano (ora) assalito dai rimorsi: «Se avessi saputo, avrei fatto loro uno sconto»",
+    "score": 8
   },
   {
-    "original_title": "Europei di volley femminile, l’Italia soffre ma batte la Svezia e va in semifinale",
-    "url": "https://www.open.online/2026/09/02/europei-pallavolo-femminile-italia-svezia-quarti-finale-risultato/",
-    "domain": "open.online",
+    "original_title": "Guerra ibrida russa, «ingerenze sul voto italiano». I timori degli 007, l'alert nel rapporto \"Fimi\"",
+    "url": "https://www.ilmessaggero.it/politica/guerra_ibrida_russa_effetti_italia_report_007_rapporto_fimi_voto_elezioni-9739681.html",
+    "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Europei di volley femminile, l’Italia soffre ma batte la Svezia e va in semifinale",
-    "score": 1
+    "title": "Guerra ibrida russa, «ingerenze sul voto italiano». I timori degli 007, l'alert nel rapporto \"Fimi\"",
+    "score": 8
   },
   {
-    "original_title": "Anatroccolo lanciato come un pallone: la denuncia contro un gruppo di ragazzi di Nocera Superiore",
-    "url": "https://www.open.online/2026/09/02/anatroccolo-lanciato-pallone-denuncia-nocera-superiore/",
-    "domain": "open.online",
+    "original_title": "Guerra ibrida, le armi della Russia: attentatori reclutati sui social e hacker contro le reti strategiche. Spazio e mare gli altri due fronti",
+    "url": "https://www.ilmessaggero.it/mondo/guerra_ibrida_armi_russia_quali_sono-9739707.html",
+    "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Anatroccolo lanciato come un pallone: la denuncia contro un gruppo di ragazzi di Nocera Superiore",
+    "title": "Guerra ibrida, le armi della Russia: attentatori reclutati sui social e hacker contro le reti strategiche. Spazio e mare gli altri due fronti",
+    "score": 6
+  },
+  {
+    "original_title": "Nato, i grandi aerei-radar sempre in volo e l?invisibile sorveglianza digitale (ma pronti al decollo ci sono gli F35): la difesa contro la guerra ibrida russa",
+    "url": "https://www.ilmessaggero.it/mondo/aerei_radar_nato_sorveglianza_invisibile_guerra_ibrida_russa-9739714.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Nato, i grandi aerei-radar sempre in volo e l?invisibile sorveglianza digitale (ma pronti al decollo ci sono gli F35): la difesa contro la guerra ibrida russa",
     "score": 5
   },
   {
-    "original_title": "Harry Potter, Hbo ha diffuso il primo trailer. Storia di una serie che fa già arrabbiare tutti: fan, anti-woke e progressisti – Il video",
-    "url": "https://www.open.online/2026/09/02/harry-potter-serie-tv-hbo-trailer-polemiche-video/",
+    "original_title": "Report, Giulia Presutti rinuncia alla conduzione dopo le pressioni della redazione. «Passo indietro per aiutare la trasmissione»",
+    "url": "https://www.ilmessaggero.it/politica/report_presutti_rinuncia_perche_pressioni_redazione_cosa_e_successo-9739732.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Report, Giulia Presutti rinuncia alla conduzione dopo le pressioni della redazione. «Passo indietro per aiutare la trasmissione»",
+    "score": 3
+  },
+  {
+    "original_title": "Vannacci: «Aborto? Bisogna far ascoltare il battito del feto». E apre a Meloni al Colle",
+    "url": "https://www.open.online/2026/09/02/vannacci-aborto-battito-feto-meloni-quirinale/",
     "domain": "open.online",
     "region": "IT",
-    "title": "Harry Potter, Hbo ha diffuso il primo trailer. Storia di una serie che fa già arrabbiare tutti: fan, anti-woke e progressisti – Il video",
+    "title": "Vannacci: «Aborto? Bisogna far ascoltare il battito del feto». E apre a Meloni al Colle",
+    "score": 7
+  },
+  {
+    "original_title": "Allerta dei 007 danesi: «La Russia pianifica sabotaggi alle nostre industrie»",
+    "url": "https://www.open.online/2026/09/02/allerta-007-danimarca-russia-sabotaggi/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Allerta dei 007 danesi: «La Russia pianifica sabotaggi alle nostre industrie»",
+    "score": 3
+  },
+  {
+    "original_title": "Giallo a Parma, trovata morta in casa. L’autopsia su Sara Lodi non dipana i dubbi sul suo decesso",
+    "url": "https://www.open.online/2026/09/02/giallo-parma-trovata-morta-sara-lodi-autopsia/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Giallo a Parma, trovata morta in casa. L’autopsia su Sara Lodi non dipana i dubbi sul suo decesso",
+    "score": 1
+  },
+  {
+    "original_title": "Il sindaco di  Palma Campania e la guerra ai materassi dei cittadini del Bangladesh: i sequestri contro il «sovraffollamento». Ed è polemica",
+    "url": "https://www.open.online/2026/09/02/sindaco-palma-campania-materassi-bengalesi-polemica/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Il sindaco di  Palma Campania e la guerra ai materassi dei cittadini del Bangladesh: i sequestri contro il «sovraffollamento». Ed è polemica",
     "score": 4
   },
   {
-    "original_title": "Il vannacciano Emilio Giuliana che andrà al raduno neonazista in Trentino: «Da Roberto silenzio-assenso»",
-    "url": "https://www.open.online/2026/09/02/vannacciano-emilio-giuliana-raduno-neonazista-trentino/",
+    "original_title": "Giulia Presutti rinuncia alla conduzione di Report. «Faccio volentieri un passo indietro, ecco perché»",
+    "url": "https://www.open.online/2026/09/02/giulia-presutti-rinuncia-conduzione-report/",
     "domain": "open.online",
     "region": "IT",
-    "title": "Il vannacciano Emilio Giuliana che andrà al raduno neonazista in Trentino: «Da Roberto silenzio-assenso»",
+    "title": "Giulia Presutti rinuncia alla conduzione di Report. «Faccio volentieri un passo indietro, ecco perché»",
     "score": 1
   },
   {
-    "original_title": "In Giappone nascono gli incontri tra persone con lo stesso cognome per evitare di perdere il proprio nel giorno del matrimonio",
-    "url": "https://www.open.online/2026/09/02/giappone-incontri-stesso-cognome-matrimonio/",
+    "original_title": "Assolto a sorpresa Fenech, ora l’omicidio della giornalista Caruana resta senza un mandante",
+    "url": "https://www.open.online/2026/09/02/assolto-fenech-omicidio-daphne-caruana-galizia/",
     "domain": "open.online",
     "region": "IT",
-    "title": "In Giappone nascono gli incontri tra persone con lo stesso cognome per evitare di perdere il proprio nel giorno del matrimonio",
+    "title": "Assolto a sorpresa Fenech, ora l’omicidio della giornalista Caruana resta senza un mandante",
     "score": 5
-  },
-  {
-    "original_title": "Attacco a Lipsia, uno dei presunti agenti di Mosca entrò in Europa con un visto italiano.  «Ma non è mai passato per l’Italia»",
-    "url": "https://www.open.online/2026/09/02/attacco-aeroporto-lipsia-indagini-agente-russia-visto-italia/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Attacco a Lipsia, uno dei presunti agenti di Mosca entrò in Europa con un visto italiano.  «Ma non è mai passato per l’Italia»",
-    "score": 7
   },
   {
     "original_title": "Fine vita, il Veneto approva la legge. È la quarta Regione in Italia a farlo, la prima amministrata dal centrodestra. Zaia: «Una risposta doverosa»",
@@ -245,7 +245,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Fine vita, il Veneto approva la legge. È la quarta Regione in Italia a farlo, la prima amministrata dal centrodestra. Zaia: «Una risposta doverosa»",
-    "score": 7
+    "score": 8
   },
   {
     "original_title": "Moschea di Mestre, i soldi per costruirla sono stati raccolti con una colletta senza inviare i bilanci in Regione: arriva la diffida",
@@ -253,7 +253,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Moschea di Mestre, i soldi per costruirla sono stati raccolti con una colletta senza inviare i bilanci in Regione: arriva la diffida",
-    "score": 4
+    "score": 9
   },
   {
     "original_title": "Incidente mortale a Cittadella, moto contro un albero: muore un ragazzo di 22 anni",
@@ -261,7 +261,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Incidente mortale a Cittadella, moto contro un albero: muore un ragazzo di 22 anni",
-    "score": 5
+    "score": 2
   },
   {
     "original_title": "Rifiuti, il municipio ripulisce l'area privata, 250 metri cubi di immondizia, e spedisce la fattura ai proprietari del terreno: conto da 11.200 euro",
@@ -269,7 +269,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Rifiuti, il municipio ripulisce l'area privata, 250 metri cubi di immondizia, e spedisce la fattura ai proprietari del terreno: conto da 11.200 euro",
-    "score": 2
+    "score": 3
   },
   {
     "original_title": "Roberto Papetti lascia la direzione del Gazzettino dopo vent'anni, al suo posto Osvaldo De Paolini",
@@ -277,7 +277,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Roberto Papetti lascia la direzione del Gazzettino dopo vent'anni, al suo posto Osvaldo De Paolini",
-    "score": 9
+    "score": 5
   },
   {
     "original_title": "Blackout di 6 ore, i residenti: «Nessuna comunicazione. Quest'anno è successo già 10 volte». E-Distribuzione risponde: la causa un doppio guasto",
@@ -285,46 +285,54 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Blackout di 6 ore, i residenti: «Nessuna comunicazione. Quest'anno è successo già 10 volte». E-Distribuzione risponde: la causa un doppio guasto",
-    "score": 7
+    "score": 6
   },
   {
-    "original_title": "Italvolley in semifinale degli Europei, quando gioca? Polonia o Olanda, data e dove vederla in chiaro",
-    "url": "https://www.ilmattino.it/sport/altrisport/italvolley_europei_quando_gioca_semifinale_data_orario_dove_vederla_in_chiaro-9739658.html",
+    "original_title": "Università, in Campania 8.080 posti letto in più: superato il target Pnrr",
+    "url": "https://www.ilmattino.it/schede/universita_campania_8_080_posti_letto_piu_superato_target_pnrr-9739601.html",
     "domain": "ilmattino.it",
     "region": "IT",
-    "title": "Italvolley in semifinale degli Europei, quando gioca? Polonia o Olanda, data e dove vederla in chiaro",
-    "score": 9
-  },
-  {
-    "original_title": "Calciomercato Napoli, McTominay: «Non so se rinnoverò il mio contratto»",
-    "url": "https://www.ilmattino.it/sport/sscnapoli/calciomercato_napoli_mctominay_rinnovo_contratto_cosa_ha_detto_ultime_notizie_oggi-9739602.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Calciomercato Napoli, McTominay: «Non so se rinnoverò il mio contratto»",
+    "title": "Università, in Campania 8.080 posti letto in più: superato il target Pnrr",
     "score": 8
   },
   {
-    "original_title": "Omicidio-suicidio tra fratelli ad Apice: Franco e Donato volevano cedere l'attività, ma Gianni era contrario",
-    "url": "https://www.ilmattino.it/benevento/omicidio_suicidio_fratelli_ad_apice_franco_e_donato_volevano_cedere_l_attivita_ma_franco_non_era_d_accordo-9738834.html",
+    "original_title": "Zes unica anche al Nord: senza tagli al Mezzogiorno servono almeno 4 miliardi",
+    "url": "https://www.ilmattino.it/primopiano/politica/zes_unica_al_nord_senza_tagli_al_mezzogiorno_servono_almeno_4_miliardi-9739632.html",
     "domain": "ilmattino.it",
     "region": "IT",
-    "title": "Omicidio-suicidio tra fratelli ad Apice: Franco e Donato volevano cedere l'attività, ma Gianni era contrario",
-    "score": 5
+    "title": "Zes unica anche al Nord: senza tagli al Mezzogiorno servono almeno 4 miliardi",
+    "score": 3
   },
   {
-    "original_title": "Campi Flegrei, vertice con Piantedosi, Musumeci e i consiglieri regionali del centrodestra: «Irresponsabile non chiedere Stato di emergenza»",
-    "url": "https://www.ilmattino.it/napoli/area_metropolitana/campi_flegrei_vertice_con_piantedosi_e_musumeci_confronto_i_consiglieri_regionali-9739179.html",
+    "original_title": "America's Cup, ecco New Zealand. Prendono forma gli AC40: «Ci sarà un grande show»",
+    "url": "https://www.ilmattino.it/sport/vela/nisida_ecco_new_zealand_prendono_forma_ac40_ci_sara_un_grande_show-9739575.html",
     "domain": "ilmattino.it",
     "region": "IT",
-    "title": "Campi Flegrei, vertice con Piantedosi, Musumeci e i consiglieri regionali del centrodestra: «Irresponsabile non chiedere Stato di emergenza»",
+    "title": "America's Cup, ecco New Zealand. Prendono forma gli AC40: «Ci sarà un grande show»",
+    "score": 4
+  },
+  {
+    "original_title": "Vomero, colpo in banca. C?è la regia della camorra: «Indaga il pool della Dda»",
+    "url": "https://www.ilmattino.it/schede/vomero_colpo_in_banca_c_e_la_regia_della_premium_camorra_indaga_il_pool_della_dda-9739618.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Vomero, colpo in banca. C?è la regia della camorra: «Indaga il pool della Dda»",
     "score": 9
   },
   {
-    "original_title": "Burnham pressed on economy at first PMQs as UK borrowing costs rise",
+    "original_title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
     "url": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Burnham pressed on economy at first PMQs as UK borrowing costs rise",
+    "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
+    "score": 4
+  },
+  {
+    "original_title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+    "url": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
     "score": 5
   },
   {
@@ -333,159 +341,71 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
-    "score": 3
-  },
-  {
-    "original_title": "What famous scenes are in the epic Bayeux Tapestry?",
-    "url": "https://www.bbc.co.uk/news/videos/ce8xyjd65e1o?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "What famous scenes are in the epic Bayeux Tapestry?",
-    "score": 3
-  },
-  {
-    "original_title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
-    "url": "https://www.bbc.co.uk/news/videos/cn0j4k45z32o?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
-    "score": 4
-  },
-  {
-    "original_title": "Lucy Letby 'boyfriend' doctor named as court order lifted",
-    "url": "https://www.bbc.co.uk/news/articles/cy8z3jv98xyo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Lucy Letby 'boyfriend' doctor named as court order lifted",
-    "score": 1
-  },
-  {
-    "original_title": "Watch: What we know about reported strike on Iran wedding celebrations",
-    "url": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Watch: What we know about reported strike on Iran wedding celebrations",
-    "score": 8
-  },
-  {
-    "original_title": "Oil giant Chevron confirms it will expand operations in Venezuela after Trump announces deal",
-    "url": "https://nypost.com/2026/09/02/business/oil-giant-chevron-confirms-it-will-expand-operations-in-venezuela-after-trump-announces-deal/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Oil giant Chevron confirms it will expand operations in Venezuela after Trump announces deal",
     "score": 5
   },
   {
-    "original_title": "Billy Ray Cyrus weighs in on Miley’s decision to drop last name after healing family rift",
-    "url": "https://pagesix.com/2026/09/02/celebrity-news/billy-ray-cyrus-addresses-miley-cyrus-dropping-last-name-following-estrangement/",
-    "domain": "nypost.com",
+    "original_title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+    "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Billy Ray Cyrus weighs in on Miley’s decision to drop last name after healing family rift",
-    "score": 7
+    "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+    "score": 3
   },
   {
-    "original_title": "Private jet crash lands in field near small California airport",
-    "url": "https://nypost.com/2026/09/02/us-news/private-jet-crashes-in-field-near-small-california-airport/",
-    "domain": "nypost.com",
+    "original_title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+    "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Private jet crash lands in field near small California airport",
-    "score": 7
-  },
-  {
-    "original_title": "Spencer Jones heating up as Aaron Judge gets closer to returning",
-    "url": "https://nypost.com/video/spencer-jones-heating-up-as-aaron-judge-gets-closer-to-returning/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Spencer Jones heating up as Aaron Judge gets closer to returning",
-    "score": 6
-  },
-  {
-    "original_title": "‘The Mandalorian and Grogu’ Ending Explained: What Happens in the Baby Yoda Movie?",
-    "url": "https://decider.com/2026/09/02/the-mandalorian-and-grogu-ending-explained-what-happens-in-the-baby-yoda-movie/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "‘The Mandalorian and Grogu’ Ending Explained: What Happens in the Baby Yoda Movie?",
+    "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
     "score": 4
   },
   {
-    "original_title": "Putin furiously hits back after claims Russia’s running out of soldiers",
-    "url": "https://www.express.co.uk/news/world/2244962/Putin-hits-back-Russia-soldiers",
-    "domain": "express.co.uk",
+    "original_title": "‘I'd be the last to know’: Stars of The Gentlemen react to Meghan reports",
+    "url": "https://www.bbc.co.uk/news/articles/c05rg7mj2p1o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Putin furiously hits back after claims Russia’s running out of soldiers",
-    "score": 4
+    "title": "‘I'd be the last to know’: Stars of The Gentlemen react to Meghan reports",
+    "score": 3
   },
   {
-    "original_title": "Trump breaks silence on Harry and Meghan's UK return with hilarious 3-word outburst",
-    "url": "https://www.express.co.uk/news/royal/2244961/donald-trump-harry-meghan-uk-return",
-    "domain": "express.co.uk",
+    "original_title": "JD Vance can’t outrun his Tucker Carlson problem",
+    "url": "https://nypost.com/2026/09/02/opinion/jd-vance-cant-outrun-his-tucker-carlson-problem/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Trump breaks silence on Harry and Meghan's UK return with hilarious 3-word outburst",
+    "title": "JD Vance can’t outrun his Tucker Carlson problem",
     "score": 2
   },
   {
-    "original_title": "Law student jailed for cyberflashing client during live legal proceedings",
-    "url": "https://www.express.co.uk/news/uk/2244959/law-student-jailed-cyberflashing-client",
-    "domain": "express.co.uk",
+    "original_title": "Alix Earle throws shade at Alex Cooper’s canceled show as feud heats up",
+    "url": "https://pagesix.com/2026/09/02/celebrity-news/alix-earle-throws-shade-at-alex-coopers-canceled-show-as-feud-heats-up/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Law student jailed for cyberflashing client during live legal proceedings",
-    "score": 8
+    "title": "Alix Earle throws shade at Alex Cooper’s canceled show as feud heats up",
+    "score": 2
   },
   {
-    "original_title": "Lotto results LIVE: Winning National Lottery numbers with Thunderball on September 2",
-    "url": "https://www.express.co.uk/news/uk/2244958/lotto-result-live-winning-national-lottery-numbers-september-2",
-    "domain": "express.co.uk",
+    "original_title": "Moment brazen thief caught sucking $2,500 in gas from underground tanks at California gas station",
+    "url": "https://nypost.com/2026/09/02/us-news/california-thief-siphons-2k-in-gas-from-underground-tanks-at-station/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Lotto results LIVE: Winning National Lottery numbers with Thunderball on September 2",
-    "score": 4
+    "title": "Moment brazen thief caught sucking $2,500 in gas from underground tanks at California gas station",
+    "score": 7
   },
   {
-    "original_title": "Bristol fire: Blaze that ripped through building in Brislington 'started deliberately'",
-    "url": "https://www.express.co.uk/news/uk/2244956/bristol-fire-update-brislington-emergency",
-    "domain": "express.co.uk",
+    "original_title": "Jelena Ostapenko goes viral after drawing laughs for tiny umbrella at US Open",
+    "url": "https://nypost.com/2026/09/02/sports/jelana-ostapenkos-tiny-us-open-umbrella-goes-viral-draws-laughs/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Bristol fire: Blaze that ripped through building in Brislington 'started deliberately'",
-    "score": 8
+    "title": "Jelena Ostapenko goes viral after drawing laughs for tiny umbrella at US Open",
+    "score": 1
   },
   {
-    "original_title": "Warning issued to Brits taking 1 common medication",
-    "url": "https://www.express.co.uk/news/uk/2244955/warning-issued-brits-taking-medication",
-    "domain": "express.co.uk",
+    "original_title": "Carlos Alcaraz’s rumored girlfriend Claudia rocks animal-print bikini during US Open absence",
+    "url": "https://nypost.com/2026/09/02/sports/carlos-alcarazs-rumored-girlfriend-rocks-bikini-away-from-us-open/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Warning issued to Brits taking 1 common medication",
+    "title": "Carlos Alcaraz’s rumored girlfriend Claudia rocks animal-print bikini during US Open absence",
     "score": 9
-  },
-  {
-    "original_title": "'Jobless people on TV': Goyal attacks oppn, ex-finance secy for doubting GDP growth",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/ministers-dont-manufacture-data-goyal-hits-out-at-critics-for-questioning-gdp-figures/articleshow/133714520.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "'Jobless people on TV': Goyal attacks oppn, ex-finance secy for doubting GDP growth",
-    "score": 1
-  },
-  {
-    "original_title": "Dire straits: Brand on the run as Trump suggests Hormuz can be renamed in his honor",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/dire-straits-brand-on-the-run-as-trump-suggests-hormuz-can-be-renamed-in-his-honor/articleshow/133716555.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Dire straits: Brand on the run as Trump suggests Hormuz can be renamed in his honor",
-    "score": 1
-  },
-  {
-    "original_title": "'Reprehensible act of vandalism': India flays Pak over demolition of old Hindu temple",
-    "url": "https://timesofindia.indiatimes.com/india/reprehensible-act-of-vandalism-india-condemns-demolition-of-century-old-hindu-temple-in-pakistan-seeks-probe/articleshow/133714540.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "'Reprehensible act of vandalism': India flays Pak over demolition of old Hindu temple",
-    "score": 5
-  },
-  {
-    "original_title": "Rohit’s future, ODI roadmap to 2027 World Cup and recent setbacks on agenda at BCCI meeting",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharmas-future-odi-roadmap-to-2027-world-cup-and-recent-setbacks-on-agenda-at-bcci-meeting/articleshow/133715542.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Rohit’s future, ODI roadmap to 2027 World Cup and recent setbacks on agenda at BCCI meeting",
-    "score": 3
   },
   {
     "original_title": "Mecca Pact and Bangladesh: Why Dhaka is keeping the door open to 'Islamic Nato'",
@@ -493,7 +413,39 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "Mecca Pact and Bangladesh: Why Dhaka is keeping the door open to 'Islamic Nato'",
-    "score": 2
+    "score": 6
+  },
+  {
+    "original_title": "Russia largest supplier of crude in Aug, US tops LPG, LNG volumes",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/russia-largest-supplier-of-crude-in-aug-us-tops-lpg-lng-volumes/articleshow/133722226.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Russia largest supplier of crude in Aug, US tops LPG, LNG volumes",
+    "score": 6
+  },
+  {
+    "original_title": "2 Kuki-Zo MLAs set foot in Imphal for 1st time in 3 years",
+    "url": "https://timesofindia.indiatimes.com/india/2-kuki-zo-mlas-set-foot-in-imphal-for-1st-time-in-3-years/articleshow/133719773.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "2 Kuki-Zo MLAs set foot in Imphal for 1st time in 3 years",
+    "score": 4
+  },
+  {
+    "original_title": "Rohit’s future, ODI roadmap to 2027 World Cup and recent setbacks on agenda at BCCI meeting",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/rohit-sharmas-future-odi-roadmap-to-2027-world-cup-and-recent-setbacks-on-agenda-at-bcci-meeting/articleshow/133715542.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Rohit’s future, ODI roadmap to 2027 World Cup and recent setbacks on agenda at BCCI meeting",
+    "score": 1
+  },
+  {
+    "original_title": "In times of reels, Centre plans 'social media code' for officers",
+    "url": "https://timesofindia.indiatimes.com/india/in-times-of-reels-centre-plans-social-media-code-for-officers/articleshow/133719692.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "In times of reels, Centre plans 'social media code' for officers",
+    "score": 6
   },
   {
     "original_title": "Months after Dell's $6.25B pledge, Trump Accounts get new rules",
@@ -501,103 +453,103 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "Months after Dell's $6.25B pledge, Trump Accounts get new rules",
+    "score": 6
+  },
+  {
+    "original_title": "Appeals court: Judge who wiped out Bowe Bergdahl conviction lacked jurisdiction",
+    "url": "https://www.upi.com/Top_News/US/2026/09/02/appeals-court-says-judge-vacated-Bergdahl-conviction-lacked-power/2771788385289/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Appeals court: Judge who wiped out Bowe Bergdahl conviction lacked jurisdiction",
+    "score": 7
+  },
+  {
+    "original_title": "Federal judge: Google doesn’t need to break up ad tech business",
+    "url": "https://www.upi.com/Top_News/US/2026/09/02/judge-rules-google-does-not-need-to-break-up-ad-tech-business/4941788380421/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Federal judge: Google doesn’t need to break up ad tech business",
+    "score": 7
+  },
+  {
+    "original_title": "Poll: U.S. belief that government is corrupt hits 20-year-high",
+    "url": "https://www.upi.com/Top_News/US/2026/09/02/gallup-poll-government-corruption/7571788378826/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Poll: U.S. belief that government is corrupt hits 20-year-high",
+    "score": 8
+  },
+  {
+    "original_title": "Nearly 2,000 people down shots of Malört to set world record",
+    "url": "https://www.upi.com/Odd_News/2026/09/02/Guinness-World-Records-Jeppsons-Malort/9561788278812/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Nearly 2,000 people down shots of Malört to set world record",
+    "score": 8
+  },
+  {
+    "original_title": "Patagonia sues Trump administration over Bears Ears National Monument",
+    "url": "https://www.upi.com/Top_News/US/2026/09/02/patagonia-sues-trump-over-bears-ears-again/3711788376509/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Patagonia sues Trump administration over Bears Ears National Monument",
     "score": 1
   },
   {
-    "original_title": "Doctors release vaccine recommendations for RSV, influenza, COVID-19",
-    "url": "https://www.upi.com/Top_News/US/2026/09/02/doctors-vaccine-advice-cdc/3641788370905/",
+    "original_title": "Woman charged with intimidating Lindsay Clancy jury by taking photos",
+    "url": "https://www.upi.com/Top_News/US/2026/09/02/woman-charged-intimidating-jurors-clancy-trial/3901788376097/",
     "domain": "upi.com",
     "region": "GLOBAL",
-    "title": "Doctors release vaccine recommendations for RSV, influenza, COVID-19",
+    "title": "Woman charged with intimidating Lindsay Clancy jury by taking photos",
+    "score": 7
+  },
+  {
+    "original_title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
+    "url": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
+    "score": 7
+  },
+  {
+    "original_title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+    "url": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+    "score": 9
+  },
+  {
+    "original_title": "Israeli PM says Israel is working to overthrow Iran’s government",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Israeli PM says Israel is working to overthrow Iran’s government",
+    "score": 5
+  },
+  {
+    "original_title": "Children return to school in DR Congo amid growing concerns over Ebola",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Children return to school in DR Congo amid growing concerns over Ebola",
+    "score": 5
+  },
+  {
+    "original_title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
+    "url": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
+    "score": 5
+  },
+  {
+    "original_title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
+    "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
     "score": 1
-  },
-  {
-    "original_title": "Uber to lay off more than 3,000 people",
-    "url": "https://www.upi.com/Top_News/US/2026/09/02/uber-lay-off-3000-people/1241788373215/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Uber to lay off more than 3,000 people",
-    "score": 5
-  },
-  {
-    "original_title": "U.S. Mint starts selling gold-colored coins with Trump's face",
-    "url": "https://www.upi.com/Top_News/US/2026/09/02/mint-starts-selling-trump-coins/1031788371445/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "U.S. Mint starts selling gold-colored coins with Trump's face",
-    "score": 9
-  },
-  {
-    "original_title": "Look: '90 Day Fiance: The Other Way' Season 8 to premiere in October",
-    "url": "https://www.upi.com/Entertainment_News/TV/2026/09/02/90-day-fiance-season-8-couples-trailer-premiere/8701788369917/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Look: '90 Day Fiance: The Other Way' Season 8 to premiere in October",
-    "score": 2
-  },
-  {
-    "original_title": "'DWTS' Season 35: Jenna Dewan, Julia Stiles, Tatyana Ali, more to compete",
-    "url": "https://www.upi.com/Entertainment_News/TV/2026/09/02/dancing-with-the-stars-jenna-dewan/9071788368142/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "'DWTS' Season 35: Jenna Dewan, Julia Stiles, Tatyana Ali, more to compete",
-    "score": 9
-  },
-  {
-    "original_title": "Gal Gadot plays a mom with an impossible dilemma in 'The Runner'",
-    "url": "https://www.upi.com/Entertainment_News/TV/2026/09/02/gal-gadot-the-runner-interview/8061788305487/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Gal Gadot plays a mom with an impossible dilemma in 'The Runner'",
-    "score": 6
-  },
-  {
-    "original_title": "USS Abraham Lincoln reaches Thailand after 9 months at sea",
-    "url": "https://www.aljazeera.com/news/2026/9/2/uss-abraham-lincoln-reaches-thailand-after-9-months-at-sea?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "USS Abraham Lincoln reaches Thailand after 9 months at sea",
-    "score": 6
-  },
-  {
-    "original_title": "Signing ceremony as US to control a fifth of Venezuela’s oil reserves",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/signing-ceremony-as-us-to-control-a-fifth-of-venezuelas-oil-reserves?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Signing ceremony as US to control a fifth of Venezuela’s oil reserves",
-    "score": 3
-  },
-  {
-    "original_title": "Will the EU take action against Israel?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/9/2/will-the-eu-take-action-against-israel?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Will the EU take action against Israel?",
-    "score": 9
-  },
-  {
-    "original_title": "Israel kills or injures 7 children a day in Lebanon invasion, report says",
-    "url": "https://www.aljazeera.com/news/2026/9/2/israel-kills-or-injures-7-children-a-day-in-lebanon-invasion-report-says?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Israel kills or injures 7 children a day in Lebanon invasion, report says",
-    "score": 6
-  },
-  {
-    "original_title": "UK’s Burnham faces first parliament grilling, vows to ‘bring back hope’",
-    "url": "https://www.aljazeera.com/economy/2026/9/2/uks-burnham-faces-first-parliament-grilling-vows-to-bring-back-hope?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "UK’s Burnham faces first parliament grilling, vows to ‘bring back hope’",
-    "score": 3
-  },
-  {
-    "original_title": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence",
-    "score": 5
   },
   {
     "original_title": "How a quiz show and a dream took Azerbaijan's Sabah to the Champions League",
@@ -605,7 +557,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "How a quiz show and a dream took Azerbaijan's Sabah to the Champions League",
-    "score": 7
+    "score": 4
   },
   {
     "original_title": "From infrastructure to military drills, China deepens footprint in Egypt as Xi visits Cairo",
@@ -613,7 +565,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "From infrastructure to military drills, China deepens footprint in Egypt as Xi visits Cairo",
-    "score": 7
+    "score": 3
   },
   {
     "original_title": "Kyiv school year begins under the shadow of air raid sirens",
@@ -629,7 +581,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Sharp rise in utility bills pushes Russia's inflation further off target",
-    "score": 7
+    "score": 8
   },
   {
     "original_title": "Turkish cargo ship sinks off Istanbul after collision, 10 crew missing",
@@ -637,6 +589,54 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Turkish cargo ship sinks off Istanbul after collision, 10 crew missing",
+    "score": 9
+  },
+  {
+    "original_title": "US and Sri Lankan agents bust Pakistan drug network and seize €18m of meth, police say",
+    "url": "http://www.euronews.com/2026/09/02/us-and-sri-lankan-agents-bust-pakistan-drug-network-and-seize-18m-of-meth-police-say",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "US and Sri Lankan agents bust Pakistan drug network and seize €18m of meth, police say",
+    "score": 3
+  },
+  {
+    "original_title": "Tim Kurkjian Quits ‘Baseball Tonight’ After Discovering MMA",
+    "url": "https://theonion.com/tim-kurkjian-quits-baseball-tonight-after-discovering-mma/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "Tim Kurkjian Quits ‘Baseball Tonight’ After Discovering MMA",
+    "score": 3
+  },
+  {
+    "original_title": "Dark Horse Emerges In Competition For Most Insane Coworker",
+    "url": "https://theonion.com/dark-horse-emerges-in-competition-for-most-insane-coworker/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "Dark Horse Emerges In Competition For Most Insane Coworker",
+    "score": 9
+  },
+  {
+    "original_title": "Amazon MGM Narrows List Of James Bond Candidates To 6 Actors, 1 Extremely Suave Ferret",
+    "url": "https://theonion.com/amazon-mgm-narrows-list-of-james-bond-candidates-to-6-actors-1-extremely-suave-ferret/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "Amazon MGM Narrows List Of James Bond Candidates To 6 Actors, 1 Extremely Suave Ferret",
+    "score": 2
+  },
+  {
+    "original_title": "Grieving Widower Not Sure He’ll Ever Love Someone His Age Again",
+    "url": "https://theonion.com/grieving-widower-not-sure-hell-ever-love-someone-his-age-again/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "Grieving Widower Not Sure He’ll Ever Love Someone His Age Again",
+    "score": 1
+  },
+  {
+    "original_title": "What To Know About Starbase, Louisiana",
+    "url": "https://theonion.com/what-to-know-about-starbase-louisiana/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "What To Know About Starbase, Louisiana",
     "score": 2
   }
 ]
