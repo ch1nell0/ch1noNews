@@ -1,11 +1,27 @@
 [
   {
+    "original_title": "La Fiorentina ha esonerato Fabio Grosso",
+    "url": "https://www.repubblica.it/sport/calcio/serie-a/fiorentina/2026/09/06/news/fiorentina_esonera_fabio_grosso-425569288/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "La Fiorentina ha esonerato Fabio Grosso",
+    "score": 3
+  },
+  {
+    "original_title": "Cisse illude il Milan, Gatti al 92’ salva la Juventus: finisce 1-1",
+    "url": "https://www.repubblica.it/sport/calcio/serie-a/2026/09/06/news/juventus_milan_gol-425569280/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Cisse illude il Milan, Gatti al 92’ salva la Juventus: finisce 1-1",
+    "score": 3
+  },
+  {
     "original_title": "L’Italia si scioglie sul più bello: la Turchia vince al quinto set e si conferma campione d’Europa",
     "url": "https://www.repubblica.it/sport/volley/2026/09/06/news/italia_sconfitta_da_turchia_europei_finale-425569096/",
     "domain": "repubblica.it",
     "region": "IT",
     "title": "L’Italia si scioglie sul più bello: la Turchia vince al quinto set e si conferma campione d’Europa",
-    "score": 2
+    "score": 7
   },
   {
     "original_title": "Il Bologna soffre, Dovbyk lo salva al 91esimo. Con il Sassuolo finisce 2-2",
@@ -13,7 +29,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Il Bologna soffre, Dovbyk lo salva al 91esimo. Con il Sassuolo finisce 2-2",
-    "score": 3
+    "score": 1
   },
   {
     "original_title": "Remigrazione, Putin e neonazismo: chi è Siegmund, il candidato governatore Afd in Sassonia-Anhalt",
@@ -21,7 +37,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Remigrazione, Putin e neonazismo: chi è Siegmund, il candidato governatore Afd in Sassonia-Anhalt",
-    "score": 4
+    "score": 9
   },
   {
     "original_title": "Red carpet di Venezia 2026: da Alicia Vikander a Luca Marinelli, le pagelle dei look di oggi",
@@ -32,28 +48,12 @@
     "score": 4
   },
   {
-    "original_title": "Schlein: “Sull’ex Ilva chiediamo serietà, Meloni tolga il dossier al ministro Urso”",
-    "url": "https://bari.repubblica.it/cronaca/2026/09/06/news/elly_schlein_ex_ilva_chiediamo_serieta_meloni_tolga_il_dossier_al_ministro_urso-425568745/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Schlein: “Sull’ex Ilva chiediamo serietà, Meloni tolga il dossier al ministro Urso”",
-    "score": 5
-  },
-  {
-    "original_title": "Salvini: “In Sassonia-Anhalt trionfo Afd, è la democrazia”",
-    "url": "https://www.repubblica.it/politica/2026/09/06/news/salvini_vannacci_afd_elezioni_sassonia_anhalt-425568741/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Salvini: “In Sassonia-Anhalt trionfo Afd, è la democrazia”",
-    "score": 3
-  },
-  {
     "original_title": "Elezioni in Sassonia-Anhalt, ha votato per l’Afd il 42% dei giovani, il 60% degli operai e il 65% delle persone in difficoltà economica",
     "url": "https://www.ilfattoquotidiano.it/2026/09/06/elezioni-sassonia-anhalt-afd-voto-notizie/8498580/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Elezioni in Sassonia-Anhalt, ha votato per l’Afd il 42% dei giovani, il 60% degli operai e il 65% delle persone in difficoltà economica",
-    "score": 5
+    "score": 1
   },
   {
     "original_title": "Europei di volley femminili, l’Italia si inchina alla Turchia in finale: Vargas e compagne esultano nella bolgia di Istanbul",
@@ -61,7 +61,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Europei di volley femminili, l’Italia si inchina alla Turchia in finale: Vargas e compagne esultano nella bolgia di Istanbul",
-    "score": 3
+    "score": 4
   },
   {
     "original_title": "Il voto in Sassonia-Anhalt, Salvini e Vannacci esultano: “Successo clamoroso”, “Merz ha l’ulcera”. Tajani: “Pessima notizia”. Conte: “Riarmo invece di lotta alle diseguaglianze, così Afd è prima”",
@@ -69,7 +69,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Il voto in Sassonia-Anhalt, Salvini e Vannacci esultano: “Successo clamoroso”, “Merz ha l’ulcera”. Tajani: “Pessima notizia”. Conte: “Riarmo invece di lotta alle diseguaglianze, così Afd è prima”",
-    "score": 3
+    "score": 2
   },
   {
     "original_title": "Il collettivo italiano sanzionato da Trump chiude, Autistici/Inventati: “Temiamo conseguenze penali e finanziarie per le nostre comunità”",
@@ -85,7 +85,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Luca Marinelli e Alicia Vikander amanti infelici nell’appartamento gabbia del desiderio in “The echo chamber”. A Venezia 83 Andrea Pallaoro fa riemergere il fantasma di Bernardo Bertolucci",
-    "score": 5
+    "score": 4
   },
   {
     "original_title": "“Un concentrato di stereotipi di genere che dovrebbe far riflettere”: il parere dello psicoterapeuta Pellai sull’ingresso a San Siro di Sfera Ebbasta insieme a 10 ragazze",
@@ -93,7 +93,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "“Un concentrato di stereotipi di genere che dovrebbe far riflettere”: il parere dello psicoterapeuta Pellai sull’ingresso a San Siro di Sfera Ebbasta insieme a 10 ragazze",
-    "score": 6
+    "score": 5
   },
   {
     "original_title": "FOTO F1: La domenica bestiale di Kimi. 'Mamma mia, che giornata'",
@@ -117,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Bad Bunny vince il suo primo Emmy con lo show per il Super Bowl",
-    "score": 9
+    "score": 4
   },
   {
     "original_title": "Coppa America, Sirena: \"L'edizione 2027 sarà la più bella di sempre\"",
@@ -125,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Coppa America, Sirena: \"L'edizione 2027 sarà la più bella di sempre\"",
-    "score": 4
+    "score": 1
   },
   {
     "original_title": "Crollo delle nascite anche per le stelle, ma il carburante c'è",
@@ -133,7 +133,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Crollo delle nascite anche per le stelle, ma il carburante c'è",
-    "score": 7
+    "score": 5
   },
   {
     "original_title": "Elezioni in Germania, Afd trionfa con il 44,2% in Sassonia-Anhalt. Cdu al 18%",
@@ -141,55 +141,71 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Elezioni in Germania, Afd trionfa con il 44,2% in Sassonia-Anhalt. Cdu al 18%",
+    "score": 7
+  },
+  {
+    "original_title": "Elezioni Sassonia, vola l?ultradestra: l?AfD al 44,5%. Crolla la Cdu e Merz trema. Ma resta il nodo della governabilità",
+    "url": "https://www.ilmessaggero.it/mondo/elezioni_sassonia_germania_afd_risultati_cosa_succede_ora-9747581.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Elezioni Sassonia, vola l?ultradestra: l?AfD al 44,5%. Crolla la Cdu e Merz trema. Ma resta il nodo della governabilità",
+    "score": 7
+  },
+  {
+    "original_title": "Woke, insicurezza, spopolamento: la destra estrema cavalca le paure (non solo in Germania)",
+    "url": "https://www.ilmessaggero.it/politica/destra_estrema_successo_europa_perche-9747591.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Woke, insicurezza, spopolamento: la destra estrema cavalca le paure (non solo in Germania)",
+    "score": 7
+  },
+  {
+    "original_title": "Afd, Tajani: «Segnale preoccupante ma è un voto regionale. In Italia realtà diversa»",
+    "url": "https://www.ilmessaggero.it/politica/afd_germania_sassonia_tajani_intervista-9747595.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Afd, Tajani: «Segnale preoccupante ma è un voto regionale. In Italia realtà diversa»",
+    "score": 6
+  },
+  {
+    "original_title": "Meteo, Giuliacci: «Ecco come sarà l'inverno: El Nino, due anomalie, aria polare, ondate di freddo e neve»",
+    "url": "https://www.ilmessaggero.it/schede/meteo_giuliacci_inverno_come_sara_aria_polare_ondate_freddo_neve_previsioni_ultime_notizie-9747328.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Meteo, Giuliacci: «Ecco come sarà l'inverno: El Nino, due anomalie, aria polare, ondate di freddo e neve»",
     "score": 5
   },
   {
-    "original_title": "Ulrich Siegmund, chi è il ?Robin Hood? dell'ultradestra. Per der Spiegel è l'uomo «più pericoloso della Germania»",
-    "url": "https://www.ilmessaggero.it/mondo/siegmund_afd_chi_e_candidato_ultradestra-9747227.html",
+    "original_title": "Pensioni minime, gli aumenti 2027 (con le tabelle simulazioni). Integrazione a 629 euro con la rivalutazione",
+    "url": "https://www.ilmessaggero.it/economia/schede/pensioni_minime_aumenti_2027_rivalutazione_tabelle_simulazioni-9746895.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Ulrich Siegmund, chi è il ?Robin Hood? dell'ultradestra. Per der Spiegel è l'uomo «più pericoloso della Germania»",
-    "score": 1
+    "title": "Pensioni minime, gli aumenti 2027 (con le tabelle simulazioni). Integrazione a 629 euro con la rivalutazione",
+    "score": 5
   },
   {
-    "original_title": "Afd trionfa in Sassonia, ma può governare? Il nodo della maggioranza assoluta e il fattore Bsw (in bilico sul 5%)",
-    "url": "https://www.ilmessaggero.it/politica/afd_elezioni_sassonia_ha_vinto_puo_governare-9747351.html",
+    "original_title": "Assegno sociale, aumenti e nuovi limiti dal 2027: ecco chi rischia di saltare un mese",
+    "url": "https://www.ilmessaggero.it/economia/schede/assegno_sociale_aumenti_limiti_2027_chi_salta_un_mese-9747341.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Afd trionfa in Sassonia, ma può governare? Il nodo della maggioranza assoluta e il fattore Bsw (in bilico sul 5%)",
-    "score": 7
-  },
-  {
-    "original_title": "Antonelli, clamorosa vittoria a Monza, da 19esimo a primo con la Mercedes. Lacrime sul podio. Disastro Ferrari, Hamilton sesto, incidente per Leclerc",
-    "url": "https://www.ilmessaggero.it/sport/formula1/live_gp_monza_diretta_gasly_hamilton_leclerc_ferrari_antonelli_dove_vedere_la_gara_tv_streaming-9747117.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Antonelli, clamorosa vittoria a Monza, da 19esimo a primo con la Mercedes. Lacrime sul podio. Disastro Ferrari, Hamilton sesto, incidente per Leclerc",
-    "score": 7
-  },
-  {
-    "original_title": "Kimi Antonelli, trionfo a Monza: era partito 19esimo, ecco come ha fatto a rimontare. Un italiano vince 60 anni dopo Scarfiotti",
-    "url": "https://www.ilmessaggero.it/sport/schede/kimi_antonelli_gp_monza_rimonta_come_ha_fatto_da_ultimo_a_primo_cosa_e_successo-9747283.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Kimi Antonelli, trionfo a Monza: era partito 19esimo, ecco come ha fatto a rimontare. Un italiano vince 60 anni dopo Scarfiotti",
-    "score": 1
-  },
-  {
-    "original_title": "Italia-Turchia, le pagelle della finale di volley femminile: Egonu (7,5) garanzia, Antropova (5,5) la meno brillante, Danesi (7) c'è sempre",
-    "url": "https://www.ilmessaggero.it/sport/altrisport/italia_volley_femminile_turchia_pagelle_europei_finale-9747508.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Italia-Turchia, le pagelle della finale di volley femminile: Egonu (7,5) garanzia, Antropova (5,5) la meno brillante, Danesi (7) c'è sempre",
+    "title": "Assegno sociale, aumenti e nuovi limiti dal 2027: ecco chi rischia di saltare un mese",
     "score": 8
   },
   {
-    "original_title": "Lite Percassi-D'amico, il comunicato della Roma: «Comportamento inaccettabile». La risposta: «Respingiamo le accuse»",
-    "url": "https://www.ilmessaggero.it/sport/as_roma/roma_atalanta_percassi_d_amico_cosa_e_successo_i_due_comunicati-9747015.html",
-    "domain": "ilmessaggero.it",
+    "original_title": "Infantino si ricandida alla presidenza della Fifa: la Uefa e le altre federazioni al lavoro sugli sfidanti",
+    "url": "https://www.open.online/2026/09/06/gianni-infantino-ricandidatura-fifa-2027/",
+    "domain": "open.online",
     "region": "IT",
-    "title": "Lite Percassi-D'amico, il comunicato della Roma: «Comportamento inaccettabile». La risposta: «Respingiamo le accuse»",
-    "score": 8
+    "title": "Infantino si ricandida alla presidenza della Fifa: la Uefa e le altre federazioni al lavoro sugli sfidanti",
+    "score": 6
+  },
+  {
+    "original_title": "Gli inviati di Trump per la prima volta a Kiev: «Russia e Ucraina devono fare compromessi». Zelensky: «La guerra continuerà»",
+    "url": "https://www.open.online/2026/09/06/ucraina-russia-negoziati-pace-usa-aggiornamenti-6-settembre/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Gli inviati di Trump per la prima volta a Kiev: «Russia e Ucraina devono fare compromessi». Zelensky: «La guerra continuerà»",
+    "score": 2
   },
   {
     "original_title": "Trump dice addio all’iconico ciuffo biondo: ora ha i capelli castani. Il nuovo look del presidente Usa scatena i social",
@@ -197,7 +213,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Trump dice addio all’iconico ciuffo biondo: ora ha i capelli castani. Il nuovo look del presidente Usa scatena i social",
-    "score": 1
+    "score": 5
   },
   {
     "original_title": "La vittoria di AfD divide il governo italiano: Salvini esulta, Tajani prende le distanze, Meloni sceglie il silenzio. Tutte le reazioni della politica",
@@ -205,7 +221,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "La vittoria di AfD divide il governo italiano: Salvini esulta, Tajani prende le distanze, Meloni sceglie il silenzio. Tutte le reazioni della politica",
-    "score": 6
+    "score": 8
   },
   {
     "original_title": "Pallavolo: la Turchia rimonta e vince, le azzurre devono accontentarsi dell’argento",
@@ -213,7 +229,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Pallavolo: la Turchia rimonta e vince, le azzurre devono accontentarsi dell’argento",
-    "score": 5
+    "score": 9
   },
   {
     "original_title": "Elezioni in Sassonia-Anhalt, ce la farà l’AfD a governare da sola? Cosa succede adesso e perché è decisivo il risultato dei rossobruni di Bsw",
@@ -224,28 +240,28 @@
     "score": 2
   },
   {
-    "original_title": "Karol Greco e Giuseppe Bisconti: chi sono i due giovani travolti da un’auto alla cronoscalata del Monte Erice",
-    "url": "https://www.open.online/2026/09/06/incidente-cronoscalata-monte-erice-giuseppe-bisconti-karol-greco/",
-    "domain": "open.online",
+    "original_title": "Venditori ambulanti in spiaggia con il pranzo al sacco per non perdere il posto: a mezzogiorno distribuiti pane, acqua e un piatto di pasta",
+    "url": "https://www.ilgazzettino.it/nordest/venezia/venditori_ambulanti_pranzo_spiaggia_chioggia-9747362.html",
+    "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Karol Greco e Giuseppe Bisconti: chi sono i due giovani travolti da un’auto alla cronoscalata del Monte Erice",
+    "title": "Venditori ambulanti in spiaggia con il pranzo al sacco per non perdere il posto: a mezzogiorno distribuiti pane, acqua e un piatto di pasta",
     "score": 2
   },
   {
-    "original_title": "Netanyahu ordina di smantellare gli avamposti dei coloni in Cisgiordania: la mossa di Tel Aviv dopo il pressing dell’ambasciatore Usa",
-    "url": "https://www.open.online/2026/09/06/netanyahu-smantellamento-avamposti-coloni-cisgiordania/",
-    "domain": "open.online",
+    "original_title": "Vandali e rifiuti abbandonati, il parroco chiude il patronato: «Vale anche durante la Festa di San Michele. Valutiamo come procedere»",
+    "url": "https://www.ilgazzettino.it/nordest/venezia/patronato_chiuso_vandali_rifiuti_abbandonati_quarto_d_altino-9747421.html",
+    "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Netanyahu ordina di smantellare gli avamposti dei coloni in Cisgiordania: la mossa di Tel Aviv dopo il pressing dell’ambasciatore Usa",
-    "score": 7
+    "title": "Vandali e rifiuti abbandonati, il parroco chiude il patronato: «Vale anche durante la Festa di San Michele. Valutiamo come procedere»",
+    "score": 9
   },
   {
-    "original_title": "Aliante precipita nel fiume Isarco: morto il pilota e content creator Manuel Unterkircher. Il cordoglio: «Cieli blu Manuel»",
+    "original_title": "Aliante precipita nel fiume Isarco: morto il pilota e content creator. Il dolore degli amici del 38enne: «Ora volerai per sempre, buon viaggio Manuel»",
     "url": "https://www.ilgazzettino.it/nordest/bolzano/aliante_precipita_morto_manuel_unterkircher_chi_era_vipiteno-9747465.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Aliante precipita nel fiume Isarco: morto il pilota e content creator Manuel Unterkircher. Il cordoglio: «Cieli blu Manuel»",
-    "score": 9
+    "title": "Aliante precipita nel fiume Isarco: morto il pilota e content creator. Il dolore degli amici del 38enne: «Ora volerai per sempre, buon viaggio Manuel»",
+    "score": 8
   },
   {
     "original_title": "Donna devasta l'ospedale e picchia un anestesista, le avevano appena comunicato la morte della mamma: arrestata dopo la notte di caos in corsia",
@@ -253,7 +269,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Donna devasta l'ospedale e picchia un anestesista, le avevano appena comunicato la morte della mamma: arrestata dopo la notte di caos in corsia",
-    "score": 8
+    "score": 3
   },
   {
     "original_title": "Moschea di Mestre, la consigliera di FdI Laura Besio porta il caso in Regione: sotto la lente il progetto e i finanziamenti",
@@ -261,7 +277,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Moschea di Mestre, la consigliera di FdI Laura Besio porta il caso in Regione: sotto la lente il progetto e i finanziamenti",
-    "score": 3
+    "score": 8
   },
   {
     "original_title": "È morto Giancarlo Terrin, il papà di Tania: aveva 68 anni ed era malato da tempo",
@@ -269,63 +285,47 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "È morto Giancarlo Terrin, il papà di Tania: aveva 68 anni ed era malato da tempo",
-    "score": 9
-  },
-  {
-    "original_title": "Borseggiatori, è Mihai Midoschi l'uomo trovato morto nella casa occupata a Tessera. Indagini sul decesso: dalla lite alla benzina sulla porta",
-    "url": "https://www.ilgazzettino.it/nordest/venezia/borseggiatori_cadavere_tessera_mihai_midoschi_morto_chi_era-9745979.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Borseggiatori, è Mihai Midoschi l'uomo trovato morto nella casa occupata a Tessera. Indagini sul decesso: dalla lite alla benzina sulla porta",
-    "score": 1
-  },
-  {
-    "original_title": "Stop ai voli da Treviso a Londra: dal 25 ottobre Ryanair trasferirà lo scalo al Marco Polo di Venezia",
-    "url": "https://www.ilgazzettino.it/nordest/treviso/voli_aeroporto_treviso_londra_cancellato_scalo_venezia-9745778.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Stop ai voli da Treviso a Londra: dal 25 ottobre Ryanair trasferirà lo scalo al Marco Polo di Venezia",
-    "score": 9
-  },
-  {
-    "original_title": "Omicidio- suicidio tra fratelli ad Apice, i funerali di Franco Licciardi",
-    "url": "https://www.ilmattino.it/benevento/omicidio_suicidio_tra_fratelli_ad_apice_i_funerali_di_franco_licciardi-9747453.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Omicidio- suicidio tra fratelli ad Apice, i funerali di Franco Licciardi",
-    "score": 4
-  },
-  {
-    "original_title": "Antonelli, clamorosa vittoria a Monza, da 19esimo a primo con la Mercedes. Lacrime sul podio. Disastro Ferrari, Hamilton sesto, incidente per Leclerc",
-    "url": "https://www.ilmattino.it/sport/formula1/live_gp_monza_diretta_gasly_hamilton_leclerc_ferrari_antonelli_dove_vedere_la_gara_tv_streaming-9747137.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Antonelli, clamorosa vittoria a Monza, da 19esimo a primo con la Mercedes. Lacrime sul podio. Disastro Ferrari, Hamilton sesto, incidente per Leclerc",
-    "score": 8
-  },
-  {
-    "original_title": "Juve Stabia-Pisa, malore in campo per Bozhinov per il troppo caldo: portato via in barella",
-    "url": "https://www.ilmattino.it/sport/serie_b/juve_stabia_caldo_malore_pisa_bozhinov-9747210.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Juve Stabia-Pisa, malore in campo per Bozhinov per il troppo caldo: portato via in barella",
-    "score": 2
-  },
-  {
-    "original_title": "Le ultime notizie su Alessandro Di Battista operato a Cuba, come sta: peggiorano le condizioni",
-    "url": "https://www.ilmattino.it/schede/di_battista_operato_cuba_condizioni_rianimazione-9746918.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Le ultime notizie su Alessandro Di Battista operato a Cuba, come sta: peggiorano le condizioni",
     "score": 6
   },
   {
-    "original_title": "German far-right set for big win in eastern state, projections show",
+    "original_title": "Svolta sull?energia green, sette mega impianti al Sud per sostenere l?industria",
+    "url": "https://www.ilmattino.it/cambio_di_paradigma/svolta_sull_energia_green_sette_mega_impianti_al_sud_per_sostenere_l_industria-9747492.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Svolta sull?energia green, sette mega impianti al Sud per sostenere l?industria",
+    "score": 3
+  },
+  {
+    "original_title": "Polo orafo: startup, formazione e giovani dalla Campania un piano da 60 milioni",
+    "url": "https://www.ilmattino.it/cambio_di_paradigma/polo_orafo_startup_formazione_giovani_dalla_campania_un_piano_da_60_milioni-9747481.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Polo orafo: startup, formazione e giovani dalla Campania un piano da 60 milioni",
+    "score": 1
+  },
+  {
+    "original_title": "Incidenti, troppa velocità, Lungomare di Napoli ad alto rischio: «Quei dossi sono un bluff»",
+    "url": "https://www.ilmattino.it/napoli/cronaca/incidenti_troppa_velocita_lungomare_ad_alto_rischio_quei_dossi_un_bluff_napoli-9747456.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Incidenti, troppa velocità, Lungomare di Napoli ad alto rischio: «Quei dossi sono un bluff»",
+    "score": 3
+  },
+  {
+    "original_title": "Via Petrarca, folle ?gara? per la sosta selvaggia: «Noi prigionieri in casa»",
+    "url": "https://www.ilmattino.it/napoli/cronaca/napoli_via_petrarca_folle_gara_la_sosta_selvaggia_prigionieri_casa-9747398.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Via Petrarca, folle ?gara? per la sosta selvaggia: «Noi prigionieri in casa»",
+    "score": 9
+  },
+  {
+    "original_title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
     "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "German far-right set for big win in eastern state, projections show",
-    "score": 7
+    "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+    "score": 3
   },
   {
     "original_title": "Zelensky says he expects war to continue into winter after talks with US envoys",
@@ -333,7 +333,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-    "score": 1
+    "score": 8
   },
   {
     "original_title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
@@ -341,7 +341,23 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
-    "score": 5
+    "score": 4
+  },
+  {
+    "original_title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
+    "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
+    "score": 2
+  },
+  {
+    "original_title": "140 migrants in single dinghy rescued in English Channel",
+    "url": "https://www.bbc.co.uk/news/articles/clyegwl9vzqo?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "140 migrants in single dinghy rescued in English Channel",
+    "score": 2
   },
   {
     "original_title": "Jamaica to bring slavery reparations petition to King Charles",
@@ -349,135 +365,119 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Jamaica to bring slavery reparations petition to King Charles",
-    "score": 1
-  },
-  {
-    "original_title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-    "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-    "score": 1
-  },
-  {
-    "original_title": "Dozens feared trapped in collapsed building in Delhi",
-    "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Dozens feared trapped in collapsed building in Delhi",
-    "score": 3
-  },
-  {
-    "original_title": "Mamdani’s housing-court fast-track for tenants ignores landlords’ 120,000 unpaid-rent cases: critics",
-    "url": "https://nypost.com/2026/09/06/us-news/mamdanis-housing-court-fast-track-for-tenants-ignores-landlords-120000-unpaid-rent-cases-critics/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Mamdani’s housing-court fast-track for tenants ignores landlords’ 120,000 unpaid-rent cases: critics",
-    "score": 3
-  },
-  {
-    "original_title": "AI may soon allow humans to talk with animals — but some say it could violate their right to privacy",
-    "url": "https://nypost.com/2026/09/06/tech/ai-may-soon-allow-humans-to-talk-with-animals-but-some-say-it-could-violate-the-animals-right-to-privacy/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "AI may soon allow humans to talk with animals — but some say it could violate their right to privacy",
-    "score": 2
-  },
-  {
-    "original_title": "Mountain lion lurks in a tree on busy residential street in San Francisco — as animal control scrambles",
-    "url": "https://nypost.com/2026/09/06/us-news/mountain-lion-lurks-in-a-tree-on-busy-residential-street-in-san-francisco-as-animal-control-scrambles/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Mountain lion lurks in a tree on busy residential street in San Francisco — as animal control scrambles",
-    "score": 7
-  },
-  {
-    "original_title": "Why Prince Harry and Meghan Markle’s school run for kids will create the ‘most dangers’",
-    "url": "https://pagesix.com/2026/09/06/royal-family/why-prince-harry-and-meghan-markles-school-run-for-kids-will-create-the-most-dangers/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Why Prince Harry and Meghan Markle’s school run for kids will create the ‘most dangers’",
-    "score": 1
-  },
-  {
-    "original_title": "Here’s how to watch Louisville vs. Ole Miss for free: Time, livestream",
-    "url": "https://nypost.com/2026/09/06/sports/heres-how-to-watch-louisville-vs-ole-miss-live-for-free/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Here’s how to watch Louisville vs. Ole Miss for free: Time, livestream",
-    "score": 2
-  },
-  {
-    "original_title": "Emergency services swarm UK ferry port as 'chaos' erupts and area is shut down",
-    "url": "https://www.express.co.uk/news/uk/2246078/emergency-services-swarm-uk-ferry",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Emergency services swarm UK ferry port as 'chaos' erupts and area is shut down",
-    "score": 5
-  },
-  {
-    "original_title": "Miami Airport crash LIVE: Plane erupts into fireball after skidding onto motorway",
-    "url": "https://www.express.co.uk/news/world/2246076/miami-airport-crash-live-plane",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Miami Airport crash LIVE: Plane erupts into fireball after skidding onto motorway",
-    "score": 8
-  },
-  {
-    "original_title": "Meghan and Harry’s ‘pretentious’ reasons for moving to Cotswolds exposed",
-    "url": "https://www.express.co.uk/news/royal/2246071/meghan-harrys-pretentious-reasons-moving",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Meghan and Harry’s ‘pretentious’ reasons for moving to Cotswolds exposed",
-    "score": 6
-  },
-  {
-    "original_title": "Trump posts image of New Mexico map with 'Mexico' crossed out for 'America'",
-    "url": "https://www.express.co.uk/news/us/2246070/us-president-trump-posts-image",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Trump posts image of New Mexico map with 'Mexico' crossed out for 'America'",
-    "score": 8
-  },
-  {
-    "original_title": "Horror as man and woman killed in crash with Ford Focus – third cyclist in hospital",
-    "url": "https://www.express.co.uk/news/uk/2246069/horror-man-woman-killed-crash-ford-focus-gravesend-kent",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Horror as man and woman killed in crash with Ford Focus – third cyclist in hospital",
-    "score": 2
-  },
-  {
-    "original_title": "Woman forces ex to jump from window after savage knife and saucepan attack",
-    "url": "https://www.express.co.uk/news/uk/2246067/woman-attacks-ex-knife-saucepan-jump-window",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Woman forces ex to jump from window after savage knife and saucepan attack",
-    "score": 1
-  },
-  {
-    "original_title": "Delhi horror: 5 dead in building collapse, rescue ops on; FIR filed against PG owner",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-building-collapse-several-rescued-will-spare-no-one-cm-rekha-vows-action-top-developments/articleshow/133839515.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Delhi horror: 5 dead in building collapse, rescue ops on; FIR filed against PG owner",
-    "score": 9
-  },
-  {
-    "original_title": "Amazon-linked Boeing 767 crashes off Miami runway, huge smoke plume seen in video",
-    "url": "https://timesofindia.indiatimes.com/world/us/amazon-linked-boeing-767-crashes-off-miami-runway-huge-smoke-plume-seen-in-video/articleshow/133850609.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Amazon-linked Boeing 767 crashes off Miami runway, huge smoke plume seen in video",
     "score": 4
   },
   {
-    "original_title": "'New America', George Washington meet &amp; De Niro jibe: Trump unleashes AI slop",
-    "url": "https://timesofindia.indiatimes.com/world/us/new-america-george-washington-meet-robert-de-niro-jibe-trump-unleashes-ai-powered-fantasies/articleshow/133848499.cms",
+    "original_title": "California flight instructor Danna Eady and two sons killed in Fresno plane crash",
+    "url": "https://nypost.com/2026/09/06/us-news/california-flight-instructor-danna-eady-and-two-sons-killed-in-fresno-plane-crash/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "California flight instructor Danna Eady and two sons killed in Fresno plane crash",
+    "score": 4
+  },
+  {
+    "original_title": "Gerrit Cole’s nightmare start dooms Yankees in loss to Padres in missed chance to gain on Rays",
+    "url": "https://nypost.com/2026/09/06/sports/gerrit-cole-allows-three-straight-homers-in-yankees-loss-to-padres/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Gerrit Cole’s nightmare start dooms Yankees in loss to Padres in missed chance to gain on Rays",
+    "score": 6
+  },
+  {
+    "original_title": "Jonah Tong’s return to Mets comes with new arsenal, ‘boatload of experience’ in hope of better results",
+    "url": "https://nypost.com/2026/09/06/sports/jonah-tongs-returns-to-mets-with-new-arsenal-boatload-of-experience/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Jonah Tong’s return to Mets comes with new arsenal, ‘boatload of experience’ in hope of better results",
+    "score": 2
+  },
+  {
+    "original_title": "‘Not Skinny But Not Fat’ podcaster says her betting ad about Lindsay Clancy trial was ‘grossly inappropriate’ after backlash",
+    "url": "https://pagesix.com/2026/09/06/celebrity-news/not-skinny-but-not-fat-podcaster-says-her-betting-ad-about-lindsay-clancy-trial-was-grossly-inappropriate-after-backlash/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "‘Not Skinny But Not Fat’ podcaster says her betting ad about Lindsay Clancy trial was ‘grossly inappropriate’ after backlash",
+    "score": 2
+  },
+  {
+    "original_title": "Frances Tiafoe stuns Daniil Medvedev in straight sets to reach US Open quarterfinals",
+    "url": "https://nypost.com/2026/09/06/sports/frances-tiafoe-stuns-daniil-medvedev-reach-us-open-quarterfinals/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Frances Tiafoe stuns Daniil Medvedev in straight sets to reach US Open quarterfinals",
+    "score": 7
+  },
+  {
+    "original_title": "Portsmouth local arrives on canoe to deliver supplies to migrant protesters",
+    "url": "https://www.express.co.uk/news/uk/2246098/portsmouth-local-canoe-supplies-protestors",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Portsmouth local arrives on canoe to deliver supplies to migrant protesters",
+    "score": 5
+  },
+  {
+    "original_title": "Portsmouth LIVE: Protesters ‘stopping 140 migrants entering city’ as mega dinghy docks",
+    "url": "https://www.express.co.uk/news/uk/2246087/portsmouth-protesters-140-migrants-mega-dinghy",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Portsmouth LIVE: Protesters ‘stopping 140 migrants entering city’ as mega dinghy docks",
+    "score": 9
+  },
+  {
+    "original_title": "Who is Danny Tommo as he leads migrant protests in Dover and Portsmouth",
+    "url": "https://www.express.co.uk/news/uk/2246093/danny-tommo-migrant-portsmouth-dover-protests",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Who is Danny Tommo as he leads migrant protests in Dover and Portsmouth",
+    "score": 8
+  },
+  {
+    "original_title": "Panic as much-loved animal escapes UK zoo – public issued three-word warning",
+    "url": "https://www.express.co.uk/news/uk/2246090/panic-much-loved-animal-escapes-uk-armadillo-hailsham-east-sussex",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Panic as much-loved animal escapes UK zoo – public issued three-word warning",
+    "score": 3
+  },
+  {
+    "original_title": "Prince Harry ‘goes behind William’s back’ in strategic Royal Family return",
+    "url": "https://www.express.co.uk/news/royal/2246086/prince-harry-goes-behind-williams",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Prince Harry ‘goes behind William’s back’ in strategic Royal Family return",
+    "score": 6
+  },
+  {
+    "original_title": "Miami Airport air traffic control’s first 9 words after plane overshoots runway",
+    "url": "https://www.express.co.uk/news/world/2246081/miami-airport-air-traffic-controls-plane-crash",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Miami Airport air traffic control’s first 9 words after plane overshoots runway",
+    "score": 3
+  },
+  {
+    "original_title": "5 killed as Amazon cargo plane crashes off Miami runway; huge smoke plume seen in video",
+    "url": "https://timesofindia.indiatimes.com/world/us/amazon-linked-boeing-767-crashes-off-miami-runway-huge-smoke-plume-seen-in-video/articleshow/133850609.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "'New America', George Washington meet &amp; De Niro jibe: Trump unleashes AI slop",
-    "score": 6
+    "title": "5 killed as Amazon cargo plane crashes off Miami runway; huge smoke plume seen in video",
+    "score": 8
+  },
+  {
+    "original_title": "UN-backed map must depict India's territory accurately: Govt",
+    "url": "https://timesofindia.indiatimes.com/india/un-backed-map-must-depict-indias-territory-accurately-govt/articleshow/133855201.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "UN-backed map must depict India's territory accurately: Govt",
+    "score": 8
+  },
+  {
+    "original_title": "5-state polls set for Feb-March, with UP voting 2 months before term ends",
+    "url": "https://timesofindia.indiatimes.com/india/5-poll-bound-states-set-to-vote-in-february-march/articleshow/133852764.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "5-state polls set for Feb-March, with UP voting 2 months before term ends",
+    "score": 9
   },
   {
     "original_title": "'Win against India damaged us a lot': Yousuf explains Pakistan cricket's decline",
@@ -485,15 +485,15 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "'Win against India damaged us a lot': Yousuf explains Pakistan cricket's decline",
-    "score": 7
+    "score": 1
   },
   {
-    "original_title": "China's 'chemical trap' targets seawater uranium, beats US benchmark 8-fold",
-    "url": "https://timesofindia.indiatimes.com/world/china/chinas-chemical-trap-targets-hidden-nuclear-fuel-in-seawater-beats-us-benchmark-8-times-over/articleshow/133842919.cms",
+    "original_title": "Agency won't be privatised or its role diminished: Isro",
+    "url": "https://timesofindia.indiatimes.com/india/isro-will-never-be-privatised-its-role-wont-be-diminished-space-agency-inspace-chief/articleshow/133851245.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "China's 'chemical trap' targets seawater uranium, beats US benchmark 8-fold",
-    "score": 5
+    "title": "Agency won't be privatised or its role diminished: Isro",
+    "score": 3
   },
   {
     "original_title": "Tech CEO added to FBI's Most Wanted Fraudsters list after fleeing from United States",
@@ -501,23 +501,15 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "Tech CEO added to FBI's Most Wanted Fraudsters list after fleeing from United States",
-    "score": 2
-  },
-  {
-    "original_title": "Right-wing AfD party leading in German state election",
-    "url": "https://www.upi.com/Top_News/World-News/2026/09/06/germany-election-saxony-anhalt/1761788721023/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Right-wing AfD party leading in German state election",
     "score": 5
   },
   {
-    "original_title": "Trump administration asks Supreme Court for third time to allow mail-in voting rules",
-    "url": "https://www.upi.com/Top_News/US/2026/09/06/white-house-elections-donald-trump/9161788716503/",
+    "original_title": "Amazon cargo plane overruns Miami runway, killing 5",
+    "url": "https://www.upi.com/Top_News/US/2026/09/06/amazon-prime-plane-miami-overruns-runway/8941788725969/",
     "domain": "upi.com",
     "region": "GLOBAL",
-    "title": "Trump administration asks Supreme Court for third time to allow mail-in voting rules",
-    "score": 3
+    "title": "Amazon cargo plane overruns Miami runway, killing 5",
+    "score": 1
   },
   {
     "original_title": "Volcanic eruptions strand 170,000 at Indonesian airports",
@@ -525,7 +517,15 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Volcanic eruptions strand 170,000 at Indonesian airports",
-    "score": 4
+    "score": 1
+  },
+  {
+    "original_title": "Canadian skyrunner disappears during training run for Matterhorn event",
+    "url": "https://www.upi.com/Top_News/World-News/2026/09/06/italy-switzerland-canada-matterhorn-skyrunning-disappearance/2941788729268/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Canadian skyrunner disappears during training run for Matterhorn event",
+    "score": 9
   },
   {
     "original_title": "Category 3 Hurricane Lowell shifts toward Hawaii",
@@ -533,71 +533,79 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Category 3 Hurricane Lowell shifts toward Hawaii",
-    "score": 9
-  },
-  {
-    "original_title": "Barbara Eden cancels film festival appearance due to illness",
-    "url": "https://www.upi.com/Entertainment_News/TV/2026/09/06/barbara-eden-ill-cancels-film-festival-appearance/8701788704470/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Barbara Eden cancels film festival appearance due to illness",
-    "score": 7
-  },
-  {
-    "original_title": "Witkoff, Kushner hold talks with Zelensky in Kyiv",
-    "url": "https://www.upi.com/Top_News/World-News/2026/09/06/ukraine-kushner-witkoff/3791788700900/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Witkoff, Kushner hold talks with Zelensky in Kyiv",
     "score": 6
   },
   {
-    "original_title": "Indonesia volcano eruption disrupts hundreds of flights",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/indonesia-volcano-eruption-disrupts-hundreds-of-flights?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "OPEC+ to keep crude output level in October",
+    "url": "https://www.upi.com/Top_News/World-News/2026/09/06/oil-OPEC-saudi-arabia-russia-iraq-kuwai-kazakhstan-algeria-oman/7291788725765/",
+    "domain": "upi.com",
     "region": "GLOBAL",
-    "title": "Indonesia volcano eruption disrupts hundreds of flights",
-    "score": 3
+    "title": "OPEC+ to keep crude output level in October",
+    "score": 1
   },
   {
-    "original_title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
-    "url": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "Right-wing AfD party leading in German state election",
+    "url": "https://www.upi.com/Top_News/World-News/2026/09/06/germany-election-saxony-anhalt/1761788721023/",
+    "domain": "upi.com",
     "region": "GLOBAL",
-    "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
-    "score": 9
-  },
-  {
-    "original_title": "Trump administration appeals again to US Supreme Court over mail-in voting",
-    "url": "https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Trump administration appeals again to US Supreme Court over mail-in voting",
+    "title": "Right-wing AfD party leading in German state election",
     "score": 7
   },
   {
-    "original_title": "Why is Argentina reviving the Falklands dispute?",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss",
+    "original_title": "Alcaraz breezes into last eight at US Open",
+    "url": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Why is Argentina reviving the Falklands dispute?",
-    "score": 8
+    "title": "Alcaraz breezes into last eight at US Open",
+    "score": 1
   },
   {
-    "original_title": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
+    "original_title": "At least five killed after Amazon cargo plane crash in Miami airport",
+    "url": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
+    "title": "At least five killed after Amazon cargo plane crash in Miami airport",
+    "score": 9
+  },
+  {
+    "original_title": "At least 10 killed in central Mexico fireworks blast during festival",
+    "url": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "At least 10 killed in central Mexico fireworks blast during festival",
     "score": 4
   },
   {
-    "original_title": "Sabalenka through to US Open quarterfinals",
-    "url": "https://www.aljazeera.com/sports/2026/9/6/sabalenka-through-to-us-open-quarterfinals?traffic_source=rss",
+    "original_title": "Amazon Prime plane overruns runway at Miami Airport",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Sabalenka through to US Open quarterfinals",
-    "score": 4
+    "title": "Amazon Prime plane overruns runway at Miami Airport",
+    "score": 7
+  },
+  {
+    "original_title": "Can AfD form Germany’s first far-right state government since World War II?",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Can AfD form Germany’s first far-right state government since World War II?",
+    "score": 6
+  },
+  {
+    "original_title": "Susan Sarandon says she still loses film roles over support for Palestine",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/susan-sarandon-says-she-still-loses-film-roles-over-support-for-palestine?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Susan Sarandon says she still loses film roles over support for Palestine",
+    "score": 5
+  },
+  {
+    "original_title": "Amazon cargo plane overshoots Miami runway, crashes into vehicles and catches fire",
+    "url": "http://www.euronews.com/2026/09/06/amazon-cargo-plane-overshoots-miami-runway-crashes-into-vehicles-and-catches-fire",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "Amazon cargo plane overshoots Miami runway, crashes into vehicles and catches fire",
+    "score": 3
   },
   {
     "original_title": "AfD’s Ulrich Siegmund casts vote in key German state election",
@@ -605,7 +613,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "AfD’s Ulrich Siegmund casts vote in key German state election",
-    "score": 3
+    "score": 5
   },
   {
     "original_title": "Netanyahu calls Qatar ‘hostile state’ as Doha pushes back against Iran",
@@ -613,7 +621,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Netanyahu calls Qatar ‘hostile state’ as Doha pushes back against Iran",
-    "score": 9
+    "score": 7
   },
   {
     "original_title": "Iran claims strike on US navy drone, US says it's \"total lie\" as Hormuz clashes rage on",
@@ -621,7 +629,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Iran claims strike on US navy drone, US says it's \"total lie\" as Hormuz clashes rage on",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "Flights suspended at Indonesia's main airport due to volcanic eruption",
@@ -629,14 +637,6 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Flights suspended at Indonesia's main airport due to volcanic eruption",
-    "score": 8
-  },
-  {
-    "original_title": "Latest news bulletin | September 6th, 2026 – Evening",
-    "url": "http://www.euronews.com/video/2026/09/06/latest-news-bulletin-september-6th-2026-evening",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Latest news bulletin | September 6th, 2026 – Evening",
     "score": 5
   }
 ]
