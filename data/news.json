@@ -5,7 +5,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Autopsia, Lorena Isceri era ancora viva quando l'ex l'ha gettata dal viadotto",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "Locatelli sarà operato al menisco: Spalletti lo riavrà dopo la sosta",
@@ -13,7 +13,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Locatelli sarà operato al menisco: Spalletti lo riavrà dopo la sosta",
-    "score": 6
+    "score": 8
   },
   {
     "original_title": "Red carpet di Venezia 2026: da Jasmine Trinca a Valeria Bruni Tedeschi, le pagelle dei look di oggi",
@@ -21,31 +21,39 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Red carpet di Venezia 2026: da Jasmine Trinca a Valeria Bruni Tedeschi, le pagelle dei look di oggi",
-    "score": 8
+    "score": 3
   },
   {
-    "original_title": "Emma Bonino ricoverata d’urgenza in ospedale",
+    "original_title": "Emma Bonino ricoverata d’urgenza. “Difficoltà respiratorie, è vigile”",
     "url": "https://www.repubblica.it/politica/2026/09/07/news/emma_bonino_ricoverata_urgenza_ospedale-425570744/",
     "domain": "repubblica.it",
     "region": "IT",
-    "title": "Emma Bonino ricoverata d’urgenza in ospedale",
+    "title": "Emma Bonino ricoverata d’urgenza. “Difficoltà respiratorie, è vigile”",
+    "score": 6
+  },
+  {
+    "original_title": "Roberta Picchi scopre un cancro al seno, il Como le rinnova il contratto",
+    "url": "https://www.repubblica.it/sport/calcio/2026/09/07/news/roberta_picchi_cancro_seno_como_women_contratto-425570732/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Roberta Picchi scopre un cancro al seno, il Como le rinnova il contratto",
+    "score": 8
+  },
+  {
+    "original_title": "Carlo III chiarisce ufficialmente il ruolo di Harry e Meghan: resteranno privati cittadini",
+    "url": "https://d.repubblica.it/reali/2026/09/07/news/re_carlo_dichiarazione_harry_meghan_alcun_ruolo_ufficiale-425570705/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Carlo III chiarisce ufficialmente il ruolo di Harry e Meghan: resteranno privati cittadini",
+    "score": 8
+  },
+  {
+    "original_title": "Il gesto del golfista Paul Casey: dona il premio da oltre 400mila dollari alle vittime di Crans-Montana",
+    "url": "https://www.ilfattoquotidiano.it/2026/09/07/undefined-42/8499749/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Il gesto del golfista Paul Casey: dona il premio da oltre 400mila dollari alle vittime di Crans-Montana",
     "score": 5
-  },
-  {
-    "original_title": "Bernie Ecclestone con fucile a canne mozze in aereo: l’ex boss F1 95enne fermato dalla polizia",
-    "url": "https://www.repubblica.it/sport/formulauno/2026/09/07/news/bernie_ecclestone_fucile_aereo-425570709/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Bernie Ecclestone con fucile a canne mozze in aereo: l’ex boss F1 95enne fermato dalla polizia",
-    "score": 1
-  },
-  {
-    "original_title": "La Flotilla attracca a Venezia. “I palestinesi sono molto più che una bandiera”",
-    "url": "https://www.repubblica.it/spettacoli/dossier/mostra-del-cinema-di-venezia/2026/09/07/news/flotilla_mostra_cinema_venezia-425570651/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "La Flotilla attracca a Venezia. “I palestinesi sono molto più che una bandiera”",
-    "score": 3
   },
   {
     "original_title": "Gran Bretagna, scontri tra manifestanti e polizia a Portsmouth: 500 persone incappucciate volevano impedire l’arrivo di 140 migranti",
@@ -53,7 +61,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Gran Bretagna, scontri tra manifestanti e polizia a Portsmouth: 500 persone incappucciate volevano impedire l’arrivo di 140 migranti",
-    "score": 8
+    "score": 6
   },
   {
     "original_title": "Grindr pagherà 26 milioni di sterline, dopo l’accusa di aver condiviso dati degli utenti sui test Hiv ad aziende pubblicitarie",
@@ -61,7 +69,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Grindr pagherà 26 milioni di sterline, dopo l’accusa di aver condiviso dati degli utenti sui test Hiv ad aziende pubblicitarie",
-    "score": 1
+    "score": 2
   },
   {
     "original_title": "“Lorena Isceri era ancora viva quando l’ex l’ha gettata dal viadotto”: l’esito dell’autopsia",
@@ -69,7 +77,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "“Lorena Isceri era ancora viva quando l’ex l’ha gettata dal viadotto”: l’esito dell’autopsia",
-    "score": 3
+    "score": 6
   },
   {
     "original_title": "Capo dell’intelligence ucraina: “La Russia ha risorse per continuare la guerra fino al 2028”",
@@ -85,15 +93,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Il patto col diavolo, il sangue e il prezzo della salvezza: L’estranea di Paolo Strippoli vince la scommessa a Venezia 83 tra horror e autorialità",
-    "score": 4
-  },
-  {
-    "original_title": "“La Palestina esiste nella vita ed esiste nella morte”, la bandiera sbarca a Venezia grazie alla Global Sumud Italia",
-    "url": "https://www.ilfattoquotidiano.it/2026/09/07/bandiera-palestinese-venezia-mostra-cinema-notizie/8499816/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "“La Palestina esiste nella vita ed esiste nella morte”, la bandiera sbarca a Venezia grazie alla Global Sumud Italia",
-    "score": 1
+    "score": 7
   },
   {
     "original_title": "Il red carpet di Venezia, i protagonisti",
@@ -101,7 +101,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Il red carpet di Venezia, i protagonisti",
-    "score": 5
+    "score": 7
   },
   {
     "original_title": "Venezia: Javier Bardem e Penelope Cruz al Lido",
@@ -109,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Venezia: Javier Bardem e Penelope Cruz al Lido",
-    "score": 8
+    "score": 1
   },
   {
     "original_title": "Venezia, l'hairstylist: 'Sul red carpet capelli lunghi e onde morbide'",
@@ -117,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Venezia, l'hairstylist: 'Sul red carpet capelli lunghi e onde morbide'",
-    "score": 6
+    "score": 2
   },
   {
     "original_title": "'Trump cambia look e diventa castano', le foto spopolano sui social",
@@ -128,28 +128,60 @@
     "score": 2
   },
   {
-    "original_title": "Vigilia di Fashion Week a New York, si parte con gli US Open",
-    "url": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/09/06/vigilia-di-fashion-week-a-new-york-si-parte-con-gli-us-open_2410e61f-db68-45ad-9c0e-f55006bd014f.html",
+    "original_title": "La corte gela le attese: 'Harry e Meghan restano privati cittadini'",
+    "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/07/una-lettera-di-re-carlo-conferma-harry-e-meghan-tornati-a-londra-come-privati_f541ed62-2674-481e-a08c-86ad9cf3e4cd.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Vigilia di Fashion Week a New York, si parte con gli US Open",
-    "score": 9
+    "title": "La corte gela le attese: 'Harry e Meghan restano privati cittadini'",
+    "score": 3
   },
   {
-    "original_title": "Emma Bonino ricoverata in ospedale a Roma, è grave",
-    "url": "https://www.ansa.it/sito/notizie/politica/2026/09/07/emma-bonino-ricoverata-in-ospedale-a-roma-e-grave_7b4947f8-04af-4663-a970-d39283ad2cc1.html",
+    "original_title": "Elezioni in Sassonia-Anhalt, Merz scioccato. 'Scossi nelle fondamenta ma non mi arrendo'",
+    "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/07/elezioni-in-sassonia-anhalt-merz-scioccato.-scossi-nelle-fondamenta-ma-non-mi-arrendo_b20daeaf-6891-4f41-9889-d644a47307ba.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Emma Bonino ricoverata in ospedale a Roma, è grave",
+    "title": "Elezioni in Sassonia-Anhalt, Merz scioccato. 'Scossi nelle fondamenta ma non mi arrendo'",
+    "score": 1
+  },
+  {
+    "original_title": "Germania, voto choc. Merz ammette la disfatta dopo il trionfo di AfD: «Scioccato, ma non mollo». Mosca gioisce: un?umiliazione",
+    "url": "https://www.ilmessaggero.it/mondo/afd_germania_risultato_elezioni_merz_europa_russia_reazioni_cosa_succede_ora-9749444.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Germania, voto choc. Merz ammette la disfatta dopo il trionfo di AfD: «Scioccato, ma non mollo». Mosca gioisce: un?umiliazione",
+    "score": 7
+  },
+  {
+    "original_title": "Meloni e il voto in Germania: reazione ai governi-ammucchiata. I timori per la ?tenuta? di Merz",
+    "url": "https://www.ilmessaggero.it/politica/meloni_voto_germania_reazione_governi_ammucchiata-9749379.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Meloni e il voto in Germania: reazione ai governi-ammucchiata. I timori per la ?tenuta? di Merz",
     "score": 5
   },
   {
-    "original_title": "Lorena Isceri, l'autopsia: «Era ancora viva quando l'ex Federico Vella l'ha gettata dal viadotto»",
-    "url": "https://www.ilmessaggero.it/italia/lorena_isceri_viva_autopsia_omicidio_federico_vella_ultime_notizie-9749261.html",
+    "original_title": "Renzi-Conte, divisi ma uniti: dove c?è uno non c?è l?altro. I due leader quasi mai appaiono in pubblico insieme",
+    "url": "https://www.ilmessaggero.it/politica/renzi_conte_divisi_ma_uniti_dove_c_non_c_altro-9749381.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Lorena Isceri, l'autopsia: «Era ancora viva quando l'ex Federico Vella l'ha gettata dal viadotto»",
-    "score": 3
+    "title": "Renzi-Conte, divisi ma uniti: dove c?è uno non c?è l?altro. I due leader quasi mai appaiono in pubblico insieme",
+    "score": 9
+  },
+  {
+    "original_title": "Lorena Isceri, l'autopsia: gettata dal viadotto quando era ancora in vita. Vella l?avrebbe prima stordita",
+    "url": "https://www.ilmessaggero.it/italia/lorena_isceri_ancora_viva_stordita_vella_autopsia_cosa_dice-9749403.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Lorena Isceri, l'autopsia: gettata dal viadotto quando era ancora in vita. Vella l?avrebbe prima stordita",
+    "score": 1
+  },
+  {
+    "original_title": "Incendio nel ristorante dei fratelli Bianchi nell?anniversario dell?omicidio di Willy Monteiro. Caccia a un uomo incappucciato",
+    "url": "https://www.ilmessaggero.it/italia/fratelli_bianchi_incendio_ristorante_omicidio_willy_monteiro_cosa_e_successo-9749397.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Incendio nel ristorante dei fratelli Bianchi nell?anniversario dell?omicidio di Willy Monteiro. Caccia a un uomo incappucciato",
+    "score": 5
   },
   {
     "original_title": "Economia russa, riecco i titoli di Stato: al Cremlino prestito di mille miliardi di rubli dalle banche (in un solo giorno) per coprire il deficit. Cosa succede",
@@ -157,87 +189,55 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Economia russa, riecco i titoli di Stato: al Cremlino prestito di mille miliardi di rubli dalle banche (in un solo giorno) per coprire il deficit. Cosa succede",
-    "score": 5
-  },
-  {
-    "original_title": "Nave cargo russa colpita attaccata nel Mediterraneo, il raid con i droni tra la Libia e Creta: era diretta in Siria. «Trasporta armi per Mosca»",
-    "url": "https://www.ilmessaggero.it/mondo/nave_russa_attaccata_mediterraneo_droni_sicilia_creta_libia-9749120.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Nave cargo russa colpita attaccata nel Mediterraneo, il raid con i droni tra la Libia e Creta: era diretta in Siria. «Trasporta armi per Mosca»",
     "score": 9
   },
   {
-    "original_title": "Russia, le basi dei missili Tomahawk in Norvegia obiettivo in caso di guerra totale. «Possono colpire Mosca»",
-    "url": "https://www.ilmessaggero.it/mondo/russia_missili_tomahawk_attacco_mosca_norvegia_guerra_totale-9749029.html",
-    "domain": "ilmessaggero.it",
+    "original_title": "Ucraina, altra vittima dello scandalo anticorruzione: si dimette il Procuratore Generale Kravchenko",
+    "url": "https://www.open.online/2026/09/07/ucraina-dimissioni-procuratore-generale-kravchenko/",
+    "domain": "open.online",
     "region": "IT",
-    "title": "Russia, le basi dei missili Tomahawk in Norvegia obiettivo in caso di guerra totale. «Possono colpire Mosca»",
+    "title": "Ucraina, altra vittima dello scandalo anticorruzione: si dimette il Procuratore Generale Kravchenko",
     "score": 1
   },
   {
-    "original_title": "Pensione a 64 anni per tutti, ma con un taglio fino a 366 euro al mese: a chi conviene, le simulazioni",
-    "url": "https://www.ilmessaggero.it/economia/schede/pensione_64_anni_taglio_366_euro_a_chi_conviene_simulazioni-9749083.html",
-    "domain": "ilmessaggero.it",
+    "original_title": "Scomparsa dal primo settembre: appello per Swami Novelli, ricerche concentrate su Roma",
+    "url": "https://www.open.online/2026/09/07/scomparsa-cesano-swami-novelli/",
+    "domain": "open.online",
     "region": "IT",
-    "title": "Pensione a 64 anni per tutti, ma con un taglio fino a 366 euro al mese: a chi conviene, le simulazioni",
-    "score": 6
-  },
-  {
-    "original_title": "Pensioni, da quota 41 a stop aumento età e minime a 800 euro: tutte le proposte in Manovra",
-    "url": "https://www.ilmessaggero.it/economia/news/pensioni_manovra_quota_41_aumento_eta_minime_importi_cosa_cambia-9748562.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Pensioni, da quota 41 a stop aumento età e minime a 800 euro: tutte le proposte in Manovra",
+    "title": "Scomparsa dal primo settembre: appello per Swami Novelli, ricerche concentrate su Roma",
     "score": 2
   },
   {
-    "original_title": "L’ossessione di Lavitola per i servizi israeliani: «Dissi a Ranucci che ero certo che stessero per colpirlo» – Il verbale",
-    "url": "https://www.open.online/2026/09/07/valter-lavitola-riesame-attentato-servizi-israeliani-verbale/",
+    "original_title": "Protesta alla Tour Eiffel: la delegazione indù chiede di «far sparire le donne», dipendenti nascoste e monumento chiuso",
+    "url": "https://www.open.online/2026/09/07/tour-eiffel-chiusa-protesta-donne-nascoste-delegazione-indu/",
     "domain": "open.online",
     "region": "IT",
-    "title": "L’ossessione di Lavitola per i servizi israeliani: «Dissi a Ranucci che ero certo che stessero per colpirlo» – Il verbale",
-    "score": 3
+    "title": "Protesta alla Tour Eiffel: la delegazione indù chiede di «far sparire le donne», dipendenti nascoste e monumento chiuso",
+    "score": 5
   },
   {
-    "original_title": "Morte 14enne per “Metodo Hamer”, la perizia: «Poteva essere salvato con la chemio»",
-    "url": "https://www.open.online/2026/09/07/caso-hamer-vicenza-perizia-ragazzo-morto-tumore-francesco-giannello/",
+    "original_title": "Legge elettorale, si riapre la trattativa nella maggioranza su ballottaggio, premio di governabilità e norma anti-cespugli",
+    "url": "https://www.open.online/2026/09/07/legge-elettorale-centridestra-diviso-premio-ballottaggio/",
     "domain": "open.online",
     "region": "IT",
-    "title": "Morte 14enne per “Metodo Hamer”, la perizia: «Poteva essere salvato con la chemio»",
-    "score": 7
-  },
-  {
-    "original_title": "Femminicidio del Mugello, l’autopsia su Lorena: era viva quando è stata gettata dal viadotto.  L’appello del padre: «Denunciate»",
-    "url": "https://www.open.online/2026/09/07/femminicidio-lorena-isceri-autopsia-viadotto-a1-appello-padre/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Femminicidio del Mugello, l’autopsia su Lorena: era viva quando è stata gettata dal viadotto.  L’appello del padre: «Denunciate»",
-    "score": 7
-  },
-  {
-    "original_title": "Emma Bonino ricoverata d’urgenza a Roma: «È vigile e lucida, peggiorata la funzionalità respiratoria»",
-    "url": "https://www.open.online/2026/09/07/emma-bonino-ricoverata-urgenza-roma/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Emma Bonino ricoverata d’urgenza a Roma: «È vigile e lucida, peggiorata la funzionalità respiratoria»",
-    "score": 9
-  },
-  {
-    "original_title": "Fiorentina, ufficiale il ritorno di Paolo Vanoli dopo l’esonero di Grosso",
-    "url": "https://www.open.online/2026/09/07/fiorentina-paolo-vanoli-allenatore-esonerato-grosso/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Fiorentina, ufficiale il ritorno di Paolo Vanoli dopo l’esonero di Grosso",
-    "score": 3
-  },
-  {
-    "original_title": "Venezia 83, Nanni Moretti sgrida uno spettatore in sala: «Non ce l’ho fatta più e sono andato a dirgli di spegnere il cellulare»",
-    "url": "https://www.open.online/2026/09/07/venezia-83-nanni-moretti-cellulare-spettatore/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Venezia 83, Nanni Moretti sgrida uno spettatore in sala: «Non ce l’ho fatta più e sono andato a dirgli di spegnere il cellulare»",
+    "title": "Legge elettorale, si riapre la trattativa nella maggioranza su ballottaggio, premio di governabilità e norma anti-cespugli",
     "score": 4
+  },
+  {
+    "original_title": "Afd non si ferma: prossima tappa, il voto nei Länder di Berlino e Meclemburgo-Pomerania. Cosa dicono i sondaggi",
+    "url": "https://www.open.online/2026/09/07/afd-non-si-ferma-prossima-tappa-il-voto-nei-lander-di-berlino-e-meclemburgo-pomerania-cosa-dicono-i-sondaggi/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Afd non si ferma: prossima tappa, il voto nei Länder di Berlino e Meclemburgo-Pomerania. Cosa dicono i sondaggi",
+    "score": 1
+  },
+  {
+    "original_title": "Caso Ranucci, il sondaggio SWG al Tg La7: italiani divisi tra complotto ed errori. Bocciata l’ipotesi della candidatura politica",
+    "url": "https://www.open.online/2026/09/07/caso-ranucci-sondaggio-swg-la7/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Caso Ranucci, il sondaggio SWG al Tg La7: italiani divisi tra complotto ed errori. Bocciata l’ipotesi della candidatura politica",
+    "score": 5
   },
   {
     "original_title": "Venezia, il Comune vuole aumentare la tassa di soggiorno per i turisti: si arriva fino a 9 euro a giornata",
@@ -245,7 +245,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Venezia, il Comune vuole aumentare la tassa di soggiorno per i turisti: si arriva fino a 9 euro a giornata",
-    "score": 4
+    "score": 7
   },
   {
     "original_title": "Paziente devasta il pronto soccorso di Schiavonia e lancia barelle agli operatori: entra in un bagno e distrugge anche quello",
@@ -253,7 +253,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Paziente devasta il pronto soccorso di Schiavonia e lancia barelle agli operatori: entra in un bagno e distrugge anche quello",
-    "score": 2
+    "score": 3
   },
   {
     "original_title": "Adria. Mancano i preti: salta il calendario dei funerali. Nuove regole restrittive E cambia anche la procedura di richiesta alle agenzie funebri",
@@ -261,7 +261,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Adria. Mancano i preti: salta il calendario dei funerali. Nuove regole restrittive E cambia anche la procedura di richiesta alle agenzie funebri",
-    "score": 1
+    "score": 4
   },
   {
     "original_title": "Aereo in avaria precipita sull'Altopiano di Brentonico: tre feriti",
@@ -269,7 +269,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Aereo in avaria precipita sull'Altopiano di Brentonico: tre feriti",
-    "score": 7
+    "score": 9
   },
   {
     "original_title": "Lettere anonime al prete per denunciare disagi in parrocchia: «Parliamone di persona»",
@@ -277,7 +277,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Lettere anonime al prete per denunciare disagi in parrocchia: «Parliamone di persona»",
-    "score": 9
+    "score": 4
   },
   {
     "original_title": "Francesco Gianello, curato dai genitori col 'metodo Hamer' e morto a 14 anni di tumore «Poteva sopravvivere»: la relazione dei periti del tribunale",
@@ -285,39 +285,39 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Francesco Gianello, curato dai genitori col 'metodo Hamer' e morto a 14 anni di tumore «Poteva sopravvivere»: la relazione dei periti del tribunale",
-    "score": 2
+    "score": 3
   },
   {
-    "original_title": "Lorena Isceri, l'autopsia: «Era ancora viva quando l'ex Federico Vella l'ha gettata dal viadotto»",
-    "url": "https://www.ilmattino.it/primopiano/cronaca/lorena_isceri_viva_autopsia_ultime_notizie_oggi-9749266.html",
+    "original_title": "Febbre America?s Cup: musica, sport e giochi nel Villaggio dei tifosi",
+    "url": "https://www.ilmattino.it/napoli/citta/febbre_america_s_cup_musica_sport_giochi_villaggio_tifosi-9749374.html",
     "domain": "ilmattino.it",
     "region": "IT",
-    "title": "Lorena Isceri, l'autopsia: «Era ancora viva quando l'ex Federico Vella l'ha gettata dal viadotto»",
+    "title": "Febbre America?s Cup: musica, sport e giochi nel Villaggio dei tifosi",
+    "score": 3
+  },
+  {
+    "original_title": "Aerospazio, missione Usa per le pmi della Campania: «Nuove chance di crescita»",
+    "url": "https://www.ilmattino.it/cambio_di_paradigma/aerospazio_missione_usa_le_pmi_campania_nuove_chance_di_crescita-9749282.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Aerospazio, missione Usa per le pmi della Campania: «Nuove chance di crescita»",
+    "score": 6
+  },
+  {
+    "original_title": "Battuta sulla leader pd Schlein, polemiche su De Laurentiis",
+    "url": "https://www.ilmattino.it/schede/de_laurentiis_battuta_schlein_napoli_inguardabile_premium-9749415.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Battuta sulla leader pd Schlein, polemiche su De Laurentiis",
+    "score": 9
+  },
+  {
+    "original_title": "Sally racconta Eddy Monetti, la storia della sartoria napoletana: «Negli anni '50 siamo stati visionari»",
+    "url": "https://www.ilmattino.it/napoli/citta/eddy_monetti_negozio_sartoria_napoli_milano_roma_moda_storia_racconto_video_intervista-9749047.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Sally racconta Eddy Monetti, la storia della sartoria napoletana: «Negli anni '50 siamo stati visionari»",
     "score": 4
-  },
-  {
-    "original_title": "«Bloccati a Giacarta dopo l'eruzione del vulcano, non sappiamo quando torneremo», famiglia napoletana costretta in albergo",
-    "url": "https://www.ilmattino.it/napoli/cronaca/bloccati_giacarta_eruzione_vulcano_non_sappiamo_quando_torneremo_famiglia_napoletana_costretta_albergo-9749017.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "«Bloccati a Giacarta dopo l'eruzione del vulcano, non sappiamo quando torneremo», famiglia napoletana costretta in albergo",
-    "score": 5
-  },
-  {
-    "original_title": "Napoli, via i chioschi dal lungomare per l'America's Cup: «Ma torneranno più piccoli e con un nuovo piano»",
-    "url": "https://www.ilmattino.it/sport/vela/napoli_via_chioschi_lungomare_caracciolo_americas_cup_assessore_armato_torneranno_piano_ricollocazione-9748954.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Napoli, via i chioschi dal lungomare per l'America's Cup: «Ma torneranno più piccoli e con un nuovo piano»",
-    "score": 7
-  },
-  {
-    "original_title": "America's Cup a Napoli, il programma del Race Village: le date, i palchi e la mappa ufficiale",
-    "url": "https://www.ilmattino.it/schede/america_s_cup_a_napoli_il_programma_del_race_village_le_date_i_palchi_e_la_radio_ufficiale-9748744.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "America's Cup a Napoli, il programma del Race Village: le date, i palchi e la mappa ufficiale",
-    "score": 7
   },
   {
     "original_title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
@@ -325,7 +325,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
-    "score": 2
+    "score": 1
   },
   {
     "original_title": "What we know about anti-migrant protests and organiser Danny Thomas",
@@ -333,15 +333,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "What we know about anti-migrant protests and organiser Danny Thomas",
-    "score": 5
-  },
-  {
-    "original_title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-    "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-    "score": 8
+    "score": 7
   },
   {
     "original_title": "King makes clear Harry and Meghan remain non-working royals",
@@ -349,7 +341,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "King makes clear Harry and Meghan remain non-working royals",
-    "score": 4
+    "score": 1
   },
   {
     "original_title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
@@ -357,55 +349,71 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-    "score": 1
+    "score": 6
   },
   {
-    "original_title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-    "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+    "original_title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+    "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-    "score": 8
-  },
-  {
-    "original_title": "‘Howard Stern Show’ segment quietly canceled after staff layoffs",
-    "url": "https://pagesix.com/2026/09/07/celebrity-news/howard-stern-show-segment-quietly-canceled-after-staff-layoffs/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "‘Howard Stern Show’ segment quietly canceled after staff layoffs",
-    "score": 7
-  },
-  {
-    "original_title": "Free apartment in California beauty spot up for grabs as historic tourist destination seeks volunteers",
-    "url": "https://nypost.com/2026/09/07/us-news/iconic-bay-area-lighthouse-offers-free-rent-for-seasonal-caretaker/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Free apartment in California beauty spot up for grabs as historic tourist destination seeks volunteers",
-    "score": 1
-  },
-  {
-    "original_title": "Premier rehearsal facility Open Jar Studios expands in Times Square",
-    "url": "https://nypost.com/2026/09/07/business/premier-rehearsal-facility-open-jar-studios-expands-in-times-square/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Premier rehearsal facility Open Jar Studios expands in Times Square",
-    "score": 5
-  },
-  {
-    "original_title": "SMU vs. Florida State prediction: College Football Week 1 picks, odds, best bets",
-    "url": "https://nypost.com/2026/09/07/betting/smu-vs-florida-state-prediction-college-football-week-1-picks-odds-best-bets/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "SMU vs. Florida State prediction: College Football Week 1 picks, odds, best bets",
+    "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
     "score": 3
   },
   {
-    "original_title": "‘DWTS’ judge Carrie Ann Inaba weighs in on celebs with dance experience debate after Season 35 cast reveal",
-    "url": "https://pagesix.com/2026/09/07/entertainment/dwts-judge-carrie-ann-inaba-weighs-in-on-celebs-with-dance-experience-debate-after-season-35-cast-reveal/",
+    "original_title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+    "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+    "score": 8
+  },
+  {
+    "original_title": "NYCFC coach Pascal Jansen will miss team’s next match to tend to ‘personal matters’",
+    "url": "https://nypost.com/2026/09/07/sports/pascal-jansen-will-miss-nycfcs-next-match-for-personal-reasons/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "‘DWTS’ judge Carrie Ann Inaba weighs in on celebs with dance experience debate after Season 35 cast reveal",
-    "score": 1
+    "title": "NYCFC coach Pascal Jansen will miss team’s next match to tend to ‘personal matters’",
+    "score": 8
+  },
+  {
+    "original_title": "Pregnant California mom, 22, has life support turned off after being left brain dead when bullet hit her head",
+    "url": "https://nypost.com/2026/09/07/us-news/pregnant-socal-mom-taken-off-life-support-after-being-shot-in-the-head/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Pregnant California mom, 22, has life support turned off after being left brain dead when bullet hit her head",
+    "score": 8
+  },
+  {
+    "original_title": "Braxton Berrios spotted with F1 star’s ex in potential couple swap after Alix Earle breakup",
+    "url": "https://nypost.com/2026/09/07/sports/braxton-berrios-spotted-with-f1-stars-ex-in-potential-couple-swap/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Braxton Berrios spotted with F1 star’s ex in potential couple swap after Alix Earle breakup",
+    "score": 4
+  },
+  {
+    "original_title": "Kyle Whittingham’s stance on Bryce Underwood’s status as Michigan QB1 comes with caveat",
+    "url": "https://nypost.com/2026/09/07/sports/kyle-whittingham-makes-bryce-underwoods-stats-as-michigans-qb1-clear/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Kyle Whittingham’s stance on Bryce Underwood’s status as Michigan QB1 comes with caveat",
+    "score": 2
+  },
+  {
+    "original_title": "The truth about Rikers’ deaths and Mamdani’s reckless agenda",
+    "url": "https://nypost.com/2026/09/07/opinion/the-truth-about-rikers-deaths-and-mamdanis-reckless-agenda/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "The truth about Rikers’ deaths and Mamdani’s reckless agenda",
+    "score": 3
+  },
+  {
+    "original_title": "Shohei Ohtani finally returns to Dodgers lineup after four-day absence",
+    "url": "https://nypost.com/2026/09/07/sports/shohei-ohtani-returns-to-dodgers-lineup-after-four-day-break/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Shohei Ohtani finally returns to Dodgers lineup after four-day absence",
+    "score": 5
   },
   {
     "original_title": "Major UK restaurant chain closing all 89 restaurants today — full list of locations",
@@ -413,71 +421,71 @@
     "domain": "express.co.uk",
     "region": "GLOBAL",
     "title": "Major UK restaurant chain closing all 89 restaurants today — full list of locations",
-    "score": 3
-  },
-  {
-    "original_title": "Edinburgh crash: A8 crash near airport kills driver as 'cars on roofs'",
-    "url": "https://www.express.co.uk/news/uk/2246407/edinburgh-crash-a8-crash-kills",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Edinburgh crash: A8 crash near airport kills driver as 'cars on roofs'",
-    "score": 5
-  },
-  {
-    "original_title": "Russian commanders 'lying' to Putin as Kremlin issued 4-word warning over Ukraine",
-    "url": "https://www.express.co.uk/news/world/2246403/russian-commanders-lying-putin-kremlin-ukraine",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Russian commanders 'lying' to Putin as Kremlin issued 4-word warning over Ukraine",
-    "score": 5
-  },
-  {
-    "original_title": "UK weather maps show when in September 25C heat returns - full list of 10 hottest counties",
-    "url": "https://www.express.co.uk/news/weather/2246392/uk-weather-maps-september-25C-heat-hottest-counties",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "UK weather maps show when in September 25C heat returns - full list of 10 hottest counties",
-    "score": 2
-  },
-  {
-    "original_title": "Donald Trump says 'no more Bombardier' as he moves to ban Canadian plane firm",
-    "url": "https://www.express.co.uk/news/world/2246391/donald-trump-says-no-more",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Donald Trump says 'no more Bombardier' as he moves to ban Canadian plane firm",
-    "score": 5
-  },
-  {
-    "original_title": "Horror as migrant ‘travels 200 miles to stab London shop worker’",
-    "url": "https://www.express.co.uk/news/uk/2246389/horror-migrant-200-miles-stab-worker",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Horror as migrant ‘travels 200 miles to stab London shop worker’",
-    "score": 6
-  },
-  {
-    "original_title": "9/11 suspect's al-Qaida, Saudi links: FBI ‘failed to pursue’ evidence, claims report",
-    "url": "https://timesofindia.indiatimes.com/world/us/9/11-suspects-al-qaida-saudi-links-new-report-claims-fbi-had-key-evidence-but-didnt-pursue/articleshow/133891165.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "9/11 suspect's al-Qaida, Saudi links: FBI ‘failed to pursue’ evidence, claims report",
-    "score": 1
-  },
-  {
-    "original_title": "Tamil Nadu CM Vijay spits fire at three generations of DMK leaders",
-    "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-cm-vijay-spits-fire-at-three-generations-of-dmk-leaders/articleshow/133893521.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Tamil Nadu CM Vijay spits fire at three generations of DMK leaders",
     "score": 7
   },
   {
-    "original_title": "6-week high: India's crude import price hits $100-a-barrel mark",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/6-week-high-indias-crude-import-price-hits-100-a-barrel-mark/articleshow/133895072.cms",
+    "original_title": "Bahamas plane crash: Fears plane downed off Andros Island as search mission launched",
+    "url": "https://www.express.co.uk/news/world/2246434/bahamas-plane-crash-fears-survivors",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Bahamas plane crash: Fears plane downed off Andros Island as search mission launched",
+    "score": 5
+  },
+  {
+    "original_title": "People 'screaming' as shots fired on busy street in Merseyside shooting",
+    "url": "https://www.express.co.uk/news/uk/2246432/people-screaming-shots-fired-busy-street-merseyside-shooting",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "People 'screaming' as shots fired on busy street in Merseyside shooting",
+    "score": 5
+  },
+  {
+    "original_title": "Ex-teacher jailed after sexually abusing children and tickling them with toothbrush",
+    "url": "https://www.express.co.uk/news/uk/2246430/ex-teacher-jailed-sexually-abusing-children",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Ex-teacher jailed after sexually abusing children and tickling them with toothbrush",
+    "score": 5
+  },
+  {
+    "original_title": "UK bakery in business for 16 years closes 5 high street stores for good",
+    "url": "https://www.express.co.uk/news/uk/2246427/uk-bakery-business-16-years-closes",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "UK bakery in business for 16 years closes 5 high street stores for good",
+    "score": 7
+  },
+  {
+    "original_title": "Witkoff and Kushner brutally mocked in Russia - 'These people aren't serious'",
+    "url": "https://www.express.co.uk/news/world/2246426/witkoff-kushner-brutally-mocked-russia",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Witkoff and Kushner brutally mocked in Russia - 'These people aren't serious'",
+    "score": 5
+  },
+  {
+    "original_title": "Eiffel Tower closes after female staff allegedly sidelined during Hindu group's visit",
+    "url": "https://timesofindia.indiatimes.com/world/europe/eiffel-tower-shuts-after-female-staff-allegedly-sidelined-during-hindu-groups-visit/articleshow/133897226.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "6-week high: India's crude import price hits $100-a-barrel mark",
-    "score": 6
+    "title": "Eiffel Tower closes after female staff allegedly sidelined during Hindu group's visit",
+    "score": 9
+  },
+  {
+    "original_title": "India joins US, 24 nations in push for next-generation 6G networks",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/india-joins-us-24-nations-in-push-for-next-generation-6g-networks/articleshow/133896968.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "India joins US, 24 nations in push for next-generation 6G networks",
+    "score": 1
+  },
+  {
+    "original_title": "Company can face fine for offence carrying jail term: SC",
+    "url": "https://timesofindia.indiatimes.com/india/company-can-be-punished-for-offence-carrying-imprisonment-term-can-be-replaced-by-fine-supreme-court/articleshow/133897735.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Company can face fine for offence carrying jail term: SC",
+    "score": 3
   },
   {
     "original_title": "'North pole and south pole': Nehra compares Shubman Gill and Hardik Pandya",
@@ -485,15 +493,15 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "'North pole and south pole': Nehra compares Shubman Gill and Hardik Pandya",
-    "score": 9
+    "score": 2
   },
   {
-    "original_title": "Detained Pakistan national repatriated via international border",
-    "url": "https://timesofindia.indiatimes.com/india/detained-pakistan-national-repatriated-via-international-border/articleshow/133893935.cms",
+    "original_title": "Govt clears Rs 1.1 lakh crore proposals to buy military hardware",
+    "url": "https://timesofindia.indiatimes.com/defence/news/govt-clears-rs-1-1-lakh-crore-proposals-to-buy-military-hardware/articleshow/133896681.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Detained Pakistan national repatriated via international border",
-    "score": 9
+    "title": "Govt clears Rs 1.1 lakh crore proposals to buy military hardware",
+    "score": 4
   },
   {
     "original_title": "Republican mayor rejects 'Lake America' name; says locals take renaming personally",
@@ -501,7 +509,39 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "Republican mayor rejects 'Lake America' name; says locals take renaming personally",
-    "score": 6
+    "score": 7
+  },
+  {
+    "original_title": "Belgium's soccer body won't support Infantino's FIFA re-election bid",
+    "url": "https://www.upi.com/Sports_News/Soccer/2026/09/07/Belgium-soccer-body-wont-support-Infantino-FIFA-re-election-bid/4831788816821/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Belgium's soccer body won't support Infantino's FIFA re-election bid",
+    "score": 4
+  },
+  {
+    "original_title": "No last minute-deal on horizon as Canada counter-tariff deadline looms",
+    "url": "https://www.upi.com/Top_News/World-News/2026/09/07/canada-no-last-minute-deal-horizon-counter-tariff-deadline-looms/7701788811326/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "No last minute-deal on horizon as Canada counter-tariff deadline looms",
+    "score": 4
+  },
+  {
+    "original_title": "Hunter Biden launching $LAPTOP crypto meme coin",
+    "url": "https://www.upi.com/Top_News/US/2026/09/07/cryptocurrency-hunter-biden-donald-trump/8011788812732/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "Hunter Biden launching $LAPTOP crypto meme coin",
+    "score": 8
+  },
+  {
+    "original_title": "USDA recalls 1,500 pounds of pork products distributed to eight states",
+    "url": "https://www.upi.com/Top_News/US/2026/09/07/USDA-recalls-1500-pounds-pork-products-distributed-eight-states/9381788807698/",
+    "domain": "upi.com",
+    "region": "GLOBAL",
+    "title": "USDA recalls 1,500 pounds of pork products distributed to eight states",
+    "score": 1
   },
   {
     "original_title": "Prince Harry, Meghan will not be working royals, King Charles confirms",
@@ -509,7 +549,7 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "Prince Harry, Meghan will not be working royals, King Charles confirms",
-    "score": 3
+    "score": 6
   },
   {
     "original_title": "China's government pumps $54B into banks, insurers amid slow growth",
@@ -517,87 +557,63 @@
     "domain": "upi.com",
     "region": "GLOBAL",
     "title": "China's government pumps $54B into banks, insurers amid slow growth",
-    "score": 4
-  },
-  {
-    "original_title": "Britain's Jaguar Land Rover lays off 4,000 workers, aims to cut costs",
-    "url": "https://www.upi.com/Top_News/World-News/2026/09/07/Jaguar-Land-Rover-layoffs-4000-workers-bid-slash-costs/1151788800508/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Britain's Jaguar Land Rover lays off 4,000 workers, aims to cut costs",
     "score": 7
   },
   {
-    "original_title": "Barbara Eden assures fans: 'It’s okay everyone! I’m okay!'",
-    "url": "https://www.upi.com/Entertainment_News/2026/09/07/barbara-eden-okay-after-film-festival-cancellation/3481788797801/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Barbara Eden assures fans: 'It’s okay everyone! I’m okay!'",
-    "score": 4
-  },
-  {
-    "original_title": "U.S. gasoline prices set Labor Day record",
-    "url": "https://www.upi.com/Top_News/US/2026/09/07/gasoline-prices-travel/5261788796235/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "U.S. gasoline prices set Labor Day record",
-    "score": 2
-  },
-  {
-    "original_title": "Production begins on 'The Inbetweeners 3'",
-    "url": "https://www.upi.com/Entertainment_News/Movies/2026/09/07/inbetweeners-three-now-fiiming/8851788794674/",
-    "domain": "upi.com",
-    "region": "GLOBAL",
-    "title": "Production begins on 'The Inbetweeners 3'",
-    "score": 3
-  },
-  {
-    "original_title": "Moment shop worker dives into traffic to save child",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-shop-worker-dives-into-traffic-to-save-child?traffic_source=rss",
+    "original_title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+    "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Moment shop worker dives into traffic to save child",
+    "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
     "score": 6
   },
   {
-    "original_title": "The domestic armed threat facing Iran",
-    "url": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss",
+    "original_title": "Indian temple collapses into Ganges as riverbank erodes",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "The domestic armed threat facing Iran",
-    "score": 7
+    "title": "Indian temple collapses into Ganges as riverbank erodes",
+    "score": 1
   },
   {
-    "original_title": "Syria detains Assad-era general accused of bloody crackdown on protests",
-    "url": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss",
+    "original_title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
+    "url": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Syria detains Assad-era general accused of bloody crackdown on protests",
-    "score": 8
+    "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
+    "score": 2
   },
   {
-    "original_title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
-    "url": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss",
+    "original_title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
+    "title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
+    "score": 9
+  },
+  {
+    "original_title": "Robots protest in Poland over AI regulation concerns",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Robots protest in Poland over AI regulation concerns",
+    "score": 9
+  },
+  {
+    "original_title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
+    "url": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
+    "score": 2
+  },
+  {
+    "original_title": "Trump threatens to stop Canadian aircraft maker Bombardier from selling in the US",
+    "url": "http://www.euronews.com/2026/09/07/trump-threatens-to-stop-canadian-aircraft-maker-bombardier-from-selling-in-the-us",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "Trump threatens to stop Canadian aircraft maker Bombardier from selling in the US",
     "score": 3
-  },
-  {
-    "original_title": "Russia shutters German consulate as diplomatic freeze deepens",
-    "url": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Russia shutters German consulate as diplomatic freeze deepens",
-    "score": 7
-  },
-  {
-    "original_title": "Israel’s plan to split the West Bank",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israels-plan-to-split-the-west-bank?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Israel’s plan to split the West Bank",
-    "score": 4
   },
   {
     "original_title": "Inside Uzbekistan’s restored contemporary art centre",
@@ -605,7 +621,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Inside Uzbekistan’s restored contemporary art centre",
-    "score": 1
+    "score": 6
   },
   {
     "original_title": "IAEA says Iran blocking nuclear inspectors as Hormuz threats mount",
@@ -613,7 +629,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "IAEA says Iran blocking nuclear inspectors as Hormuz threats mount",
-    "score": 9
+    "score": 3
   },
   {
     "original_title": "Thousands attend Bosnian Serb war criminal's funeral in Belgrade despite EU warnings",
@@ -622,21 +638,5 @@
     "region": "GLOBAL",
     "title": "Thousands attend Bosnian Serb war criminal's funeral in Belgrade despite EU warnings",
     "score": 9
-  },
-  {
-    "original_title": "Passengers face flight chaos in Indonesia after Anak Krakatau eruption",
-    "url": "http://www.euronews.com/video/2026/09/07/passengers-face-flight-chaos-in-indonesia-after-anak-krakatau-eruption",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Passengers face flight chaos in Indonesia after Anak Krakatau eruption",
-    "score": 2
-  },
-  {
-    "original_title": "Rescuers search rubble for survivors after New Delhi hostel collapse kills seven",
-    "url": "http://www.euronews.com/2026/09/07/rescuers-search-rubble-for-survivors-after-new-delhi-hostel-collapse-kills-seven",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Rescuers search rubble for survivors after New Delhi hostel collapse kills seven",
-    "score": 8
   }
 ]
