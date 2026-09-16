@@ -1,51 +1,99 @@
 [
   {
+    "original_title": "Infermieri, osteopati, fisioterapisti è corsa alle professioni sanitarie",
+    "url": "https://www.repubblica.it/cronaca/2026/09/16/news/fisioterapia_facolta_professioni_sanitarie_iscrizioni-425587521/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Infermieri, osteopati, fisioterapisti è corsa alle professioni sanitarie",
+    "score": 2
+  },
+  {
+    "original_title": "La Camera Usa respinge il tentativo di impeachment contro Trump",
+    "url": "https://www.repubblica.it/esteri/2026/09/16/news/la_camera_usa_respinge_il_tentativo_di_impeachment_di_trump-425587645/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "La Camera Usa respinge il tentativo di impeachment contro Trump",
+    "score": 2
+  },
+  {
+    "original_title": "Allarme dei servizi per i raid su Sochi, Putin sposta a Mosca il Forum Valda",
+    "url": "https://www.repubblica.it/esteri/2026/09/16/news/allarme_servizi_raid_sochi_putin_sposta_mosca_forum_valda-425587401/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Allarme dei servizi per i raid su Sochi, Putin sposta a Mosca il Forum Valda",
+    "score": 5
+  },
+  {
+    "original_title": "Chapeye: “Ucraino, scrittore e pacifista: ho deciso di arruolarmi sull’esempio dei partigiani”",
+    "url": "https://www.repubblica.it/politica/2026/09/16/news/artem_chapeye_ucraino_scrittore_pacifista_arruolato_partigiani_intervista-425587507/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Chapeye: “Ucraino, scrittore e pacifista: ho deciso di arruolarmi sull’esempio dei partigiani”",
+    "score": 3
+  },
+  {
+    "original_title": "Salvini amico di Mosca, Meloni si arrabbia. L’ambasciatore applaude",
+    "url": "https://www.repubblica.it/esteri/2026/09/16/news/salvini_ambasciatore_russo_paramonov_imbarazzo_meloni-425587391/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Salvini amico di Mosca, Meloni si arrabbia. L’ambasciatore applaude",
+    "score": 1
+  },
+  {
+    "original_title": "Conte: “Escalation russa? No, è da entrambe le parti”. Sulle armi il voto della base",
+    "url": "https://www.repubblica.it/politica/2026/09/16/news/conte_escalation_russa_entrambe_parti_armi_ucraina-425587501/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Conte: “Escalation russa? No, è da entrambe le parti”. Sulle armi il voto della base",
+    "score": 3
+  },
+  {
+    "original_title": "Maria Callas senza trac, la dieta di Rodolfo Valentino",
+    "url": "https://www.ilfattoquotidiano.it/2026/09/16/aneddoti-callas-agnelli-basaglia-notizie/8507446/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Maria Callas senza trac, la dieta di Rodolfo Valentino",
+    "score": 1
+  },
+  {
+    "original_title": "I creator anti degrado non spiegano la realtà: fanno solo infuriare chi guarda",
+    "url": "https://www.ilfattoquotidiano.it/2026/09/16/influencer-anti-degrado-ragebait-paradisi-fiscali-notizie/8505946/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "I creator anti degrado non spiegano la realtà: fanno solo infuriare chi guarda",
+    "score": 3
+  },
+  {
+    "original_title": "L’abitudine tutta glamour dei festival letterari in un paese che non legge",
+    "url": "https://www.ilfattoquotidiano.it/2026/09/16/festival-letterari-lettura-paradosso-notizie/8496090/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "L’abitudine tutta glamour dei festival letterari in un paese che non legge",
+    "score": 7
+  },
+  {
+    "original_title": "Cara Elly Schlein, davvero ci tocca di nuovo la fiera della matematica elettorale?",
+    "url": "https://www.ilfattoquotidiano.it/2026/09/16/elezioni-politiche-schlein-renzi-coalizione-notizie/8506065/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Cara Elly Schlein, davvero ci tocca di nuovo la fiera della matematica elettorale?",
+    "score": 6
+  },
+  {
+    "original_title": "“La mia Preghiera al cielo per Simone, il mio amico e produttore, scomparso due mesi fa. È il bisogno di continuare a parlargli”: Plasma di Amici 25 commosso",
+    "url": "https://www.ilfattoquotidiano.it/2026/09/16/la-mia-preghiera-al-cielo-per-simone-il-mio-amico-e-produttore-scomparso-due-mesi-fa-e-il-bisogno-di-continuare-a-parlargli-plasma-di-amici-25-commosso/8507392/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "“La mia Preghiera al cielo per Simone, il mio amico e produttore, scomparso due mesi fa. È il bisogno di continuare a parlargli”: Plasma di Amici 25 commosso",
+    "score": 6
+  },
+  {
     "original_title": "L’Antitrust vuole vedere chiaro nei rapporti tra Intesa e Generali che si creerebbero con le nozze tra Milano e Siena",
     "url": "https://www.ilfattoquotidiano.it/2026/09/15/lantitrust-vuole-vedere-chiaro-nei-rapporti-tra-intesa-e-generali-che-si-creerebbero-con-le-nozze-tra-milano-e-siena/8507578/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "L’Antitrust vuole vedere chiaro nei rapporti tra Intesa e Generali che si creerebbero con le nozze tra Milano e Siena",
-    "score": 4
-  },
-  {
-    "original_title": "Sinner torna ad allenarsi a Montecarlo: il programma verso il rientro in campo e il piano per rimanere numero 1",
-    "url": "https://www.ilfattoquotidiano.it/2026/09/15/sinner-allenamento-montecarlo-rientro-programma-pechino/8507537/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Sinner torna ad allenarsi a Montecarlo: il programma verso il rientro in campo e il piano per rimanere numero 1",
-    "score": 4
-  },
-  {
-    "original_title": "Niente rientro a casa per i bambini della famiglia del bosco. Il sindaco di Palmoli protesta: “Tutti i giornalisti si erano allontanati”. Il legale: “Attendevano questo momento da 10 mesi”",
-    "url": "https://www.ilfattoquotidiano.it/2026/09/15/famiglia-bosco-bambini-rientro-notizie/8507496/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Niente rientro a casa per i bambini della famiglia del bosco. Il sindaco di Palmoli protesta: “Tutti i giornalisti si erano allontanati”. Il legale: “Attendevano questo momento da 10 mesi”",
     "score": 6
-  },
-  {
-    "original_title": "Colonnine domestiche, il Mimit vara bonus fino all’80%. Chi può richiederlo e come",
-    "url": "https://www.ilfattoquotidiano.it/2026/09/15/colonnine-domestiche-il-mimit-vara-bonus-fino-all80-chi-puo-richiederlo-e-come/8507512/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Colonnine domestiche, il Mimit vara bonus fino all’80%. Chi può richiederlo e come",
-    "score": 1
-  },
-  {
-    "original_title": "Italia proroga il blocco Schengen con la Spagna. L’ira di Madrid: “Assurdo, una vergogna. Meloni e Tajani non all’altezza”",
-    "url": "https://www.ilfattoquotidiano.it/2026/09/15/italia-proroga-il-blocco-schengen-con-la-spagna-madrid-assurdo-una-vergogna-meloni-e-tajani-non-allaltezza/8507513/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Italia proroga il blocco Schengen con la Spagna. L’ira di Madrid: “Assurdo, una vergogna. Meloni e Tajani non all’altezza”",
-    "score": 1
-  },
-  {
-    "original_title": "Un tumore le aveva tolto l’uso della mano: 13enne torna a fare ginnastica grazie a un intervento innovativo",
-    "url": "https://www.ilfattoquotidiano.it/2026/09/15/lipofibromatosi-tumore-mano-bambina-milano-notizie/8507444/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Un tumore le aveva tolto l’uso della mano: 13enne torna a fare ginnastica grazie a un intervento innovativo",
-    "score": 5
   },
   {
     "original_title": "Taylor Swift scatena i fan con l'apparizione agli Emmy",
@@ -53,7 +101,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Taylor Swift scatena i fan con l'apparizione agli Emmy",
-    "score": 9
+    "score": 1
   },
   {
     "original_title": "Emmy, Widows Bay trascina in vetta Apple Tv con record di 14 statuette",
@@ -61,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Emmy, Widows Bay trascina in vetta Apple Tv con record di 14 statuette",
-    "score": 6
+    "score": 7
   },
   {
     "original_title": "Mothers of invention, a Roma la prima personale di Massimo Sebastiani",
@@ -69,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Mothers of invention, a Roma la prima personale di Massimo Sebastiani",
-    "score": 1
+    "score": 6
   },
   {
     "original_title": "Esperto, sull'IA impedire che una gara tra potenze trasformi il mondo in pista senza freni",
@@ -77,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Esperto, sull'IA impedire che una gara tra potenze trasformi il mondo in pista senza freni",
-    "score": 5
+    "score": 1
   },
   {
     "original_title": "Firenze omaggia Oriana Fallaci nei 20 anni dalla morte",
@@ -85,14 +133,54 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Firenze omaggia Oriana Fallaci nei 20 anni dalla morte",
+    "score": 5
+  },
+  {
+    "original_title": "Usa: 'I servizi d'intelligence russi pianificano omicidi mirati in America ed Europa'",
+    "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/16/usa-i-servizi-dintelligence-russi-pianificano-omicidi-mirati-in-america-ed-europa_63ccfeef-bec5-4021-8f41-80d16098fb25.html",
+    "domain": "ansa.it",
+    "region": "IT",
+    "title": "Usa: 'I servizi d'intelligence russi pianificano omicidi mirati in America ed Europa'",
+    "score": 7
+  },
+  {
+    "original_title": "Drone in Lituania, segnale del Cremlino a Crosetto. «Un modo per saggiare le reazioni della Nato»",
+    "url": "https://www.ilmessaggero.it/mondo/drone_lituania_crosetto_russia_nato_segnale_cremlino-9765233.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Drone in Lituania, segnale del Cremlino a Crosetto. «Un modo per saggiare le reazioni della Nato»",
+    "score": 4
+  },
+  {
+    "original_title": "Salvini e il caso con l?ambasciatore russo: «È stato il vicepremier a invitarlo a Milano»",
+    "url": "https://www.ilmessaggero.it/italia/salvini_ambasciatore_russo_invito_milano_vicepremier-9765220.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Salvini e il caso con l?ambasciatore russo: «È stato il vicepremier a invitarlo a Milano»",
+    "score": 9
+  },
+  {
+    "original_title": "Pensione anticipata a 64 anni, ecco chi può già andarci: requisiti e condizioni",
+    "url": "https://www.ilmessaggero.it/economia/schede/pensione_anticipata_64_anni_chi_puo_andarci_requisiti_condizioni-9764994.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Pensione anticipata a 64 anni, ecco chi può già andarci: requisiti e condizioni",
     "score": 8
   },
   {
-    "original_title": "Roma proroga il blocco di Schengen, Madrid attacca Meloni e Tajani",
-    "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/15/litalia-proroga-di-altri-15-giorni-il-blocco-di-schengen-con-la-spagna_cea01180-76fc-45d4-bad1-ae2182b8f3c0.html",
-    "domain": "ansa.it",
+    "original_title": "Famiglia nel bosco, salta l'incontro tra i genitori e i figli. «Per gli assistenti sociali non c'erano sicurezza e privacy»",
+    "url": "https://www.ilmessaggero.it/abruzzo/famiglia_nel_bosco_salta_incontro_figli_perche-9764963.html",
+    "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Roma proroga il blocco di Schengen, Madrid attacca Meloni e Tajani",
+    "title": "Famiglia nel bosco, salta l'incontro tra i genitori e i figli. «Per gli assistenti sociali non c'erano sicurezza e privacy»",
+    "score": 5
+  },
+  {
+    "original_title": "Meteo, Giuliacci: «Nubifragi e temporali con il secondo ciclone in arrivo, ecco dove». Le previsioni",
+    "url": "https://www.ilmessaggero.it/schede/meteo_giuliacci_nubifragi_temporali_secondo_ciclone_dove_quando_previsioni_ultime_notizie-9764997.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Meteo, Giuliacci: «Nubifragi e temporali con il secondo ciclone in arrivo, ecco dove». Le previsioni",
     "score": 8
   },
   {
@@ -101,47 +189,23 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Legge elettorale, cosa cambia con lo Stabilicum? Dal premio alle preferenze fino agli sbarramenti, ecco le novità",
-    "score": 6
-  },
-  {
-    "original_title": "Pensione anticipata a 64 anni, ecco chi può già andarci: requisiti e condizioni",
-    "url": "https://www.ilmessaggero.it/economia/schede/pensione_anticipata_64_anni_chi_puo_andarci_requisiti_condizioni-9764994.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Pensione anticipata a 64 anni, ecco chi può già andarci: requisiti e condizioni",
     "score": 7
   },
   {
-    "original_title": "Famiglia nel bosco, salta l'incontro tra i genitori e i figli. «Per gli assistenti sociali non c'erano sicurezza e privacy»",
-    "url": "https://www.ilmessaggero.it/abruzzo/famiglia_nel_bosco_salta_incontro_figli_perche-9764963.html",
-    "domain": "ilmessaggero.it",
+    "original_title": "Ranucci, la Rai prepara il licenziamento. La foto del figlio di Lavitola con un occhio nero",
+    "url": "https://www.open.online/2026/09/16/sigfrido-ranucci-rai-licenziamento-lavitola-figlio-occhio-pesto/",
+    "domain": "open.online",
     "region": "IT",
-    "title": "Famiglia nel bosco, salta l'incontro tra i genitori e i figli. «Per gli assistenti sociali non c'erano sicurezza e privacy»",
-    "score": 7
+    "title": "Ranucci, la Rai prepara il licenziamento. La foto del figlio di Lavitola con un occhio nero",
+    "score": 4
   },
   {
-    "original_title": "Meteo, Giuliacci: «Nubifragi e temporali con il secondo ciclone in arrivo, ecco dove». Le previsioni",
-    "url": "https://www.ilmessaggero.it/schede/meteo_giuliacci_nubifragi_temporali_secondo_ciclone_dove_quando_previsioni_ultime_notizie-9764997.html",
-    "domain": "ilmessaggero.it",
+    "original_title": "Roberto Vannacci, la moglie, gli amici e la Russia: il senso del Generale Fetecchia per Mosca",
+    "url": "https://www.open.online/2026/09/16/roberto-vannacci-moglie-amici-russia/",
+    "domain": "open.online",
     "region": "IT",
-    "title": "Meteo, Giuliacci: «Nubifragi e temporali con il secondo ciclone in arrivo, ecco dove». Le previsioni",
-    "score": 7
-  },
-  {
-    "original_title": "Schengen, l'Italia proroga il blocco con la Spagna, Madrid: «Vergognoso». Tajani: «Difendiamo la nostra sicurezza»",
-    "url": "https://www.ilmessaggero.it/mondo/migranti_schengen_italia_spagna_ultime_notizie-9764699.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Schengen, l'Italia proroga il blocco con la Spagna, Madrid: «Vergognoso». Tajani: «Difendiamo la nostra sicurezza»",
-    "score": 2
-  },
-  {
-    "original_title": "Drone in Lituania, segnale del Cremlino a Crosetto. «Un modo per saggiare le reazioni della Nato»",
-    "url": "https://www.ilmessaggero.it/mondo/drone_lituania_crosetto_russia_nato_segnale_cremlino-9765233.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Drone in Lituania, segnale del Cremlino a Crosetto. «Un modo per saggiare le reazioni della Nato»",
-    "score": 7
+    "title": "Roberto Vannacci, la moglie, gli amici e la Russia: il senso del Generale Fetecchia per Mosca",
+    "score": 9
   },
   {
     "original_title": "Harry e Meghan cambiano scuola ai figli per motivi di sicurezza. Si valuta una scorta di Stato",
@@ -149,7 +213,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Harry e Meghan cambiano scuola ai figli per motivi di sicurezza. Si valuta una scorta di Stato",
-    "score": 3
+    "score": 8
   },
   {
     "original_title": "No, non tutte le strade portano a Roma. Lo studio dell’archeologo Brughmans che sfata il mito",
@@ -157,7 +221,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "No, non tutte le strade portano a Roma. Lo studio dell’archeologo Brughmans che sfata il mito",
-    "score": 9
+    "score": 2
   },
   {
     "original_title": "Renato Vallanzasca: «Non parla e non cammina più». Il legale: «I familiari sono spariti»",
@@ -165,7 +229,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Renato Vallanzasca: «Non parla e non cammina più». Il legale: «I familiari sono spariti»",
-    "score": 7
+    "score": 8
   },
   {
     "original_title": "Milano, il direttore di Novella 2000 pestato in pieno centro: «Hanno agito solo per fame di sangue, nessuno mi ha aiutato»",
@@ -173,23 +237,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Milano, il direttore di Novella 2000 pestato in pieno centro: «Hanno agito solo per fame di sangue, nessuno mi ha aiutato»",
-    "score": 1
-  },
-  {
-    "original_title": "La rabbia dei renziani per l’asse Conte-Onorato e la guerra per il centro del Campo largo: «Un nuovo M5s in piccolo per danneggiarci»",
-    "url": "https://www.open.online/2026/09/15/renzi-conte-onorato-scontro-centro-m5s/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "La rabbia dei renziani per l’asse Conte-Onorato e la guerra per il centro del Campo largo: «Un nuovo M5s in piccolo per danneggiarci»",
-    "score": 2
-  },
-  {
-    "original_title": "Clima, l’Italia potrebbe non avere il classico inverno freddo. Le anomalie de El Niño per i prossimi mesi",
-    "url": "https://www.open.online/2026/09/15/clima-italia-inverno-freddo-anomalie-temperature-europa/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Clima, l’Italia potrebbe non avere il classico inverno freddo. Le anomalie de El Niño per i prossimi mesi",
-    "score": 4
+    "score": 5
   },
   {
     "original_title": "Sean Michieli e Gabriella Querino, le tappe della tragedia in laguna: dall'incidente alle ricerche, dal mistero della lite al ritrovamento del corpo di lei",
@@ -197,47 +245,55 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Sean Michieli e Gabriella Querino, le tappe della tragedia in laguna: dall'incidente alle ricerche, dal mistero della lite al ritrovamento del corpo di lei",
+    "score": 1
+  },
+  {
+    "original_title": "Parco del Piraghetto in regola per le preghiere islamiche: è l'unico luogo di culto di Mestre autorizzato",
+    "url": "https://www.ilgazzettino.it/nordest/venezia/parco_del_piraghetto_preghiere_islamiche_unico_luogo_di_culto_mestre_autorizzato-9765186.html",
+    "domain": "ilgazzettino.it",
+    "region": "IT",
+    "title": "Parco del Piraghetto in regola per le preghiere islamiche: è l'unico luogo di culto di Mestre autorizzato",
     "score": 2
   },
   {
-    "original_title": "Cadavere in laguna: è il corpo di Gabriella. A dare la conferma il sindaco di Venezia Venturini FOTO",
-    "url": "https://www.ilgazzettino.it/nordest/venezia/gabriella_querino_cadavere_ritrovata_tessera-9764307.html",
+    "original_title": "Da fornaio diventa ristorante, ma senza i regolari permessi: il conto arriva dopo 11 anni",
+    "url": "https://www.ilgazzettino.it/nordest/venezia/fornaio_diventa_ristorante_senza_permessi_verbale_dopo_11_anni-9765106.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Cadavere in laguna: è il corpo di Gabriella. A dare la conferma il sindaco di Venezia Venturini FOTO",
+    "title": "Da fornaio diventa ristorante, ma senza i regolari permessi: il conto arriva dopo 11 anni",
+    "score": 4
+  },
+  {
+    "original_title": "Affitti agli americani della Base di Aviano, parla una proprietaria 80enne: «Con loro più garanzie e se mi serve l'immobile so che vanno via ogni 3 anni»",
+    "url": "https://www.ilgazzettino.it/nordest/pordenone/affitto_militari_base_aviano-9765060.html",
+    "domain": "ilgazzettino.it",
+    "region": "IT",
+    "title": "Affitti agli americani della Base di Aviano, parla una proprietaria 80enne: «Con loro più garanzie e se mi serve l'immobile so che vanno via ogni 3 anni»",
+    "score": 5
+  },
+  {
+    "original_title": "Il presidente veneto del Cai: «Fare il rifugista è uno stress. Non reggiamo questo boom di turisti»",
+    "url": "https://www.ilgazzettino.it/nordest/belluno/rifugi_stress_boom_turisti_francesco_abbruscato-9765107.html",
+    "domain": "ilgazzettino.it",
+    "region": "IT",
+    "title": "Il presidente veneto del Cai: «Fare il rifugista è uno stress. Non reggiamo questo boom di turisti»",
     "score": 3
   },
   {
-    "original_title": "Incidente canale di Tessera, si cercano due turisti americani: testimoni chiave dello schianto",
-    "url": "https://www.ilgazzettino.it/nordest/venezia/incidente_nautico_tessera_testimoni_chiave_turisti_americani_taxi_acqueo-9764552.html",
+    "original_title": "Giada Roncolato è scomparsa da 7 giorni, la mamma: «Ho paura che qualcuno le abbia fatto del male»",
+    "url": "https://www.ilgazzettino.it/nordest/padova/giada_roncolato_scomparsa_mamma_paura_fatto_male-9765002.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Incidente canale di Tessera, si cercano due turisti americani: testimoni chiave dello schianto",
-    "score": 8
-  },
-  {
-    "original_title": "Tragedia nella laguna di Venezia. Il tassista indagato: «Ho solo sentito il colpo, Gabriella non l?ho vista»",
-    "url": "https://www.ilgazzettino.it/nordest/venezia/gabriella_querino_dispersa_barchino_mistero_schianto_taxi_acqueo-9763014.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Tragedia nella laguna di Venezia. Il tassista indagato: «Ho solo sentito il colpo, Gabriella non l?ho vista»",
+    "title": "Giada Roncolato è scomparsa da 7 giorni, la mamma: «Ho paura che qualcuno le abbia fatto del male»",
     "score": 3
   },
   {
-    "original_title": "Gabriella Querino dispersa in laguna. I parenti in Brasile: «Troppi silenzi e cose che non tornano. Aveva litigato con Sean»",
-    "url": "https://www.ilgazzettino.it/nordest/venezia/gabriella_querino_dispersa_tessera_parenti_brasile_lite_sean_dubbi-9763564.html",
-    "domain": "ilgazzettino.it",
+    "original_title": "Droga a Napoli, maxiblitz tra Rione Traiano, Pianura e Fuorigrotta: 31 arresti",
+    "url": "https://www.ilmattino.it/napoli/cronaca/droga_napoli_31_arresti_oggi_ultime_notizie-9766367.html",
+    "domain": "ilmattino.it",
     "region": "IT",
-    "title": "Gabriella Querino dispersa in laguna. I parenti in Brasile: «Troppi silenzi e cose che non tornano. Aveva litigato con Sean»",
-    "score": 9
-  },
-  {
-    "original_title": "Previsioni Meteo Nordest, piogge e temporali in Veneto e Trentino: previsioni 16-19 settembre 2026",
-    "url": "https://www.ilgazzettino.it/schede/meteo_previsioni_veneto_friuli_weekend_16_17_18_settembre_2026-9764857.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Previsioni Meteo Nordest, piogge e temporali in Veneto e Trentino: previsioni 16-19 settembre 2026",
-    "score": 2
+    "title": "Droga a Napoli, maxiblitz tra Rione Traiano, Pianura e Fuorigrotta: 31 arresti",
+    "score": 7
   },
   {
     "original_title": "Incendio in Costiera, il rogo è doloso: «Mai visto un incendio del genere»",
@@ -245,7 +301,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Incendio in Costiera, il rogo è doloso: «Mai visto un incendio del genere»",
-    "score": 1
+    "score": 4
   },
   {
     "original_title": "Multe e tributi locali: il Mezzogiorno fa cassa con la rottamazione",
@@ -253,7 +309,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Multe e tributi locali: il Mezzogiorno fa cassa con la rottamazione",
-    "score": 8
+    "score": 9
   },
   {
     "original_title": "America's Cup, è sprint sui lavori: «Le aree di Bagnoli pronte l?8 ottobre»",
@@ -261,71 +317,15 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "America's Cup, è sprint sui lavori: «Le aree di Bagnoli pronte l?8 ottobre»",
-    "score": 5
-  },
-  {
-    "original_title": "Aeroporto di Capodichino verso lo stop, voli a Salerno e più treni: «Lo scalo sarà un gioiello»",
-    "url": "https://www.ilmattino.it/schede/aeroporto_di_capodichino_verso_lo_stop_voli_a_salerno_e_piu_treni_lo_scalo_sara_un_gioiello-9765151.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Aeroporto di Capodichino verso lo stop, voli a Salerno e più treni: «Lo scalo sarà un gioiello»",
     "score": 9
   },
   {
-    "original_title": "Ritorno a scuola a Napoli, ma c?è il nodo sicurezza: «Ok ai metal detector»",
-    "url": "https://www.ilmattino.it/napoli/cronaca/scuola_ritorno_aula_ma_c_nodo_sicurezza_ok_ai_metal_detectorn_napoli-9765152.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Ritorno a scuola a Napoli, ma c?è il nodo sicurezza: «Ok ai metal detector»",
-    "score": 5
-  },
-  {
-    "original_title": "Albania, apre il consolato: «Filo diretto con Napoli»",
-    "url": "https://www.ilmattino.it/napoli/politica/albania_apre_il_consolato_filo_diretto_con_napoli-9765089.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Albania, apre il consolato: «Filo diretto con Napoli»",
-    "score": 5
-  },
-  {
-    "original_title": "Famiglia del bosco, salta l'incontro con i figli: per gli assistenti sociali non c'era privacy. Pillon: «Bambini delusi». Cosa succede ora",
-    "url": "https://www.leggo.it/italia/cronache/15_settembre_2026_famglia_del_bosco_salta_incontro_genitori_bambini_perche-9764956.html",
-    "domain": "leggo.it",
-    "region": "IT",
-    "title": "Famiglia del bosco, salta l'incontro con i figli: per gli assistenti sociali non c'era privacy. Pillon: «Bambini delusi». Cosa succede ora",
-    "score": 3
-  },
-  {
-    "original_title": "Emanuela Orlandi, la madre di José Garramon riconosce Marco Accetti: ?«Ma è questo il prete! Lo posso giurare». ?L'intreccio con il caso",
-    "url": "https://www.leggo.it/italia/roma/15_settembre_2026_emanuela_orlandi_marco_accetti_jose_garramon_madre_prete-9765231.html",
-    "domain": "leggo.it",
-    "region": "IT",
-    "title": "Emanuela Orlandi, la madre di José Garramon riconosce Marco Accetti: ?«Ma è questo il prete! Lo posso giurare». ?L'intreccio con il caso",
-    "score": 3
-  },
-  {
-    "original_title": "Avvelenate con la ricina, la cugina di Gianni Di Vita sentita di nuovo per due ore: spunta la pista dei «motivi personali»",
-    "url": "https://www.leggo.it/italia/cronache/15_settembre_2026_avvelenate_ricina_laura_di_vita_cugina_gianni_sentita_indagini_cosa_sappiamo-9765026.html",
-    "domain": "leggo.it",
-    "region": "IT",
-    "title": "Avvelenate con la ricina, la cugina di Gianni Di Vita sentita di nuovo per due ore: spunta la pista dei «motivi personali»",
-    "score": 6
-  },
-  {
-    "original_title": "Salvini in Russia per «aiutare le imprese», ma il Cremlino frena sul gas: il silenzio del governo, la \"difesa\"di Tajani e l'ira delle opposizioni",
-    "url": "https://www.leggo.it/politica/news/15_settembre_2026_salvini_gas_russo_putin_mosca_cremlino_cosa_e_successo_opposizioni_tajani_cosa_ha_detto-9765196.html",
-    "domain": "leggo.it",
-    "region": "IT",
-    "title": "Salvini in Russia per «aiutare le imprese», ma il Cremlino frena sul gas: il silenzio del governo, la \"difesa\"di Tajani e l'ira delle opposizioni",
-    "score": 4
-  },
-  {
-    "original_title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
-    "url": "https://www.bbc.co.uk/news/articles/cw1l6zn56e3zo?at_medium=RSS&at_campaign=rss",
+    "original_title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+    "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Baby 'cot cams' plan after inquiry finds Lucy Letby crimes could have been prevented",
-    "score": 6
+    "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+    "score": 9
   },
   {
     "original_title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
@@ -333,31 +333,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-    "score": 1
-  },
-  {
-    "original_title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
-    "url": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
-    "score": 1
-  },
-  {
-    "original_title": "Former England footballer Raheem Sterling admits dangerous driving on motorway before crash",
-    "url": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Former England footballer Raheem Sterling admits dangerous driving on motorway before crash",
-    "score": 7
-  },
-  {
-    "original_title": "Warning of space arms race as US confirms weapons in Earth's orbit",
-    "url": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
-    "score": 1
+    "score": 9
   },
   {
     "original_title": "UK in talks about joining global defence bank led by Canada",
@@ -368,35 +344,107 @@
     "score": 3
   },
   {
-    "original_title": "Patrick Ricard is the 300-pound ‘secret sauce’ of the Giants’ offense",
-    "url": "https://nypost.com/2026/09/15/sports/patrick-ricard-is-the-300-pound-secret-sauce-of-the-giants-offense/",
-    "domain": "nypost.com",
+    "original_title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
+    "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Patrick Ricard is the 300-pound ‘secret sauce’ of the Giants’ offense",
-    "score": 4
+    "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
+    "score": 1
   },
   {
-    "original_title": "Singer Cara claims she was assaulted over front row seat at Bibhu Mohapatra’s fashion show",
-    "url": "https://pagesix.com/2026/09/15/style/singer-cara-claims-she-was-assaulted-over-front-row-seat-at-bibhu-mohapatras-nyfw-show/",
+    "original_title": "Three dead after LA news helicopter crashes while covering deadly bus collision",
+    "url": "https://www.bbc.co.uk/news/articles/cw4gq0j5jg10o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Three dead after LA news helicopter crashes while covering deadly bus collision",
+    "score": 5
+  },
+  {
+    "original_title": "Prolific shoplifters behind more than 28,000 offences, BBC finds",
+    "url": "https://www.bbc.co.uk/news/articles/cvg7231pev5o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Prolific shoplifters behind more than 28,000 offences, BBC finds",
+    "score": 9
+  },
+  {
+    "original_title": "Pete Alonso traded a lot — including a special Orioles invite — to Mets fans for 300th home run ball",
+    "url": "https://nypost.com/2026/09/16/sports/pete-alonso-traded-a-lot-to-mets-fans-for-his-300th-homer-bal/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Singer Cara claims she was assaulted over front row seat at Bibhu Mohapatra’s fashion show",
+    "title": "Pete Alonso traded a lot — including a special Orioles invite — to Mets fans for 300th home run ball",
+    "score": 3
+  },
+  {
+    "original_title": "Wounded survivor dials for help with her nose after rampaging North Carolina couple shoots her twice",
+    "url": "https://nypost.com/2026/09/16/us-news/wounded-survivor-dials-for-help-with-her-nose-after-rampaging-north-carolina-couple-shoots-her-twice/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Wounded survivor dials for help with her nose after rampaging North Carolina couple shoots her twice",
+    "score": 3
+  },
+  {
+    "original_title": "How to watch ‘Reacher’ spin-off ‘Neagley’ premiere for free: Time, cast",
+    "url": "https://nypost.com/2026/09/16/entertainment/how-to-watch-reacher-spin-off-neagley-premiere-for-free/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "How to watch ‘Reacher’ spin-off ‘Neagley’ premiere for free: Time, cast",
+    "score": 3
+  },
+  {
+    "original_title": "Pete Alonso had his big Citi Field moment — it should serve as a turning point for Mets fans",
+    "url": "https://nypost.com/2026/09/15/sports/mets-fans-should-turn-page-after-pete-alonso-300th-home-run/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Pete Alonso had his big Citi Field moment — it should serve as a turning point for Mets fans",
     "score": 6
   },
   {
-    "original_title": "Matthew Schaefer knows Islanders Year 2 isn’t going to get any easier",
-    "url": "https://nypost.com/2026/09/15/sports/matthew-schaefer-knows-islanders-year-2-isnt-going-to-get-any-easier/",
+    "original_title": "NBA expansion teams heading to Las Vegas and Seattle likely to happen at record setting numbers",
+    "url": "https://nypost.com/2026/09/15/sports/las-vegas-and-seattle-could-land-expansion-team-within-matter-of-months-at-record-price/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Matthew Schaefer knows Islanders Year 2 isn’t going to get any easier",
+    "title": "NBA expansion teams heading to Las Vegas and Seattle likely to happen at record setting numbers",
+    "score": 1
+  },
+  {
+    "original_title": "LeBron James brings back ‘Taco Tuesday’ post with help from San Diego’s Mike’s Red Taco",
+    "url": "https://nypost.com/2026/09/15/sports/lebron-james-brings-back-familiar-trend-on-taco-tuesday-with-help-from-mikes-red-taco/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "LeBron James brings back ‘Taco Tuesday’ post with help from San Diego’s Mike’s Red Taco",
     "score": 6
   },
   {
-    "original_title": "Nick Reiner snubbed by family members for court hearing just one day after accused murderer’s birthday",
-    "url": "https://pagesix.com/2026/09/15/celebrity-news/nick-reiner-snubbed-by-family-members-for-court-hearing-one-day-after-accused-murderers-birthday/",
-    "domain": "nypost.com",
+    "original_title": "Boy, 5, dies after being left in 40C car 'while parents partied'",
+    "url": "https://www.express.co.uk/news/world/2248940/boy-5-dies-being-left",
+    "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Nick Reiner snubbed by family members for court hearing just one day after accused murderer’s birthday",
+    "title": "Boy, 5, dies after being left in 40C car 'while parents partied'",
+    "score": 2
+  },
+  {
+    "original_title": "LA helicopter crash LIVE: Chopper 'goes down' near fatal bus crash scene in Chatsworth",
+    "url": "https://www.express.co.uk/news/us/2248939/los-angeles-helicopter-crash-live",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "LA helicopter crash LIVE: Chopper 'goes down' near fatal bus crash scene in Chatsworth",
+    "score": 7
+  },
+  {
+    "original_title": "Donald Trump goes 'into a tantrum' as he completely loses it on unhinged call",
+    "url": "https://www.express.co.uk/news/world/2248937/donald-trump-tantrum-kennedy-centre",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Donald Trump goes 'into a tantrum' as he completely loses it on unhinged call",
+    "score": 2
+  },
+  {
+    "original_title": "Major update on boy, 3, who disappeared from Suffolk playground as new picture released",
+    "url": "https://www.express.co.uk/news/uk/2248936/new-picture-released-boy-3",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Major update on boy, 3, who disappeared from Suffolk playground as new picture released",
     "score": 5
   },
   {
@@ -405,7 +453,7 @@
     "domain": "express.co.uk",
     "region": "GLOBAL",
     "title": "Suffolk police warn boy, 3, 'won't respond to name' after vanishing from playground",
-    "score": 2
+    "score": 8
   },
   {
     "original_title": "Man arrested on suspicion of attempted murder after Plymouth 'fight'",
@@ -413,47 +461,7 @@
     "domain": "express.co.uk",
     "region": "GLOBAL",
     "title": "Man arrested on suspicion of attempted murder after Plymouth 'fight'",
-    "score": 1
-  },
-  {
-    "original_title": "Germany rocked by another drone attack as WW3 fears with Russia explode",
-    "url": "https://www.express.co.uk/news/world/2248932/germany-rocked-drone-attack-nato",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Germany rocked by another drone attack as WW3 fears with Russia explode",
-    "score": 5
-  },
-  {
-    "original_title": "Prince Harry and Meghan Markle slammed over latest move: 'beggars belief!'",
-    "url": "https://www.express.co.uk/news/royal/2248931/prince-harry-meghan-markle-slammed",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Prince Harry and Meghan Markle slammed over latest move: 'beggars belief!'",
-    "score": 2
-  },
-  {
-    "original_title": "Andy Burnham set for showdown with Donald Trump next week for first time",
-    "url": "https://www.express.co.uk/news/politics/2248930/andy-burnham-set-showdown-donald",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Andy Burnham set for showdown with Donald Trump next week for first time",
     "score": 8
-  },
-  {
-    "original_title": "UK train passengers handed new right when service is cancelled",
-    "url": "https://www.express.co.uk/news/uk/2248929/uk-train-passengers-handed-new-right",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "UK train passengers handed new right when service is cancelled",
-    "score": 8
-  },
-  {
-    "original_title": "Free to fee: 0.4% on UPI payments over Rs 2,000",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/free-to-fee-0-4-on-upi-payments-over-rs-2000/articleshow/134275556.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Free to fee: 0.4% on UPI payments over Rs 2,000",
-    "score": 6
   },
   {
     "original_title": "After meeting PM Modi, schoolmate gets land back from BJP MLA",
@@ -461,87 +469,111 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "After meeting PM Modi, schoolmate gets land back from BJP MLA",
-    "score": 3
-  },
-  {
-    "original_title": "CBI officer in RG Kar, Hathras cases assigned Disha Salian probe",
-    "url": "https://timesofindia.indiatimes.com/india/cbi-officer-in-rg-kar-hathras-cases-assigned-disha-probe/articleshow/134275412.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "CBI officer in RG Kar, Hathras cases assigned Disha Salian probe",
-    "score": 2
-  },
-  {
-    "original_title": "Samson's 57 off 22 establishes his role of preferred opener as India seal series",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/sanju-samsons-57-off-22-establishes-his-role-of-the-preferred-opener-as-india-beat-afghanistan-by-seven-wickets-to-seal-t20i-series/articleshow/134269649.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Samson's 57 off 22 establishes his role of preferred opener as India seal series",
-    "score": 8
-  },
-  {
-    "original_title": "Meta agrees to report child-safety matters directly to Indian authorities",
-    "url": "https://timesofindia.indiatimes.com/india/meta-agrees-to-report-csam-directly-to-indian-authorities/articleshow/134272984.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Meta agrees to report child-safety matters directly to Indian authorities",
-    "score": 9
-  },
-  {
-    "original_title": "'Should be laughed out': T Mobile CFO on Musk's 'Starlink plan' for mobile industry",
-    "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musk-plans-to-shake-up-mobile-industry-with-starlink-t-mobile-ceo-peter-osvaldik-says-that-its-strategy-should-be-laughed-out-of-the-room/articleshow/134268655.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "'Should be laughed out': T Mobile CFO on Musk's 'Starlink plan' for mobile industry",
-    "score": 5
-  },
-  {
-    "original_title": "Argentina intensifies campaign against Falklands oil companies",
-    "url": "https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Argentina intensifies campaign against Falklands oil companies",
-    "score": 1
-  },
-  {
-    "original_title": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
-    "url": "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
-    "score": 2
-  },
-  {
-    "original_title": "Ed Sheeran blames US tour promoter for dropping Macklemore",
-    "url": "https://www.aljazeera.com/news/2026/9/15/ed-sheeran-blames-us-tour-promoter-for-dropping-macklemore?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Ed Sheeran blames US tour promoter for dropping Macklemore",
-    "score": 9
-  },
-  {
-    "original_title": "Why is the far-right embracing crypto?",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/why-is-the-far-right-embracing-crypto?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Why is the far-right embracing crypto?",
-    "score": 3
-  },
-  {
-    "original_title": "Algeria faces calls to drop death penalty plans after wildfires",
-    "url": "https://www.aljazeera.com/news/2026/9/15/algeria-faces-calls-to-drop-death-penalty-plans-after-wildfires?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Algeria faces calls to drop death penalty plans after wildfires",
     "score": 7
   },
   {
-    "original_title": "US Senate crypto bill collapses in blow to industry",
-    "url": "https://www.aljazeera.com/economy/2026/9/15/us-senate-crypto-bill-collapses-in-blow-to-industry?traffic_source=rss",
+    "original_title": "First-ever attack alert in Mecca sparks panic in Saudi; Muslim groups condemn Houthis",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/first-ever-attack-alert-in-mecca-sparks-panic-in-saudi-muslim-groups-condemn-houthis/articleshow/134277530.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "First-ever attack alert in Mecca sparks panic in Saudi; Muslim groups condemn Houthis",
+    "score": 6
+  },
+  {
+    "original_title": "‘Killer bahu left out of will’: What triggered Kanpur pharma trader’s murder plot",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/killer-bahu-left-out-of-will-what-triggered-kanpur-pharma-traders-murder-plot/articleshow/134277247.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "‘Killer bahu left out of will’: What triggered Kanpur pharma trader’s murder plot",
+    "score": 6
+  },
+  {
+    "original_title": "Video: 3 killed as helicopter crashes while covering bus collision in LA",
+    "url": "https://timesofindia.indiatimes.com/world/us/video-horrifying-footage-from-inside-chopper-as-it-goes-down-while-covering-la-bus-crash/articleshow/134277062.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Video: 3 killed as helicopter crashes while covering bus collision in LA",
+    "score": 3
+  },
+  {
+    "original_title": "AI as tutor or shortcut: The difference may shape student learning",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-as-tutor-or-shortcut-the-difference-may-shape-student-learning/articleshow/134263757.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "AI as tutor or shortcut: The difference may shape student learning",
+    "score": 4
+  },
+  {
+    "original_title": "Mark Zuckerberg’s wife Priscilla Chan’s $125 million school to shut after 10 years",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Mark Zuckerberg’s wife Priscilla Chan’s $125 million school to shut after 10 years",
+    "score": 7
+  },
+  {
+    "original_title": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
+    "url": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "US Senate crypto bill collapses in blow to industry",
-    "score": 9
+    "title": "Trump administration plans $2.8bn sale of 2,000-pound bombs to Israel",
+    "score": 2
+  },
+  {
+    "original_title": "China’s defence chief warns against coercion, avoids US, Japan mention",
+    "url": "https://www.aljazeera.com/news/2026/9/16/chinas-defence-chief-warns-against-coercion-avoids-us-japan-mention?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "China’s defence chief warns against coercion, avoids US, Japan mention",
+    "score": 1
+  },
+  {
+    "original_title": "Is US health care too broken to cure cancer?",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/aje-onl-nf_us-healthcare-too-broken-to-cure-cancer-150926?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Is US health care too broken to cure cancer?",
+    "score": 7
+  },
+  {
+    "original_title": "Anthropic CEO didn’t foresee the speed of global AI growth",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Anthropic CEO didn’t foresee the speed of global AI growth",
+    "score": 5
+  },
+  {
+    "original_title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Saudi Arabia cancels oil to Europe over East-West pipeline blast",
+    "score": 7
+  },
+  {
+    "original_title": "DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?",
+    "url": "https://www.aljazeera.com/news/2026/9/16/drc-rwanda-can-geneva-talks-break-the-cycle-of-war-in-eastern-congo?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "DRC-Rwanda: Can Geneva talks break the cycle of war in eastern Congo?",
+    "score": 8
+  },
+  {
+    "original_title": "Helicopter crash kills at least 3 people in Los Angeles",
+    "url": "https://www.euronews.com/2026/09/16/helicopter-crash-kills-at-least-3-people-in-los-angeles",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "Helicopter crash kills at least 3 people in Los Angeles",
+    "score": 8
+  },
+  {
+    "original_title": "Kennedy Center to close for renovations after judge blocks returning Trump’s name to landmark venue",
+    "url": "https://www.euronews.com/2026/09/16/kennedy-center-to-close-for-renovations-after-judge-blocks-returning-trumps-name-to-landma",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "Kennedy Center to close for renovations after judge blocks returning Trump’s name to landmark venue",
+    "score": 5
   },
   {
     "original_title": "US to divert $52 million in military aid from Europe and Middle East to Trump-friendly nations in Americas",
@@ -549,7 +581,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "US to divert $52 million in military aid from Europe and Middle East to Trump-friendly nations in Americas",
-    "score": 3
+    "score": 2
   },
   {
     "original_title": "Russia stages early voting in occupied Ukraine ahead of national election",
@@ -557,7 +589,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Russia stages early voting in occupied Ukraine ahead of national election",
-    "score": 7
+    "score": 5
   },
   {
     "original_title": "Carney bound for Europe as Ottawa seeks closer ties with EU",
@@ -565,7 +597,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Carney bound for Europe as Ottawa seeks closer ties with EU",
-    "score": 9
+    "score": 4
   },
   {
     "original_title": "Canada still a crucial partner for US in 'many key areas,' PM Carney says",
@@ -576,28 +608,12 @@
     "score": 4
   },
   {
-    "original_title": "Two years after COP29, Azerbaijan turns climate commitments into investment",
-    "url": "https://www.euronews.com/2026/09/15/two-years-after-cop29-azerbaijan-turns-climate-commitments-into-investment",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Two years after COP29, Azerbaijan turns climate commitments into investment",
-    "score": 4
-  },
-  {
-    "original_title": "At least 150 pro-LGBTQ protesters detained in Istanbul crackdown",
-    "url": "https://www.euronews.com/video/2026/09/15/at-least-150-pro-lgbtq-protesters-detained-in-istanbul-crackdown",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "At least 150 pro-LGBTQ protesters detained in Istanbul crackdown",
-    "score": 7
-  },
-  {
     "original_title": "Horrified Guests Begin Gagging As Dinner Host Reveals They’ve Been Eating USDA Beef",
     "url": "https://theonion.com/horrified-guests-begin-gagging-as-dinner-host-reveals-theyve-been-eating-usda-beef/",
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Horrified Guests Begin Gagging As Dinner Host Reveals They’ve Been Eating USDA Beef",
-    "score": 5
+    "score": 1
   },
   {
     "original_title": "Blind Man Who Drove 150 Miles Drunk Avoids Jail",
@@ -613,7 +629,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Jason Momoa Wakes Up Tied To Chair In Empty Warehouse With ‘Candy Crush Saga’ Movie Script",
-    "score": 3
+    "score": 9
   },
   {
     "original_title": "NFL Veterans Offer Advice To This Year’s Rookie Class",
@@ -621,22 +637,6 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "NFL Veterans Offer Advice To This Year’s Rookie Class",
-    "score": 5
-  },
-  {
-    "original_title": "Katherine Lee",
-    "url": "https://theonion.com/katherine-lee/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Katherine Lee",
-    "score": 7
-  },
-  {
-    "original_title": "Virtuoso Grasshopper Absolutely Wailing On Leg",
-    "url": "https://theonion.com/virtuoso-grasshopper-absolutely-wailing-on-leg/",
-    "domain": "theonion.com",
-    "region": "GLOBAL",
-    "title": "Virtuoso Grasshopper Absolutely Wailing On Leg",
-    "score": 8
+    "score": 1
   }
 ]
