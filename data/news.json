@@ -1,51 +1,99 @@
 [
   {
+    "original_title": "Avrebbe dovuto ottenere la cittadinanza, ma il sindaco interrompe la cerimonia: “Non sa l’italiano”",
+    "url": "https://www.repubblica.it/cronaca/2026/09/22/news/marocchina_cittadinanza_negata_sindaco_conoscenza_italiano-425600911/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Avrebbe dovuto ottenere la cittadinanza, ma il sindaco interrompe la cerimonia: “Non sa l’italiano”",
+    "score": 4
+  },
+  {
+    "original_title": "Scuola, Meloni attacca Mattarella: “Da ministro voleva il tetto per gli stranieri in classe”",
+    "url": "https://www.repubblica.it/politica/2026/09/22/news/scuola_meloni_mattarella_tetti_ghetti_burqa-425600896/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Scuola, Meloni attacca Mattarella: “Da ministro voleva il tetto per gli stranieri in classe”",
+    "score": 7
+  },
+  {
+    "original_title": "Il mediatore bengalese: “L’italiano l’ho imparato in classe. Il governo non crei barriere”",
+    "url": "https://palermo.repubblica.it/cronaca/2026/09/22/news/stranieri_scuola_decreto_meloni_safat_bangladesh-425600811/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Il mediatore bengalese: “L’italiano l’ho imparato in classe. Il governo non crei barriere”",
+    "score": 7
+  },
+  {
+    "original_title": "Pensioni, sale l’età. Per quella di vecchiaia si esce a 67 anni e 6 mesi nel 2029",
+    "url": "https://www.repubblica.it/economia/2026/09/22/news/pensioni_sale_eta_vecchiaia_67_anni_6_mesi_proiezioni_ragioneria-425600803/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Pensioni, sale l’età. Per quella di vecchiaia si esce a 67 anni e 6 mesi nel 2029",
+    "score": 2
+  },
+  {
+    "original_title": "Violenza sessuale al Senato, richiesta di archiviazione per il senatore di FI Silvestro",
+    "url": "https://www.repubblica.it/politica/2026/09/22/news/violenza_sessuale_senato_silvestro_richiesta_archiviazione_senatore_fi-425600706/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Violenza sessuale al Senato, richiesta di archiviazione per il senatore di FI Silvestro",
+    "score": 3
+  },
+  {
+    "original_title": "Sangiuliano incendia i social con foto di donna velata a Porta Nolana: “Pericolo islamizzazione”",
+    "url": "https://napoli.repubblica.it/cronaca/2026/09/22/news/sangiuliano_sui_social_con_foto_di_donna_velata_a_porta_nolana_pericolo_islamizzazione_polemica-425600615/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Sangiuliano incendia i social con foto di donna velata a Porta Nolana: “Pericolo islamizzazione”",
+    "score": 5
+  },
+  {
+    "original_title": "Di Battista in video a La7: “Sto bene, sempre meglio. Tornerò prestissimo”",
+    "url": "https://www.ilfattoquotidiano.it/2026/09/22/di-battista-video-la7-ritorno-notizie/8515051/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Di Battista in video a La7: “Sto bene, sempre meglio. Tornerò prestissimo”",
+    "score": 7
+  },
+  {
+    "original_title": "Meloni contro Mattarella: “Da ministro invitava a non concentrare gli stranieri in classe”. Era il 1990, gli studenti non italiani erano 20mila, ora 900mila. Ecco perché il presidente diceva il contrario",
+    "url": "https://www.ilfattoquotidiano.it/2026/09/22/meloni-mattarella-stranieri-scuola-notizie/8514872/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Meloni contro Mattarella: “Da ministro invitava a non concentrare gli stranieri in classe”. Era il 1990, gli studenti non italiani erano 20mila, ora 900mila. Ecco perché il presidente diceva il contrario",
+    "score": 5
+  },
+  {
+    "original_title": "Meloni contro Mattarella: cosa dicevano le due circolari del 1989/1990 quando il capo dello Stato era ministro dell’Istruzione",
+    "url": "https://www.ilfattoquotidiano.it/2026/09/22/circolari-mattarella-alunni-stranieri-classi-notizie/8514937/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Meloni contro Mattarella: cosa dicevano le due circolari del 1989/1990 quando il capo dello Stato era ministro dell’Istruzione",
+    "score": 1
+  },
+  {
+    "original_title": "Scambi di prigionieri e risarcimenti miliardari: ecco perché l’Ue ha dovuto escludere gli oligarchi russi Usmanov e Fridman dalle sanzioni",
+    "url": "https://www.ilfattoquotidiano.it/2026/09/22/sanzioni-russia-usmanov-fridman-esclusi-notizie/8514739/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Scambi di prigionieri e risarcimenti miliardari: ecco perché l’Ue ha dovuto escludere gli oligarchi russi Usmanov e Fridman dalle sanzioni",
+    "score": 2
+  },
+  {
+    "original_title": "Crozza-Tajani va in confusione sulle donne in gonna: “È come quando arriva l’elettricista a casa e c’è mia moglie…”",
+    "url": "https://www.ilfattoquotidiano.it/2026/09/22/crozza-tajani-donne-gonna-notizie/8514860/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Crozza-Tajani va in confusione sulle donne in gonna: “È come quando arriva l’elettricista a casa e c’è mia moglie…”",
+    "score": 1
+  },
+  {
     "original_title": "Esce dal carcere e picchia di nuovo la moglie: 59enne arrestato di nuovo a Malalbergo",
     "url": "https://www.ilfattoquotidiano.it/2026/09/22/maltrattamenti-famiglia-malalbergo-arresto-notizie/8514765/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Esce dal carcere e picchia di nuovo la moglie: 59enne arrestato di nuovo a Malalbergo",
-    "score": 5
-  },
-  {
-    "original_title": "Accusa di violenza sessuale al senatore di Fi Silvestro, il pm chiede di archiviare: “Denuncia sporta troppo tardi”",
-    "url": "https://www.ilfattoquotidiano.it/2026/09/22/silvestro-senatore-violenza-sessuale-archiviazione-notizie/8514792/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Accusa di violenza sessuale al senatore di Fi Silvestro, il pm chiede di archiviare: “Denuncia sporta troppo tardi”",
-    "score": 9
-  },
-  {
-    "original_title": "Bloccato il sito ufficiale dei Me contro Te: sette giorni prima era stato depositato un ricorso contro la loro azienda",
-    "url": "https://www.ilfattoquotidiano.it/2026/09/22/undefined-47/8514681/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Bloccato il sito ufficiale dei Me contro Te: sette giorni prima era stato depositato un ricorso contro la loro azienda",
-    "score": 5
-  },
-  {
-    "original_title": "Meloni da Vespa: “Scuola? Mattarella non ha contestato la nostra norma”. E sui conti pubblici: “L’Istat sottostima gli italiani o il governo”",
-    "url": "https://www.ilfattoquotidiano.it/2026/09/22/meloni-tetto-stranieri-scuola-notizie-2/8514788/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Meloni da Vespa: “Scuola? Mattarella non ha contestato la nostra norma”. E sui conti pubblici: “L’Istat sottostima gli italiani o il governo”",
-    "score": 7
-  },
-  {
-    "original_title": "Decreto Bollette, tetto del gas e spread sono i punti caldi della ‘trattativa’ tra Roma e Bruxelles",
-    "url": "https://www.ilfattoquotidiano.it/2026/09/22/decreto-bollette-tetto-gas-spread-notizie/8514653/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Decreto Bollette, tetto del gas e spread sono i punti caldi della ‘trattativa’ tra Roma e Bruxelles",
-    "score": 3
-  },
-  {
-    "original_title": "Hydra, trasmessa a Brescia l’indagine sul danneggiamento dell’auto della pm Alessandra Cerreti. Ipotesi di danno anche per il mezzo del pm de Tommasi",
-    "url": "https://www.ilfattoquotidiano.it/2026/09/22/inchiesta-hydra-danneggiamento-auto-cerreti-notizie/8514727/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Hydra, trasmessa a Brescia l’indagine sul danneggiamento dell’auto della pm Alessandra Cerreti. Ipotesi di danno anche per il mezzo del pm de Tommasi",
-    "score": 9
+    "score": 8
   },
   {
     "original_title": "Primi segnali radio da un pianeta alieno, ma non li ha inviati ET",
@@ -61,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Il ransomware minaccia cyber con il maggiore impatto in Ue",
-    "score": 1
+    "score": 2
   },
   {
     "original_title": "Tumori, curare un figlio lontano da casa costa fino a 35mila euro",
@@ -69,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Tumori, curare un figlio lontano da casa costa fino a 35mila euro",
-    "score": 3
+    "score": 7
   },
   {
     "original_title": "Matthew McConaughey e Woody Harrelson fratelli? Il dubbio diventa una commedia",
@@ -77,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Matthew McConaughey e Woody Harrelson fratelli? Il dubbio diventa una commedia",
-    "score": 5
+    "score": 3
   },
   {
     "original_title": "Col Programma giovani, donne e lavoro si investe nelle competenze",
@@ -85,15 +133,15 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Col Programma giovani, donne e lavoro si investe nelle competenze",
-    "score": 6
+    "score": 1
   },
   {
-    "original_title": "Meloni: 'Mattarella da ministro redigeva circolari sul tetto agli stranieri in classe'",
-    "url": "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-non-so-se-listat-sottostima-gli-italiani-o-il-governo_2c3d1f7a-0c23-43fe-b2aa-eb9368acdb7c.html",
+    "original_title": "Meloni difende il tetto agli stranieri in classe e tira in ballo Mattarella",
+    "url": "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-difende-il-tetto-agli-stranieri-in-classe-e-tira-in-ballo-mattarella_2c3d1f7a-0c23-43fe-b2aa-eb9368acdb7c.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Meloni: 'Mattarella da ministro redigeva circolari sul tetto agli stranieri in classe'",
-    "score": 7
+    "title": "Meloni difende il tetto agli stranieri in classe e tira in ballo Mattarella",
+    "score": 9
   },
   {
     "original_title": "Meloni: «Non leggo le parole di Mattarella come una contestazione, vuole superare i ghetti a scuola. Deficit? Sono dispiaciuta»",
@@ -101,7 +149,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Meloni: «Non leggo le parole di Mattarella come una contestazione, vuole superare i ghetti a scuola. Deficit? Sono dispiaciuta»",
-    "score": 4
+    "score": 6
   },
   {
     "original_title": "Istat: Pil 2025 rivisto al rialzo (+0,6%), ma deficit al 3,1%: l?Italia ancora sotto procedura di infrazione Ue",
@@ -117,7 +165,15 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Pensioni, età di uscita sempre più alta: vecchiaia a 67 anni e 6 mesi nel 2029 e, anticipata a 43 anni e 4 mesi di contributi",
-    "score": 7
+    "score": 8
+  },
+  {
+    "original_title": "Di Battista, il videomessaggio per La7: «Tornerò presto, i medici cubani mi hanno salvato la vita»",
+    "url": "https://www.ilmessaggero.it/persone/di_battista_come_sta_malattia_tv_la7_medici_cuba_vita_ultime_notizie-9779357.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Di Battista, il videomessaggio per La7: «Tornerò presto, i medici cubani mi hanno salvato la vita»",
+    "score": 2
   },
   {
     "original_title": "Donald Trump, cosa ha detto all'Onu: dall' America «più forte che mai» allo scontro con Iran e Cuba",
@@ -125,7 +181,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Donald Trump, cosa ha detto all'Onu: dall' America «più forte che mai» allo scontro con Iran e Cuba",
-    "score": 8
+    "score": 4
   },
   {
     "original_title": "Melania Trump sfida Donald all'Onu: via libera a una reporter della CNN. E il presidente replica: «Non dovrebbe essere qui»",
@@ -133,63 +189,55 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Melania Trump sfida Donald all'Onu: via libera a una reporter della CNN. E il presidente replica: «Non dovrebbe essere qui»",
-    "score": 2
-  },
-  {
-    "original_title": "Vannacci: «Gonna corta o gonna lunga? Una donna la preferisco sempre senza»",
-    "url": "https://www.ilmessaggero.it/politica/vannacci_gonna_preferisco_donne_senza-9778878.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Vannacci: «Gonna corta o gonna lunga? Una donna la preferisco sempre senza»",
-    "score": 2
-  },
-  {
-    "original_title": "La road map di Elly Schlein per le primarie: si inizia ad ottobre. Ma una parte dei dem frena ancora",
-    "url": "https://www.open.online/2026/09/22/primarie-road-map-schlein-programma-chi-vuole-nome-terzo/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "La road map di Elly Schlein per le primarie: si inizia ad ottobre. Ma una parte dei dem frena ancora",
     "score": 8
   },
   {
-    "original_title": "Legge elettorale, l’avvertimento di Meloni: «Se non ci sarà la fiducia ne prenderemo atto»",
-    "url": "https://www.open.online/2026/09/22/legge-elettorale-meloni-fiducia-vespa-intervista/",
+    "original_title": "Il ragazzo che insulta il controllore alla richiesta del biglietto è un video IA",
+    "url": "https://www.open.online/2026/09/22/ragazzo-insulta-controllore-treno-video-ia-fact-check/",
     "domain": "open.online",
     "region": "IT",
-    "title": "Legge elettorale, l’avvertimento di Meloni: «Se non ci sarà la fiducia ne prenderemo atto»",
-    "score": 2
+    "title": "Il ragazzo che insulta il controllore alla richiesta del biglietto è un video IA",
+    "score": 5
   },
   {
-    "original_title": "Le sorelline di San Cataldo e la sfida social: perché si sono nascoste per una notte in un negozio. La confessione agli assistenti sociali",
-    "url": "https://www.open.online/2026/09/22/sorelline-san-cataldo-sfida-social-allontanamento/",
+    "original_title": "Trump e la promessa a Zelensky: «Troveremo una soluzione». Le minacce all’Onu: «Accordo o annienterò l’Iran. Cuba è fallita». E i delegati escono – La diretta",
+    "url": "https://www.open.online/2026/09/22/assemblea-generale-onu-trump-tajani-iran/",
     "domain": "open.online",
     "region": "IT",
-    "title": "Le sorelline di San Cataldo e la sfida social: perché si sono nascoste per una notte in un negozio. La confessione agli assistenti sociali",
-    "score": 2
+    "title": "Trump e la promessa a Zelensky: «Troveremo una soluzione». Le minacce all’Onu: «Accordo o annienterò l’Iran. Cuba è fallita». E i delegati escono – La diretta",
+    "score": 5
   },
   {
-    "original_title": "Italiani in casa con i genitori fino a 30 anni: colpa del lavoro e del prezzo delle case. Peggio di noi solo Croazia, Grecia e Slovacchia",
-    "url": "https://www.open.online/2026/09/22/eta-giovani-lasciare-casa-italia-eurostat/",
+    "original_title": "Di Battista torna in Tv: «Mi va di raccontare quello che mi è accaduto». L’affetto dopo l’operazione e l’attacco a Trump: cosa ha detto a DiMartedì – Il video",
+    "url": "https://www.open.online/2026/09/22/di-battista-di-martedi-messaggio-cuba-trump-come-sta-video/",
     "domain": "open.online",
     "region": "IT",
-    "title": "Italiani in casa con i genitori fino a 30 anni: colpa del lavoro e del prezzo delle case. Peggio di noi solo Croazia, Grecia e Slovacchia",
-    "score": 6
-  },
-  {
-    "original_title": "Il ministro Pichetto Fratin a Open: «El Niño arriverà anche in Europa. Vannacci? Incompatibile con noi sul clima» – Il video",
-    "url": "https://www.open.online/2026/09/22/pichetto-fratin-el-nino-clima-vannacci-video/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Il ministro Pichetto Fratin a Open: «El Niño arriverà anche in Europa. Vannacci? Incompatibile con noi sul clima» – Il video",
+    "title": "Di Battista torna in Tv: «Mi va di raccontare quello che mi è accaduto». L’affetto dopo l’operazione e l’attacco a Trump: cosa ha detto a DiMartedì – Il video",
     "score": 3
   },
   {
-    "original_title": "La prof accoltellata dal 13enne: «Vienimi a trovare. Cosa direi ai genitori». La risposta sui post «di destra» e lo studente del Congo che l’ha salvata",
-    "url": "https://www.open.online/2026/09/22/prof-accoltellata-isabella-marsilio-cercami-polemiche-post-immigrazione/",
+    "original_title": "Vince 223 milioni al Superenalotto, ma non lo dice alla (ex) moglie. Lei lo scopre e chiama gli avvocati: perché ora pretende la metà della vincita",
+    "url": "https://www.open.online/2026/09/22/superenalotto-vince-moglie-diffida-meta/",
     "domain": "open.online",
     "region": "IT",
-    "title": "La prof accoltellata dal 13enne: «Vienimi a trovare. Cosa direi ai genitori». La risposta sui post «di destra» e lo studente del Congo che l’ha salvata",
+    "title": "Vince 223 milioni al Superenalotto, ma non lo dice alla (ex) moglie. Lei lo scopre e chiama gli avvocati: perché ora pretende la metà della vincita",
     "score": 8
+  },
+  {
+    "original_title": "Il video non mostra marocchini che attraversano un tunnel verso Ceuta",
+    "url": "https://www.open.online/2026/09/22/video-tunnel-ceuta-beni-ensar-marocco-fact-check/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Il video non mostra marocchini che attraversano un tunnel verso Ceuta",
+    "score": 5
+  },
+  {
+    "original_title": "Anche le violenze sull’amante possono essere “maltrattamenti in famiglia”",
+    "url": "https://www.open.online/2026/09/22/violenze-amante-maltrattamenti-famiglia-cassazione/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Anche le violenze sull’amante possono essere “maltrattamenti in famiglia”",
+    "score": 6
   },
   {
     "original_title": "Veneto Banca, la società di revisione Pwc condannata a pagare 750mila euro: un anno all'ex manager e risarcimenti per 900 risparmiatori La società: Faremo appello",
@@ -205,7 +253,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Scippo nel parcheggio della Nave de Vero a Mestre, si siede in auto e un attimo dopo tutto l'incasso è sparito",
-    "score": 8
+    "score": 6
   },
   {
     "original_title": "Bosco dello Sport Mestre, viaggio dentro il nuovo stadio Venezia: quando sarà pronto e perché non si potrà ampliare. Il reportage di Davide Tamiello",
@@ -213,7 +261,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Bosco dello Sport Mestre, viaggio dentro il nuovo stadio Venezia: quando sarà pronto e perché non si potrà ampliare. Il reportage di Davide Tamiello",
-    "score": 6
+    "score": 4
   },
   {
     "original_title": "Andrea Burroni muore a 74 anni dopo una lunga lotta contro la malattia, gli amici: «Uomo con una grande cultura»",
@@ -221,7 +269,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Andrea Burroni muore a 74 anni dopo una lunga lotta contro la malattia, gli amici: «Uomo con una grande cultura»",
-    "score": 6
+    "score": 9
   },
   {
     "original_title": "Scuola, la preside del Coletti: «Il problema non sono i ragazzi di origine straniera nati in Italia, ma chi è appena arrivato e non parla la lingua»",
@@ -229,7 +277,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Scuola, la preside del Coletti: «Il problema non sono i ragazzi di origine straniera nati in Italia, ma chi è appena arrivato e non parla la lingua»",
-    "score": 4
+    "score": 9
   },
   {
     "original_title": "Il figlio che frequenta la 'primina' prende due note, telefonata anonima al preside dopo le proteste della mamma: «Ti riempio la testa di proiettili». La donna a processo",
@@ -237,7 +285,7 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Il figlio che frequenta la 'primina' prende due note, telefonata anonima al preside dopo le proteste della mamma: «Ti riempio la testa di proiettili». La donna a processo",
-    "score": 1
+    "score": 9
   },
   {
     "original_title": "America's Cup a Napoli, «battesimo» a Nisida nell'Istituto penale minorile dell'«isola che non c'è»",
@@ -245,7 +293,23 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "America's Cup a Napoli, «battesimo» a Nisida nell'Istituto penale minorile dell'«isola che non c'è»",
-    "score": 9
+    "score": 4
+  },
+  {
+    "original_title": "America's Cup, scontro tra Gb1 e barca di supporto di Team Alinghi: «Timoniere inglese ferito leggermente al viso»",
+    "url": "https://www.ilmattino.it/napoli/cronaca/america_s_cup_scontro_tra_gb1_e_barca_di_supporto_di_team_alinghi_timoniere_inglese_ferito_leggermente_al_viso-9779232.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "America's Cup, scontro tra Gb1 e barca di supporto di Team Alinghi: «Timoniere inglese ferito leggermente al viso»",
+    "score": 6
+  },
+  {
+    "original_title": "Di Battista, il videomessaggio per La7: «Tornerò presto, i medici cubani mi hanno salvato la vita»",
+    "url": "https://www.ilmattino.it/primopiano/cronaca/di_battista_tv_come_sta_malattia_medici_cuba_vita_ultime_notizie-9779361.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Di Battista, il videomessaggio per La7: «Tornerò presto, i medici cubani mi hanno salvato la vita»",
+    "score": 3
   },
   {
     "original_title": "Meloni: «Non leggo le parole di Mattarella come una contestazione, vuole superare i ghetti a scuola. Deficit? Sono dispiaciuta»",
@@ -253,71 +317,15 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Meloni: «Non leggo le parole di Mattarella come una contestazione, vuole superare i ghetti a scuola. Deficit? Sono dispiaciuta»",
-    "score": 4
-  },
-  {
-    "original_title": "Devastazione a Pianura, dopo 18 anni Marco Nonno condannato",
-    "url": "https://www.ilmattino.it/napoli/politica/devastazione_pianura_marco_nonno_condannato_ultime_notizie-9779184.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Devastazione a Pianura, dopo 18 anni Marco Nonno condannato",
     "score": 7
   },
   {
-    "original_title": "Napoli, l'installazione Voyageur di piazza Municipio piace: «Meglio del Pulcinella e della Venere degli stracci»",
-    "url": "https://www.ilmattino.it/napoli/citta/installazione_voyageur_piace_ai_napoletani-9778808.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Napoli, l'installazione Voyageur di piazza Municipio piace: «Meglio del Pulcinella e della Venere degli stracci»",
-    "score": 9
-  },
-  {
-    "original_title": "Anguissa ancora infortunato: lesione di basso grado dell'adduttore",
-    "url": "https://www.ilmattino.it/sport/sscnapoli/napoli_anguissa_infortunio_lesione_basso_grado_adduttore_ultime_notizie_oggi-9778915.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Anguissa ancora infortunato: lesione di basso grado dell'adduttore",
+    "original_title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+    "url": "https://www.bbc.co.uk/news/videos/cxly57mv4767o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
     "score": 7
-  },
-  {
-    "original_title": "Due incendi nel Beneventano: va in fiamme il Taburno",
-    "url": "https://www.ilmattino.it/benevento/incendi_taburno_benevento_ultime_notizie_oggi-9779049.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Due incendi nel Beneventano: va in fiamme il Taburno",
-    "score": 4
-  },
-  {
-    "original_title": "Travolto da un'auto mentre segue il papà in bicicletta per andare a scuola: morto bambino di 7 anni",
-    "url": "https://www.leggo.it/italia/cronache/22_settembre_2026_incidente_torino_bambino_morto_bicicletta-9778948.html",
-    "domain": "leggo.it",
-    "region": "IT",
-    "title": "Travolto da un'auto mentre segue il papà in bicicletta per andare a scuola: morto bambino di 7 anni",
-    "score": 1
-  },
-  {
-    "original_title": "Famiglia del bosco, primo incontro a Palmoli: i genitori riabbracciano i figli nella nuova casa. «Presto il ritorno alla fattoria»",
-    "url": "https://www.leggo.it/italia/cronache/22_settembre_2026_famiglia_nel_bosco_genitori_figli_riuniti_prima_volta_casa_nuova-9779059.html",
-    "domain": "leggo.it",
-    "region": "IT",
-    "title": "Famiglia del bosco, primo incontro a Palmoli: i genitori riabbracciano i figli nella nuova casa. «Presto il ritorno alla fattoria»",
-    "score": 3
-  },
-  {
-    "original_title": "Estrazioni Lotto, Superenalotto e 10eLotto di martedì 22 settembre 2026: numeri vincenti e quote di oggi in diretta",
-    "url": "https://www.leggo.it/schede/22_settembre_2026_estrazioni_lotto_superenalotto_10elotto_oggi_martedi-9776675.html",
-    "domain": "leggo.it",
-    "region": "IT",
-    "title": "Estrazioni Lotto, Superenalotto e 10eLotto di martedì 22 settembre 2026: numeri vincenti e quote di oggi in diretta",
-    "score": 5
-  },
-  {
-    "original_title": "Furbetti del bollo abolito, passaggio di proprietà (per chi ha più veicoli) per risparmiare. Ecco tutti i \"trucchi\"",
-    "url": "https://www.leggo.it/schede/22_settembre_2026_bollo_auto_abolito_furbetti_passaggio_di_proprieta_piu_veicoli_cosa_fanno-9778920.html",
-    "domain": "leggo.it",
-    "region": "IT",
-    "title": "Furbetti del bollo abolito, passaggio di proprietà (per chi ha più veicoli) per risparmiare. Ecco tutti i \"trucchi\"",
-    "score": 5
   },
   {
     "original_title": "Plot targeting Manchester's Jewish community disrupted, say police",
@@ -325,14 +333,6 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Plot targeting Manchester's Jewish community disrupted, say police",
-    "score": 5
-  },
-  {
-    "original_title": "New EU industry rules would damage UK, warns Burnham",
-    "url": "https://www.bbc.co.uk/news/articles/cv2dwylkl7weo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "New EU industry rules would damage UK, warns Burnham",
     "score": 1
   },
   {
@@ -341,15 +341,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Tim Westwood charged with two more sexual offences",
-    "score": 1
-  },
-  {
-    "original_title": "Father admits causing death of his son in hotel fall",
-    "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Father admits causing death of his son in hotel fall",
-    "score": 8
+    "score": 2
   },
   {
     "original_title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
@@ -357,111 +349,127 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "Earl Spencer should pull Diana book from shelves, Piers Morgan says",
-    "score": 6
+    "score": 2
   },
   {
-    "original_title": "Autopsy shows Hayden Panettiere died from a drug overdose",
-    "url": "https://www.bbc.co.uk/news/articles/crn45d8dd2wdo?at_medium=RSS&at_campaign=rss",
+    "original_title": "Father admits causing death of his son in hotel fall",
+    "url": "https://www.bbc.co.uk/news/articles/cm4gvyz2vlkvo?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Autopsy shows Hayden Panettiere died from a drug overdose",
+    "title": "Father admits causing death of his son in hotel fall",
     "score": 4
   },
   {
-    "original_title": "Physicians’ ‘health-xiety’ is on the rise — but their trust with patients hasn’t wavered",
-    "url": "https://nypost.com/2026/09/22/health/physicians-health-xiety-is-on-the-rise-but-their-trust-with-patients-hasnt-wavered/",
-    "domain": "nypost.com",
+    "original_title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+    "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Physicians’ ‘health-xiety’ is on the rise — but their trust with patients hasn’t wavered",
-    "score": 5
+    "title": "Booker Prize judges reveal shortlisted novels after selection 'tussle'",
+    "score": 4
   },
   {
-    "original_title": "No one wants to buy Tribeca Film Festival co-founders’ NYC apartment —  now $27M discounted from its original ask",
-    "url": "https://nypost.com/2026/09/22/real-estate/no-one-wants-to-buy-tribeca-film-festival-co-founders-nyc-home/",
+    "original_title": "Protesters gather outside UN to demand an end to Iranian regime, political executions",
+    "url": "https://nypost.com/2026/09/22/world-news/protesters-gather-outside-un-to-demand-an-end-to-iranian-regime-political-executions/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "No one wants to buy Tribeca Film Festival co-founders’ NYC apartment —  now $27M discounted from its original ask",
-    "score": 5
+    "title": "Protesters gather outside UN to demand an end to Iranian regime, political executions",
+    "score": 7
   },
   {
-    "original_title": "Naked video call and bizarre Will Smith claim before fiery crash that killed six revealed in tearful testimony",
-    "url": "https://nypost.com/2026/09/22/us-news/nicole-lintons-bizarre-video-calls-revealed-before-130-mph-los-angeles-crash-that-killed-six/",
+    "original_title": "NYC teen, mom shot inside laundromat during apparently targeted attack",
+    "url": "https://nypost.com/2026/09/22/us-news/nyc-teen-mom-shot-in-laundromat-in-apparently-targeted-attack/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Naked video call and bizarre Will Smith claim before fiery crash that killed six revealed in tearful testimony",
+    "title": "NYC teen, mom shot inside laundromat during apparently targeted attack",
+    "score": 4
+  },
+  {
+    "original_title": "What do tickets cost for Buddy Guy’s Radio City birthday show with Eric Clapton?",
+    "url": "https://nypost.com/2026/09/22/ticket-sales/get-last-minute-buddy-guy-90th-birthday-concert-with-eric-clapton/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "What do tickets cost for Buddy Guy’s Radio City birthday show with Eric Clapton?",
+    "score": 7
+  },
+  {
+    "original_title": "Chargers make ridiculously underwhelming tight end move after losing David Njoku to IR",
+    "url": "https://nypost.com/2026/09/22/sports/chargers-make-ridiculously-underwhelming-te-move-after-losing-david-njoku-to-ir/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Chargers make ridiculously underwhelming tight end move after losing David Njoku to IR",
+    "score": 8
+  },
+  {
+    "original_title": "Kamala Harris blasts criticism of DEI as ‘an attack on maternal care’ while stumping for El-Sayed in Michigan",
+    "url": "https://nypost.com/2026/09/22/us-news/kamala-harris-stumps-for-el-sayed-gives-forceful-defense-of-dei/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Kamala Harris blasts criticism of DEI as ‘an attack on maternal care’ while stumping for El-Sayed in Michigan",
+    "score": 8
+  },
+  {
+    "original_title": "From field to court: Terrell Owens’ new Centerline styles might make you pick up pickleball",
+    "url": "https://nypost.com/2026/09/22/shopping/nfl-icon-terrell-owens-drops-sporty-new-styles-built-for-the-court/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "From field to court: Terrell Owens’ new Centerline styles might make you pick up pickleball",
+    "score": 1
+  },
+  {
+    "original_title": "Waitrose issues urgent product recall as customers told 'do not drink'",
+    "url": "https://www.express.co.uk/news/uk/2250880/waitrose-recall-oat-unsweetened-drink",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Waitrose issues urgent product recall as customers told 'do not drink'",
     "score": 3
   },
   {
-    "original_title": "Camouflaged rattlesnake caught in bizarre dance on SoCal beach during rare encounter",
-    "url": "https://nypost.com/2026/09/22/us-news/rattlesnake-seen-slithering-dancing-on-socal-beach-in-rare-encounter/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Camouflaged rattlesnake caught in bizarre dance on SoCal beach during rare encounter",
-    "score": 6
-  },
-  {
-    "original_title": "Former No. 1 pick accuses LeBron James of having ‘toxic’ impact on Lakers stars",
-    "url": "https://nypost.com/2026/09/22/sports/ex-lakers-star-claims-lebron-james-had-toxic-impact-on-dalton-knecht/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Former No. 1 pick accuses LeBron James of having ‘toxic’ impact on Lakers stars",
-    "score": 1
-  },
-  {
-    "original_title": "NYC Marathon route changing for first time in 15 years — what runners need to know",
-    "url": "https://nypost.com/2026/09/22/us-news/nyc-marathon-route-changing-for-first-time-in-15-years/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "NYC Marathon route changing for first time in 15 years — what runners need to know",
-    "score": 4
-  },
-  {
-    "original_title": "Tragedy as woman and three children die in horror Bootle house fire",
-    "url": "https://www.express.co.uk/news/uk/2250846/bootle-house-fire-victims-woman-children",
+    "original_title": "Prince William's new 'battle' against Harry and Meghan - 'determined to win'",
+    "url": "https://www.express.co.uk/news/royal/2250876/prince-williams-new-battle-against",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Tragedy as woman and three children die in horror Bootle house fire",
-    "score": 2
+    "title": "Prince William's new 'battle' against Harry and Meghan - 'determined to win'",
+    "score": 7
   },
   {
-    "original_title": "'A terrible deal!' Trump blasts Chagos giveaway in awkward moment in Burnham meeting",
-    "url": "https://www.express.co.uk/news/politics/2250843/trump-chagos-deal-burnham",
+    "original_title": "Princess Kate's secret gesture amid Earl Spencer's book row that you may have missed",
+    "url": "https://www.express.co.uk/news/royal/2250870/princess-kate-earrings-earl-spencer-book",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "'A terrible deal!' Trump blasts Chagos giveaway in awkward moment in Burnham meeting",
-    "score": 2
+    "title": "Princess Kate's secret gesture amid Earl Spencer's book row that you may have missed",
+    "score": 5
   },
   {
-    "original_title": "Prince Harry and Meghan Markle issue stern new warning - 'complete overkill'",
-    "url": "https://www.express.co.uk/news/royal/2250836/prince-harry-meghan-markle-warning-archie-lilibet",
+    "original_title": "Heaton Park RECAP: Air ambulance lands in Prestwich as two teenagers rushed to hospital",
+    "url": "https://www.express.co.uk/news/uk/2250858/heaton-park-live-police-incident",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Prince Harry and Meghan Markle issue stern new warning - 'complete overkill'",
-    "score": 2
+    "title": "Heaton Park RECAP: Air ambulance lands in Prestwich as two teenagers rushed to hospital",
+    "score": 3
   },
   {
-    "original_title": "Andy Burnham urged to introduce UK burka ban - 'If you have nothing to hide'",
-    "url": "https://www.express.co.uk/news/uk/2250834/andy-burnham-introduce-uk-burka",
+    "original_title": "Gosport LIVE: Protesters chant 'send them back' as migrant boat 'intercepted' in Channel",
+    "url": "https://www.express.co.uk/news/uk/2250855/gosport-live-protest-migrant-boat",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Andy Burnham urged to introduce UK burka ban - 'If you have nothing to hide'",
-    "score": 1
+    "title": "Gosport LIVE: Protesters chant 'send them back' as migrant boat 'intercepted' in Channel",
+    "score": 7
   },
   {
-    "original_title": "Police thwart suspected 'terrorist plot to target Jewish community' in Manchester area",
-    "url": "https://www.express.co.uk/news/uk/2250831/police-manchester-jewish-community",
+    "original_title": "'Anxious' Andy Burnham 'vulnerable' on stage in live Donald Trump meeting",
+    "url": "https://www.express.co.uk/news/world/2250853/anxious-andy-burnham-vulnerable-stage",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Police thwart suspected 'terrorist plot to target Jewish community' in Manchester area",
-    "score": 1
+    "title": "'Anxious' Andy Burnham 'vulnerable' on stage in live Donald Trump meeting",
+    "score": 9
   },
   {
-    "original_title": "Migrants to be brought to shore after RNLI rescue following 30 hour Channel crossing",
-    "url": "https://www.express.co.uk/news/politics/2250830/Migrants-asylum-Labour-boats-Channel-France",
-    "domain": "express.co.uk",
+    "original_title": "From ‘annihilate Iran’ to ‘super intelligence’, Trump boasts of US power at UNGA",
+    "url": "https://timesofindia.indiatimes.com/world/us/trump-threatens-to-annihilate-iran-make-a-deal-or-get-destroyed/articleshow/134417865.cms",
+    "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Migrants to be brought to shore after RNLI rescue following 30 hour Channel crossing",
-    "score": 6
+    "title": "From ‘annihilate Iran’ to ‘super intelligence’, Trump boasts of US power at UNGA",
+    "score": 8
   },
   {
     "original_title": "The China+1 question: Does India lose if Trump and Xi make peace?",
@@ -469,7 +477,15 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "The China+1 question: Does India lose if Trump and Xi make peace?",
-    "score": 9
+    "score": 3
+  },
+  {
+    "original_title": "US approves $425 million sale of MH-60R Seahawk helicopters and equipments to Denmark",
+    "url": "https://timesofindia.indiatimes.com/defence/international/us-approves-425-million-sale-of-mh-60r-seahawk-helicopters-and-equipments-to-denmark/articleshow/134418132.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "US approves $425 million sale of MH-60R Seahawk helicopters and equipments to Denmark",
+    "score": 1
   },
   {
     "original_title": "'Told him to tolerate it': Parents regret advice to kid in IIT-B suicide case",
@@ -477,31 +493,15 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "'Told him to tolerate it': Parents regret advice to kid in IIT-B suicide case",
-    "score": 4
+    "score": 2
   },
   {
-    "original_title": "Trump-Pezeshkian meeting on UNGA sidelines? US prez 'open' to talks with Iran",
-    "url": "https://timesofindia.indiatimes.com/world/us/trump-pezeshkian-meeting-on-unga-sidelines-us-president-open-to-talks-with-iran/articleshow/134416649.cms",
+    "original_title": "Vietnam to Colombo flight makes emergency landing at Chennai airport",
+    "url": "https://timesofindia.indiatimes.com/city/chennai/vietjet-flight-makes-emergency-landing-at-chennai-airport/articleshow/134418100.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Trump-Pezeshkian meeting on UNGA sidelines? US prez 'open' to talks with Iran",
-    "score": 7
-  },
-  {
-    "original_title": "CSK's Vansh Bedi says he is not the unnamed player in sting operation row",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/news/false-and-defamatory-csks-vansh-bedi-says-he-is-not-the-unnamed-player-in-sting-operation-controversy/articleshow/134416107.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "CSK's Vansh Bedi says he is not the unnamed player in sting operation row",
-    "score": 7
-  },
-  {
-    "original_title": "Ganesh Utsav turns tragic: Woman dies after falling into boiling sambar in Andhra",
-    "url": "https://timesofindia.indiatimes.com/city/vijayawada/ganesh-utsav-turns-tragic-as-woman-dies-after-falling-into-boiling-sambar-during-annadanam-in-vijayawada/articleshow/134404315.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Ganesh Utsav turns tragic: Woman dies after falling into boiling sambar in Andhra",
-    "score": 3
+    "title": "Vietnam to Colombo flight makes emergency landing at Chennai airport",
+    "score": 1
   },
   {
     "original_title": "MediaTek targets Qualcomm's fortress with an unmatched new weapon",
@@ -509,103 +509,103 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "MediaTek targets Qualcomm's fortress with an unmatched new weapon",
-    "score": 3
-  },
-  {
-    "original_title": "Sudan’s historical famine echoes through latest hunger crisis",
-    "url": "https://www.aljazeera.com/news/2026/9/22/sudans-historical-famine-echoes-through-latest-hunger-crisis?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Sudan’s historical famine echoes through latest hunger crisis",
     "score": 8
   },
   {
-    "original_title": "ECHR hears how 10 children went missing after Russia annexed Crimea",
-    "url": "https://www.aljazeera.com/news/2026/9/22/echr-hears-how-10-children-went-missing-after-russia-annexed-crimea?traffic_source=rss",
+    "original_title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+    "url": "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "ECHR hears how 10 children went missing after Russia annexed Crimea",
-    "score": 7
+    "title": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+    "score": 5
   },
   {
-    "original_title": "Turkiye school shooting leaves 11 pupils wounded",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/turkiye-school-shooting-leaves-11-pupils-wounded?traffic_source=rss",
+    "original_title": "Trump: US-Iran meeting at UN was ‘very good’",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Turkiye school shooting leaves 11 pupils wounded",
-    "score": 9
-  },
-  {
-    "original_title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
-    "url": "https://www.aljazeera.com/news/2026/9/22/erdogan-slams-israels-genocidal-mindset-in-blistering-un-address?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Erdogan slams Israel’s ‘genocidal mindset’ in blistering UN address",
-    "score": 2
-  },
-  {
-    "original_title": "‘War crime’: Jordan’s king slams Israeli West Bank expansion",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/war-crime-jordans-king-slams-israeli-west-bank-expansion?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "‘War crime’: Jordan’s king slams Israeli West Bank expansion",
-    "score": 9
-  },
-  {
-    "original_title": "Fifteen guilty in 2019 Sri Lanka Easter bombings: What the verdict says",
-    "url": "https://www.aljazeera.com/features/2026/9/22/fifteen-guilty-in-2019-sri-lanka-easter-bombings-what-the-verdict-says?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Fifteen guilty in 2019 Sri Lanka Easter bombings: What the verdict says",
+    "title": "Trump: US-Iran meeting at UN was ‘very good’",
     "score": 4
   },
   {
-    "original_title": "New Princess Diana memoir hits shelves amid royal tensions",
-    "url": "https://www.euronews.com/video/2026/09/22/new-princess-diana-memoir-hits-shelves-amid-royal-tensions",
-    "domain": "euronews.com",
+    "original_title": "NYC Mayor Mamdani reaches record DoorDash settlement for underpaid workers",
+    "url": "https://www.aljazeera.com/economy/2026/9/22/nyc-mayor-mamdani-reaches-record-doordash-settlement-for-underpaid-workers?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "New Princess Diana memoir hits shelves amid royal tensions",
+    "title": "NYC Mayor Mamdani reaches record DoorDash settlement for underpaid workers",
+    "score": 5
+  },
+  {
+    "original_title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
+    "score": 5
+  },
+  {
+    "original_title": "Djibouti minister appeals for aid for Yemeni refugees",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/djibouti-minister-appeals-for-aid-for-yemeni-refugees?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Djibouti minister appeals for aid for Yemeni refugees",
     "score": 9
   },
   {
-    "original_title": "Trump signs Greenland security deal allowing US to expand military presence",
-    "url": "https://www.euronews.com/my-europe/2026/09/22/trump-signs-greenland-security-deal-allowing-us-to-expand-military-presence",
-    "domain": "euronews.com",
+    "original_title": "Trump admin asks top US court to reverse pro-Palestinian scholar’s release",
+    "url": "https://www.aljazeera.com/news/2026/9/22/trump-admin-asks-top-us-court-to-reverse-pro-palestinian-scholars-release?traffic_source=rss",
+    "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Trump signs Greenland security deal allowing US to expand military presence",
-    "score": 7
+    "title": "Trump admin asks top US court to reverse pro-Palestinian scholar’s release",
+    "score": 5
   },
   {
-    "original_title": "Latest news bulletin | September 22nd, 2026 – Evening",
-    "url": "https://www.euronews.com/video/2026/09/22/latest-news-bulletin-september-22nd-2026-evening",
+    "original_title": "Artists protest culture cuts with music, dance and puppets in Bogotá",
+    "url": "https://www.euronews.com/video/2026/09/22/artists-protest-culture-cuts-with-music-dance-and-puppets-in-bogota",
     "domain": "euronews.com",
     "region": "GLOBAL",
-    "title": "Latest news bulletin | September 22nd, 2026 – Evening",
-    "score": 3
+    "title": "Artists protest culture cuts with music, dance and puppets in Bogotá",
+    "score": 2
   },
   {
-    "original_title": "Russia quietly modernises bomb shelters in Moscow and St Petersburg",
-    "url": "https://www.euronews.com/2026/09/22/russia-quietly-modernises-bomb-shelters-in-moscow-and-st-petersburg",
+    "original_title": "At least four dead and six missing in Japan day after Typhoon Dujuan made landfall",
+    "url": "https://www.euronews.com/2026/09/22/at-least-four-dead-and-six-missing-in-japan-day-after-typhoon-dujuan-made-landfall",
     "domain": "euronews.com",
     "region": "GLOBAL",
-    "title": "Russia quietly modernises bomb shelters in Moscow and St Petersburg",
+    "title": "At least four dead and six missing in Japan day after Typhoon Dujuan made landfall",
+    "score": 9
+  },
+  {
+    "original_title": "Robots dance their way to America’s Got Talent final with human partner",
+    "url": "https://www.euronews.com/video/2026/09/22/robots-dance-their-way-to-americas-got-talent-final-with-human-partner",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "Robots dance their way to America’s Got Talent final with human partner",
+    "score": 9
+  },
+  {
+    "original_title": "Burnham touts 'good connection' with Trump as pair meet for first time in New York",
+    "url": "https://www.euronews.com/2026/09/22/burnham-touts-good-connection-with-trump-as-pair-meet-for-first-time-in-new-york",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "Burnham touts 'good connection' with Trump as pair meet for first time in New York",
     "score": 6
   },
   {
-    "original_title": "New rotation of US troops bound for Lithuania, Lithuanian president says",
-    "url": "https://www.euronews.com/2026/09/22/new-rotation-of-us-troops-bound-for-lithuania-lithuanian-president-says",
+    "original_title": "Ancient Roman Pula transformed by contemporary light art",
+    "url": "https://www.euronews.com/video/2026/09/22/ancient-roman-pula-transformed-by-contemporary-light-art",
     "domain": "euronews.com",
     "region": "GLOBAL",
-    "title": "New rotation of US troops bound for Lithuania, Lithuanian president says",
-    "score": 8
+    "title": "Ancient Roman Pula transformed by contemporary light art",
+    "score": 3
   },
   {
-    "original_title": "Flooded streets and rescues as Typhoon Dujuan hits Japan",
-    "url": "https://www.euronews.com/video/2026/09/22/flooded-streets-and-rescues-as-typhoon-dujuan-hits-japan",
+    "original_title": "Trump threatens to 'annihilate' Iran at UN, then confirms direct talks",
+    "url": "https://www.euronews.com/2026/09/22/trump-threatens-to-annihilate-iran-at-un-then-confirms-direct-talks",
     "domain": "euronews.com",
     "region": "GLOBAL",
-    "title": "Flooded streets and rescues as Typhoon Dujuan hits Japan",
-    "score": 5
+    "title": "Trump threatens to 'annihilate' Iran at UN, then confirms direct talks",
+    "score": 6
   },
   {
     "original_title": "God Announces Departure From ‘Secret Lives Of Mormon Wives’",
@@ -613,7 +613,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "God Announces Departure From ‘Secret Lives Of Mormon Wives’",
-    "score": 5
+    "score": 6
   },
   {
     "original_title": "Trump Proposes Installation Of Sniper Nest Atop Barron",
@@ -621,7 +621,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Trump Proposes Installation Of Sniper Nest Atop Barron",
-    "score": 8
+    "score": 1
   },
   {
     "original_title": "Amish Man Ashamed To Learn He Logging Over 5 Hours Of Horse Time Per Day",
@@ -629,7 +629,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Amish Man Ashamed To Learn He Logging Over 5 Hours Of Horse Time Per Day",
-    "score": 7
+    "score": 3
   },
   {
     "original_title": "Career-Ending Facebook Comment Double-Checked For Spelling",
@@ -637,6 +637,6 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Career-Ending Facebook Comment Double-Checked For Spelling",
-    "score": 3
+    "score": 6
   }
 ]
