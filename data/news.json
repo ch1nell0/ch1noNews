@@ -1,11 +1,11 @@
 [
   {
-    "original_title": "Raid Houthi sull’Arabia Saudita: è strage all’aeroporto di Riad",
+    "original_title": "Raid Houthi sull’Arabia Saudita, strage all’aeroporto di Riad: 12 morti",
     "url": "https://www.repubblica.it/esteri/2026/10/11/news/raid_houthi_aeroporto_riad_arabia_saudita-425639831/",
     "domain": "repubblica.it",
     "region": "IT",
-    "title": "Raid Houthi sull’Arabia Saudita: è strage all’aeroporto di Riad",
-    "score": 1
+    "title": "Raid Houthi sull’Arabia Saudita, strage all’aeroporto di Riad: 12 morti",
+    "score": 6
   },
   {
     "original_title": "Crans, inchiesta per fuga di notizie. E gli indagati puntano allo sconto di pena: “Gogna mediatica”",
@@ -13,7 +13,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Crans, inchiesta per fuga di notizie. E gli indagati puntano allo sconto di pena: “Gogna mediatica”",
-    "score": 8
+    "score": 9
   },
   {
     "original_title": "Comunali a Milano, la destra va in tilt. Forza Italia attacca la Lega: “Possono correre da soli”",
@@ -37,7 +37,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Rai, la squadra di Report: “Mai sfiduciato Ranucci né chiesta la sua rimozione”",
-    "score": 8
+    "score": 4
   },
   {
     "original_title": "Corteo pro Pal, a Roma spunta lo striscione sul 7 ottobre: “Giornata della Resistenza”",
@@ -45,7 +45,7 @@
     "domain": "repubblica.it",
     "region": "IT",
     "title": "Corteo pro Pal, a Roma spunta lo striscione sul 7 ottobre: “Giornata della Resistenza”",
-    "score": 9
+    "score": 7
   },
   {
     "original_title": "Omicidio Diabolik, il Tribunale del Riesame di Roma conferma il carcere per i presunti mandanti",
@@ -53,7 +53,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Omicidio Diabolik, il Tribunale del Riesame di Roma conferma il carcere per i presunti mandanti",
-    "score": 6
+    "score": 4
   },
   {
     "original_title": "Schlein: “Mai più larghe intese, al centro abbiamo sempre perso”. Conte: “In due settimane si può chiudere il programma”",
@@ -69,7 +69,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Motociclista di 50 anni muore in uno scontro con un’auto a Castellamonte: arrestato il conducente positivo all’alcoltest",
-    "score": 1
+    "score": 9
   },
   {
     "original_title": "Crans-Montana, inchiesta sulle presunte fughe di notizie. Gli avvocati degli indagati chiedono misure e potrebbero ottenere una riduzione di pena",
@@ -85,7 +85,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "“Bisogna democratizzare l’economia”. Alla fondazione Feltrinelli di Milano il festival dell’Economia Critica",
-    "score": 1
+    "score": 7
   },
   {
     "original_title": "Giustizia, alta tensione tra Forza Italia e FdI: gli azzurri preparano “iniziative” contro il blocco del ddl sugli smartphone",
@@ -93,7 +93,7 @@
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
     "title": "Giustizia, alta tensione tra Forza Italia e FdI: gli azzurri preparano “iniziative” contro il blocco del ddl sugli smartphone",
-    "score": 9
+    "score": 3
   },
   {
     "original_title": "John Malkovich: 'Ho riscritto l'80% dei film che ho fatto'",
@@ -109,7 +109,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "SpaceX prepara il debutto come operatore tlc con Starlink Mobile",
-    "score": 3
+    "score": 1
   },
   {
     "original_title": "Da Palazzo Piacentini alla Villa La Tesoriera, tornano le giornate Fai d'Autunno",
@@ -117,7 +117,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Da Palazzo Piacentini alla Villa La Tesoriera, tornano le giornate Fai d'Autunno",
-    "score": 4
+    "score": 5
   },
   {
     "original_title": "A Genova Book Pride, fiera dell'editoria indipendente",
@@ -125,7 +125,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "A Genova Book Pride, fiera dell'editoria indipendente",
-    "score": 9
+    "score": 3
   },
   {
     "original_title": "Quando la Nobel per la pace Pillay disse: \"C'è un genocidio a Gaza\"",
@@ -133,7 +133,7 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Quando la Nobel per la pace Pillay disse: \"C'è un genocidio a Gaza\"",
-    "score": 6
+    "score": 5
   },
   {
     "original_title": "Trump scarica Zelensky: 'Serve un nuovo presidente a Kiev per un accordo'",
@@ -141,22 +141,30 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Trump scarica Zelensky: 'Serve un nuovo presidente a Kiev per un accordo'",
+    "score": 3
+  },
+  {
+    "original_title": "Arabia Saudita, attacco Houthi con missili sull?aeroporto di Riad: almeno 12 morti e 300 feriti, voli sospesi",
+    "url": "https://www.ilmessaggero.it/mondo/arabia_saudita_attacco_houthi_aeroporto_riad_arabia_saudita_perche_cosa_succede-9816947.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Arabia Saudita, attacco Houthi con missili sull?aeroporto di Riad: almeno 12 morti e 300 feriti, voli sospesi",
     "score": 1
   },
   {
-    "original_title": "Napoli-Frosinone 3-0, le pagelle: De Bruyne (8) versione prime, Lang (7) spicca, Badiashile (6,5) in crescita",
-    "url": "https://www.ilmessaggero.it/sport/schede/napoli_frosinone_pagelle_de_bruyne_noa_lang_classifica_serie_a-9816922.html",
+    "original_title": "Trump scarica Zelensky: «Kiev cambi presidente». E il Cremlino ringrazia: «Donald iconico e storico»",
+    "url": "https://www.ilmessaggero.it/mondo/trump_zelensky_cosa_succede_ora-9816943.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Napoli-Frosinone 3-0, le pagelle: De Bruyne (8) versione prime, Lang (7) spicca, Badiashile (6,5) in crescita",
-    "score": 5
+    "title": "Trump scarica Zelensky: «Kiev cambi presidente». E il Cremlino ringrazia: «Donald iconico e storico»",
+    "score": 6
   },
   {
-    "original_title": "La petroliera Minerva Zen (carica di diesel russo) di fronte alle coste Usa, è partita da San Pietroburgo 17 giorni prima dell'accordo Trump-Putin",
-    "url": "https://www.ilmessaggero.it/mondo/petroliera_minerva_zen_diesel_russo_stati_uniti_prima_accordo_trump_putin-9816807.html",
+    "original_title": "Diesel russo, qual è la strategia di Trump (e quali sono gli effetti): perché agli Usa serve proteggere gli impianti di Mosca",
+    "url": "https://www.ilmessaggero.it/economia/diesel_russia_usa_cosa_succede_ora-9816892.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "La petroliera Minerva Zen (carica di diesel russo) di fronte alle coste Usa, è partita da San Pietroburgo 17 giorni prima dell'accordo Trump-Putin",
+    "title": "Diesel russo, qual è la strategia di Trump (e quali sono gli effetti): perché agli Usa serve proteggere gli impianti di Mosca",
     "score": 7
   },
   {
@@ -165,7 +173,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Pensioni, in arrivo il bonus fino a 154,94 euro: a chi spetta e quali sono i limiti di reddito",
-    "score": 7
+    "score": 2
   },
   {
     "original_title": "Bollo auto, 25 domande e risposte Aci sull'esenzione 2027: tutte le novità da sapere",
@@ -173,14 +181,6 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Bollo auto, 25 domande e risposte Aci sull'esenzione 2027: tutte le novità da sapere",
-    "score": 4
-  },
-  {
-    "original_title": "Btp, nuova asta il 13 ottobre: i titoli da osservare, come partecipare e quali rendimenti aspettarsi. La guida",
-    "url": "https://www.ilmessaggero.it/economia/schede/btp_asta_quando_come_fare_come_partecipare_rendimenti_cedole-9816216.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Btp, nuova asta il 13 ottobre: i titoli da osservare, come partecipare e quali rendimenti aspettarsi. La guida",
     "score": 7
   },
   {
@@ -189,7 +189,23 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Sondaggi politici, il centrodestra recupera e Vannacci si ferma (e per la prima volta flette). Decisivi (anche) i partiti piccoli",
-    "score": 4
+    "score": 5
+  },
+  {
+    "original_title": "India, il «Partito delle blatte» torna in piazza: migliaia di arresti, fermati anche i leader. Interviene l’Onu: «Rilasciateli subito» – I video",
+    "url": "https://www.open.online/2026/10/10/india-proteste-partito-blatte-arresti-onu-video/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "India, il «Partito delle blatte» torna in piazza: migliaia di arresti, fermati anche i leader. Interviene l’Onu: «Rilasciateli subito» – I video",
+    "score": 1
+  },
+  {
+    "original_title": "Entra nel recinto delle tigri e viene sbranato: morto un uomo in uno zoo inglese",
+    "url": "https://www.open.online/2026/10/10/sbranato-tigre-incidente-zoo-londra/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Entra nel recinto delle tigri e viene sbranato: morto un uomo in uno zoo inglese",
+    "score": 8
   },
   {
     "original_title": "Missile Houthi sull’aeroporto di Riad: «Almeno 12 morti e 50 feriti». Trump: «Decideremo se intervenire»",
@@ -197,7 +213,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Missile Houthi sull’aeroporto di Riad: «Almeno 12 morti e 50 feriti». Trump: «Decideremo se intervenire»",
-    "score": 4
+    "score": 6
   },
   {
     "original_title": "Un selfie sui social fa scoprire una pianta quasi estinta: l’incredibile storia della Victoria colombiana",
@@ -205,7 +221,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Un selfie sui social fa scoprire una pianta quasi estinta: l’incredibile storia della Victoria colombiana",
-    "score": 1
+    "score": 8
   },
   {
     "original_title": "Cardinale omaggia Trump: l’arrivo a Milanello con il cappellino «Make Milan Great Again» – Il video",
@@ -213,7 +229,7 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Cardinale omaggia Trump: l’arrivo a Milanello con il cappellino «Make Milan Great Again» – Il video",
-    "score": 2
+    "score": 1
   },
   {
     "original_title": "Conte incalza il Pd: «Il programma? Con un confronto serio bastano due settimane». La proposta di Schlein per mettere tutti d’accordo su Kiev",
@@ -221,23 +237,47 @@
     "domain": "open.online",
     "region": "IT",
     "title": "Conte incalza il Pd: «Il programma? Con un confronto serio bastano due settimane». La proposta di Schlein per mettere tutti d’accordo su Kiev",
-    "score": 5
+    "score": 1
   },
   {
-    "original_title": "«Discriminata perché incinta»: ricercatrice precaria vince la causa contro il Cnr sui congedi di maternità",
-    "url": "https://www.open.online/2026/10/10/ricercatrice-cnr-maternita-discriminazione-tribunale-ragione/",
-    "domain": "open.online",
+    "original_title": "Donadio, fine della fuga del boss: la svolta della telefonata, la decisione di costituirsi e il \"lusso\" di scegliere il carcere dove è ristretto il figlio",
+    "url": "https://www.ilgazzettino.it/nordest/venezia/donadio_fermato_come_carcere_dove-9816861.html",
+    "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "«Discriminata perché incinta»: ricercatrice precaria vince la causa contro il Cnr sui congedi di maternità",
-    "score": 7
+    "title": "Donadio, fine della fuga del boss: la svolta della telefonata, la decisione di costituirsi e il \"lusso\" di scegliere il carcere dove è ristretto il figlio",
+    "score": 4
   },
   {
-    "original_title": "Trump scarica Zelensky: «Vuole creare problemi al mondo. L’Ucraina deve eleggere un nuovo presidente». Mosca applaude: «Iconico» – La diretta",
-    "url": "https://www.open.online/2026/10/10/russia-ucraina-usa-10-ottobre-aggiornamenti/",
-    "domain": "open.online",
+    "original_title": "Titolare del 10 Lounge Bar seguito e rapinato sotto casa dei genitori: «Sono scappati con l'incasso, mi hanno puntato contro una pistola. Ho paura»",
+    "url": "https://www.ilgazzettino.it/nordest/padova/rapinato_pistola_titolare_bar_10_lounge_cosa_ha_detto-9816712.html",
+    "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Trump scarica Zelensky: «Vuole creare problemi al mondo. L’Ucraina deve eleggere un nuovo presidente». Mosca applaude: «Iconico» – La diretta",
+    "title": "Titolare del 10 Lounge Bar seguito e rapinato sotto casa dei genitori: «Sono scappati con l'incasso, mi hanno puntato contro una pistola. Ho paura»",
     "score": 2
+  },
+  {
+    "original_title": "Psichiatria, reparto invaso dalle zanzare: «Infestate le stanze di degenza e gli spazi comuni. E il personale porta le macchinette»",
+    "url": "https://www.ilgazzettino.it/nordest/pordenone/zanzare_psichiatria_reparto_infestato_cosa_succede-9816786.html",
+    "domain": "ilgazzettino.it",
+    "region": "IT",
+    "title": "Psichiatria, reparto invaso dalle zanzare: «Infestate le stanze di degenza e gli spazi comuni. E il personale porta le macchinette»",
+    "score": 3
+  },
+  {
+    "original_title": "Abbonarsi agli autobus per andare a scuola costa troppo, petizione dei genitori contro Actv: «Chi abita in zone poco collegate è costretto a pagarne due»",
+    "url": "https://www.ilgazzettino.it/nordest/venezia/costo_abbonamenti_autobus_studenti_petizione-9816820.html",
+    "domain": "ilgazzettino.it",
+    "region": "IT",
+    "title": "Abbonarsi agli autobus per andare a scuola costa troppo, petizione dei genitori contro Actv: «Chi abita in zone poco collegate è costretto a pagarne due»",
+    "score": 9
+  },
+  {
+    "original_title": "Case occupate, l'allarme si allarga: altri due palazzi a rischio. «Viavai continuo, ubriachi e pericolosi»",
+    "url": "https://www.ilgazzettino.it/nordest/pordenone/case_occupate_pordenone_stranieri-9816555.html",
+    "domain": "ilgazzettino.it",
+    "region": "IT",
+    "title": "Case occupate, l'allarme si allarga: altri due palazzi a rischio. «Viavai continuo, ubriachi e pericolosi»",
+    "score": 8
   },
   {
     "original_title": "Luciano Donadio fermato a Vicenza: la breve fuga dell'ex boss dei Casalesi",
@@ -245,55 +285,23 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Luciano Donadio fermato a Vicenza: la breve fuga dell'ex boss dei Casalesi",
-    "score": 3
-  },
-  {
-    "original_title": "Valditara a Monfalcone: «Basta scuole ghetto e il divieto di mascheramento deve essere ovunque». E condanna il niqab: «Umilia le donne»",
-    "url": "https://www.ilgazzettino.it/nordest/pordenone/valditara_niqab_divieto_scuole_integrazione_classi_ghetto_stranieri_monfalcone-9816530.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Valditara a Monfalcone: «Basta scuole ghetto e il divieto di mascheramento deve essere ovunque». E condanna il niqab: «Umilia le donne»",
     "score": 8
   },
   {
-    "original_title": "Jessica Fracassi, la ?bimba degli alpini? muore a 30 anni a causa di un malore: lascia una figlia di 15 mesi. «Era una di noi». L'operazione grazie alla colletta lanciata dalle Penne Nere",
-    "url": "https://www.ilgazzettino.it/nordest/jessica_fracassi_morta_trapianto_alpini_gaiarine-9816776.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Jessica Fracassi, la ?bimba degli alpini? muore a 30 anni a causa di un malore: lascia una figlia di 15 mesi. «Era una di noi». L'operazione grazie alla colletta lanciata dalle Penne Nere",
-    "score": 3
-  },
-  {
-    "original_title": "Esclusa per la maternità, il giudice la fa assumere al Cnr: giorni non conteggiati, era scivolata alla fine della graduatoria",
-    "url": "https://www.ilgazzettino.it/nordest/venezia/esclusa_maternita_assunta_cnr_cosa_e_successo-9814741.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Esclusa per la maternità, il giudice la fa assumere al Cnr: giorni non conteggiati, era scivolata alla fine della graduatoria",
-    "score": 2
-  },
-  {
-    "original_title": "Schianto frontale a Valliera di Adria lungo la regionale 443: tre feriti gravi, strada bloccata",
-    "url": "https://www.ilgazzettino.it/nordest/rovigo/incidente_frontale_valliera_oggi_feriti_gravi_cosa_e_successo-9816667.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Schianto frontale a Valliera di Adria lungo la regionale 443: tre feriti gravi, strada bloccata",
-    "score": 8
-  },
-  {
-    "original_title": "Larve nella pasta dei bambini, licenziate due addette: il giudice le reintegra. «Erano solo 7 in 16 chili»",
-    "url": "https://www.ilgazzettino.it/nordest/treviso/roncade_larve_pasta_mensa_scolastica_licenziamenti_annullati_dussmann-9816139.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Larve nella pasta dei bambini, licenziate due addette: il giudice le reintegra. «Erano solo 7 in 16 chili»",
-    "score": 5
-  },
-  {
-    "original_title": "Napoli-Frosinone 3-0, il rilancio degli azzurri con De Bruyne e Noa Lang: ora la Champions League",
-    "url": "https://www.ilmattino.it/sport/sscnapoli/napoli_frosinone_risultato_finale_marcatori_tabellino_classifica_serie_a_chi_ha_segnato_highlights_ultime_notizie-9816260.html",
+    "original_title": "Napoli-Frosinone 3-0, arriva la svolta degli azzurri al Maradona: la mano di Massimiliano Allegri",
+    "url": "https://www.ilmattino.it/sport/sscnapoli/napoli_frosinone_3_0_arriva_la_svolta_degli_azzurri_al_maradona_la_mano_di_massimiliano_allegri-9816932.html",
     "domain": "ilmattino.it",
     "region": "IT",
-    "title": "Napoli-Frosinone 3-0, il rilancio degli azzurri con De Bruyne e Noa Lang: ora la Champions League",
-    "score": 3
+    "title": "Napoli-Frosinone 3-0, arriva la svolta degli azzurri al Maradona: la mano di Massimiliano Allegri",
+    "score": 4
+  },
+  {
+    "original_title": "Napoli-Frosinone, Allegri: «Rigore di Hojlund? Doveva tirarlo De Bruyne, gli ho detto che doveva ridargli il pallone»",
+    "url": "https://www.ilmattino.it/sport/sscnapoli/napoli_frosinone_risultato_finale_conferenza_stampa_intervista_massimiliano_allegri_cosa_ha_detto_highlights_video_ultime_notizie_serie_a-9816264.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Napoli-Frosinone, Allegri: «Rigore di Hojlund? Doveva tirarlo De Bruyne, gli ho detto che doveva ridargli il pallone»",
+    "score": 7
   },
   {
     "original_title": "Le pagelle di Napoli-Frosinone 3-0, i voti: i top e i flop del match del Maradona dopo la sosta",
@@ -301,31 +309,23 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Le pagelle di Napoli-Frosinone 3-0, i voti: i top e i flop del match del Maradona dopo la sosta",
-    "score": 6
-  },
-  {
-    "original_title": "Napoli-Frosinone, Allegri: «Gli errori dei singoli in alcune partite? Ditemi chi è che non sbaglia mai»",
-    "url": "https://www.ilmattino.it/sport/sscnapoli/napoli_frosinone_allegri_gli_errori_dei_singoli_in_alcune_partite_ditemi_chi_e_che_non_sbaglia_mai-9816784.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Napoli-Frosinone, Allegri: «Gli errori dei singoli in alcune partite? Ditemi chi è che non sbaglia mai»",
     "score": 5
   },
   {
-    "original_title": "Mamma Greta muore a 33 anni dopo la figlia mai nata: doppia tragedia al San Leonardo di Castellammare",
-    "url": "https://www.ilmattino.it/schede/greta_muore_33_anni_dopo_figlia_mai_nata_doppia_tragedia_san_leonardo_castellammare_piano_di_sorrento-9816782.html",
+    "original_title": "Capua, l?aeroporto decolla. Pista finita e via libera al terminal: ok per i viaggi a corto raggio",
+    "url": "https://www.ilmattino.it/caserta/capua_l_aeroporto_decolla_pista_finita_e_via_libera_al_terminal_ok_per_i_viaggi_a_corto_raggio-9816889.html",
     "domain": "ilmattino.it",
     "region": "IT",
-    "title": "Mamma Greta muore a 33 anni dopo la figlia mai nata: doppia tragedia al San Leonardo di Castellammare",
-    "score": 7
+    "title": "Capua, l?aeroporto decolla. Pista finita e via libera al terminal: ok per i viaggi a corto raggio",
+    "score": 2
   },
   {
-    "original_title": "Man dies after tiger attack at wildlife park",
-    "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+    "original_title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+    "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Man dies after tiger attack at wildlife park",
-    "score": 1
+    "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+    "score": 7
   },
   {
     "original_title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
@@ -333,7 +333,15 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-    "score": 9
+    "score": 6
+  },
+  {
+    "original_title": "Man dies after tiger attack at wildlife park",
+    "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Man dies after tiger attack at wildlife park",
+    "score": 6
   },
   {
     "original_title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
@@ -341,15 +349,7 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-    "score": 3
-  },
-  {
-    "original_title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
-    "url": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
-    "score": 7
+    "score": 4
   },
   {
     "original_title": "King warns malicious online actors are evolving tactics",
@@ -357,151 +357,103 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "King warns malicious online actors are evolving tactics",
-    "score": 9
-  },
-  {
-    "original_title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-    "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-    "score": 6
-  },
-  {
-    "original_title": "‘Significant’ activity detected at Iran nuclear site that was battered during early stages of the war",
-    "url": "https://nypost.com/2026/10/10/world-news/significant-activity-detected-at-iran-nuclear-site-that-was-battered-during-early-stages-of-the-war/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "‘Significant’ activity detected at Iran nuclear site that was battered during early stages of the war",
-    "score": 2
-  },
-  {
-    "original_title": "Shedeur Sanders knows he’s not ‘a bad guy’ as Browns QB wishes ‘people understood me more’",
-    "url": "https://nypost.com/2026/10/10/sports/shedeur-sanders-knows-hes-not-a-bad-guy-as-browns-qb-wishes-people-understood-me-more/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Shedeur Sanders knows he’s not ‘a bad guy’ as Browns QB wishes ‘people understood me more’",
-    "score": 8
-  },
-  {
-    "original_title": "NFL Week 5 player props picks, best bets: Target Omarion Hampton, Tyler Shough",
-    "url": "https://nypost.com/2026/10/10/betting/nfl-week-5-player-props-picks-best-bets-three-players-to-bet-on-sunday/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "NFL Week 5 player props picks, best bets: Target Omarion Hampton, Tyler Shough",
-    "score": 3
-  },
-  {
-    "original_title": "Trump rips into Volodymyr Zelensky — insisting it’s time for Ukraine to ‘get a new president’",
-    "url": "https://nypost.com/2026/10/10/us-news/trump-rips-into-volodymyr-zelensky-its-time-for-ukraine-to-get-a-new-president/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Trump rips into Volodymyr Zelensky — insisting it’s time for Ukraine to ‘get a new president’",
-    "score": 4
-  },
-  {
-    "original_title": "Rick Caruso is right: Public-private partnerships are the way",
-    "url": "https://nypost.com/2026/10/10/opinion/rick-caruso-is-right-about-public-private-partnerships/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Rick Caruso is right: Public-private partnerships are the way",
-    "score": 5
-  },
-  {
-    "original_title": "Trump says he ‘wasn’t involved’ in plan to livestream execution of Fort Hood murderer",
-    "url": "https://nypost.com/2026/10/10/us-news/trump-not-involved-in-livestream-execution-plan-of-nidal-hasan/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Trump says he ‘wasn’t involved’ in plan to livestream execution of Fort Hood murderer",
-    "score": 1
-  },
-  {
-    "original_title": "Terrified families recount horror moment tiger mauled man to death at Yorkshire park",
-    "url": "https://www.express.co.uk/news/uk/2256201/yorkshire-tiger-attack-latest-witnesses",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Terrified families recount horror moment tiger mauled man to death at Yorkshire park",
-    "score": 1
-  },
-  {
-    "original_title": "Boris Johnson 'sickened' as Donald Trump attacks Ukraine",
-    "url": "https://www.express.co.uk/news/uk/2256197/boris-johnson-sickened-donald-trump",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Boris Johnson 'sickened' as Donald Trump attacks Ukraine",
-    "score": 6
-  },
-  {
-    "original_title": "Northern Lights spotted over UK skies - where to see Aurora according to the Met Office",
-    "url": "https://www.express.co.uk/news/uk/2256192/northern-lights-spotted-uk-skies-aurora-borealis",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Northern Lights spotted over UK skies - where to see Aurora according to the Met Office",
-    "score": 8
-  },
-  {
-    "original_title": "Households urged to sprinkle cinnamon powder in hoover",
-    "url": "https://www.express.co.uk/news/uk/2256190/households-urged-sprinkle-cinnamon-powder-hoover",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Households urged to sprinkle cinnamon powder in hoover",
-    "score": 2
-  },
-  {
-    "original_title": "Prince Harry torn apart over solo day out - 'clearly don't need us to pay your security'",
-    "url": "https://www.express.co.uk/news/uk/2256189/prince-harry-torn-apart-solo",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Prince Harry torn apart over solo day out - 'clearly don't need us to pay your security'",
-    "score": 3
-  },
-  {
-    "original_title": "Andy Burnham wades into Trump-Zelensky row with bombshell phone call",
-    "url": "https://www.express.co.uk/news/politics/2256185/andy-burnhan-phone-call-trump-zelensky",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Andy Burnham wades into Trump-Zelensky row with bombshell phone call",
-    "score": 2
-  },
-  {
-    "original_title": "'Fight should be face-to-face': CM Yogi accepts Akhilesh's Ayodhya challenge",
-    "url": "https://timesofindia.indiatimes.com/india/fight-should-be-face-to-face-cm-yogi-accepts-akhileshs-ayodhya-challenge/articleshow/134856850.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "'Fight should be face-to-face': CM Yogi accepts Akhilesh's Ayodhya challenge",
-    "score": 6
-  },
-  {
-    "original_title": "'Misplaced, unwarranted': India slams OHCHR for raising concern over SIR protest",
-    "url": "https://timesofindia.indiatimes.com/india/misplaced-unwarranted-india-slams-ohchr-for-raising-concern-over-sir-protest/articleshow/134859376.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "'Misplaced, unwarranted': India slams OHCHR for raising concern over SIR protest",
-    "score": 1
-  },
-  {
-    "original_title": "‘Thanks for teaching youngsters’: Tharoor takes dig at PM Modi, shares 2015 tweet",
-    "url": "https://timesofindia.indiatimes.com/india/thanks-for-teaching-youngsters-tharoor-takes-dig-at-pm-modi-shares-2015-tweet/articleshow/134859203.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "‘Thanks for teaching youngsters’: Tharoor takes dig at PM Modi, shares 2015 tweet",
-    "score": 6
-  },
-  {
-    "original_title": "How CJP’s 'Jantar Mantar 2.0' call outgrew its venue, spread across cities",
-    "url": "https://timesofindia.indiatimes.com/city/delhi/protest-with-no-one-address-how-cjps-jantar-mantar-2-0-call-outgrew-its-venue-spread-across-cities/articleshow/134858367.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "How CJP’s 'Jantar Mantar 2.0' call outgrew its venue, spread across cities",
     "score": 7
   },
   {
-    "original_title": "Mamata, Kejriwal and 7,000 protesters released; CJP leaders still in detention",
-    "url": "https://timesofindia.indiatimes.com/india/delhi-protests-mamata-kejriwal-and-7000-protesters-released-cjp-leaders-still-in-detention/articleshow/134858005.cms",
+    "original_title": "Bid to overturn ruling which stops police being sued for failings",
+    "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Bid to overturn ruling which stops police being sued for failings",
+    "score": 7
+  },
+  {
+    "original_title": "Troy Aikman rubs in UCLA’s upset win vs Oregon with cheeky message",
+    "url": "https://nypost.com/2026/10/10/sports/troy-aikman-rubs-in-uclas-upset-win-vs-oregon/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Troy Aikman rubs in UCLA’s upset win vs Oregon with cheeky message",
+    "score": 1
+  },
+  {
+    "original_title": "Why Luka Doncic believes Lakers could win championship",
+    "url": "https://nypost.com/2026/10/10/sports/why-luka-doncic-believes-lakers-could-win-championship/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Why Luka Doncic believes Lakers could win championship",
+    "score": 8
+  },
+  {
+    "original_title": "Oklahoma stuns No. 1 Texas in final seconds after Arch Manning throws two fourth-quarter interceptions",
+    "url": "https://nypost.com/2026/10/10/sports/oklahoma-stuns-no-1-texas-in-final-seconds-for-huge-win/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Oklahoma stuns No. 1 Texas in final seconds after Arch Manning throws two fourth-quarter interceptions",
+    "score": 8
+  },
+  {
+    "original_title": "The whirlwind two weeks of Dylan Garand — from waived to Rangers starting goalie",
+    "url": "https://nypost.com/2026/10/10/sports/dylan-garand-went-from-waivers-to-rangers-starter-in-two-weeks/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "The whirlwind two weeks of Dylan Garand — from waived to Rangers starting goalie",
+    "score": 1
+  },
+  {
+    "original_title": "California concertgoers fall prey to cruel tactic as cars vanish from parking lot",
+    "url": "https://nypost.com/2026/10/10/us-news/sacramento-concertgoers-hit-by-parking-scam-face-missing-cars-and-high-fees/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "California concertgoers fall prey to cruel tactic as cars vanish from parking lot",
+    "score": 8
+  },
+  {
+    "original_title": "Harrowing scenes as California coast battered by gargantuan waves, residents ordered to leave",
+    "url": "https://nypost.com/2026/10/10/us-news/tropical-storm-rachel-batters-long-beach-as-homes-deemed-unsafe-and-evacuations-ordered/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Harrowing scenes as California coast battered by gargantuan waves, residents ordered to leave",
+    "score": 4
+  },
+  {
+    "original_title": "Restrained, detained, contained: Clampdown foils stir, thousands confined to home",
+    "url": "https://timesofindia.indiatimes.com/india/restrained-detained-contained-clampdown-foils-stir-thousands-confined-to-home-nabbed-on-way/articleshow/134861054.cms",
     "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Mamata, Kejriwal and 7,000 protesters released; CJP leaders still in detention",
-    "score": 4
+    "title": "Restrained, detained, contained: Clampdown foils stir, thousands confined to home",
+    "score": 3
+  },
+  {
+    "original_title": "Saudi Arabia says attack on Riyadh airport killed 12 and wounded more than 300",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-airport-missile-strike-kills-al-least-12-leaves-over-300-injured/articleshow/134863509.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Saudi Arabia says attack on Riyadh airport killed 12 and wounded more than 300",
+    "score": 9
+  },
+  {
+    "original_title": "SIR stir: 'Kashmir model' in Delhi, situation akin to Emergency, says opposition",
+    "url": "https://timesofindia.indiatimes.com/india/sir-stir-kashmir-model-in-delhi-situation-akin-to-emergency-says-opposition/articleshow/134863449.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "SIR stir: 'Kashmir model' in Delhi, situation akin to Emergency, says opposition",
+    "score": 1
+  },
+  {
+    "original_title": "CJP protest: How government pre-empted 'plot to incite violence'",
+    "url": "https://timesofindia.indiatimes.com/india/cjp-protest-how-government-pre-empted-plot-to-incite-violence/articleshow/134861140.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "CJP protest: How government pre-empted 'plot to incite violence'",
+    "score": 1
+  },
+  {
+    "original_title": "Nepal cuts 12 year wait, to declare those missing in flood 'dead' after 45 days",
+    "url": "https://timesofindia.indiatimes.com/world/south-asia/nepal-cuts-12yr-wait-to-declare-those-missing-in-flood-dead-after-45-days/articleshow/134863459.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Nepal cuts 12 year wait, to declare those missing in flood 'dead' after 45 days",
+    "score": 3
   },
   {
     "original_title": "New York Mayor Mamdani says companies like Netflix will now pay if you can't cancel",
@@ -509,54 +461,54 @@
     "domain": "timesofindia.com",
     "region": "GLOBAL",
     "title": "New York Mayor Mamdani says companies like Netflix will now pay if you can't cancel",
-    "score": 1
+    "score": 5
   },
   {
-    "original_title": "Damage seen inside Saudi airport after third attack this week",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
+    "original_title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Damage seen inside Saudi airport after third attack this week",
-    "score": 9
+    "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+    "score": 6
   },
   {
-    "original_title": "Philippines volcano erupts, creating 6km-high ash cloud",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
+    "original_title": "Liverpool vs Man City: the top five clashes between Premier League giants",
+    "url": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Philippines volcano erupts, creating 6km-high ash cloud",
+    "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
+    "score": 2
+  },
+  {
+    "original_title": "WHO says no plague case registered after Russian lab worker’s death",
+    "url": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "WHO says no plague case registered after Russian lab worker’s death",
+    "score": 5
+  },
+  {
+    "original_title": "Yemeni government’s military says its forces advancing against Houthis",
+    "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Yemeni government’s military says its forces advancing against Houthis",
+    "score": 2
+  },
+  {
+    "original_title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+    "url": "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
     "score": 3
   },
   {
-    "original_title": "Rubio pledges US cooperation in Marine-linked murder case",
-    "url": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss",
+    "original_title": "Hundreds of doctors demand World Medical Association suspend Israel",
+    "url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Rubio pledges US cooperation in Marine-linked murder case",
-    "score": 5
-  },
-  {
-    "original_title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
-    "score": 5
-  },
-  {
-    "original_title": "Why is the Trump administration trying to dismantle the ICC?",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Why is the Trump administration trying to dismantle the ICC?",
-    "score": 4
-  },
-  {
-    "original_title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
-    "url": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
+    "title": "Hundreds of doctors demand World Medical Association suspend Israel",
     "score": 2
   },
   {
@@ -565,7 +517,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Latest news bulletin | October 10th, 2026 – Evening",
-    "score": 9
+    "score": 7
   },
   {
     "original_title": "Evacuations and injuries reported at Riyadh airport after another alleged Houthi attack",
@@ -589,7 +541,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Palestinian President Abbas postpones legislative elections until September 2027",
-    "score": 4
+    "score": 5
   },
   {
     "original_title": "Panic in Panama as 7.7 quake hits, cathedral collapses and tsunami warnings spread",
@@ -597,7 +549,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Panic in Panama as 7.7 quake hits, cathedral collapses and tsunami warnings spread",
-    "score": 7
+    "score": 9
   },
   {
     "original_title": "Latest news bulletin | October 10th, 2026 – Midday",
@@ -605,7 +557,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Latest news bulletin | October 10th, 2026 – Midday",
-    "score": 8
+    "score": 4
   },
   {
     "original_title": "Pentagon To Livestream Firing Squad Execution",
@@ -621,7 +573,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "White House Downplays Hyena Biting Down On Trump’s Ass",
-    "score": 7
+    "score": 4
   },
   {
     "original_title": "Grandma Fondly Recalls Once Working With Homosexual",
@@ -629,7 +581,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Grandma Fondly Recalls Once Working With Homosexual",
-    "score": 7
+    "score": 9
   },
   {
     "original_title": "FBI Classifies Not Finishing Hamburger  As Seditious Activity",
@@ -637,6 +589,22 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "FBI Classifies Not Finishing Hamburger  As Seditious Activity",
-    "score": 5
+    "score": 6
+  },
+  {
+    "original_title": "What To Know About ‘The Social Reckoning’",
+    "url": "https://theonion.com/what-to-know-about-the-social-reckoning/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "What To Know About ‘The Social Reckoning’",
+    "score": 9
+  },
+  {
+    "original_title": "DNA Provides More Evidence Thomas Jefferson Fathered Children With Sally Hemings",
+    "url": "https://theonion.com/dna-provides-more-evidence-thomas-jefferson-fathered-children-with-sally-hemings/",
+    "domain": "theonion.com",
+    "region": "GLOBAL",
+    "title": "DNA Provides More Evidence Thomas Jefferson Fathered Children With Sally Hemings",
+    "score": 2
   }
 ]
