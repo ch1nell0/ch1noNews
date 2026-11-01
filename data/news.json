@@ -1,123 +1,75 @@
 [
   {
-    "original_title": "Attacco Usa all’Iran, Khamenei avvisa: “Risposta immediata”",
-    "url": "https://www.repubblica.it/esteri/2026/11/01/news/khamenei_usa_attacco_minaccia_risposta_lettera_vance_rezeai-425690593/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Attacco Usa all’Iran, Khamenei avvisa: “Risposta immediata”",
-    "score": 7
-  },
-  {
-    "original_title": "Amorim: “Mai visto un derby più bello”. Chivu: “Paghiamo la superficialità, dobbiamo ritrovarci”",
-    "url": "https://www.repubblica.it/sport/calcio/serie-a/2026/11/01/news/amorim_chivu_derby_milan_inter_interviste-425690879/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Amorim: “Mai visto un derby più bello”. Chivu: “Paghiamo la superficialità, dobbiamo ritrovarci”",
-    "score": 4
-  },
-  {
-    "original_title": "Hamilton si prende la pole in Messico. Alle sue spalle Russell e Leclerc. Antonelli in seconda fila",
-    "url": "https://www.repubblica.it/sport/formulauno/2026/10/31/news/f1_gp_messico_2026_hamilton_pole_ferrari-425690859/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Hamilton si prende la pole in Messico. Alle sue spalle Russell e Leclerc. Antonelli in seconda fila",
-    "score": 7
-  },
-  {
-    "original_title": "Milan-Inter, le pagelle: Rabiot monumentale, Martinez incerto sui gol",
-    "url": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/31/news/milan_inter_pagelle-425690827/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Milan-Inter, le pagelle: Rabiot monumentale, Martinez incerto sui gol",
-    "score": 1
-  },
-  {
-    "original_title": "Kakà in lacrime prima del derby: la standing ovation di San Siro commuove il fuoriclasse",
-    "url": "https://www.repubblica.it/sport/calcio/serie-a/milan/2026/10/31/news/kaka_lacrime_commosso_milan_inter-425690676/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Kakà in lacrime prima del derby: la standing ovation di San Siro commuove il fuoriclasse",
-    "score": 4
-  },
-  {
-    "original_title": "Washington avverte Mosca: “Possibile attacco terroristico al Museo Tsaritsyno”",
-    "url": "https://www.repubblica.it/esteri/2026/10/31/news/usa_avverte_russia_possibile_attacco_terroristico_museo_tsaritsyno_g20_lavrov_rubio-425690322/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Washington avverte Mosca: “Possibile attacco terroristico al Museo Tsaritsyno”",
-    "score": 2
-  },
-  {
-    "original_title": "Modena, l’auto lanciata sulla folla da El Koudri “non fu un attentato terroristico”: la Dda conferma. I legali contestano la decisione",
-    "url": "https://www.ilfattoquotidiano.it/2026/10/31/strage-modena-auto-folla-terrorismo-notizie/8556592/",
+    "original_title": "Travaglio sul Nove: “Primarie non siano un concorso di bellezza, servano a scegliere la linea politica”",
+    "url": "https://www.ilfattoquotidiano.it/2026/11/01/travaglio-sul-nove-primarie-linea-politica-schlein-conte/8556699/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Modena, l’auto lanciata sulla folla da El Koudri “non fu un attentato terroristico”: la Dda conferma. I legali contestano la decisione",
-    "score": 7
-  },
-  {
-    "original_title": "Magistrati, il governo taglia gli aumenti: in manovra la norma per abbattere gli adeguamenti salariali di giudici e pm",
-    "url": "https://www.ilfattoquotidiano.it/2026/10/31/stipendi-magistrati-manovra-tagli-notizie/8556494/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Magistrati, il governo taglia gli aumenti: in manovra la norma per abbattere gli adeguamenti salariali di giudici e pm",
-    "score": 6
-  },
-  {
-    "original_title": "Il video di Bolsonaro jr dagli Usa: “Ho lasciato il Brasile perché perseguitato. Papà aveva le lacrime agli occhi”",
-    "url": "https://www.ilfattoquotidiano.it/2026/10/31/video-flavio-bolsonaro-usa-brasile-perseguitato-notizie/8556530/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Il video di Bolsonaro jr dagli Usa: “Ho lasciato il Brasile perché perseguitato. Papà aveva le lacrime agli occhi”",
-    "score": 4
-  },
-  {
-    "original_title": "Ilva, i mesi più duri: dagli 8.600 in cassa integrazione al rischio flop della vendita, cosa succede dopo lo stop agli altiforni",
-    "url": "https://www.ilfattoquotidiano.it/2026/10/31/ilva-cosa-succede-dopo-stop-cassazione-scenari-notizie/8556485/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "Ilva, i mesi più duri: dagli 8.600 in cassa integrazione al rischio flop della vendita, cosa succede dopo lo stop agli altiforni",
-    "score": 1
-  },
-  {
-    "original_title": "La legge di Bilancio porterà una stretta alla rivalutazione delle pensioni. Lo Stato risparmia 8,5 miliardi di euro in 10 anni",
-    "url": "https://www.ilfattoquotidiano.it/2026/10/31/la-legge-di-bilancio-portera-una-stretta-alla-rivalutazione-delle-pensioni-lo-stato-risparmia-85-miliardi-di-euro-in-10-anni/8556501/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "La legge di Bilancio porterà una stretta alla rivalutazione delle pensioni. Lo Stato risparmia 8,5 miliardi di euro in 10 anni",
-    "score": 7
-  },
-  {
-    "original_title": "“Prendevo narcotici quando tutti usavano cocaina. Ho visto la morte da vicino col parapendio e durante un’immersione subacquea. Ballando con le Stelle? È una specie di comunità terapeutica”: parla Eugenio Finardi",
-    "url": "https://www.ilfattoquotidiano.it/2026/10/31/prendevo-narcotici-quando-tutti-usavano-cocaina-ho-visto-la-morte-da-vicino-col-parapendio-e-durante-unimmersione-subacquea-ballando-con-le-stelle-e-una-specie-di-comunita-terapeutica-parla-finardi/8556493/",
-    "domain": "ilfattoquotidiano.it",
-    "region": "IT",
-    "title": "“Prendevo narcotici quando tutti usavano cocaina. Ho visto la morte da vicino col parapendio e durante un’immersione subacquea. Ballando con le Stelle? È una specie di comunità terapeutica”: parla Eugenio Finardi",
-    "score": 1
-  },
-  {
-    "original_title": "\"Ultimo Fellini\", un estratto del film nell'anniversario della morte",
-    "url": "https://www.ansa.it/sito/videogallery/spettacolo/2026/10/31/ultimo-fellini-un-estratto-del-film-nellanniversario-della-morte_db3228ca-97aa-4fcf-a6ca-4ea42a89a67b.html",
-    "domain": "ansa.it",
-    "region": "IT",
-    "title": "\"Ultimo Fellini\", un estratto del film nell'anniversario della morte",
-    "score": 6
-  },
-  {
-    "original_title": "Halloween, il vademecum del Garante Privacy per festeggiare in allegria",
-    "url": "https://www.ansa.it/canale_lifestyle/notizie/teen/2026/10/30/halloween-il-vademecum-del-garante-privacy-per-festeggiare-in-allegria-_a03e9a14-46a4-4b6a-8f89-c95f0e891b00.html",
-    "domain": "ansa.it",
-    "region": "IT",
-    "title": "Halloween, il vademecum del Garante Privacy per festeggiare in allegria",
+    "title": "Travaglio sul Nove: “Primarie non siano un concorso di bellezza, servano a scegliere la linea politica”",
     "score": 9
   },
   {
-    "original_title": "Torna la Giornata Nazionale degli Abiti Storici, tra borghi, musei, botteghe artigiane",
-    "url": "https://www.ansa.it/canale_viaggi/notizie/itinerari/2026/10/30/torna-la-giornata-nazionale-degli-abiti-storici-tra-borghi-musei-botteghe_afeef76a-561e-4930-b09a-5de8201fd348.html",
+    "original_title": "Conte sul Nove: “Il reddito di cittadinanza tornerà. Meloni ha fatto cassa per 1,4 miliardi sulla pelle dei poveri”",
+    "url": "https://www.ilfattoquotidiano.it/2026/11/01/conte-sul-nove-reddito-di-cittadinanza-tornera/8556695/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Conte sul Nove: “Il reddito di cittadinanza tornerà. Meloni ha fatto cassa per 1,4 miliardi sulla pelle dei poveri”",
+    "score": 2
+  },
+  {
+    "original_title": "Francia, poliziotto “in fiamme” dopo essere stato colpito da un molotov durante le proteste",
+    "url": "https://www.ilfattoquotidiano.it/2026/11/01/francia-poliziotto-molotov-video/8556824/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Francia, poliziotto “in fiamme” dopo essere stato colpito da un molotov durante le proteste",
+    "score": 8
+  },
+  {
+    "original_title": "Asse con gli studenti e “capacità di fiutare il disagio”: così l’Usb è diventata il sindacato che riempie le piazze",
+    "url": "https://www.ilfattoquotidiano.it/2026/11/01/usb-sindacato-riempie-piazze-asse-studenti-carovita-riarmo/8556333/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Asse con gli studenti e “capacità di fiutare il disagio”: così l’Usb è diventata il sindacato che riempie le piazze",
+    "score": 9
+  },
+  {
+    "original_title": "Anthropic varrà più di tutta Piazza Affari messa insieme: ecco il prospetto della quotazione",
+    "url": "https://www.ilfattoquotidiano.it/2026/11/01/anthropic-valore-ipo-quanto-piazza-affari-prospetto/8556480/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Anthropic varrà più di tutta Piazza Affari messa insieme: ecco il prospetto della quotazione",
+    "score": 7
+  },
+  {
+    "original_title": "“Resistenze, ricatti agli umani e sviluppo di armi atomiche”: Anthropic mette nero su bianco a Wall Street i rischi di Ai-pocalisse",
+    "url": "https://www.ilfattoquotidiano.it/2026/11/01/anthropic-rischi-apocalisse-intelligenza-artificiale-documenti-quotazione-wall-street/8556518/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "“Resistenze, ricatti agli umani e sviluppo di armi atomiche”: Anthropic mette nero su bianco a Wall Street i rischi di Ai-pocalisse",
+    "score": 1
+  },
+  {
+    "original_title": "Cresce uso dell'IA per accedere alle news, ma gli utenti non la vogliono in redazione",
+    "url": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/10/31/ansa-cresce-uso-ia-per-accedere-alle-news-ma-utenti-non-la-vogliono_43b8ba7e-39cf-4a97-b54b-a4ee046f016e.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Torna la Giornata Nazionale degli Abiti Storici, tra borghi, musei, botteghe artigiane",
-    "score": 4
+    "title": "Cresce uso dell'IA per accedere alle news, ma gli utenti non la vogliono in redazione",
+    "score": 3
+  },
+  {
+    "original_title": "'Dove la luce ritorna', Marco Liorni racconta la rinascita di una famiglia",
+    "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/10/31/dove-la-luce-ritorna-marco-liorni-racconta-la-rinascita-di-una-famiglia_44e29ba8-0fe4-47ab-91e0-ce1a84fd9ebf.html",
+    "domain": "ansa.it",
+    "region": "IT",
+    "title": "'Dove la luce ritorna', Marco Liorni racconta la rinascita di una famiglia",
+    "score": 2
+  },
+  {
+    "original_title": "I 90 anni di Dacia Maraini, 'Moravia e Pasolini le persone della mia vita'",
+    "url": "https://www.ansa.it/sito/notizie/cultura/libri/intervista/2026/10/31/i-90-anni-di-dacia-maraini-moravia-e-pasolini-le-persone-della-mia-vita_26353595-494d-43ad-bde9-041b8ddbc0b8.html",
+    "domain": "ansa.it",
+    "region": "IT",
+    "title": "I 90 anni di Dacia Maraini, 'Moravia e Pasolini le persone della mia vita'",
+    "score": 7
   },
   {
     "original_title": "Il Principe d'Egitto, il musical è arrivato a Roma",
@@ -125,30 +77,38 @@
     "domain": "ansa.it",
     "region": "IT",
     "title": "Il Principe d'Egitto, il musical è arrivato a Roma",
-    "score": 7
+    "score": 4
   },
   {
-    "original_title": "Jean Reno, 'l'italiano? Me lo ha insegnato Roberto Benigni'",
-    "url": "https://www.ansa.it/sito/notizie/cultura/libri/narrativa/2026/10/30/jean-reno-litaliano-me-lo-ha-insegnato-roberto-benigni_54c36b09-4e54-432f-b040-7c01d2af8f4a.html",
+    "original_title": "Pesce e crostacei \"alla catalana\", dal boom degli anni '80 ad oggi",
+    "url": "https://www.ansa.it/canale_lifestyle/notizie/food/2026/10/16/pesce-e-crostacei-alla-catalana-dal-boom-degli-anni-80-ad-oggi_06433d71-d6b9-42c7-97e2-c985ba419762.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Jean Reno, 'l'italiano? Me lo ha insegnato Roberto Benigni'",
-    "score": 2
-  },
-  {
-    "original_title": "Manovra, scontro sulla scuola. Banche ancora sotto tiro",
-    "url": "https://www.ansa.it/sito/notizie/economia/2026/10/31/manovra-scontro-sulla-scuola.-banche-ancora-sotto-tiro_ff019702-1b62-4f1a-8c3d-ca9b9e0ad8cb.html",
-    "domain": "ansa.it",
-    "region": "IT",
-    "title": "Manovra, scontro sulla scuola. Banche ancora sotto tiro",
+    "title": "Pesce e crostacei \"alla catalana\", dal boom degli anni '80 ad oggi",
     "score": 8
   },
   {
-    "original_title": "Pensioni, stretta sulla rivalutazione degli assegni: in 10 anni lo Stato risparmierà oltre 14 miliardi",
-    "url": "https://www.ilmessaggero.it/economia/news/pensioni_rivalutazione_tagli_importi_assegni_risparmi_stato-9861152.html",
+    "original_title": "Trump: 'Non abbiamo fretta sull'Iran, abbiamo uno o due siti di cui occuparci'",
+    "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/01/trump-non-abbiamo-fretta-sulliran-abbiamo-uno-o-due-siti-di-cui_c61082f4-ba5a-417a-a2a5-16dceb809481.html",
+    "domain": "ansa.it",
+    "region": "IT",
+    "title": "Trump: 'Non abbiamo fretta sull'Iran, abbiamo uno o due siti di cui occuparci'",
+    "score": 1
+  },
+  {
+    "original_title": "Pensioni, come cambiano gli importi? Ecco i nuovi assegni del 2027 dopo la stretta sulla rivalutazione",
+    "url": "https://www.ilmessaggero.it/economia/news/pensioni_2027_nuovi_importi_rivalutazione_assegni_come_cambiano_fascia_per_fascia-9861152.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Pensioni, stretta sulla rivalutazione degli assegni: in 10 anni lo Stato risparmierà oltre 14 miliardi",
+    "title": "Pensioni, come cambiano gli importi? Ecco i nuovi assegni del 2027 dopo la stretta sulla rivalutazione",
+    "score": 5
+  },
+  {
+    "original_title": "Stipendi statali, meno tasse su premi e indennità: anche nel 2027 aliquota al 15%, quanto si guadagna",
+    "url": "https://www.ilmessaggero.it/economia/schede/stipendi_statali_flat_tax_premi_indinnenita_quanto_vale_manovra-9860924.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Stipendi statali, meno tasse su premi e indennità: anche nel 2027 aliquota al 15%, quanto si guadagna",
     "score": 3
   },
   {
@@ -157,7 +117,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Pensioni, Ape sociale prorogata al 31 dicembre 2027 ma sale l'età (un mese): ecco chi potrà uscire prima",
-    "score": 8
+    "score": 5
   },
   {
     "original_title": "Pensioni 2027, cambiano gli importi: arriva la stretta, rivalutazione piena fino a 4 volte il minimo. Le simulazioni fascia per fascia",
@@ -165,15 +125,7 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "Pensioni 2027, cambiano gli importi: arriva la stretta, rivalutazione piena fino a 4 volte il minimo. Le simulazioni fascia per fascia",
-    "score": 8
-  },
-  {
-    "original_title": "Conte rispolvera il Reddito di Cittadinanza: «È nei punti del programma, ricalibrato e perfezionato»",
-    "url": "https://www.ilmessaggero.it/politica/reddito_cittadinanza_conte_come_sara_programma_elezioni_campo_largo-9860942.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Conte rispolvera il Reddito di Cittadinanza: «È nei punti del programma, ricalibrato e perfezionato»",
-    "score": 5
+    "score": 7
   },
   {
     "original_title": "La crescita europea tra quattro fuochi, la resilienza c'è stata ma l'economia del continente ha di fronte una strada in salita",
@@ -181,15 +133,55 @@
     "domain": "ilmessaggero.it",
     "region": "IT",
     "title": "La crescita europea tra quattro fuochi, la resilienza c'è stata ma l'economia del continente ha di fronte una strada in salita",
+    "score": 9
+  },
+  {
+    "original_title": "Udinese-Roma 2-5, le pagelle: Rodrigo Mora e Malen (7) ancora a segno, Cristante (8) gol e assist, Okoye (4,5)",
+    "url": "https://www.ilmessaggero.it/sport/schede/udinese_roma_pagelle_mora_malen_cristiane_ghilardi_ndicka_serie_a_classifica-9861014.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Udinese-Roma 2-5, le pagelle: Rodrigo Mora e Malen (7) ancora a segno, Cristante (8) gol e assist, Okoye (4,5)",
+    "score": 8
+  },
+  {
+    "original_title": "«Almasri è un pericolo per gli Stati Uniti». Trump mette al bando l’ex generale libico: perché non potrà più entrare nel Paese",
+    "url": "https://www.open.online/2026/11/01/usa-sanzioni-almasri-torture-libia-governo-meloni-polemica/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "«Almasri è un pericolo per gli Stati Uniti». Trump mette al bando l’ex generale libico: perché non potrà più entrare nel Paese",
+    "score": 4
+  },
+  {
+    "original_title": "Patrizia Monteleone trovata morta nella piscina di casa, svolta nelle indagini: arrestato l’ex marito. «L’ha soffocata prima di gettarla in acqua»",
+    "url": "https://www.open.online/2026/11/01/patrizia-monteleone-erba-morta-piscina-arrestato-ex-marito-civitillo/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Patrizia Monteleone trovata morta nella piscina di casa, svolta nelle indagini: arrestato l’ex marito. «L’ha soffocata prima di gettarla in acqua»",
+    "score": 4
+  },
+  {
+    "original_title": "Israele, Eisenkot davanti al bivio: governare con i voti arabi o salvare Netanyahu – L’analisi",
+    "url": "https://www.open.online/2026/11/01/israele-eisenkot-bivio-governo-netanyahu-voti-arabi-analisi/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Israele, Eisenkot davanti al bivio: governare con i voti arabi o salvare Netanyahu – L’analisi",
+    "score": 1
+  },
+  {
+    "original_title": "Midterm Usa, la campagna più cara della storia: oltre 11 miliardi spesi. Da Musk a Soros, ecco tutti i superdonatori",
+    "url": "https://www.open.online/2026/11/01/elezioni-midterm-usa-costi-campagna-miliardi-musk-soros/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Midterm Usa, la campagna più cara della storia: oltre 11 miliardi spesi. Da Musk a Soros, ecco tutti i superdonatori",
     "score": 5
   },
   {
-    "original_title": "Meloni tra Italia e Ue: «È la sinistra a fare paura. Aperture sulla flessibilità»",
-    "url": "https://www.ilmessaggero.it/politica/meloni_italia_ue_sinistra_flessibilita_libro_bruno_vespa-9861136.html",
-    "domain": "ilmessaggero.it",
+    "original_title": "Proteste in Italia, Piantedosi: «Contro i violenti serve unità con l’opposizione. Le critiche alle toghe sul caso Siher? Nessuno scontro»",
+    "url": "https://www.open.online/2026/11/01/piantedosi-manifestazioni-critiche-toghe-caso-siher/",
+    "domain": "open.online",
     "region": "IT",
-    "title": "Meloni tra Italia e Ue: «È la sinistra a fare paura. Aperture sulla flessibilità»",
-    "score": 5
+    "title": "Proteste in Italia, Piantedosi: «Contro i violenti serve unità con l’opposizione. Le critiche alle toghe sul caso Siher? Nessuno scontro»",
+    "score": 2
   },
   {
     "original_title": "Frosinone, lite in stazione: accoltellato e ucciso un dipendente di Trenitalia. Chi era Claudio Mantua",
@@ -200,92 +192,52 @@
     "score": 5
   },
   {
-    "original_title": "Halloween, JD Vance si traveste da Albus Silente: gli auguri con il figlio “Dobby”. Perché il vicepresidente Usa ha scelto Harry Potter",
-    "url": "https://www.open.online/2026/10/31/vance-halloween-travestimento-video/",
-    "domain": "open.online",
+    "original_title": "Curling, la faida social mette sottosopra lo sport del fair play: la miccia innescata con un commento sotto un post di Eurosport",
+    "url": "https://www.ilgazzettino.it/sport/altrisport/curling_faida_commento_post_instagram_eurosport_cosa_e_successo-9860972.html",
+    "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Halloween, JD Vance si traveste da Albus Silente: gli auguri con il figlio “Dobby”. Perché il vicepresidente Usa ha scelto Harry Potter",
-    "score": 2
+    "title": "Curling, la faida social mette sottosopra lo sport del fair play: la miccia innescata con un commento sotto un post di Eurosport",
+    "score": 6
   },
   {
-    "original_title": "Maxi attacco hacker a Binance, l’Fbi accusa la Corea del Nord: c’è il gruppo «TraderTraitor» dietro al «furto del secolo»",
-    "url": "https://www.open.online/2026/10/31/binance-attacco-hacker-corea-nord-fbi/",
-    "domain": "open.online",
+    "original_title": "Pino Cotellessa muore a 58 anni, era il cuore de 'La Bottega di Zoe': «Una persona a cui era impossibile non voler bene»",
+    "url": "https://www.ilgazzettino.it/nordest/pordenone/pino_cotellessa_morto_58_anni_la_bottega_di_zoe_chi_era_clauzetto-9860948.html",
+    "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Maxi attacco hacker a Binance, l’Fbi accusa la Corea del Nord: c’è il gruppo «TraderTraitor» dietro al «furto del secolo»",
+    "title": "Pino Cotellessa muore a 58 anni, era il cuore de 'La Bottega di Zoe': «Una persona a cui era impossibile non voler bene»",
     "score": 3
   },
   {
-    "original_title": "Trionfo Milan nel derby: 3-1 all’Inter. Pulisic, Rabiot e Moreira fanno volare Amorim",
-    "url": "https://www.open.online/2026/10/31/derby-milan-inter-risultati-3-1/",
-    "domain": "open.online",
+    "original_title": "La doppia vita di Miriam: «Pescivendola all'alba e ballerina la sera. ?Ho scelto di continuare il lavoro iniziato dalla mia bisnonna»",
+    "url": "https://www.ilgazzettino.it/nordest/venezia/miriam_marcato_doppia_vita_pescivendola_ballerina_discoteca_noale-9861040.html",
+    "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Trionfo Milan nel derby: 3-1 all’Inter. Pulisic, Rabiot e Moreira fanno volare Amorim",
-    "score": 1
-  },
-  {
-    "original_title": "Perché c’è una grave crisi in Polonia: lo scontro sui giudici, il blitz notturno del presidente e l’accusa di «colpo di Stato». Interviene l’Ue",
-    "url": "https://www.open.online/2026/10/31/polonia-crisi-corte-costituzionale-cosa-succede/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Perché c’è una grave crisi in Polonia: lo scontro sui giudici, il blitz notturno del presidente e l’accusa di «colpo di Stato». Interviene l’Ue",
+    "title": "La doppia vita di Miriam: «Pescivendola all'alba e ballerina la sera. ?Ho scelto di continuare il lavoro iniziato dalla mia bisnonna»",
     "score": 9
   },
   {
-    "original_title": "L’onda della Gen Z travolge anche la Germania: 180mila in piazza contro le spese militari. Scontri, incendi e negozi saccheggiati – I video",
-    "url": "https://www.open.online/2026/10/31/germania-proteste-genz-regelt-video/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "L’onda della Gen Z travolge anche la Germania: 180mila in piazza contro le spese militari. Scontri, incendi e negozi saccheggiati – I video",
-    "score": 8
-  },
-  {
-    "original_title": "Barista anti-Halloween accanto alla vetrina blasfema: «Dolci e premio in denaro ai bambini che dicono una preghiera»",
-    "url": "https://www.ilgazzettino.it/nordest/belluno/halloween_baristadolci_soldi_bambini_preghiere_santo_stefano-9859140.html",
+    "original_title": "L'imprenditore Maurizio Bozzetto stroncato dal tumore in due mesi: aveva scoperto la malattia dopo un forte dolore alla schiena",
+    "url": "https://www.ilgazzettino.it/nordest/pordenone/maurizio_bozzetto_imprenditore_morto_tumore_dolore_schiena_chi_era_azzano_decimo-9860938.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Barista anti-Halloween accanto alla vetrina blasfema: «Dolci e premio in denaro ai bambini che dicono una preghiera»",
-    "score": 5
-  },
-  {
-    "original_title": "Motociclista perde il controllo del veicolo e si schianta contro il guardrail: morto sul colpo",
-    "url": "https://www.ilgazzettino.it/nordest/verona/motociclista_morto_incidente_chi_era_sega_di_cavaion-9860922.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Motociclista perde il controllo del veicolo e si schianta contro il guardrail: morto sul colpo",
-    "score": 3
-  },
-  {
-    "original_title": "Incendio divora un appartamento, i vigili del fuoco evacuano il condominio: 14 famiglie accolte dalla pizzeria vicina",
-    "url": "https://www.ilgazzettino.it/nordest/trieste/incendio_appartamento_evacuato_condominio_14_famiglie_pizzeria_monfalcone-9860928.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Incendio divora un appartamento, i vigili del fuoco evacuano il condominio: 14 famiglie accolte dalla pizzeria vicina",
-    "score": 3
-  },
-  {
-    "original_title": "Badante aguzzina picchia e maltratta l'anziana inferma che doveva curare: la vittima la supplicava di smettere",
-    "url": "https://www.ilgazzettino.it/nordest/rovigo/badante_aguzzina_maltrattamenti_anziana_invalida_arqua-9860681.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Badante aguzzina picchia e maltratta l'anziana inferma che doveva curare: la vittima la supplicava di smettere",
+    "title": "L'imprenditore Maurizio Bozzetto stroncato dal tumore in due mesi: aveva scoperto la malattia dopo un forte dolore alla schiena",
     "score": 1
   },
   {
-    "original_title": "Schiacciato dall'albero mentre va al lavoro: otto indagati per la morte del militare 45enne",
-    "url": "https://www.ilgazzettino.it/nordest/venezia/morto_matteo_ambu_jesolo_incidente_albero_inchiesta_otto_indagati-9859986.html",
+    "original_title": "Asolo. Incidente frontale fra tre auto, lo schianto è violentissimo: una si ribalta sul guardrail. Quattro feriti, grave una donna",
+    "url": "https://www.ilgazzettino.it/nordest/treviso/incidente_frontale_asolo_ribalta_grave_90enne-9862224.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Schiacciato dall'albero mentre va al lavoro: otto indagati per la morte del militare 45enne",
-    "score": 3
+    "title": "Asolo. Incidente frontale fra tre auto, lo schianto è violentissimo: una si ribalta sul guardrail. Quattro feriti, grave una donna",
+    "score": 6
   },
   {
-    "original_title": "Folle fuga tra il traffico e i cantieri in autostrada A4: 37enne bloccato dopo 10 chilometri di inseguimento",
-    "url": "https://www.ilgazzettino.it/nordest/verona/folle_fuga_autostrada_a4_inseguimento_arresto-9860705.html",
+    "original_title": "Gian Luca Passi si racconta: «Ecco chi sono». Dal rugby alla moda e il matrimonio con l'attrice premio Oscar Jessica Chastain. L'intervista",
+    "url": "https://www.ilgazzettino.it/nordest/treviso/gian_luca_passi_chi_e_marito_jessica_chastain_attrice_intervista-9860961.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Folle fuga tra il traffico e i cantieri in autostrada A4: 37enne bloccato dopo 10 chilometri di inseguimento",
-    "score": 6
+    "title": "Gian Luca Passi si racconta: «Ecco chi sono». Dal rugby alla moda e il matrimonio con l'attrice premio Oscar Jessica Chastain. L'intervista",
+    "score": 2
   },
   {
     "original_title": "Restyling Capodichino, novembre senza voli: e la pista cambia nome. Via all?intervento da oltre 30 milioni di euro",
@@ -293,7 +245,7 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Restyling Capodichino, novembre senza voli: e la pista cambia nome. Via all?intervento da oltre 30 milioni di euro",
-    "score": 9
+    "score": 6
   },
   {
     "original_title": "Regione, vendite al via: finiscono sul mercato ruderi e antichi castelli. Si parte entro fine anno",
@@ -301,7 +253,15 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Regione, vendite al via: finiscono sul mercato ruderi e antichi castelli. Si parte entro fine anno",
-    "score": 9
+    "score": 6
+  },
+  {
+    "original_title": "Napoli, 23enne accerchiato e accoltellato al polmone all'esterno di un locale di Coroglio: indagini in corso",
+    "url": "https://www.ilmattino.it/napoli/cronaca/napoli_coroglio_giovane_accoltellato_polmone_carabinieri_ospedale_ultime_notizie-9862222.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Napoli, 23enne accerchiato e accoltellato al polmone all'esterno di un locale di Coroglio: indagini in corso",
+    "score": 3
   },
   {
     "original_title": "Travolto da una moto a Napoli in via Castellino, era accanto alla moglie: i residenti, «Viviamo un incubo»",
@@ -309,7 +269,15 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Travolto da una moto a Napoli in via Castellino, era accanto alla moglie: i residenti, «Viviamo un incubo»",
-    "score": 2
+    "score": 8
+  },
+  {
+    "original_title": "Salerno, auto in sosta centrata da una vettura che si ribalta in via Clark: tre feriti, illese due bambine",
+    "url": "https://www.ilmattino.it/salerno/salerno_incidente_via_clark_feriti_auto_ribaltata-9862243.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Salerno, auto in sosta centrata da una vettura che si ribalta in via Clark: tre feriti, illese due bambine",
+    "score": 4
   },
   {
     "original_title": "Stese, armi e TikTok. Ecco le nuove paranze: indagati 52 minorenni. «Il culto del controllo del territorio»",
@@ -317,39 +285,71 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Stese, armi e TikTok. Ecco le nuove paranze: indagati 52 minorenni. «Il culto del controllo del territorio»",
-    "score": 6
+    "score": 7
   },
   {
-    "original_title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-    "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-    "score": 4
+    "original_title": "Patrizia Monteleone trovata morta in piscina, arrestato l'ex marito: «L'ha soffocata e poi buttata in acqua per simulare un incidente»",
+    "url": "https://www.leggo.it/italia/cronache/01_novembre_2026_patrizia_monteleone_morta_piscina_uccisa_ex_marito-9862210.html",
+    "domain": "leggo.it",
+    "region": "IT",
+    "title": "Patrizia Monteleone trovata morta in piscina, arrestato l'ex marito: «L'ha soffocata e poi buttata in acqua per simulare un incidente»",
+    "score": 7
   },
   {
-    "original_title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
-    "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
-    "score": 6
+    "original_title": "Pensioni, cosa cambia con la manovra? Si dovrà uscire più tardi? Per chi aumenta l'assegno? Che succede a Quota 103 e Ape sociale? Domande e risposte",
+    "url": "https://www.leggo.it/schede/01_novembre_2026_pensioni_manovra_aumenti_rivalutazioni_cosa_cambia_uscita_ape_quota_103_domande_risposte-9861079.html",
+    "domain": "leggo.it",
+    "region": "IT",
+    "title": "Pensioni, cosa cambia con la manovra? Si dovrà uscire più tardi? Per chi aumenta l'assegno? Che succede a Quota 103 e Ape sociale? Domande e risposte",
+    "score": 3
   },
   {
-    "original_title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
-    "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
-    "score": 6
-  },
-  {
-    "original_title": "Thousands demonstrate in Paris as protests spread across Europe",
-    "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Thousands demonstrate in Paris as protests spread across Europe",
+    "original_title": "Meteo 1 novembre, l'allarme di Mario Giuliacci: «Manca solo un uragano oggi». L'Italia gela sotto il ciclone baltico, scattano le allerte maltempo",
+    "url": "https://www.leggo.it/schede/01_novembre_2026_meteo_mario_giuliacci_allarme_manca_solo_urgano_italia_gela_sotto_ciclone_baltico_oggi-9861066.html",
+    "domain": "leggo.it",
+    "region": "IT",
+    "title": "Meteo 1 novembre, l'allarme di Mario Giuliacci: «Manca solo un uragano oggi». L'Italia gela sotto il ciclone baltico, scattano le allerte maltempo",
     "score": 5
+  },
+  {
+    "original_title": "Termosifoni accesi, ecco da quando: domenica 1° novembre scatta l'ora X per molti Comuni. Le date, la mappa completa e le regole sui gradi",
+    "url": "https://www.leggo.it/schede/01_novembre_2026_termosifoni_accessi_ecco_quando_oggi_scatta_ora_x_dove_date_zone_climatiche_regole_gradi-9861043.html",
+    "domain": "leggo.it",
+    "region": "IT",
+    "title": "Termosifoni accesi, ecco da quando: domenica 1° novembre scatta l'ora X per molti Comuni. Le date, la mappa completa e le regole sui gradi",
+    "score": 1
+  },
+  {
+    "original_title": "Shops looted as German cost of living protests turn violent",
+    "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Shops looted as German cost of living protests turn violent",
+    "score": 3
+  },
+  {
+    "original_title": "Emotional reunions for Oleshky evacuees after years in Russia-occupied city",
+    "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Emotional reunions for Oleshky evacuees after years in Russia-occupied city",
+    "score": 7
+  },
+  {
+    "original_title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+    "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+    "score": 7
+  },
+  {
+    "original_title": "Reeves says UK's future should be inside the EU",
+    "url": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
+    "region": "GLOBAL",
+    "title": "Reeves says UK's future should be inside the EU",
+    "score": 3
   },
   {
     "original_title": "Who are the real winners of Celebrity Traitors?",
@@ -360,204 +360,220 @@
     "score": 7
   },
   {
-    "original_title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-    "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+    "original_title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+    "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-    "score": 7
+    "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+    "score": 9
   },
   {
-    "original_title": "Time to vote — the future of California hangs in the balance",
-    "url": "https://nypost.com/2026/10/31/opinion/time-to-vote-the-future-of-california-hangs-in-the-balance/",
+    "original_title": "Maine school official raises Muslim religious objections to classroom dogs as district weighs policy changes",
+    "url": "https://nypost.com/2026/11/01/us-news/maine-school-questions-muslim-objections-to-classroom-dogs/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Time to vote — the future of California hangs in the balance",
-    "score": 4
+    "title": "Maine school official raises Muslim religious objections to classroom dogs as district weighs policy changes",
+    "score": 9
   },
   {
-    "original_title": "Nahshon Wright’s ‘frustrating’ Jets year could see him on the move at trade deadline",
-    "url": "https://nypost.com/2026/10/31/sports/jets-nahshon-wrights-could-be-on-the-move-at-trade-deadline/",
+    "original_title": "Dear Abby: One of my neighbors died and none of his family wants to upkeep the house",
+    "url": "https://nypost.com/2026/11/01/lifestyle/dear-abby-one-of-my-neighbors-died-and-none-of-his-family-wants-to-upkeep-the-house/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Nahshon Wright’s ‘frustrating’ Jets year could see him on the move at trade deadline",
-    "score": 7
-  },
-  {
-    "original_title": "Every loss has been something new for Knicks still trying to figure things out",
-    "url": "https://nypost.com/2026/10/31/sports/every-loss-has-been-something-new-for-knicks-still-trying-to-figure-things-out/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "Every loss has been something new for Knicks still trying to figure things out",
+    "title": "Dear Abby: One of my neighbors died and none of his family wants to upkeep the house",
     "score": 1
   },
   {
-    "original_title": "AI-fueled hacking spree ‘Black October’ culminates with $6.3B Binance hack",
-    "url": "https://nypost.com/2026/10/31/tech/ai-fueled-hacking-spree-black-october-culminated-with-record-binance-hack/",
+    "original_title": "FBI visits ‘Decoy Dan’ Sullivan donors as feds ramp up investigation into Alaska Senate candidate",
+    "url": "https://nypost.com/2026/11/01/us-news/alaska-senate-candidate-dan-j-sullivans-donors-contacted-by-fbi/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "AI-fueled hacking spree ‘Black October’ culminates with $6.3B Binance hack",
-    "score": 7
-  },
-  {
-    "original_title": "USC, Ohio State players nearly come to blows in heated pregame scene",
-    "url": "https://nypost.com/2026/10/31/sports/usc-ohio-state-players-heated-exchange-big-ten-football/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "USC, Ohio State players nearly come to blows in heated pregame scene",
-    "score": 5
-  },
-  {
-    "original_title": "It’s time for Julius Randle and Michael Porter Jr. to be the leaders the Nets need",
-    "url": "https://nypost.com/2026/10/31/sports/julius-randle-michael-porter-jr-need-to-be-nets-leaders/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "It’s time for Julius Randle and Michael Porter Jr. to be the leaders the Nets need",
-    "score": 3
-  },
-  {
-    "original_title": "UK's top UFO expert makes explosive alien claim in final interview before death",
-    "url": "https://www.express.co.uk/news/science/2262223/uks-top-ufo-expert-makes-alien-claim-final-interview",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "UK's top UFO expert makes explosive alien claim in final interview before death",
-    "score": 9
-  },
-  {
-    "original_title": "Horror as man stabbed next to supermarket in UK town",
-    "url": "https://www.express.co.uk/news/uk/2262212/horror-man-stabbed-next-supermarket",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Horror as man stabbed next to supermarket in UK town",
-    "score": 9
-  },
-  {
-    "original_title": "Police launch probe after pig heads left in popular UK park - 'disgusting and sick'",
-    "url": "https://www.express.co.uk/news/uk/2262205/police-launch-probe-pig-heads-uk-park",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Police launch probe after pig heads left in popular UK park - 'disgusting and sick'",
-    "score": 7
-  },
-  {
-    "original_title": "Fresh nightmare for Meghan as another country probes Thomas Markle child abuse allegations",
-    "url": "https://www.express.co.uk/news/royal/2262200/fresh-nightmare-meghan-another-country",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Fresh nightmare for Meghan as another country probes Thomas Markle child abuse allegations",
-    "score": 2
-  },
-  {
-    "original_title": "Prince William and Princess Catherine are quietly preparing for important milestone",
-    "url": "https://www.express.co.uk/news/royal/2262199/prince-william-princess-catherine-preparing-milestone",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Prince William and Princess Catherine are quietly preparing for important milestone",
-    "score": 9
-  },
-  {
-    "original_title": "Chaos as drones force flight cancellations and diversions at UK airport",
-    "url": "https://www.express.co.uk/news/uk/2262198/chaos-drones-force-flight-cancellations-diersions-jersey-airport",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Chaos as drones force flight cancellations and diversions at UK airport",
-    "score": 2
-  },
-  {
-    "original_title": "10L turnout target, 4,000 cops, 200 CCTV: Delhi braces for INDIA bloc's anti-CEC rally",
-    "url": "https://timesofindia.indiatimes.com/india/10-lakh-turnout-target-4000-cops-200-cctv-delhi-braces-for-india-blocs-anti-cec-rally-at-ramlila-maidan/articleshow/135411804.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "10L turnout target, 4,000 cops, 200 CCTV: Delhi braces for INDIA bloc's anti-CEC rally",
-    "score": 4
-  },
-  {
-    "original_title": "'Politicisation of energy flows harmful': EAM calls for diversified supply chains at G20",
-    "url": "https://timesofindia.indiatimes.com/india/politicisation-of-energy-flows-harmful-jaishankar-calls-for-diversified-supply-chains-at-g20/articleshow/135414623.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "'Politicisation of energy flows harmful': EAM calls for diversified supply chains at G20",
-    "score": 5
-  },
-  {
-    "original_title": "Pilibhit voter roll row: UP CEO orders statewide ECINET login shutdown",
-    "url": "https://timesofindia.indiatimes.com/city/lucknow/pilibhit-voter-roll-row-up-ceo-orders-statewide-ecinet-login-shutdown/articleshow/135398877.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Pilibhit voter roll row: UP CEO orders statewide ECINET login shutdown",
-    "score": 8
-  },
-  {
-    "original_title": "3 Kuki-Zos killed in Manipur gunfight with Nagas; mass rally halts Imphal",
-    "url": "https://timesofindia.indiatimes.com/city/guwahati/3-kuki-zos-killed-in-manipur-gunfight-with-nagas-mass-rally-halts-imphal/articleshow/135408794.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "3 Kuki-Zos killed in Manipur gunfight with Nagas; mass rally halts Imphal",
-    "score": 3
-  },
-  {
-    "original_title": "Revolt in NC: 25 MLAs seek ministers’ ouster, J&amp;K CM Omar Abdullah aide",
-    "url": "https://timesofindia.indiatimes.com/india/nc-faces-revolt-as-25-mlas-seek-removal-of-ministers-omar-aide/articleshow/135409374.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Revolt in NC: 25 MLAs seek ministers’ ouster, J&amp;K CM Omar Abdullah aide",
-    "score": 8
-  },
-  {
-    "original_title": "Island nation’s treaty with Australia raises concerns over loss of cultural heritage",
-    "url": "https://timesofindia.indiatimes.com/technology/tech-news/in-august-2024-an-island-nation-signed-a-treaty-that-will-enable-its-citizens-to-live-work-and-study-in-australia-now-researchers-wonder-what-happens-to-/articleshow/135403619.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Island nation’s treaty with Australia raises concerns over loss of cultural heritage",
+    "title": "FBI visits ‘Decoy Dan’ Sullivan donors as feds ramp up investigation into Alaska Senate candidate",
     "score": 1
   },
   {
-    "original_title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "Fitness influencer and OnlyFans star Liam Fitzgerald dies in motorcycle crash",
+    "url": "https://nypost.com/2026/11/01/us-news/fitness-influencer-and-onlyfans-star-liam-fitzgerald-dead-at-29-in-motorcycle-crash/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
-    "score": 3
+    "title": "Fitness influencer and OnlyFans star Liam Fitzgerald dies in motorcycle crash",
+    "score": 7
   },
   {
-    "original_title": "ICE agent’s violent shove propels woman through the air",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "USC coach Lincoln Riley’s insecurity shows through after epic upset",
+    "url": "https://nypost.com/2026/11/01/sports/uscs-lincoln-riley-cant-handle-winning-right-after-epic-upset/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "ICE agent’s violent shove propels woman through the air",
-    "score": 5
+    "title": "USC coach Lincoln Riley’s insecurity shows through after epic upset",
+    "score": 1
   },
   {
-    "original_title": "Dutch authorities rescue 38 people adrift in rubber boat",
-    "url": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "New York and LA didn’t win America’s best mega airport title, but one Midwest hub did",
+    "url": "https://nypost.com/2026/11/01/lifestyle/new-york-and-la-didnt-win-americas-best-mega-airport-title-but-one-midwest-hub-did/",
+    "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+    "title": "New York and LA didn’t win America’s best mega airport title, but one Midwest hub did",
+    "score": 4
+  },
+  {
+    "original_title": "Jersey Airport issues statement after drones spark flight chaos again",
+    "url": "https://www.express.co.uk/news/uk/2262238/jersey-airport-flights-cancelled-drones",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Jersey Airport issues statement after drones spark flight chaos again",
+    "score": 4
+  },
+  {
+    "original_title": "Lloyds and Halifax to close 17 banks across UK in November – full list",
+    "url": "https://www.express.co.uk/news/uk/2262237/lloyds-halifax-close-17-banks-november",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Lloyds and Halifax to close 17 banks across UK in November – full list",
     "score": 6
   },
   {
-    "original_title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
-    "url": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "Rachel Reeves triggers fresh Brexit anger as she says Britain's future is inside EU",
+    "url": "https://www.express.co.uk/news/politics/2262235/rachel-reeves-triggers-fresh-brexit",
+    "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+    "title": "Rachel Reeves triggers fresh Brexit anger as she says Britain's future is inside EU",
+    "score": 3
+  },
+  {
+    "original_title": "Police issue major update after body found inside burnt-out car in Kinver",
+    "url": "https://www.express.co.uk/news/uk/2262234/police-update-man-body-burnt-out-car",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Police issue major update after body found inside burnt-out car in Kinver",
+    "score": 4
+  },
+  {
+    "original_title": "Outrage as bearded Oxford University lecturer wears huge fake breasts",
+    "url": "https://www.express.co.uk/news/uk/2262233/oxford-university-lecturer-fake-breasts",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Outrage as bearded Oxford University lecturer wears huge fake breasts",
+    "score": 6
+  },
+  {
+    "original_title": "John Healey in new £40million bombshell - Angela Rayner will be pleased",
+    "url": "https://www.express.co.uk/news/politics/2262232/john-healey-new-40million-bombshell",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "John Healey in new £40million bombshell - Angela Rayner will be pleased",
+    "score": 6
+  },
+  {
+    "original_title": "'India not a banana republic': BJP attacks Rahul Gandhi ahead of INDIA bloc rally",
+    "url": "https://timesofindia.indiatimes.com/india/india-not-a-banana-republic-bjp-attacks-rahul-gandhi-ahead-of-india-bloc-rally/articleshow/135419924.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "'India not a banana republic': BJP attacks Rahul Gandhi ahead of INDIA bloc rally",
     "score": 1
   },
   {
-    "original_title": "Palestine Action supporters arrested outside US embassy in London",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
-    "domain": "aljazeera.com",
+    "original_title": "Watch: Chaos at Bengaluru airport as flyer finds chicken in veg biriyani",
+    "url": "https://timesofindia.indiatimes.com/city/bengaluru/flyer-finds-chicken-in-veg-biriyani-at-bengaluru-airport-operator-restaurant-to-investigate/articleshow/135406089.cms",
+    "domain": "timesofindia.com",
     "region": "GLOBAL",
-    "title": "Palestine Action supporters arrested outside US embassy in London",
+    "title": "Watch: Chaos at Bengaluru airport as flyer finds chicken in veg biriyani",
+    "score": 2
+  },
+  {
+    "original_title": "Pune woman secretly returned from UK; what she told domestic help before her death",
+    "url": "https://timesofindia.indiatimes.com/city/pune/leaving-flat-stop-coming-for-work-pune-woman-who-secretly-returned-from-uk-told-domestic-help-before-being-found-dead/articleshow/135415824.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Pune woman secretly returned from UK; what she told domestic help before her death",
+    "score": 2
+  },
+  {
+    "original_title": "US senators write to Google CEO Sundar Pichai with 9 questions on classroom AI push",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/two-us-senators-write-letter-to-google-ceo-sundar-pichai-asking-9-questions-as-company-pushes-for-ai-in-classrooms/articleshow/135415769.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "US senators write to Google CEO Sundar Pichai with 9 questions on classroom AI push",
+    "score": 5
+  },
+  {
+    "original_title": "3 Kukis killed in Naga gunfight; Imphal rally seeks NRC, dy CM's removal",
+    "url": "https://timesofindia.indiatimes.com/city/guwahati/3-kuki-zos-killed-in-manipur-gunfight-with-nagas-mass-rally-halts-imphal/articleshow/135408794.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "3 Kukis killed in Naga gunfight; Imphal rally seeks NRC, dy CM's removal",
     "score": 8
   },
   {
-    "original_title": "Legal filing questions Trump’s claims of non-citizen voting in California",
-    "url": "https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss",
+    "original_title": "Ohio couple's house sale deal upheld after split; woman gets $41,466",
+    "url": "https://timesofindia.indiatimes.com/world/us/in-2021-an-ohio-couple-signed-a-deal-to-share-house-sale-proceeds-if-they-split-after-their-breakup-and-a-71897-dispute-judges-upheld-the-agreement-giving-the-woman-41466-despite-a-fight-over-renovation-spending/articleshow/135418736.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Ohio couple's house sale deal upheld after split; woman gets $41,466",
+    "score": 5
+  },
+  {
+    "original_title": "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting",
+    "url": "https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss",
     "domain": "aljazeera.com",
     "region": "GLOBAL",
-    "title": "Legal filing questions Trump’s claims of non-citizen voting in California",
-    "score": 1
+    "title": "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting",
+    "score": 8
+  },
+  {
+    "original_title": "Iran security chief says US letter signals ‘positive’ shift",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Iran security chief says US letter signals ‘positive’ shift",
+    "score": 3
+  },
+  {
+    "original_title": "Bangladesh forms wage board as garment workers protest",
+    "url": "https://www.aljazeera.com/news/2026/11/1/bangladesh-forms-wage-board-amid-garment-worker-protests?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Bangladesh forms wage board as garment workers protest",
+    "score": 5
+  },
+  {
+    "original_title": "No, France is not ‘burning’",
+    "url": "https://www.aljazeera.com/opinions/2026/11/1/no-france-is-not?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "No, France is not ‘burning’",
+    "score": 8
+  },
+  {
+    "original_title": "Serbia’s canopy collapse, two years on in a changed country",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/serbias-canopy-collapse-two-years-on-in-a-changed-country?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Serbia’s canopy collapse, two years on in a changed country",
+    "score": 2
+  },
+  {
+    "original_title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
+    "url": "https://www.aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
+    "score": 4
+  },
+  {
+    "original_title": "EU Commission: Polish Parliament has right to appoint judges to the Constitutional Court",
+    "url": "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "EU Commission: Polish Parliament has right to appoint judges to the Constitutional Court",
+    "score": 3
+  },
+  {
+    "original_title": "Latest news bulletin | November 1st, 2026 – Morning",
+    "url": "https://www.euronews.com/video/2026/11/01/latest-news-bulletin-november-1st-2026-morning",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "Latest news bulletin | November 1st, 2026 – Morning",
+    "score": 5
   },
   {
     "original_title": "Latest news bulletin | October 31st, 2026 – Evening",
@@ -565,7 +581,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Latest news bulletin | October 31st, 2026 – Evening",
-    "score": 2
+    "score": 1
   },
   {
     "original_title": "Latest news bulletin | October 31st, 2026 – Midday",
@@ -573,7 +589,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Latest news bulletin | October 31st, 2026 – Midday",
-    "score": 3
+    "score": 2
   },
   {
     "original_title": "Kärcher boss: Less regulation, more action to get Europe and Germany fit again",
@@ -581,7 +597,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Kärcher boss: Less regulation, more action to get Europe and Germany fit again",
-    "score": 3
+    "score": 6
   },
   {
     "original_title": "Zelenskyy thanks US over deal for 500 Patriot missiles but warns delivery could take years",
@@ -589,23 +605,7 @@
     "domain": "euronews.com",
     "region": "GLOBAL",
     "title": "Zelenskyy thanks US over deal for 500 Patriot missiles but warns delivery could take years",
-    "score": 4
-  },
-  {
-    "original_title": "Syrian curriculum changes spark debate over removal of images and historical figures",
-    "url": "https://www.euronews.com/2026/10/31/syrian-curriculum-changes-spark-debate-over-removal-of-images-and-historical-figures",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Syrian curriculum changes spark debate over removal of images and historical figures",
-    "score": 9
-  },
-  {
-    "original_title": "Travelling beyond the borders of Baku through fiction",
-    "url": "https://www.euronews.com/2026/10/31/travelling-beyond-the-borders-of-baku-through-fiction",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Travelling beyond the borders of Baku through fiction",
-    "score": 1
+    "score": 7
   },
   {
     "original_title": "Mother Stands Dead-Eyed Behind Child Explaining Anime Costume",
@@ -613,7 +613,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Mother Stands Dead-Eyed Behind Child Explaining Anime Costume",
-    "score": 2
+    "score": 8
   },
   {
     "original_title": "Rich Family Giving Out King-Sized Mattresses",
@@ -621,7 +621,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Rich Family Giving Out King-Sized Mattresses",
-    "score": 8
+    "score": 9
   },
   {
     "original_title": "Anthony Davis Going To Halloween Party Right After Game",
@@ -629,7 +629,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Anthony Davis Going To Halloween Party Right After Game",
-    "score": 6
+    "score": 9
   },
   {
     "original_title": "Scooby-Doo Retires After Taking Skydance Buyout",
