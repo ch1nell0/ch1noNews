@@ -1,251 +1,283 @@
 [
   {
-    "original_title": "Lotteria degli scontrini, cosa cambia con la manovra e come funzionerà",
-    "url": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/07/news/lotteria_scontrini_cambia_manovra_vincite-425705110/",
+    "original_title": "IA verso la resa dei conti. Il monito del voto di midterm: ha vinto chi vuol stoppare i data center",
+    "url": "https://www.repubblica.it/economia/rubriche/eurobarometro/2026/11/07/news/ia_verso_la_resa_dei_conti_il_monito_del_voto_di_midterm_ha_vinto_chi_vuol_stoppare_i_data_center-425706365/",
     "domain": "repubblica.it",
     "region": "IT",
-    "title": "Lotteria degli scontrini, cosa cambia con la manovra e come funzionerà",
+    "title": "IA verso la resa dei conti. Il monito del voto di midterm: ha vinto chi vuol stoppare i data center",
+    "score": 9
+  },
+  {
+    "original_title": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa",
+    "url": "https://www.repubblica.it/esteri/2026/11/07/news/sistema_elettorale_usa_presidenziali_democratici_midterm-425706482/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Così la vittoria dem potrebbe cambiare il modo in cui si elegge il prossimo presidente Usa",
     "score": 3
   },
   {
-    "original_title": "Sigarette, dalla manovra doppio rincaro nel 2027: 40 centesimi a pacchetto. E arrivano nuove licenze",
-    "url": "https://www.repubblica.it/economia/2026/11/07/news/sigarette_rincari_manovra_2027_40_centesimi_nuove_licenze-425705155/",
+    "original_title": "Il finto colloquio, il virus, il blitz: così gli hacker di Kim hanno rubato 6 miliardi a Binance",
+    "url": "https://www.repubblica.it/economia/2026/11/07/news/il_finto_colloquio_il_virus_il_blitz_cosi_gli_hacker_di_kim_hanno_rubato_6_miliardi_a_binance-425706397/",
     "domain": "repubblica.it",
     "region": "IT",
-    "title": "Sigarette, dalla manovra doppio rincaro nel 2027: 40 centesimi a pacchetto. E arrivano nuove licenze",
+    "title": "Il finto colloquio, il virus, il blitz: così gli hacker di Kim hanno rubato 6 miliardi a Binance",
+    "score": 3
+  },
+  {
+    "original_title": "Attacco hacker al mega-tunnel del Brennero, indagini",
+    "url": "https://www.repubblica.it/cronaca/2026/11/07/news/attacco_hacker_tunnel_brennero-425706419/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "Attacco hacker al mega-tunnel del Brennero, indagini",
     "score": 6
   },
   {
-    "original_title": "Scontro sul leghista Altieri all’Anac: “Incompatibile per legge”. E lui è costretto a ritirarsi",
-    "url": "https://www.repubblica.it/politica/2026/11/07/news/altieri_ritiro_presidente_anac_lega_incompatibile_per_legge-425705869/",
+    "original_title": "La denuncia di Tajani: “Diffusi i miei dati su dark web, non mi farò intimidire”",
+    "url": "https://www.repubblica.it/politica/2026/11/07/news/tajani_ministro_denuncia_dati_personali_dark_web-425706409/",
     "domain": "repubblica.it",
     "region": "IT",
-    "title": "Scontro sul leghista Altieri all’Anac: “Incompatibile per legge”. E lui è costretto a ritirarsi",
+    "title": "La denuncia di Tajani: “Diffusi i miei dati su dark web, non mi farò intimidire”",
+    "score": 6
+  },
+  {
+    "original_title": "“L’impero dei sensi”, la fuga nel sesso estremo che distrusse le carriere dei due protagonisti",
+    "url": "https://www.repubblica.it/spettacoli/cinema/2026/11/07/news/l_impero_dei_sensi_nagisa_oshima_torna_in_sala_restaurato-425706360/",
+    "domain": "repubblica.it",
+    "region": "IT",
+    "title": "“L’impero dei sensi”, la fuga nel sesso estremo che distrusse le carriere dei due protagonisti",
     "score": 1
   },
   {
-    "original_title": "La resa di Altieri dopo l’arrocco, Meloni concorda l’addio per timore dello stallo",
-    "url": "https://www.repubblica.it/politica/2026/11/07/news/nuccio_altieri_ritiro_incarico_anac_meloni-425705862/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "La resa di Altieri dopo l’arrocco, Meloni concorda l’addio per timore dello stallo",
-    "score": 1
-  },
-  {
-    "original_title": "Caso Altieri, Flick: “La norma è chiara, una questione di requisiti, niente politici in quel ruolo”",
-    "url": "https://www.repubblica.it/politica/2026/11/07/news/flick_altieri_anac_quirinale_intervista-425705736/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Caso Altieri, Flick: “La norma è chiara, una questione di requisiti, niente politici in quel ruolo”",
-    "score": 4
-  },
-  {
-    "original_title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
-    "url": "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/",
-    "domain": "repubblica.it",
-    "region": "IT",
-    "title": "Prima mossa di Trump dopo midterm: via la capo di gabinetto per il falco anti-migranti Miller",
-    "score": 3
-  },
-  {
-    "original_title": "Presidenza dell’Anac, dopo le polemiche Altieri rinuncia all’incarico: “Ritiro la mia disponibilità, ho parlato con Meloni”",
-    "url": "https://www.ilfattoquotidiano.it/2026/11/06/anac-altieri-rinuncia-presidenza-notizie/8563840/",
+    "original_title": "Gaza, le tende degli sfollati allagate per le forti piogge: “I bambini tremano per il freddo” – Video",
+    "url": "https://www.ilfattoquotidiano.it/2026/11/07/gaza-tende-allagate-piogge-video-bambini-freddo/8564029/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Presidenza dell’Anac, dopo le polemiche Altieri rinuncia all’incarico: “Ritiro la mia disponibilità, ho parlato con Meloni”",
+    "title": "Gaza, le tende degli sfollati allagate per le forti piogge: “I bambini tremano per il freddo” – Video",
+    "score": 6
+  },
+  {
+    "original_title": "“Ma lo sa quanto io e Giorgetti ci stiamo sul gozzo?”: Crozza-Salvini si scatena contro il ministro dell’Economia tra moto senza portiere e tagli a scuola e sanità. La parodia a Fratelli di Crozza",
+    "url": "https://www.ilfattoquotidiano.it/2026/11/07/ma-lo-sa-quanto-io-e-giorgetti-ci-stiamo-sul-gozzo-crozza-salvini-si-scatena-contro-il-ministro-delleconomia-tra-moto-senza-portiere-e-tagli-a-scuola-e-sanita-la-parodia-a-fratelli-di-crozza/8564016/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "“Ma lo sa quanto io e Giorgetti ci stiamo sul gozzo?”: Crozza-Salvini si scatena contro il ministro dell’Economia tra moto senza portiere e tagli a scuola e sanità. La parodia a Fratelli di Crozza",
     "score": 2
   },
   {
-    "original_title": "Atp Finals, chi sono gli otto giocatori qualificati: c’è Cobolli, l’ultimo è Jodar",
-    "url": "https://www.ilfattoquotidiano.it/2026/11/06/atp-finals-2026-giocatori-qualificati/8563620/",
+    "original_title": "Caccia, lo chef stellato De Pra denunciato dai carabinieri: fucili con silenziatori e munizioni oltre il limite. Felicetti (Lav): “Non è ancora tutto lecito”",
+    "url": "https://www.ilfattoquotidiano.it/2026/11/07/chef-de-pra-caccia-armi-silenziatore-notizie/8563995/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Atp Finals, chi sono gli otto giocatori qualificati: c’è Cobolli, l’ultimo è Jodar",
-    "score": 7
+    "title": "Caccia, lo chef stellato De Pra denunciato dai carabinieri: fucili con silenziatori e munizioni oltre il limite. Felicetti (Lav): “Non è ancora tutto lecito”",
+    "score": 1
   },
   {
-    "original_title": "Trump silura la capa di gabinetto Susie Wiles dopo la batosta alle elezioni di metà mandato: al suo posto Stephen Miller",
-    "url": "https://www.ilfattoquotidiano.it/2026/11/06/trump-miller-capo-gabinetto-wiles-notizie/8563805/",
+    "original_title": "La mail di Toto Wolff ai dipendenti Mercedes svelata da Lord: “Mettere Antonelli in macchina un rischio. Su Kimi tante critiche anche dentro la F1”",
+    "url": "https://www.ilfattoquotidiano.it/2026/11/07/kimi-antonelli-mail-wolff-mercedes-svelata/8563990/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Trump silura la capa di gabinetto Susie Wiles dopo la batosta alle elezioni di metà mandato: al suo posto Stephen Miller",
+    "title": "La mail di Toto Wolff ai dipendenti Mercedes svelata da Lord: “Mettere Antonelli in macchina un rischio. Su Kimi tante critiche anche dentro la F1”",
     "score": 5
   },
   {
-    "original_title": "Papa Leone XIV: “Sono fiero di essere statunitense e di aver esercitato il diritto di voto”",
-    "url": "https://www.ilfattoquotidiano.it/2026/11/06/papa-leone-xiv-voto-midterm-notizie/8563711/",
+    "original_title": "“Come faccio a fare pace con Riccardo Scamarcio, non mi fido. Gli avrei affidato i miei figli, invece sono stato tradito tantissimo”: lo sfogo di Francesco Sarcina",
+    "url": "https://www.ilfattoquotidiano.it/2026/11/07/come-faccio-a-fare-pace-con-riccardo-scamarcio-non-mi-fido-gli-avrei-affidato-i-miei-figli-invece-sono-stato-tradito-tantissimo-lo-sfogo-di-francesco-sarcina/8564009/",
     "domain": "ilfattoquotidiano.it",
     "region": "IT",
-    "title": "Papa Leone XIV: “Sono fiero di essere statunitense e di aver esercitato il diritto di voto”",
+    "title": "“Come faccio a fare pace con Riccardo Scamarcio, non mi fido. Gli avrei affidato i miei figli, invece sono stato tradito tantissimo”: lo sfogo di Francesco Sarcina",
+    "score": 5
+  },
+  {
+    "original_title": "Riconosciuta l’identità di genere senza certificati medici, la sentenza ad Arezzo per la presidente di Arcigay  per Jasmine Piattelli",
+    "url": "https://www.ilfattoquotidiano.it/2026/11/07/riconosciuta-lidentita-di-genere-senza-certificati-medici-la-sentenza-ad-arezzo-per-la-presidente-per-jasmine-piattelli/8563998/",
+    "domain": "ilfattoquotidiano.it",
+    "region": "IT",
+    "title": "Riconosciuta l’identità di genere senza certificati medici, la sentenza ad Arezzo per la presidente di Arcigay  per Jasmine Piattelli",
     "score": 3
   },
   {
-    "original_title": "“Non sappiamo se cyberattacchi e allarmi bomba siano collegati, ma dimostrano che la spesa per la difesa mette in sicurezza i cittadini”: Meloni giustifica gli aumenti di stanziamenti in armi",
-    "url": "https://www.ilfattoquotidiano.it/2026/11/06/meloni-spese-militari-cyberattacchi-notizie/8563655/",
-    "domain": "ilfattoquotidiano.it",
+    "original_title": "Sanremo prende forma, De Martino: \"Sarà alla mia maniera\"",
+    "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/06/sanremo-prende-forma-de-martino-sara-alla-mia-maniera_0c4e149e-2c24-4012-971e-5f68f2c4c1b2.html",
+    "domain": "ansa.it",
     "region": "IT",
-    "title": "“Non sappiamo se cyberattacchi e allarmi bomba siano collegati, ma dimostrano che la spesa per la difesa mette in sicurezza i cittadini”: Meloni giustifica gli aumenti di stanziamenti in armi",
-    "score": 7
+    "title": "Sanremo prende forma, De Martino: \"Sarà alla mia maniera\"",
+    "score": 9
   },
   {
-    "original_title": "L’Olimpia Milano esonera il coach Poeta, al suo posto (a sorpresa) il ct della Nazionale Luca Banchi",
-    "url": "https://www.ilfattoquotidiano.it/2026/11/06/olimpia-milano-esonero-poeta-banchi-notizie/8563652/",
-    "domain": "ilfattoquotidiano.it",
+    "original_title": "Meta lancia negli Usa le videochiamate con Muse, il suo avatar IA",
+    "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/06/meta-lancia-negli-usa-le-videochiamate-con-muse-il-suo-avatar-ia_1e03bdc3-0f8b-43b0-8440-30a0c586add8.html",
+    "domain": "ansa.it",
     "region": "IT",
-    "title": "L’Olimpia Milano esonera il coach Poeta, al suo posto (a sorpresa) il ct della Nazionale Luca Banchi",
+    "title": "Meta lancia negli Usa le videochiamate con Muse, il suo avatar IA",
     "score": 1
   },
   {
-    "original_title": "Una statua di 14 metri di papa Leone lo accoglierà in Perù",
-    "url": "https://www.ansa.it/sito/photogallery/curiosita/2026/11/06/una-statua-di-14-metri-di-papa-leone-lo-accogliera-a-lima_ab67e62e-2244-4ebc-8fa0-2f0b8434b721.html",
+    "original_title": "Netflix annuncia serie spin-off di 'Stranger Things Adventure Other Worlds'",
+    "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/06/netflix-annuncia-serie-spin-off-di-stranger-things-adventure-other-worlds_feaefc3f-694d-4817-88a1-a80bb4a8be60.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Una statua di 14 metri di papa Leone lo accoglierà in Perù",
-    "score": 4
+    "title": "Netflix annuncia serie spin-off di 'Stranger Things Adventure Other Worlds'",
+    "score": 2
   },
   {
-    "original_title": "Artemis II ha perturbato l'atmosfera con possibili effetti su segnali Gps",
-    "url": "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/11/06/artemis-ii-ha-perturbato-latmosfera-con-possibili-effetti-su-segnali-gps_a87035f7-0588-42eb-8c15-2fe211af6366.html",
+    "original_title": "L'indiscrezione del Sun, Josh O'Connor il nuovo 007 dopo Daniel Craig",
+    "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/06/lindiscrezione-del-sun-josh-oconnor-il-nuovo-007-dopo-daniel-craig_c57fcf16-0b0b-4873-a12d-8ffd1db1df89.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Artemis II ha perturbato l'atmosfera con possibili effetti su segnali Gps",
-    "score": 7
-  },
-  {
-    "original_title": "Corso di speaker radiofonico per persone con disabilità visiva",
-    "url": "https://www.ansa.it/responsabilmente/notizie/accessibilita/2026/11/06/corso-di-speaker-radiofonico-per-persone-con-disabilita-visiva_4aa14ef9-6490-4260-bfbe-a6d649c6ed62.html",
-    "domain": "ansa.it",
-    "region": "IT",
-    "title": "Corso di speaker radiofonico per persone con disabilità visiva",
+    "title": "L'indiscrezione del Sun, Josh O'Connor il nuovo 007 dopo Daniel Craig",
     "score": 5
   },
   {
-    "original_title": "Martine Rose nuova direttrice creativa di Balenciaga",
-    "url": "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/11/06/martine-rose-nuova-direttrice-creativa-di-balenciaga_bf26e208-1ab7-4b00-afd8-615686eae5d6.html",
+    "original_title": "Nel 2025 oltre 21 milioni di visitatori in parchi divertimento",
+    "url": "https://www.ansa.it/canale_viaggi/notizie/news/2026/11/06/nel-2025-oltre-21-milioni-di-visitatori-in-parchi-divertimento_e0901408-8d9e-4aab-a614-765eea441804.html",
     "domain": "ansa.it",
     "region": "IT",
-    "title": "Martine Rose nuova direttrice creativa di Balenciaga",
-    "score": 1
-  },
-  {
-    "original_title": "Deepfake, arrivano nuovi strumenti per smascherare video e foto manipolati con l'IA",
-    "url": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/11/05/deepfake-arrivano-nuovi-strumenti-per-smascherare-video-e-foto-manipolati-con_4bfdc0ce-efe7-4119-a456-ddf91334a4c1.html",
-    "domain": "ansa.it",
-    "region": "IT",
-    "title": "Deepfake, arrivano nuovi strumenti per smascherare video e foto manipolati con l'IA",
-    "score": 9
-  },
-  {
-    "original_title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'",
-    "url": "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
-    "domain": "ansa.it",
-    "region": "IT",
-    "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'",
-    "score": 9
-  },
-  {
-    "original_title": "Allarmi bomba sugli aerei, coinvolti più scali: possibili legami con gli hacker dei frigoriferi, i messaggi sono partiti da profili criptati",
-    "url": "https://www.ilmessaggero.it/mondo/guerra_ibrida_russa_falsi_allarmi_bomba_aerei_profili_criptati_hacker_frigoriferi-9873931.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Allarmi bomba sugli aerei, coinvolti più scali: possibili legami con gli hacker dei frigoriferi, i messaggi sono partiti da profili criptati",
+    "title": "Nel 2025 oltre 21 milioni di visitatori in parchi divertimento",
     "score": 7
   },
   {
-    "original_title": "Allarmi bomba aerei, Meloni: «La difesa non è solo armi». La pista russa sulla guerra ibrida",
-    "url": "https://www.ilmessaggero.it/mondo/allarmi_bomba_aerei_chi_c_e_dietro_russia_guerra_ibrida-9873939.html",
-    "domain": "ilmessaggero.it",
+    "original_title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero",
+    "url": "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
+    "domain": "ansa.it",
     "region": "IT",
-    "title": "Allarmi bomba aerei, Meloni: «La difesa non è solo armi». La pista russa sulla guerra ibrida",
-    "score": 9
+    "title": "Taglia degli hacker sul dark web su Tajani e Lo Voi. Cyberattacco alla Galleria del Brennero",
+    "score": 6
   },
   {
-    "original_title": "Aerei, come proteggerli dalle false minacce bomba: i tre codici (verde, giallo, rosso) e il via libera ai caccia della Nato",
-    "url": "https://www.ilmessaggero.it/italia/allarme_bomba_tre_codici_allarme_come_funziona_difesa_aerei-9873905.html",
+    "original_title": "Pensioni, fino a 535 euro netti in meno all?anno: chi pagherà di più con la nuova rivalutazione",
+    "url": "https://www.ilmessaggero.it/economia/schede/pensioni_rivalutazione_irpef_535_euro_meno_chi_perde-9875243.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Aerei, come proteggerli dalle false minacce bomba: i tre codici (verde, giallo, rosso) e il via libera ai caccia della Nato",
-    "score": 4
-  },
-  {
-    "original_title": "Patente, libretto e Rc Auto, dal 2028 cambiano le regole per i documenti cartacei (non servirà più mostrarli ai controlli)",
-    "url": "https://motori.ilmessaggero.it/news/patente_libretto_rc_auto_cosa_cambia_dal_2028-9873240.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Patente, libretto e Rc Auto, dal 2028 cambiano le regole per i documenti cartacei (non servirà più mostrarli ai controlli)",
-    "score": 7
-  },
-  {
-    "original_title": "Sondaggi politici, sorpresa Di Battista: «Schierarsi» sopra il 3%, potenziale complessivo sfiora il 13%",
-    "url": "https://www.ilmessaggero.it/politica/di_battista_sondaggi_politici_schierarsi_13_per_cento_quanti_voti-9873253.html",
-    "domain": "ilmessaggero.it",
-    "region": "IT",
-    "title": "Sondaggi politici, sorpresa Di Battista: «Schierarsi» sopra il 3%, potenziale complessivo sfiora il 13%",
+    "title": "Pensioni, fino a 535 euro netti in meno all?anno: chi pagherà di più con la nuova rivalutazione",
     "score": 5
   },
   {
-    "original_title": "Lavori più richiesti nel 2026 e lauree con maggiore occupazione: boom IA e sanità, ma cresce anche il settore umanistico",
-    "url": "https://www.ilmessaggero.it/economia/schede/lavori_piu_richiesti_2026_lauree_quali_scegliere_ultimi_dati-9873207.html",
+    "original_title": "Bonus mobili e voucher elettrodomestici, nel 2027 tornano gli sconti ma non si possono sommare: cosa sapere",
+    "url": "https://www.ilmessaggero.it/economia/news/bonus_mobili_elettrodomestici_sconti_importi_requisiti_come_fare-9875299.html",
     "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Lavori più richiesti nel 2026 e lauree con maggiore occupazione: boom IA e sanità, ma cresce anche il settore umanistico",
-    "score": 1
-  },
-  {
-    "original_title": "Firenze, oculista accusato di violenza sessuale su 14 pazienti: i controlli alla prostata durante le visite agli occhi",
-    "url": "https://www.open.online/2026/11/06/firenze-oculista-violenza-sessuale-14-pazienti-controlli-prostata/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Firenze, oculista accusato di violenza sessuale su 14 pazienti: i controlli alla prostata durante le visite agli occhi",
-    "score": 9
-  },
-  {
-    "original_title": "Canva licenzia un dipendente su cinque: ecco cosa ricevono i 1.271 lavoratori che escono e come cambia l’azienda",
-    "url": "https://www.open.online/2026/11/06/canva-licenziamento-dipendenti-azienda-cosa-cambia/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Canva licenzia un dipendente su cinque: ecco cosa ricevono i 1.271 lavoratori che escono e come cambia l’azienda",
-    "score": 4
-  },
-  {
-    "original_title": "Iran, due missili colpiscono l’isola di Qeshm. Trump: «Negoziati con Teheran ancora in corso»",
-    "url": "https://www.open.online/2026/11/06/iran-usa-stretto-hormuz-missili-droni/",
-    "domain": "open.online",
-    "region": "IT",
-    "title": "Iran, due missili colpiscono l’isola di Qeshm. Trump: «Negoziati con Teheran ancora in corso»",
+    "title": "Bonus mobili e voucher elettrodomestici, nel 2027 tornano gli sconti ma non si possono sommare: cosa sapere",
     "score": 3
   },
   {
-    "original_title": "Altieri fa un passo indietro: «Ritiro la mia disponibilità per la presidenza Anac». Cronaca di una giornata di caos e polemiche",
-    "url": "https://www.open.online/2026/11/06/altieri-anac-nomina-contestazione-opposizioni-lega/",
-    "domain": "open.online",
+    "original_title": "Carta d'identità elettronica, il documento non scade ma il chip sì: cosa cambia per gli over 70",
+    "url": "https://www.ilmessaggero.it/italia/carta_identita_over_70_scadenza_chip_cosa_fare_aeroporto-9875131.html",
+    "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Altieri fa un passo indietro: «Ritiro la mia disponibilità per la presidenza Anac». Cronaca di una giornata di caos e polemiche",
+    "title": "Carta d'identità elettronica, il documento non scade ma il chip sì: cosa cambia per gli over 70",
+    "score": 7
+  },
+  {
+    "original_title": "Bonus Isee sotto 35.000 euro, risparmio fino a oltre 9000 euro: quali sono e come ottenerli",
+    "url": "https://www.ilmessaggero.it/economia/schede/bonus_isee_basso_sotto_35_000_euro_quali_sono_come_fare_domanda-9872881.html",
+    "domain": "ilmessaggero.it",
+    "region": "IT",
+    "title": "Bonus Isee sotto 35.000 euro, risparmio fino a oltre 9000 euro: quali sono e come ottenerli",
     "score": 8
   },
   {
-    "original_title": "Delitto di Garlasco, Sempio dopo la richiesta di processo: «Vogliamo andare presto in aula». I legali: «Sul buono postale una fake news» – Il video",
-    "url": "https://www.open.online/2026/11/06/garlasco-sempio-rinvio-giudizio-aula-prima-possibile-video/",
-    "domain": "open.online",
+    "original_title": "Gualtieri si ricandida a Roma, il sindaco pronto al bis con il sostegno di 5S e Azione. E Schlein festeggia",
+    "url": "https://www.ilmessaggero.it/politica/gualtieri_roma_sindaco_candidatura_sostegno_m5s_azione-9875355.html",
+    "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Delitto di Garlasco, Sempio dopo la richiesta di processo: «Vogliamo andare presto in aula». I legali: «Sul buono postale una fake news» – Il video",
+    "title": "Gualtieri si ricandida a Roma, il sindaco pronto al bis con il sostegno di 5S e Azione. E Schlein festeggia",
     "score": 2
   },
   {
-    "original_title": "Stephen Miller, il falco dell’immigrazione al comando della Casa Bianca: chi è il nuovo capo dello staff di Trump",
-    "url": "https://www.open.online/2026/11/06/stephen-miller-chi-e-capo-staff-trump/",
-    "domain": "open.online",
+    "original_title": "Guerra ibrida, cyberattacco al tunnel del Brennero, colpita società che gestisce il progetto: accesso ai dati, indagini in corso",
+    "url": "https://www.ilmessaggero.it/italia/cyberattacco_tunnel_brennero_guerra_ibrida_bbt_societa_dati_indagini-9875183.html",
+    "domain": "ilmessaggero.it",
     "region": "IT",
-    "title": "Stephen Miller, il falco dell’immigrazione al comando della Casa Bianca: chi è il nuovo capo dello staff di Trump",
-    "score": 6
+    "title": "Guerra ibrida, cyberattacco al tunnel del Brennero, colpita società che gestisce il progetto: accesso ai dati, indagini in corso",
+    "score": 2
   },
   {
-    "original_title": "Artigiano del legno sfrattato: il proprietario ha venduto casa e bottega. «A quasi 80 anni si è dovuto trasferire a Roma. E un altro negozio chiude»",
-    "url": "https://www.ilgazzettino.it/nordest/venezia/artigiano_legno_sfrattato_vende_casa_bottega_negozio_chiuso_vanni_morandin-9873859.html",
+    "original_title": "Bonaccini pubblica un meme su Tajani con il capellino Maga. Scoppia la polemica, l’ira di Meloni: il post viene rimosso",
+    "url": "https://www.open.online/2026/11/07/bonaccini-meme-tajani-reazione-meloni-rimozione/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Bonaccini pubblica un meme su Tajani con il capellino Maga. Scoppia la polemica, l’ira di Meloni: il post viene rimosso",
+    "score": 3
+  },
+  {
+    "original_title": "«Ci hanno pestato per l’accento sardo». Tre militari finiscono in ospedale, aggrediti dopo l’uscita da un locale a Milano",
+    "url": "https://www.open.online/2026/11/07/militari-sardi-pestati-milano/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "«Ci hanno pestato per l’accento sardo». Tre militari finiscono in ospedale, aggrediti dopo l’uscita da un locale a Milano",
+    "score": 4
+  },
+  {
+    "original_title": "Parla il papà della bambina a cui è stato negato il pasto in mensa: «Era triste ma le ho detto che a casa c’era la pasta al forno»",
+    "url": "https://www.open.online/2026/11/07/parla-papa-bambina-taranto-mensa-negata-dodici-euro/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Parla il papà della bambina a cui è stato negato il pasto in mensa: «Era triste ma le ho detto che a casa c’era la pasta al forno»",
+    "score": 4
+  },
+  {
+    "original_title": "Serbia, parte la transizione di governo. La Lista studentesca a Open: «Prima dobbiamo fare pulizia in casa, poi penseremo a Ue e Russia»",
+    "url": "https://www.open.online/2026/11/07/elezioni-serbia-governo-studenti-premier-ue-russia-interviste/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "Serbia, parte la transizione di governo. La Lista studentesca a Open: «Prima dobbiamo fare pulizia in casa, poi penseremo a Ue e Russia»",
+    "score": 8
+  },
+  {
+    "original_title": "“Qui nessuno è straniero”. Lo striscione inclusivo viene rimosso da una scuola elementare nel piacentino: scoppia la polemica",
+    "url": "https://www.open.online/2026/11/07/qui-nessuno-e-straniero-striscione-rimosso-scuola-elementare-piacenza/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "“Qui nessuno è straniero”. Lo striscione inclusivo viene rimosso da una scuola elementare nel piacentino: scoppia la polemica",
+    "score": 8
+  },
+  {
+    "original_title": "«Teste di ca***, giù i cellulari», lo sbrocco del cantante del Placebo dal palco: la reazione dei fan a Milano – Il video",
+    "url": "https://www.open.online/2026/11/07/placebo-brian-molko-milano-cellulari-concerto-sbrocco-video/",
+    "domain": "open.online",
+    "region": "IT",
+    "title": "«Teste di ca***, giù i cellulari», lo sbrocco del cantante del Placebo dal palco: la reazione dei fan a Milano – Il video",
+    "score": 7
+  },
+  {
+    "original_title": "Accoltella la compagna al volto e al braccio, poi fugge: 35enne rintracciato a Castelfranco, è accusato di tentato omicidio",
+    "url": "https://www.ilgazzettino.it/nordest/treviso/accoltella_compagna_volto_tentato_omicidio_fuga_castelfranco-9875342.html",
     "domain": "ilgazzettino.it",
     "region": "IT",
-    "title": "Artigiano del legno sfrattato: il proprietario ha venduto casa e bottega. «A quasi 80 anni si è dovuto trasferire a Roma. E un altro negozio chiude»",
-    "score": 2
+    "title": "Accoltella la compagna al volto e al braccio, poi fugge: 35enne rintracciato a Castelfranco, è accusato di tentato omicidio",
+    "score": 8
+  },
+  {
+    "original_title": "Hacker filorussi mettono la taglia sul darkweb: il denaro in cambio di informazioni private. E tra i nomi spunta anche quello del sindaco di Aviano",
+    "url": "https://www.ilgazzettino.it/nordest/pordenone/hacker_filorussi_darkweb_lista_nomi_sindaco_aviano-9875286.html",
+    "domain": "ilgazzettino.it",
+    "region": "IT",
+    "title": "Hacker filorussi mettono la taglia sul darkweb: il denaro in cambio di informazioni private. E tra i nomi spunta anche quello del sindaco di Aviano",
+    "score": 4
+  },
+  {
+    "original_title": "Incidente sull'autostrada A13 tra Padova Sud e Zona industriale: auto vola fuori dalla carreggiata, due morti",
+    "url": "https://www.ilgazzettino.it/nordest/padova/incidente_morti_a13_vittime_nomi_cosa_e_successo-9875078.html",
+    "domain": "ilgazzettino.it",
+    "region": "IT",
+    "title": "Incidente sull'autostrada A13 tra Padova Sud e Zona industriale: auto vola fuori dalla carreggiata, due morti",
+    "score": 5
+  },
+  {
+    "original_title": "Paola Groppo vive in auto dopo lo sfratto a 68 anni. L'Ater replica: «Abbiamo fatto di tutto, ma ha rigettatto la soluzione proposta»",
+    "url": "https://www.ilgazzettino.it/nordest/treviso/paola_groppo_vive_auto_sfratto_risposta_ater-9875101.html",
+    "domain": "ilgazzettino.it",
+    "region": "IT",
+    "title": "Paola Groppo vive in auto dopo lo sfratto a 68 anni. L'Ater replica: «Abbiamo fatto di tutto, ma ha rigettatto la soluzione proposta»",
+    "score": 1
+  },
+  {
+    "original_title": "«Io, sola nel palazzo Ater ora ho paura: gli abusivi possono occupare casa. Mi hanno proposto di traslocare ma dovrei buttare via i mobili»",
+    "url": "https://www.ilgazzettino.it/nordest/venezia/anziana_sola_palazzo_ater_trasloco_paura_abusivi_mestre-9874799.html",
+    "domain": "ilgazzettino.it",
+    "region": "IT",
+    "title": "«Io, sola nel palazzo Ater ora ho paura: gli abusivi possono occupare casa. Mi hanno proposto di traslocare ma dovrei buttare via i mobili»",
+    "score": 1
   },
   {
     "original_title": "Da cinema a luci rosse a chiesa per fedeli cinesi: ma il Comune dice no. ?La protesta di un impresario: «Il mio ponteggio in ostaggio da mesi»",
@@ -253,47 +285,23 @@
     "domain": "ilgazzettino.it",
     "region": "IT",
     "title": "Da cinema a luci rosse a chiesa per fedeli cinesi: ma il Comune dice no. ?La protesta di un impresario: «Il mio ponteggio in ostaggio da mesi»",
-    "score": 5
+    "score": 9
   },
   {
-    "original_title": "Valerio Ceolin stroncato a 49 anni davanti ai colleghi, il malore fatale durante una riunione",
-    "url": "https://www.ilgazzettino.it/nordest/treviso/valerio_ceolin_morto_49_anni_malore_riunione_chi_era_ponte_di_piave-9873842.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Valerio Ceolin stroncato a 49 anni davanti ai colleghi, il malore fatale durante una riunione",
-    "score": 6
-  },
-  {
-    "original_title": "Opere abusive all?hotel Casa Guargné di Cortina: il Comune ordina le demolizioni",
-    "url": "https://www.ilgazzettino.it/nordest/belluno/cortina_hotel_casa_guargne_opere_abusive_ordinanza_demolizioni-9873755.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Opere abusive all?hotel Casa Guargné di Cortina: il Comune ordina le demolizioni",
-    "score": 3
-  },
-  {
-    "original_title": "Riccardo De Prà, lo chef stellato denunciato: trovato un arsenale in casa",
-    "url": "https://www.ilgazzettino.it/nordest/belluno/riccardo_de_pra_chef_stellato_denunciato_arsenale_casa_cosa_e_successo-9873758.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Riccardo De Prà, lo chef stellato denunciato: trovato un arsenale in casa",
-    "score": 8
-  },
-  {
-    "original_title": "Entra in lavanderia e trova un ragazzo che dorme dentro l?asciugatrice",
-    "url": "https://www.ilgazzettino.it/nordest/pordenone/dorme_asciugatrice_lavanderia_fontanafredda-9873746.html",
-    "domain": "ilgazzettino.it",
-    "region": "IT",
-    "title": "Entra in lavanderia e trova un ragazzo che dorme dentro l?asciugatrice",
-    "score": 8
-  },
-  {
-    "original_title": "Asl Napoli 1, arrivano 85mila ?multe? via raccomandata per visite non disdette: controllo sulle prenotazioni non annullate",
-    "url": "https://www.ilmattino.it/schede/raccomandata_asl_napoli_1_multa_visita_non_disdetta_reclamo-9873666.html",
+    "original_title": "Tragico incidente nella notte a Sarno, la Fiat Panda si ribalta: Irma morta a 17 anni, era col fidanzato",
+    "url": "https://www.ilmattino.it/salerno/incidente_sarno_morta_ragazza_17_anni_ultime_notizie_oggi-9875050.html",
     "domain": "ilmattino.it",
     "region": "IT",
-    "title": "Asl Napoli 1, arrivano 85mila ?multe? via raccomandata per visite non disdette: controllo sulle prenotazioni non annullate",
-    "score": 5
+    "title": "Tragico incidente nella notte a Sarno, la Fiat Panda si ribalta: Irma morta a 17 anni, era col fidanzato",
+    "score": 9
+  },
+  {
+    "original_title": "Scampia, maxi sequestro dei carabinieri: trovati 84 chili di cocaina in un'auto rubata vicina alle Vele",
+    "url": "https://www.ilmattino.it/napoli/cronaca/napoli_scampia_maxi_sequestro_cocaina_auto_rubata_borsoni_carabinieri-9875116.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Scampia, maxi sequestro dei carabinieri: trovati 84 chili di cocaina in un'auto rubata vicina alle Vele",
+    "score": 7
   },
   {
     "original_title": "Viveva in aeroporto a Napoli: Daniel è rientrato in Svezia, il padre è venuto a prenderlo a Roma",
@@ -301,55 +309,31 @@
     "domain": "ilmattino.it",
     "region": "IT",
     "title": "Viveva in aeroporto a Napoli: Daniel è rientrato in Svezia, il padre è venuto a prenderlo a Roma",
-    "score": 2
-  },
-  {
-    "original_title": "Perché c'è un elicottero in volo a bassa quota su Salerno, i carabinieri cercano una persona scomparsa",
-    "url": "https://www.ilmattino.it/salerno/salerno_elicottero_bassa_premium_quota_perche_motivo-9873923.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Perché c'è un elicottero in volo a bassa quota su Salerno, i carabinieri cercano una persona scomparsa",
-    "score": 8
-  },
-  {
-    "original_title": "Sistema Santamaria, scontro in Consiglio a Benevento. Clemente Mastella non arretra di un centimetro",
-    "url": "https://www.ilmattino.it/benevento/sistema_santamaria_scontro_consiglio-9873807.html",
-    "domain": "ilmattino.it",
-    "region": "IT",
-    "title": "Sistema Santamaria, scontro in Consiglio a Benevento. Clemente Mastella non arretra di un centimetro",
-    "score": 6
-  },
-  {
-    "original_title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
-    "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
     "score": 4
   },
   {
-    "original_title": "With Stephen Miller pick, Trump readies for a battle",
-    "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-    "domain": "bbc.com",
-    "region": "GLOBAL",
-    "title": "With Stephen Miller pick, Trump readies for a battle",
-    "score": 1
+    "original_title": "Asl Napoli 1, arrivano 85mila ?multe? via raccomandata per visite non disdette: controllo sulle prenotazioni non annullate",
+    "url": "https://www.ilmattino.it/schede/raccomandata_asl_napoli_1_multa_visita_non_disdetta_reclamo-9873666.html",
+    "domain": "ilmattino.it",
+    "region": "IT",
+    "title": "Asl Napoli 1, arrivano 85mila ?multe? via raccomandata per visite non disdette: controllo sulle prenotazioni non annullate",
+    "score": 7
   },
   {
-    "original_title": "Why the US midterms sparked an AI stock selloff",
-    "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+    "original_title": "Victims in rape cases must not feel like they are on trial, Burnham says",
+    "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Why the US midterms sparked an AI stock selloff",
+    "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
     "score": 5
   },
   {
-    "original_title": "Brand's barrister refers himself to regulator after report he confronted journalist",
-    "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
+    "original_title": "Two men arrested after boy injured in sword attack",
+    "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
-    "score": 3
+    "title": "Two men arrested after boy injured in sword attack",
+    "score": 1
   },
   {
     "original_title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
@@ -357,255 +341,271 @@
     "domain": "bbc.com",
     "region": "GLOBAL",
     "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
-    "score": 7
+    "score": 6
   },
   {
-    "original_title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-    "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+    "original_title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
+    "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
     "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-    "score": 6
+    "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
+    "score": 7
   },
   {
-    "original_title": "Runaway piglets lead South Carolina cops on hilarious caught-on-camera foot chase: ‘No ham was done’",
-    "url": "https://nypost.com/2026/11/06/us-news/runaway-piglets-lead-cops-on-hilarious-caught-on-camera-foot-chase-no-ham-was-done/",
-    "domain": "nypost.com",
+    "original_title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
+    "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Runaway piglets lead South Carolina cops on hilarious caught-on-camera foot chase: ‘No ham was done’",
-    "score": 5
-  },
-  {
-    "original_title": "FDNY chief is the wrong job for blatant political hacks",
-    "url": "https://nypost.com/2026/11/06/opinion/fdny-chief-is-the-wrong-job-for-blatant-political-hacks/",
-    "domain": "nypost.com",
-    "region": "GLOBAL",
-    "title": "FDNY chief is the wrong job for blatant political hacks",
+    "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
     "score": 2
   },
   {
-    "original_title": "Quenton Nelson undergoing knee procedure one week after blockbuster trade to Seahawks",
-    "url": "https://nypost.com/2026/11/06/sports/seahawks-quenton-nelson-undergoing-knee-procedure/",
-    "domain": "nypost.com",
+    "original_title": "Knicks defend Taylor Swift after players name her 'fakest celebrity fan'",
+    "url": "https://www.bbc.co.uk/news/articles/c6rmyymw1zz1o?at_medium=RSS&at_campaign=rss",
+    "domain": "bbc.com",
     "region": "GLOBAL",
-    "title": "Quenton Nelson undergoing knee procedure one week after blockbuster trade to Seahawks",
+    "title": "Knicks defend Taylor Swift after players name her 'fakest celebrity fan'",
     "score": 4
   },
   {
-    "original_title": "Lakers coach reveals next destinations for Bronny James, Cameron Carr",
-    "url": "https://nypost.com/2026/11/06/sports/lakers-road-trip-bronny-james-cameron-carr/",
+    "original_title": "Michigan Sen.-elect Abdul El-Sayed’s Wikipedia page was whitewashed of controversies by mystery editor before election: sources",
+    "url": "https://nypost.com/2026/11/07/us-news/michigan-senator-elect-abdul-el-sayeds-wikipedia-page-was-whitewashed-of-controversies-before-election-sources/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Lakers coach reveals next destinations for Bronny James, Cameron Carr",
-    "score": 1
+    "title": "Michigan Sen.-elect Abdul El-Sayed’s Wikipedia page was whitewashed of controversies by mystery editor before election: sources",
+    "score": 5
   },
   {
-    "original_title": "Brave 11-year-old NYC girl recalls shoving creep who tried to hug, kidnap her after school: ‘I was scared’",
-    "url": "https://nypost.com/2026/11/06/us-news/brave-11-year-old-nyc-girl-recalls-shoving-creep-who-tried-to-kidnap-her-after-school/",
+    "original_title": "Adam Schefter ‘watching’ Vikings QB situation closely in potential trade deadline bombshell",
+    "url": "https://nypost.com/2026/11/07/sports/adam-schefter-watching-vikings-qb-situation-closely-at-nfl-trade-deadline/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Brave 11-year-old NYC girl recalls shoving creep who tried to hug, kidnap her after school: ‘I was scared’",
+    "title": "Adam Schefter ‘watching’ Vikings QB situation closely in potential trade deadline bombshell",
+    "score": 5
+  },
+  {
+    "original_title": "There’s only one way LeBron James’ return to Cleveland could’ve gone worse: ‘Depths of hell’",
+    "url": "https://nypost.com/2026/11/07/sports/theres-only-one-way-lebron-james-return-to-cleveland-with-76ers-couldve-gone-worse/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "There’s only one way LeBron James’ return to Cleveland could’ve gone worse: ‘Depths of hell’",
     "score": 8
   },
   {
-    "original_title": "Doc Rivers explains lead-up to Giannis Antetokounmpo’ Bucks exit: ‘Didn’t want to be the bad guy’",
-    "url": "https://nypost.com/2026/11/06/sports/doc-rivers-explains-lead-up-to-giannis-bucks-exit-and-why-he-was-not-easy-to-coach/",
+    "original_title": "Russia pounds power facilities around Kyiv, damages major bridge",
+    "url": "https://nypost.com/2026/11/07/world-news/russia-pounds-power-facilities-around-kyiv-damages-major-bridge/",
     "domain": "nypost.com",
     "region": "GLOBAL",
-    "title": "Doc Rivers explains lead-up to Giannis Antetokounmpo’ Bucks exit: ‘Didn’t want to be the bad guy’",
+    "title": "Russia pounds power facilities around Kyiv, damages major bridge",
+    "score": 2
+  },
+  {
+    "original_title": "Four Florida teen ‘morons’ beat disabled man in sickening 40-minute attack at bonfire party",
+    "url": "https://nypost.com/2026/11/07/us-news/florida-teen-morons-beat-disabled-man-in-sickening-40-minute-attack-at-bonfire-party/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Four Florida teen ‘morons’ beat disabled man in sickening 40-minute attack at bonfire party",
     "score": 3
   },
   {
-    "original_title": "Boy, 6, dies in hospital after Waterford arson attack that killed his family",
-    "url": "https://www.express.co.uk/news/uk/2264061/elliot-english-6-dies-hospital-after-waterford-arson-attack-killed-his-family",
+    "original_title": "Macy’s early Black Friday deals includes diamond bracelets and Ralph Lauren",
+    "url": "https://nypost.com/shopping/macys-early-black-friday-sale-has-gifts-up-to-70-off/",
+    "domain": "nypost.com",
+    "region": "GLOBAL",
+    "title": "Macy’s early Black Friday deals includes diamond bracelets and Ralph Lauren",
+    "score": 9
+  },
+  {
+    "original_title": "Royal Mail warns of delivery disruption in 48 UK postcode areas this weekend — full list",
+    "url": "https://www.express.co.uk/news/uk/2264087/royal-mail-latest-delivery-delays",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Boy, 6, dies in hospital after Waterford arson attack that killed his family",
+    "title": "Royal Mail warns of delivery disruption in 48 UK postcode areas this weekend — full list",
+    "score": 1
+  },
+  {
+    "original_title": "Popular soup urgently recalled from Tesco and Waitrose with 'do not eat' warning",
+    "url": "https://www.express.co.uk/news/uk/2264079/tesco-waitrose-soup-recall-alert",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Popular soup urgently recalled from Tesco and Waitrose with 'do not eat' warning",
+    "score": 7
+  },
+  {
+    "original_title": "Ambulances rush to Russell Brand’s prison in emergency incident",
+    "url": "https://www.express.co.uk/news/uk/2264115/ambulances-rush-russell-brands-prison",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Ambulances rush to Russell Brand’s prison in emergency incident",
     "score": 6
   },
   {
-    "original_title": "Murder probe launched as man dies after shooting in car near Royal Artillery Barracks",
-    "url": "https://www.express.co.uk/news/world/2264060/murder-probe-launched-man-dies",
+    "original_title": "'I spoke to Russell Brand two days after his wedding - he asked me a personal question'",
+    "url": "https://www.express.co.uk/news/uk/2264113/russell-brand-wedding-persona-question",
     "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Murder probe launched as man dies after shooting in car near Royal Artillery Barracks",
-    "score": 9
-  },
-  {
-    "original_title": "Thomas Markle released on bond hours after arrest for alleged child abuse photos",
-    "url": "https://www.express.co.uk/news/world/2264059/thomas-markle-released-bond-hours",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Thomas Markle released on bond hours after arrest for alleged child abuse photos",
-    "score": 2
-  },
-  {
-    "original_title": "Man arrested near White House after ‘weapons found’ in Trump ‘assassination bid’",
-    "url": "https://www.express.co.uk/news/world/2264058/man-arrested-near-white-house",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Man arrested near White House after ‘weapons found’ in Trump ‘assassination bid’",
-    "score": 1
-  },
-  {
-    "original_title": "Prince Harry and Andrew Mountbatten's huge royal embarrassment with Remembrance row",
-    "url": "https://www.express.co.uk/news/royal/2263978/prince-harry-andrew-mountbattens-huge",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Prince Harry and Andrew Mountbatten's huge royal embarrassment with Remembrance row",
-    "score": 4
-  },
-  {
-    "original_title": "Best small electric car to drive in UK named – not Ford, Audi or Peugeot",
-    "url": "https://www.express.co.uk/life-style/cars/2263513/best-small-electric-car-drive",
-    "domain": "express.co.uk",
-    "region": "GLOBAL",
-    "title": "Best small electric car to drive in UK named – not Ford, Audi or Peugeot",
-    "score": 4
-  },
-  {
-    "original_title": "'Who has time to kill him?' BJP-TMC spar after attack on Abhishek Banerjee's house",
-    "url": "https://timesofindia.indiatimes.com/india/under-kolkata-police-watch-abhishek-banerjee-alleges-midnight-bjp-attack-on-home/articleshow/135625106.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "'Who has time to kill him?' BJP-TMC spar after attack on Abhishek Banerjee's house",
-    "score": 7
-  },
-  {
-    "original_title": "ED tracking $1m transfer to 'meddle in domestic affairs'; 2 foreign entities under probe",
-    "url": "https://timesofindia.indiatimes.com/india/ed-tracking-1m-transfer-to-meddle-in-domestic-affairs/articleshow/135623987.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "ED tracking $1m transfer to 'meddle in domestic affairs'; 2 foreign entities under probe",
-    "score": 2
-  },
-  {
-    "original_title": "From mass deportations to White House chief, how Stephen Miller became Trump's key pick",
-    "url": "https://timesofindia.indiatimes.com/world/us/from-mass-deportations-to-white-house-chief-how-stephen-miller-became-trumps-key-pick/articleshow/135625340.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "From mass deportations to White House chief, how Stephen Miller became Trump's key pick",
-    "score": 9
-  },
-  {
-    "original_title": "Oracle troubles rise as Microsoft scraps deal; software giant rethinks cloud deals",
-    "url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-troubles-aggravate-as-microsoft-scraps-3-year-old-deal-comes-as-software-giant-rethinks-cloud-partnerships-renting-computing-from-oracle-reportedly-became-less-useful-as-/articleshow/135619531.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Oracle troubles rise as Microsoft scraps deal; software giant rethinks cloud deals",
-    "score": 1
-  },
-  {
-    "original_title": "Seven years later, India bowlers recreate New Zealand's World Cup nightmare",
-    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/seven-years-later-india-bowlers-recreate-new-zealands-2019-world-cup-semifinal-nightmare/articleshow/135626169.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Seven years later, India bowlers recreate New Zealand's World Cup nightmare",
-    "score": 7
-  },
-  {
-    "original_title": "Saif Ali Khan: Kareena makes bonds effortless, praises Sara-Ibrahim bond",
-    "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/saif-ali-khan-says-kareena-kapoor-makes-family-bonds-effortless-actor-praises-her-equation-with-sara-and-ibrahim-while-revealing-how-his-children-share-a-close-relationship/articleshow/135603216.cms",
-    "domain": "timesofindia.com",
-    "region": "GLOBAL",
-    "title": "Saif Ali Khan: Kareena makes bonds effortless, praises Sara-Ibrahim bond",
-    "score": 7
-  },
-  {
-    "original_title": "Los Angeles reacts to historic mayoral election",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/los-angeles-reacts-to-historic-mayoral-election?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Los Angeles reacts to historic mayoral election",
-    "score": 9
-  },
-  {
-    "original_title": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Protesters storm site of Microsoft’s planned Amsterdam data centre",
-    "score": 9
-  },
-  {
-    "original_title": "Trump confirms new US strikes on Iran’s Qeshm Island",
-    "url": "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "Trump confirms new US strikes on Iran’s Qeshm Island",
-    "score": 2
-  },
-  {
-    "original_title": "How the US midterm elections reflected resistance to data centres",
-    "url": "https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "How the US midterm elections reflected resistance to data centres",
-    "score": 6
-  },
-  {
-    "original_title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
-    "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
-    "score": 3
-  },
-  {
-    "original_title": "EU prosecutor office investigates fatal train crash in Spain",
-    "url": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
-    "domain": "aljazeera.com",
-    "region": "GLOBAL",
-    "title": "EU prosecutor office investigates fatal train crash in Spain",
-    "score": 5
-  },
-  {
-    "original_title": "Trump appoints immigration hardliner Stephen Miller as new chief of staff",
-    "url": "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Trump appoints immigration hardliner Stephen Miller as new chief of staff",
-    "score": 3
-  },
-  {
-    "original_title": "Switzerland: Giant banner targets Big Tech outside data centre site",
-    "url": "https://www.euronews.com/video/2026/11/06/switzerland-giant-banner-targets-big-tech-outside-data-centre-site",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Switzerland: Giant banner targets Big Tech outside data centre site",
-    "score": 1
-  },
-  {
-    "original_title": "Latest news bulletin | November 6th, 2026 – Evening",
-    "url": "https://www.euronews.com/video/2026/11/06/latest-news-bulletin-november-6th-2026-evening",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Latest news bulletin | November 6th, 2026 – Evening",
-    "score": 7
-  },
-  {
-    "original_title": "Spain: Vintage cars hit the streets of Almería for annual rally",
-    "url": "https://www.euronews.com/video/2026/11/06/spain-vintage-cars-hit-the-streets-of-almeria-for-annual-rally",
-    "domain": "euronews.com",
-    "region": "GLOBAL",
-    "title": "Spain: Vintage cars hit the streets of Almería for annual rally",
+    "title": "'I spoke to Russell Brand two days after his wedding - he asked me a personal question'",
     "score": 8
   },
   {
-    "original_title": "Meghan Markle's father arrested over child sex abuse images",
-    "url": "https://www.euronews.com/2026/11/06/meghan-markles-father-reportedly-arrested-in-florida-over-alleged-child-porn-possession",
-    "domain": "euronews.com",
+    "original_title": "Shocking clip resurfaces of Russell Brand 'arrested' in star's breakthrough at 18",
+    "url": "https://www.express.co.uk/news/uk/2264109/shocking-clip-resurfaces-russell-brand",
+    "domain": "express.co.uk",
     "region": "GLOBAL",
-    "title": "Meghan Markle's father arrested over child sex abuse images",
+    "title": "Shocking clip resurfaces of Russell Brand 'arrested' in star's breakthrough at 18",
+    "score": 1
+  },
+  {
+    "original_title": "Driving instructor exposes 'serious' headlight mistake drivers make",
+    "url": "https://www.express.co.uk/news/uk/2264108/driving-instructor-exposes-serious-headlight",
+    "domain": "express.co.uk",
+    "region": "GLOBAL",
+    "title": "Driving instructor exposes 'serious' headlight mistake drivers make",
+    "score": 8
+  },
+  {
+    "original_title": "Accused arrested for shooting tech excecutive over parking dispute in Haryana",
+    "url": "https://timesofindia.indiatimes.com/city/faridabad/accused-who-shot-ex-tech-mahindra-regional-head-paramjeet-dhankar-dead-arrested/articleshow/135634580.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Accused arrested for shooting tech excecutive over parking dispute in Haryana",
+    "score": 3
+  },
+  {
+    "original_title": "Watch: PM Modi extends Diwali wishes, will celebrate festival with soldiers",
+    "url": "https://timesofindia.indiatimes.com/india/watch-pm-modis-diwali-greetings-for-nation-will-continue-tradition-of-meeting-soldiers/articleshow/135635711.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Watch: PM Modi extends Diwali wishes, will celebrate festival with soldiers",
+    "score": 1
+  },
+  {
+    "original_title": "Iran distributes iodine pills near nuclear sites as Trump weighs fresh strikes",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-distributes-iodine-pills-near-nuclear-sites-as-trump-weighs-fresh-strikes-report/articleshow/135635140.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Iran distributes iodine pills near nuclear sites as Trump weighs fresh strikes",
+    "score": 3
+  },
+  {
+    "original_title": "'E20 petrol by PSUs meets prescribed quality standards': Oil min rejects K'taka charge",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/e20-petrol-by-psu-firms-meets-prescribed-quality-standards-oil-ministry-rejects-karnataka-charge/articleshow/135635716.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "'E20 petrol by PSUs meets prescribed quality standards': Oil min rejects K'taka charge",
     "score": 5
   },
   {
-    "original_title": "Iran delivers secret Khamenei message to Putin as Moscow pushes gas pipeline deal",
-    "url": "https://www.euronews.com/2026/11/06/iran-delivers-secret-khamenei-message-to-putin-as-moscow-pushes-gas-pipeline-deal",
+    "original_title": "From run-fest to a spicy feast: A tale of two 113s in Wellington",
+    "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/from-run-fest-to-a-spicy-feast-a-tale-of-two-113s-in-wellington/articleshow/135635513.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "From run-fest to a spicy feast: A tale of two 113s in Wellington",
+    "score": 1
+  },
+  {
+    "original_title": "Rare chestnut grove planted in 1970s faces threat from $20 billion AI data centre",
+    "url": "https://timesofindia.indiatimes.com/technology/tech-news/one-of-last-remaining-chestnut-groves-planted-in-the-1970s-from-wild-surviving-american-chestnuts-at-risk-of-being-wiped-out-by-datacenter-labelled-as-largest-single-ai-infrastructure-investments-in-us-history/articleshow/135632634.cms",
+    "domain": "timesofindia.com",
+    "region": "GLOBAL",
+    "title": "Rare chestnut grove planted in 1970s faces threat from $20 billion AI data centre",
+    "score": 9
+  },
+  {
+    "original_title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+    "url": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+    "score": 9
+  },
+  {
+    "original_title": "Nepal’s fight to rebuild after flood disaster",
+    "url": "https://www.aljazeera.com/video/101-east/2026/11/7/nepals-fight-to-rebuild-after-flood-disaster?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Nepal’s fight to rebuild after flood disaster",
+    "score": 2
+  },
+  {
+    "original_title": "Rains flood thousands of displaced families’ tents in Gaza",
+    "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Rains flood thousands of displaced families’ tents in Gaza",
+    "score": 8
+  },
+  {
+    "original_title": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
+    "url": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
+    "score": 4
+  },
+  {
+    "original_title": "Sudan war and climate change see parents struggle to feed their children",
+    "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Sudan war and climate change see parents struggle to feed their children",
+    "score": 5
+  },
+  {
+    "original_title": "Pakistani astronaut to join China’s next space station mission",
+    "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss",
+    "domain": "aljazeera.com",
+    "region": "GLOBAL",
+    "title": "Pakistani astronaut to join China’s next space station mission",
+    "score": 7
+  },
+  {
+    "original_title": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
+    "url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
     "domain": "euronews.com",
     "region": "GLOBAL",
-    "title": "Iran delivers secret Khamenei message to Putin as Moscow pushes gas pipeline deal",
+    "title": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
+    "score": 3
+  },
+  {
+    "original_title": "US offers $20 million reward and 'possible relocation' for information on 'Iran’s nuclear program'",
+    "url": "https://www.euronews.com/2026/11/07/us-offers-20-million-reward-and-possible-relocation-for-information-on-irans-nuclear-progr",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "US offers $20 million reward and 'possible relocation' for information on 'Iran’s nuclear program'",
+    "score": 4
+  },
+  {
+    "original_title": "Latest news bulletin | November 7th, 2026 – Midday",
+    "url": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-midday",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "Latest news bulletin | November 7th, 2026 – Midday",
     "score": 6
+  },
+  {
+    "original_title": "Pedro Alliana sworn in as Paraguay president after Santiago Peña's impeachment",
+    "url": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "Pedro Alliana sworn in as Paraguay president after Santiago Peña's impeachment",
+    "score": 7
+  },
+  {
+    "original_title": "US Secret Service arrests man parked near White House with 'multiple guns' in vehicle",
+    "url": "https://www.euronews.com/2026/11/07/us-secret-service-arrests-man-parked-near-white-house-with-multiple-guns-in-vehicle",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "US Secret Service arrests man parked near White House with 'multiple guns' in vehicle",
+    "score": 2
+  },
+  {
+    "original_title": "New Zealand counts votes in razor-thin election after campaign centred on cost of living",
+    "url": "https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living",
+    "domain": "euronews.com",
+    "region": "GLOBAL",
+    "title": "New Zealand counts votes in razor-thin election after campaign centred on cost of living",
+    "score": 4
   },
   {
     "original_title": "Gavin Newsom Commutes All California Death Sentences",
@@ -613,7 +613,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Gavin Newsom Commutes All California Death Sentences",
-    "score": 8
+    "score": 6
   },
   {
     "original_title": "Spurning Point, USA",
@@ -621,7 +621,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Spurning Point, USA",
-    "score": 5
+    "score": 9
   },
   {
     "original_title": "Glistening, Ice-Cold Beer Makes Compelling Case For Losing Custody",
@@ -629,7 +629,7 @@
     "domain": "theonion.com",
     "region": "GLOBAL",
     "title": "Glistening, Ice-Cold Beer Makes Compelling Case For Losing Custody",
-    "score": 8
+    "score": 7
   },
   {
     "original_title": "Tate McRae Reveals If She Stops Dancing She Dies",
